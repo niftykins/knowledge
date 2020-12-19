@@ -54,3 +54,10 @@
 - [Xcode Releases](https://xcodereleases.com/)
 - [Xcode::Install](https://github.com/xcpretty/xcode-install) - Install and update your Xcode.
 - [Full-screen development with Xcode and the Simulator (2020)](https://www.avanderlee.com/workflow/full-screen-xcode-simulator/)
+- [Xcode memory graph debugger](https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/debugging_with_xcode/chapters/special_debugging_workflows.html#//apple_ref/doc/uid/TP40015022-CH9-DontLinkElementID_1) ([Tweet](https://twitter.com/gregheo/status/1294344762611208192))
+- [Speeding up with Xcode Behaviors](https://www.avanderlee.com/xcode/xcode-behaviours-optimized/)
+- [Xplode - A script to reset your Xcodes (2019)](https://mattlorentz.com/weblog/2019/04/12/announcing-xplode.html)
+- [Buildwatch for Xcode](https://www.buildwatch.app/) - Mac app to track your compile times.
+- [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Make Xcode Clean Again. Make your Xcode faster by removing unwanted and deprecated files.
+- [Xcode Github Theme](https://github.com/cntrump/Xcode-github-theme)
+- [Xcode Color Assets](https://github.com/nesium/xcode-color-assets) - Create (dark mode compatible) color assets for Xcode programmatically from a CSS-like textfile.

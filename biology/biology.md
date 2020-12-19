@@ -35,3 +35,18 @@
 - [MBARI's Bioinspiration Lab](https://www.bioinspirationlab.org/)
 - [bioRxiv.org](https://www.biorxiv.org/) - Preprint server for Biology.
 - [Modeling Life](https://link.springer.com/book/10.1007/978-3-319-59731-7) - The Mathematics of Biological Systems.
+- [Why Are Plants Green? To Reduce the Noise in Photosynthesis (2020)](https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/) ([HN](https://news.ycombinator.com/item?id=23998793))
+- [Cell Biology by the Numbers](http://book.bionumbers.org/)
+- [Haseloff Lab](https://haseloff.plantsci.cam.ac.uk/) - Synthetic Biology for engineering plant growth.
+- [When Two Bacteria Become One (2020)](https://www.udel.edu/udaily/2020/september/eleftherios-papoutsakis-bacterial-fusion/) ([HN](https://news.ycombinator.com/item?id=24354888))
+- [Trefle Botanical API](https://github.com/treflehq/trefle-api) ([HN](https://news.ycombinator.com/item?id=24451320)) ([Web](https://trefle.io/))
+- [When Plants Go to War](http://nautil.us/issue/90/something-green/when-plants-go-to-war-rp) ([HN](https://news.ycombinator.com/item?id=24702588))
+- [Adaptive optics/lattice light-sheet microscope (2018)](https://www.electrooptics.com/news/harvard-team-develops-adaptive-opticslattice-light-sheet-microscope)
+- [Drosophila Cell Division on Lattice Light Sheet Microscope](https://vimeo.com/202222028)
+- [Mushroom spores spreading in the wind](https://twitter.com/TechAmazing/status/1316395969215369216)
+- [Cell Press](https://www.cell.com/) - Publisher of biomedical journals.
+- [Cell Signaling Technologies – Most detailed 3D model of human cells (2020)](http://www.digizyme.com/cst_landscapes.html) ([HN](https://news.ycombinator.com/item?id=25055908))
+- [Building a chemical blueprint for human blood (2020)](https://www.nature.com/articles/d41586-020-03122-6)
+- [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/) ([HN](https://news.ycombinator.com/item?id=25136422))
+- [Biochemical Pathways](https://www.roche.com/sustainability/philanthropy/science_education/pathways.htm) - Provide an overview of the chemical reactions of cells in various species and organs.
+- [Dr. Najeeb Medical Lectures](https://www.drnajeeblectures.com/)

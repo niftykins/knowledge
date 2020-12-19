@@ -5,7 +5,7 @@
 - [Color Hunt](http://colorhunt.co/)
 - [Handpicked list of 18181 unique color names from various sources and thousands of user submissions](https://github.com/meodai/color-names)
 - [Colormind](http://colormind.io/) - Color scheme generator that uses deep learning.
-- [Building Your Color Palette](https://refactoringui.com/previews/building-your-color-palette/)
+- [Building Your Color Palette](https://refactoringui.com/previews/building-your-color-palette/) ([HN](https://news.ycombinator.com/item?id=25180180))
 - [Cloudflare Design](https://cloudflare.design/color/) - Preview palettes against UI elements.
 - [pastel](https://github.com/sharkdp/pastel) - Command-line tool to generate, analyze, convert and manipulate colors.
 - [Image Color Picker](https://image-color.com) - Image color picker and palette generator.
@@ -40,3 +40,18 @@
 - [Material Design Palette Generator](https://materialpalettes.com/) ([Code](https://github.com/edelstone/material-palette-generator))
 - [Colour Theory On 80 Display Boards (1944)](http://blog.presentandcorrect.com/colour-theory-on-80-display-boards-1944)
 - [Color Palette Generator](https://palettegenerator.colorion.co/)
+- [Coolors](https://coolors.co/) - Super fast color schemes generator.
+- [atcq](https://github.com/mattdesl/atcq) - Implementation of Ant-Tree Color Quantization (ATCQ), described by Pérez-Delgado in various papers.
+- [Color contrast checker, analyser and color suggestions](https://polypane.app/color-contrast/)
+- [Adobe Color](https://color.adobe.com/create/color-wheel) - Color wheel, a color palette generator.
+- [iroiro](https://github.com/antfu/iroiro) - Beautiful Colors Lookup in CLI.
+- [consistent-shading](https://github.com/ugudango/consistent-shading) - Shade consitency for various hues, based on luminance.
+- [Sorted CSS Colors](https://enes.in/sorted-colors/) - Sort the named CSS colors in a way that it shows related colors together. ([Code](https://github.com/scriptype/sorted-colors))
+- [Cascading Colors](https://cascading-colors.netlify.app/) - Generate dynamic and themable color palettes using CSS custom properties, and allow (persistent) user-adjustments with a bit of light-weight JS. ([Code](https://github.com/oddbird/cascading-color-system))
+- [Basic Color Science For Graphics Engineer (2018)](https://agraphicsguynotes.com/posts/basic_color_science_for_graphcis_engineer/)
+- [Bjango Color Creator Templates](https://github.com/bjango/Color-Creator) - Photoshop, Sketch and Affinity Designer documents that use base colors to generate larger palettes.
+- [Palettte App](https://palettte.app/) ([Explanation](https://gabrieladorf.com/palettteapp/))
+- [Reasoning about colors (2020)](https://notes.neeasade.net/color-spaces.html) ([Lobsters](https://lobste.rs/s/ezppla/reasoning_about_colors))
+- [How do humans perceive color? (2020)](https://www.wired.com/story/a-new-study-about-color-tries-to-decode-the-brains-pantone/)
+- [Random Color Cycler](https://farbvelo.elastiq.ch/)
+- [Colorable](https://colorable.jxnblk.com/) - Color combination contrast tester. ([Code](https://github.com/jxnblk/colorable))

@@ -27,3 +27,23 @@
 - [Is Dark Mode Such A Good Idea? (2020)](https://kevq.uk/is-dark-mode-such-a-good-idea/) ([Lobsters](https://lobste.rs/s/o4su2v/is_dark_mode_such_good_idea)) ([HN](https://news.ycombinator.com/item?id=23495052))
 - [Technica11y](https://technica11y.org/) - Discussing challenges in technical accessibility.
 - [Tenon.io](https://tenon.io/) - Accessibility as a Service.
+- [A11Y Project](https://www.a11yproject.com/) - Community-driven effort to make digital accessibility easier.
+- [Appreciating accessibility - Keyboard shortcut guidelines](https://erresen.github.io/csharp/dotnet/accessibility/shortcuts/visualstudio/2020/07/26/appreciating-accessibility.html)
+- [A11y Coffee](https://a11y.coffee/)
+- [Accessibility Testing is like Making Coffee (2020)](https://madalyn.dev/blog/a11y-testing-coffee/)
+- [axe-mode](https://github.com/raunofreiberg/axe-mode) - Accessibility testing visualized.
+- [A11y Testing Is Like Making Coffee](https://a11y.coffee/a11y-testing-making-coffee/)
+- [Accessibility Guide in Russian](http://specialbank.ru/guide/)
+- [a11yresources](https://a11yresources.webflow.io/) - Growing list of accessibility tools and resources.
+- [5 Things I've Learned From the Accessibility Community (2020)](https://marcysutton.github.io/5-things-i-learned-from-accessibility/#/)
+- [A11y Dialog](https://github.com/edenspiekermann/a11y-dialog) - Lightweight and flexible accessible modal dialog.
+- [Coding with voice dictation using Talon Voice (2020)](https://joshwcomeau.com/accessibility/hands-free-coding/) ([HN](https://news.ycombinator.com/item?id=24846887))
+- [Empathy Prompts](https://empathyprompts.net/) - Ideas to help consider Inclusive Design principles when making things for others to use. ([Code](https://github.com/ericwbailey/empathy-prompts))
+- [Pa11y](https://pa11y.org/) - Automated accessibility testing pal. Runs accessibility tests on your pages via the command line or Node.js, so you can automate your testing process. ([Code](https://github.com/pa11y/pa11y))
+- [Evaluatory](https://darekkay.com/evaluatory/) - Web page evaluation with a focus on accessibility. ([Code](https://github.com/darekkay/evaluatory))
+- [Bootcampers Guide to Web Accessibility](https://a11y-with-lindsey.ck.page/products/pre-order-the-bootcampers-guide-to-web)
+- [screen-reader-reader](https://github.com/phenomnomnominal/screen-reader-reader) - General purpose screen reader reader, with the aim of enabling more realistic end-to-end accessibility tests.
+- [Building accessible websites 101](https://www.weba11y101.com/)
+- [Build Accessible Web Apps](https://testingaccessibility.com/)
+- [Test Automation for Accessibility](https://testautomationu.applitools.com/accessibility-testing-tutorial/)
+- [Are your Anchor Links Accessible? (2020)](https://amberwilson.co.uk/blog/are-your-anchor-links-accessible/)

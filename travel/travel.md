@@ -2,7 +2,7 @@
 
 ## Links
 
-- [These photos are why I’m trapped in Tokyo forever now](https://medium.com/@damjancvetkovdimitrov/these-photos-are-why-i-m-trapped-in-tokyo-forever-now-1a0ea980bcc5)
+- [These photos are why I’m trapped in Tokyo forever now](https://medium.com/@damjancvetkovdimitrov/these-photos-are-why-i-m-trapped-in-tokyo-forever-now-1a0ea980bcc5)
 - [Traveling with Less Fatigue](https://medium.com/@bebraw/traveling-with-less-fatigue-40c5cfd3aebe)
 - [Travel Is No Cure for the Mind](https://medium.com/personal-growth/travel-is-no-cure-for-the-mind-e449d3109d71)
 - [Awesome Hacking Spots](https://github.com/diasdavid/awesome-hacking-spots)
@@ -27,3 +27,15 @@
 - [Aero](https://aero.com/) - Luxury Semi-Private Jets.
 - [Drive & Listen](https://driveandlisten.herokuapp.com/) - Drive through cities in the browser while listening to local radio stations. ([HN](https://news.ycombinator.com/item?id=23543043))
 - [Tea With Strangers](http://www.teawithstrangers.com/) - Community organization that's all about making our cities feel more like neighborhoods by breaking the barriers between strangers.
+- [WindowSwap](https://window-swap.com/) - View someone's window somewhere in the world. ([HN](https://news.ycombinator.com/item?id=23815460))
+- [Kibbo](https://www.kibbo.com/) - Community pioneering a new kind of flexible and affordable housing model on the West Coast.
+- [The Fantasy and the Cyberpunk Futurism of Singapore (2020)](https://www.wired.com/story/opinion-the-fantasy-and-the-cyberpunk-futurism-of-singapore/) ([HN](https://news.ycombinator.com/item?id=24022222))
+- [Travels of Juanito Fatas](https://juanitofatas.com/travels)
+- [Ideas of where to move from SF (2020)](https://twitter.com/justinkan/status/1295204370519175170)
+- [Passport Index](https://www.passportindex.org/)
+- [Duffel](https://duffel.com/) - Powerful and intuitive tools for starting and growing a travel business. Search, book, and manage flights across more than 20 airlines.
+- [Gowalla](https://go.gowalla.com/) - Social Game in the Real World.
+- [Omio](https://www.omio.com/) - Search, Compare & Buy Cheap Bus, Train & Flight Tickets.
+- [90 day Finn](https://www.helsinkibusinesshub.fi/90-day-finn/) - Helsinki Relocation Package: City as a Service. ([HN](https://news.ycombinator.com/item?id=25003999))
+- [GetYourGuide](https://www.getyourguide.com/discovery/) - Book Things To Do, Attractions, and Tours.
+- [Cohabs](https://cohabs.com/) - Private Room Rentals in Beautiful Shared Houses.

@@ -1,5 +1,9 @@
 # Universe
 
+## Notes
+
+- [Cosmological red-shift (caused by the expansion of the universe) does not conserve energy. Expanding universe is not time translation invariant, so energy is not strictly conserved.](https://www.youtube.com/watch?v=ZYM6HMLgIKA)
+
 ## Links
 
 - [The rate of universal expansion is accelerating to the point that light from other galaxies will someday never reach us. Is it possible that this has already happened to an extent? Are there things forever out of our view? Do we have any way of really knowing the size of the universe? (2018)](https://www.reddit.com/r/askscience/comments/a0o8jv/the_rate_of_universal_expansion_is_accelerating/)
@@ -18,3 +22,12 @@
 - [New Distance Measurements Bolster Challenge to Basic Model of Universe (2020)](https://public.nrao.edu/news/challenge-model-of-universe/)
 - [What Happens After the Universe Ends? (2020)](https://www.youtube.com/watch?v=PC2JOQ7z5L0)
 - [Our deepest view of the X-ray sky (2020)](http://www.mpe.mpg.de/7461761/news20200619) ([HN](https://news.ycombinator.com/item?id=23573476))
+- [How big is the universe? What happens at the “edge”? (2020)](https://www.askamathematician.com/2020/06/q-how-big-is-the-universe-what-happens-at-the-edge/)
+- [The Big and the Small (2020)](https://waitbutwhy.com/2020/09/universe.html) ([Universe in a Nutshell App](https://shop-us.kurzgesagt.org/products/universe-in-a-nutshell-app)) ([HN](https://news.ycombinator.com/item?id=24558358))
+- [HN: An earlier universe can still be observed today, says Roger Penrose (2020)](https://news.ycombinator.com/item?id=24711130)
+- [The Structure of the Universe (2020)](https://www.quantamagazine.org/the-hidden-structure-of-the-universe-20201022/)
+- [Roger Penrose: Why did the Universe begin?](https://aeon.co/videos/a-cyclical-forgetful-universe-nobel-prizewinner-roger-penrose-details-an-astonishing-origin)
+- [The Birth of a Galaxy (2020)](https://www.shawenyao.com/The-Birth-of-a-Galaxy/)
+- [The Origin Of The Universe Just Got Way Weirder (2020)](https://www.youtube.com/watch?v=__0Y5SyEVUI)
+- [Ask HN: What evidence would convince you of intelligent extra-terrestrial life? (2020)](https://news.ycombinator.com/item?id=25340674)
+- [The New History of the Milky Way (2020)](https://www.quantamagazine.org/the-new-history-of-the-milky-way-20201215/)

@@ -5,7 +5,7 @@
 - [LeetCode](https://leetcode.com)
 - [Exercism](http://exercism.io/) ([CLI in Go](https://github.com/exercism/cli))
 - [Project Euler](https://projecteuler.net/archives)
-- [Advent of Code](https://adventofcode.com/)
+- [Advent of Code](https://adventofcode.com/) ([Lobsters Promo Thread 2020](https://lobste.rs/s/3uxtgb/advent_code_2020_promotion_thread))
 - [HackerRank](https://www.hackerrank.com/)
 - [HackerEarth](https://www.hackerearth.com/)
 - [Codeforces](http://codeforces.com/)
@@ -33,6 +33,7 @@
 - [Swift 2](https://github.com/rudrankriyam/LeetCode-in-Swift)
 - [TypeScript](https://github.com/enricopolanski/leetcode)
 - [Solve LeetCode problems in VS Code](https://github.com/LeetCode-OpenSource/vscode-leetcode)
+- [LeetCode Solutions Explained](https://beizhedenglong.github.io/leetcode-solutions/docs/two-sum) ([Code](https://github.com/beizhedenglong/leetcode-site-generator))
 
 ## Project Euler solutions
 
@@ -60,6 +61,7 @@
 - [Python 2](https://github.com/andreypopp/aoc2019)
 - [ReasonML](https://github.com/believer/advent-of-code)
 - [Zsh](https://github.com/romkatv/advent-of-code-2019/blob/master/README.md)
+- [Awesome Advent of Code](https://github.com/Bogdanp/awesome-advent-of-code)
 
 ## Exercism exercise solutions
 

@@ -13,3 +13,8 @@
 - [purescript-selda](https://github.com/Kamirus/purescript-selda) - Type-safe, high-level SQL library for PureScript.
 - [purerl](https://github.com/purerl/purerl) - PureScript Erlang backend.
 - [Presto}](https://github.com/juspay/purescript-presto) - Code as simple and precise as Mathematical Expressions. Presto is written in PureScript harnessing the powers of Functional Programming & Category Theory.
+- [How a Haskell programmer wrote a tris in Purescript (2020)](http://boxbase.org/entries/2020/aug/5/how-a-haskell-programmer-wrote-a-tris-in-haskell/)
+- [PureScript Cookbook](https://github.com/JordanMartinez/purescript-cookbook)
+- [Learn PureScript with this "clone and play" repository](https://github.com/JordanMartinez/purescript-jordans-reference)
+- [Writing a Simple REST Web Service in PureScript (2017)](https://abhinavsarkar.net/posts/ps-simple-rest-service/)
+- [List of Companies That Use Purescript](https://github.com/ajnsit/purescript-companies)

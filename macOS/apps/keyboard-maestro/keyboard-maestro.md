@@ -15,10 +15,11 @@ I share [all the macros I use](km-macros.md) with the app.
 - [Keyboard Maestro converts any variables that start with ENV\_ into environment variables when it launches sub-processes.](https://forum.keyboardmaestro.com/t/how-to-sent-env-in-keyboard-maestro/11947/2)
 - `defaults write com.stairways.keyboardmaestro.editor MouseGetCountdown -int 3` will change the [timer for getting coordinates from 5 secs to 3](https://forum.keyboardmaestro.com/t/is-there-a-way-to-set-default-waiting-time-to-get-coordinates-from-5-seconds-to-3-seconds/14980).
 - Can dismiss palettes with `return` key.
+- Useful to sort macros by `Date modified`. Applies to most other tools too like Finder.
+- [The trick is to work incrementally. Find out how to successfully evaluate and display something atomic. And then gradually elaborate, layer upon layer.](https://forum.keyboardmaestro.com/t/having-trouble-with-execute-shell-script/19628/9)
 
 ## Links
 
-- [Write once, never write again](https://medium.com/@nikitavoloboev/write-once-never-write-again-c2fa1f6c4e8) - Goes over how to use [Typinator](../typinator.md) together with KM to automate writing text.
 - [How I manage my huge KM library](https://forum.keyboardmaestro.com/t/notation-i-use-to-manage-my-macros/8907)
 - [KM forum](https://forum.keyboardmaestro.com/latest) - Great place to discuss all things related to KM.
 - [Best Macro List](https://forum.keyboardmaestro.com/t/best-macro-list/4118)
@@ -27,3 +28,4 @@ I share [all the macros I use](km-macros.md) with the app.
 - [Exporting KM Macros with KM Macro](http://chauncey.io/projects/keyboard-maestro-export-macros/)
 - [Little Approach I use to quickly prototype new macros](https://forum.keyboardmaestro.com/t/little-approach-i-use-to-quickly-prototype-new-macros/8091)
 - [Simplicity vs Complexity](https://forum.keyboardmaestro.com/t/simplicity-vs-complexity/11259)
+- [KM Wiki](https://wiki.keyboardmaestro.com/Home_Page) ([Quick Start](https://wiki.keyboardmaestro.com/manual/Quick_Start))

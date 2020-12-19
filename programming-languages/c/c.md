@@ -1,12 +1,17 @@
 # C
 
+## Notes
+
+- [Notes on learning/using C.](https://lobste.rs/s/b5xwwg/what_are_you_doing_this_weekend#c_1kh5sd)
+
 ## Links
 
 - [Principles for C programming](http://drewdevault.com/2017/03/15/How-I-learned-to-stop-worrying-and-love-C.html)
 - [Understanding pointers](http://drewdevault.com/2016/05/28/Understanding-pointers.html)
 - [c4](https://github.com/rswier/c4) - C in four functions. ([HN](https://news.ycombinator.com/item?id=22353532))
 - [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
-- [One year of C](http://floooh.github.io/2018/06/02/one-year-of-c.html)
+- [One year of C (2018)](https://floooh.github.io/2018/06/02/one-year-of-c.html)
+  https://floooh.github.io/2018/06/02/one-year-of-c.html
 - [Building C programs](http://seenaburns.com/building-c-programs/)
 - [Tiny Garbage Collector](https://github.com/orangeduck/tgc) - Tiny Garbage Collector for C.
 - [Awesome C](https://github.com/kozross/awesome-c) - Curated list of awesome C frameworks, libraries, resources and other shiny things.
@@ -60,3 +65,53 @@
 - [Constantine](https://github.com/rizsotto/Constantine) - Toy project to learn how to write Clang plugin.
 - [Tiny C Compiler](https://bellard.org/tcc/) ([HN](https://news.ycombinator.com/item?id=23617461))
 - [C performance mystery: delete unused string constant (2020)](https://news.ycombinator.com/item?id=23633583)
+- [C's main() is one of the places where Unix's user and kernel APIs differ](https://utcc.utoronto.ca/~cks/space/blog/unix/MainKernelAndUserAPI) ([Lobsters](https://lobste.rs/s/pdiisx/c_s_main_is_one_places_where_unix_s_user))
+- [Standard C loop idioms (2020)](https://dannas.name/standard-c-loop-idioms)
+- [Why the C Language Will Never Stop You from Making Mistakes (2020)](https://thephd.github.io/your-c-compiler-and-standard-library-will-not-help-you)
+- [Can we do better than our C compiler?](https://briancallahan.net/blog/20200812.html) ([HN](https://news.ycombinator.com/item?id=24139943))
+- [Cyclone](https://cyclone.thelanguage.org/) - Safe dialect of C.
+- [clib](https://github.com/clibs/clib) - Package manager for the C programming language. ([HN](https://news.ycombinator.com/item?id=24182441))
+- [C Code Archive Network](http://ccodearchive.net/) ([Code](https://github.com/rustyrussell/ccan))
+- [do {...} while (0) in macros (2014)](https://www.pixelstech.net/article/1390482950-do-%7B-%7D-while-%280%29-in-macros) ([Lobsters](https://lobste.rs/s/whezna/do_while_0_macros))
+- [Simple C Compiler](https://www.simple-cc.org/)
+- [Verifiable C (2020)](https://softwarefoundations.cis.upenn.edu/vc-current/)
+- [Rust-style futures in C (2020)](https://axelforsman.tk/2020/08/24/rust-style-futures-in-c.html)
+- [The problem with C compatibility in C++ (2020)](https://cor3ntin.github.io/posts/c/) ([Lobsters](https://lobste.rs/s/e27sea/problem_with_c)) ([HN](https://news.ycombinator.com/item?id=24352258))
+- [Essential C (2003)](http://cslibrary.stanford.edu/101/EssentialC.pdf) ([HN](https://news.ycombinator.com/item?id=24356246))
+- [Modern C](https://modernc.gforge.inria.fr/) ([HN](https://news.ycombinator.com/item?id=24361469)) ([Lobsters](https://lobste.rs/s/01brvr/modern_c))
+- [C FAQ](http://www.c-faq.com/)
+- [Massacring C Pointers (2018)](https://wozniak.ca/blog/2018/06/25/1/index.html) ([HN](https://news.ycombinator.com/item?id=24376622)) ([Lobsters](https://lobste.rs/s/gim6hg/massacring_c_pointers_2018))
+- [C’s Biggest Mistake (2009)](https://digitalmars.com/articles/C-biggest-mistake.html) ([Lobsters](https://lobste.rs/s/3nebjo/c_s_biggest_mistake_2009))
+- [Defer Reference Implementation for C](https://gustedt.gitlabpages.inria.fr/defer/) ([HN](https://news.ycombinator.com/item?id=24643034))
+- [Chibicc](https://github.com/rui314/chibicc) - Small C Compiler. ([HN](https://news.ycombinator.com/item?id=24676851))
+- [Loading CSV File at the Speed Limit of the NVMe Storage (2020)](https://liuliu.me/eyes/loading-csv-file-at-the-speed-limit-of-the-nvme-storage/) ([Lobsters](https://lobste.rs/s/zksa0f/loading_csv_file_at_speed_limit_nvme))
+- [What Makes C Hard to Compile (2020)](https://www.reddit.com/r/ProgrammingLanguages/comments/j3j4s9/what_makes_c_hard_to_compile/)
+- [malloc as a service (2020)](https://wingolog.org/archives/2020/10/13/malloc-as-a-service)
+- [The Lemon Parser Generator](https://sqlite.org/src/doc/trunk/doc/lemon.html) - LALR parser generator for C.
+- [How Does a C Debugger Work? (2014)](https://blog.0x972.info/?d=2014/11/13/10/40/50-how-does-a-debugger-work) ([HN](https://news.ycombinator.com/item?id=24814854))
+- [SheLLVM](https://github.com/SheLLVM/SheLLVM) - Collection of LLVM transform and analysis passes to write shellcode in regular C.
+- [Defining C macros the right way (2020)](https://bowero.nl/blog/2020/10/25/defining-c-macros-the-right-way/) ([Lobsters](https://lobste.rs/s/ubh34r/defining_c_macros_right_way))
+- [Hundred year mistakes (2020)](https://ericlippert.com/2020/02/27/hundred-year-mistakes/) ([Lobsters](https://lobste.rs/s/f3grxk/hundred_year_mistakes))
+- [MazuCC](https://github.com/jserv/MazuCC) - Minimalist C compiler with x86_64 code generation.
+- [shecc](https://github.com/jserv/shecc) - Self-hosting and educational C compiler.
+- [AMaCC](https://github.com/jserv/amacc) - Small C Compiler generating ELF executable Arm architecture, supporting JIT execution.
+- [How to C (as of 2016)](https://matt.sh/howto-c)
+- [Demystifying malloc (2020)](https://river.codes/demystifying-malloc/)
+- [Past, Present and Future of Effective C (2020)](https://research.nccgroup.com/2020/11/10/past-present-and-future-of-effective-c/)
+- [C compiler written in Go](https://github.com/DQNEO/8cc.go)
+- [ZetZ](https://github.com/aep/zz) - Formally Verified Dialect of C. ([Article](https://www.infoq.com/news/2020/02/zz-formal-verified-c-dialect/))
+- [Editing the C Standard (2020)](https://thephd.github.io/editing-the-c-standard) ([HN](https://news.ycombinator.com/item?id=25086673))
+- [C Is Not Dependency Free (2020)](https://prilik.com/blog/post/c-is-not-dependency-free/)
+- [Best aspects of C language (2020)](https://blog.joren.ga/programming/best-of-c) ([HN](https://news.ycombinator.com/item?id=25124012)) ([Lobsters](https://lobste.rs/s/hjrgrk/best_aspects_c_language))
+- [C3 Language Compiler](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
+- [Coccinelle](https://github.com/coccinelle/coccinelle) - Allows programmers to easily write some complex style-preserving source-to-source transformations on C source code, like for instance to perform some refactorings.
+- [rcc](https://github.com/wbowling/rcc) - Basic c compiler written in rust.
+- [Writing a C Compiler (2017)](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
+- [What is your favorite C programming trick?](https://stackoverflow.com/questions/599365/what-is-your-favorite-c-programming-trick) ([HN](https://news.ycombinator.com/item?id=25176531))
+- [Linus Torvalds' good taste argument for linked lists, explained](https://github.com/mkirchner/linked-list-good-taste) ([HN](https://news.ycombinator.com/item?id=25326552))
+- [DragonFFI](https://github.com/aguinet/dragonffi) - C Foreign Function Interface (FFI) library written in C++ and based on Clang/LLV.
+- [PureCTypes](https://github.com/aguinet/purectypes) - Pure-python package to describe portable C structures.
+- [Now you C me, now you don't, part two: exploiting the in-between (2020)](https://securitylab.github.com/research/now-you-c-me-part-two)
+- [Data Structures and Algorithms in C (implementations and notes)](https://github.com/f0lg0/c-ds-algos)
+- [Getting started with C programming a lightning-fast start for absolute beginners (2020)](https://not.cafe/2020/10/12/getting-started-with-c-programming.html) ([HN](https://news.ycombinator.com/item?id=25442165))
+- [C-Toy](https://github.com/anael-seghezzi/CToy) - Interactive C coding environment.

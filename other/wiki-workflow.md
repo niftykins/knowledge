@@ -12,6 +12,8 @@ I use [this Alfred workflow](https://github.com/nikitavoloboev/small-workflows#p
 
 This workflow also searches through all folders in this wiki and lets me create new folders inside those folders or create new entries (md files) inside the folders.
 
+I also wrote a [comment that goes in more detail over the ways I update the wiki](https://lobste.rs/s/e5lx5p/what_note_taking_team_wiki_personal_wiki#c_vczr1n).
+
 ## Editing on iOS
 
 I place this [knowledge](https://github.com/nikitavoloboev/knowledge) folder in Dropbox. Then I use [Ulysses](https://ulyssesapp.com) iOS app to edit this entire wiki from the app by adding it as an external folder. Ulysses indexes the entire wiki so I can jump to any file in the folder in seconds and make an edit.
@@ -36,7 +38,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [100 Rabbits](https://100r.co/site/home.html) ([Code](https://github.com/hundredrabbits/100r.co))
 - [Gwern](https://www.gwern.net/) - Can also suffix URLs with `.page` to get the source code. ([Code](https://github.com/gjord/gwern.net))
 - [Paul Copplestone](https://paul.copplest.one/knowledge/) ([Code](https://github.com/kiwicopple/paul.copplest.one))
-- [Andyʼs working notes](https://notes.andymatuschak.org/About_these_notes)
+- [Andyʼs working notes](https://notes.andymatuschak.org/About_these_notes) ([HN](https://news.ycombinator.com/item?id=24288480)) ([Obsidian version](https://publish.obsidian.md/andymatuschak/_Start+Here))
 - [Yoshua Wuyts](https://github.com/yoshuawuyts/notes)
 - [Oleg Kiselyov](http://okmij.org/ftp/) - Lots of stuff on FP.
 - [Richard Litt](https://github.com/RichardLitt/knowledge)
@@ -67,7 +69,6 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Tom Critchlow](https://tomcritchlow.com/wiki/)
 - [panthema.net](http://bingmann.github.io/) - Diverse collection of interesting ideas.
 - [Buster Benson](https://busterbenson.com/piles/)
-- [Nick Belzer](https://wiki.nickbelzer.me/)
 - [Burke Libbey's notes](https://notes.burke.libbey.me/)
 - [The Commonplace Book](https://www.ralphrudd.com/)
 - [Leandro Ardissone](https://knowledge.lardissone.now.sh/#about-me)
@@ -81,11 +82,13 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [NicoHood](https://github.com/NicoHood/NicoHood.github.io/wiki)
 - [Sanyam Kapoor](https://www.sanyamkapoor.com/kb)
 - [Blake Robbins](https://blakeir.com/notes)
+- [Bismuth Garden](https://bismuth.garden/)
 - [Alopex Networks wiki](https://wiki.alopex.li/_categories)
 - [Michael Mellinger math notes](https://github.com/melling/MathAndScienceNotes)
 - [Bookmarks, tweets, cheatsheets, one-liners](https://github.com/ccampean/almanacs)
 - [Bayle Shanks](http://www.bayleshanks.com/)
 - [Noah Trenaman](https://blog.noahtren.com/note/3acea2e1/)
+- [Kevin S Lin](https://www.kevinslin.com/)
 - [Alex's Zettelkasten](https://notes.alexkehayias.com/)
 - [Yizhou Shan](http://lastweek.io/)
 - [The Refined Mind](https://refinedmind.co/)
@@ -96,17 +99,45 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Michael Lubinsky's notes and code snippets](http://mlubinsky.github.io/) ([Code](https://github.com/mlubinsky/mlubinsky.github.com))
 - [Chris Nkinthorn](https://nkintc.gitbook.io/brainless/) ([Code](https://github.com/nkintc/nkintc.github.io))
 - [TIL by Stefan Judis](https://www.stefanjudis.com/today-i-learned/)
-- [David Gasquez](https://github.com/davidgasquez/handbook)
+- [David Gasquez](https://davidgasquez.github.io/handbook/) ([Code](https://github.com/davidgasquez/handbook))
 - [Abigail Africa's Notes](https://www.notion.so/Notes-3a56fef72dc94bc28b0804efc789913b)
 - [Sean Breckenridge](https://exobrain.sean.fish/) ([Code](https://github.com/seanbreckenridge/exobrain))
 - [Nat Eliason notes](https://www.nateliason.com/notes)
 - [Bharat’s Digital Garden](https://notes.bharatkalluri.in/)
 - [Chrisman Brown](https://github.com/chrisman/knowledge/wiki)
+- [Sridhar Ratnakumar](https://www.srid.ca/z-index.html)
+- [Timothy Andrew](https://timothyandrew.net/learning/)
+- [Dennis Ideler's notes](https://github.com/dideler/notes)
+- [Anne-Laure Le Cunff](https://www.mentalnodes.com/)
+- [Paul Batchelor](https://pbat.ch/wiki/)
+- [Yang Zhang CS notes](https://github.com/yang/notes)
+- [Ten Digits](https://tendigits.space/)
+- [Luciano Strika](https://strikingloo.github.io/wiki/)
+- [Bennett Hardwick](https://bennetthardwick.com/wiki/)
+- [Neil's Noodlemaps](https://commonplace.doubleloop.net/)
+- [Jesse Squires TIL](https://github.com/jessesquires/TIL)
+- [Piotr Gaczkowski](https://garden.doomhammer.info/)
+- [chl's org file notes](https://github.com/even4void/org)
+- [Cosma Shalizi](http://bactra.org/) ([Notebooks](http://bactra.org/notebooks/))
+- [Roy Niang](https://royniang.com/home.html) ([Code](https://git.sr.ht/~royniang/koikoi))
+- [Rob Haisfields's Roam](https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/XtzimCS2z)
+- [Hyperfine Village](https://roamresearch.com/#/app/hyperfinelabs/page/TYt89wtA7)
+- [Ben Lynn Notes](https://crypto.stanford.edu/pbc/notes/)
+- [Nick Belzer](https://notes.nickbelzer.me/) ([Code](https://github.com/nbelzer/notes))
 - [Mike's Mind](https://mind.miketannenbaum.com/) ([Code](https://github.com/MikeTannenbaum/my-public-mind))
 - [David Seah](https://davidseah.gitbook.io/davidseah/) ([Code](https://github.com/davidseah/knowledgebank))
+- [John Ohno](http://www.lord-enki.net/) ([Misc Files](https://github.com/enkiv2/misc))
+- [Allan's Digital Garden](https://publish.obsidian.md/allanmacgregor/Meta/Index)
 - [Dercuano](https://gitlab.com/kragen/dercuano) - Although not freely available on the web, have to download a folder.
+- [Aurelio](https://github.com/nobitagit/knowledge)
+- [Thomasorus's Garden](https://thomasorus.com/home.html)
+- [Yenly Ma TIL](https://til.yenly.wtf/)
+- [Hugo Cisneros](https://hugocisneros.com/notes/)
+- [Kormyen's Memex](https://kormyen.github.io/memex/)
+- [Chotrin's Wiki](https://chotrin.tilde.institute/)
+- [Mineral Existence](https://mineralexistence.com/wiki.html) ([Code](https://github.com/flber/Mineral-Existence))
 - [Meta knowledge](https://github.com/RichardLitt/knowledge) - More wikis.
-- [Webring](https://webring.xxiivv.com/) - Attempt to inspire artists & developers to build their own website and share traffic among each other.
+- [Webring](https://webring.xxiivv.com/) - Attempt to inspire artists & developers to build their own website and share traffic among each other. ([Code](https://github.com/XXIIVV/webring))
 - [Curated list of awesome Public Zettelkastens](https://github.com/KasperZutterman/Second-Brain)
 
 ## Wiki software
@@ -116,6 +147,10 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [WeeWiki](https://github.com/PaulBatchelor/weewiki) - Wee little wiki engine used to generate personal wikis and mind maps.
 - [Dnote](https://github.com/dnote/dnote) - Simple personal knowledge base.
 - [Instiki](https://github.com/parasew/instiki) - Basic wiki clone so pretty and easy to set up, you’ll wonder if it’s really a wiki.
+
+## Notes
+
+- [Don't waste energy chasing fancy tools and methodologies without already having a simple workflow in place. Once you have a good idea of what works for you, then introduce tools designed to make your life easier.](https://news.ycombinator.com/item?id=24251068)
 
 ## Links
 
@@ -160,17 +195,18 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks. ([Web](https://worldbrain.io/)) ([HN](https://news.ycombinator.com/item?id=23227186)) ([Interview with Oliver Sauter](https://www.youtube.com/watch?v=XH2nbgEQ78M))
 - [Memex Mobile](https://github.com/WorldBrain/Memex-Mobile) - Mobile app for Memex.
 - [Thread on digital gardens, personal wikis, and experimental knowledge systems (2020)](https://twitter.com/Mappletons/status/1250532315459194880)
-- [Dogsheep](https://dogsheep.github.io/) - Collection of tools for personal analytics using SQLite and Datasette.
+- [Dogsheep](https://dogsheep.github.io/) - Collection of tools for personal analytics using SQLite and Datasette. ([Article](https://datasette.substack.com/p/dogsheep-personal-analytics-with)) ([GitHub](https://github.com/dogsheep))
 - [Lobsters: How do you take notes and organize your knowledge? (2020)](https://lobste.rs/s/7catij/how_do_you_take_notes_organize_your)
 - [A Short History of Bi-Directional Links (2020)](https://maggieappleton.com/bidirectionals)
 - [Digital Gardening](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs.
-- [Neuron Zettelkasten](https://neuron.zettel.page/) - Command-line based system for managing your Zettelkasten. ([Code](https://github.com/srid/neuron))
+- [Neuron Zettelkasten](https://neuron.zettel.page/) - Command-line based system for managing your Zettelkasten. ([Code](https://github.com/srid/neuron)) ([Lobsters](https://lobste.rs/s/i1uylr/neuron_0_6_released_future_proof_note)) ([1.0 release lobsters](https://lobste.rs/s/ve9plk/neuron_1_0_released_future_proof_note))
+- [Neuron Template](https://github.com/srid/neuron-template) - How to publish your own neuron site.
 - [How can we build an extension of your mind? (2020)](https://vanschneider.com/how-can-we-build-an-extension-of-your-mind)
 - [mmap.it](https://www.mmap.it/) - Map knowledge into memory with seamless search and note taking. ([Code](https://github.com/pdepip/mmap.it))
 - [Luhmann’s Zettelkasten — A Productivity Tool That Works Like Your Brain (2019)](https://emvi.com/blog/luhmanns-zettelkasten-a-productivity-tool-that-works-like-your-brain-N9Gd2G4aPv)
 - [Building a digital garden (2019)](https://tomcritchlow.com/2019/02/17/building-digital-garden/) - How I built myself a simple wiki using folders and files and published via Jekyll.
 - [monotome](https://github.com/cblgh/monotome) - Personal knowledge base system. markdown markup, runs in the browser.
-- [Digital Gardeners](https://nesslabs.com/digital-gardeners) - Small Telegram group for people actively using & building digital gardens.
+- [Digital Gardeners](https://nesslabs.com/digital-gardeners) - Small Telegram group for people actively using & building digital gardens. ([Shared notes](https://github.com/digitalgardeners/notes))
 - [Thinking in maps: from the Lascaux caves to knowledge graphs (2020)](https://nesslabs.com/thinking-in-maps)
 - [Trilium Notes](https://github.com/zadam/trilium) - Hierarchical note taking application with focus on building large personal knowledge bases. ([HN](https://news.ycombinator.com/item?id=23335759))
 - [Ask HN: What is your favorite way to read online content? (2020)](https://news.ycombinator.com/item?id=23340031)
@@ -197,3 +233,55 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Artificial Brain Networked notebook apps](https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709)
 - [Ask HN: How to Take Notes? (2020)](https://news.ycombinator.com/item?id=23844490)
 - [histre](https://histre.com/) - Effortless Knowledge Base.
+- [Notebooks (2020)](https://blog.yoshuawuyts.com/notebooks/)
+- [Digital gardens (2020)](https://schof.co/digital-garden/)
+- [Zettlr](https://www.zettlr.com/) - A Markdown Editor for the 21st Century. ([Why is Zettlr Open Source?](https://www.zettlr.com/post/why-zettlr-open-source))
+- [CodiMD](https://github.com/codimd/server) - Self-hosted, real-time collaborative markdown notes. ([HN](https://news.ycombinator.com/item?id=23997361))
+- [logseq](https://logseq.com/) - Local-first knowledge base which syncs using Github. ([Code](https://github.com/logseq/logseq)) ([HN](https://news.ycombinator.com/item?id=25090176))
+- [Sharing knowledge in a remote team, across timezones (2020)](https://erickhun.com/posts/sharing-knowledge-in-a-remote-team/) ([HN](https://news.ycombinator.com/item?id=24021103))
+- [Foam: One Month In (2020)](https://jevakallio.github.io/notes/foam-one-month-in)
+- [Dendron](https://www.dendron.so/) - Local-first, markdown based, hierarchical note-taking application built on top of VSCode and friends. ([Code](https://github.com/dendronhq/dendron)) ([HN](https://news.ycombinator.com/item?id=24898373)) ([Hierarchical Tool for Thought](https://www.kevinslin.com/notes/127a3230-4484-433a-b97f-178679564207.html))
+- [If you take notes, which note-taking tool do you use? (2020)](https://twitter.com/anthilemoon/status/1291646162919993344)
+- [Building my personal knowledge repository (2020)](https://notes.nickbelzer.me/topics/2020/05/12/building-my-personal-knowledge-repository.html)
+- [An Iterative Approach to Notes (2020)](https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29) ([HN](https://news.ycombinator.com/item?id=24108466))
+- [Where is your notebook? (2020)](https://bowero.nl/blog/2020/08/16/where-is-your-notebook/) ([Lobsters](https://lobste.rs/s/lmh8gj/where_is_your_notebook))
+- [Archivy](https://github.com/Uzay-G/archivy) - Self Hosted Knowledge Base embedded into your filesystem. ([HN](https://news.ycombinator.com/item?id=24199419))
+- [How to choose the right note-taking app (2020)](https://nesslabs.com/how-to-choose-the-right-note-taking-app) ([Tweet](https://twitter.com/anthilemoon/status/1296047396976316416))
+- [Using Obsidian to manage goals, tasks, notes, and software dev knowledge base (2020)](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base) ([HN](https://news.ycombinator.com/item?id=24206727))
+- [Hode](https://github.com/JeffreyBenjaminBrown/hode) - Hypergraph editor. ([Explanation](https://news.ycombinator.com/item?id=24261725))
+- [Remembering what you Read: Zettelkasten vs. P.A.R.A (2020)](https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/) ([HN](https://news.ycombinator.com/item?id=24251068))
+- [Scrapbox](https://scrapbox.io/) - Knowledge base built for infinite ideas.
+- [RWX.GG](https://rwx.gg/) - Progressive Knowledge App.
+- [Git-based Wiki (2020)](https://www.bit-101.com/blog/2020/09/git-based-wiki/) ([HN](https://news.ycombinator.com/item?id=24351298))
+- [DWiki](https://utcc.utoronto.ca/~cks/space/dwiki/DWiki)
+- [Cerveau](https://www.srid.ca/689c4a39.html) - Future-proof web app for notes. ([Lobsters](https://lobste.rs/s/xajgsn/cerveau_future_proof_web_app_for_notes))
+- [A Meta-Layer for Notes (2020)](https://julian.digital/2020/09/04/a-meta-layer-for-notes/)
+- [A Hierarchy First Approach to Note Taking](https://www.kevinslin.com/notes/3dd58f62-fee5-4f93-b9f1-b0f0f59a9b64.html)
+- [How to set up your own digital garden (2020)](https://nesslabs.com/digital-garden-set-up)
+- [Cosy](https://cosy.af/) - Internal company hub & workplace search.
+- [Digital Gardens list](https://docs.google.com/spreadsheets/d/1KtEjnuZEHxUmoiA37_MMM4OFyQcbwVUaLBFa12P8cnU/edit#gid=0)
+- [Kb](https://github.com/gnebbia/kb) - Text-oriented minimalist command line knowledge base manager. ([HN](https://news.ycombinator.com/item?id=24506280))
+- [List of Zettelkasten software (2020)](https://www.reddit.com/r/Zettelkasten/comments/flygc4/lets_build_a_list_of_zettelkasten_software/)
+- [What {note taking|team wiki|personal wiki|external brain} tool do you use? (2020)](https://lobste.rs/s/e5lx5p/what_note_taking_team_wiki_personal_wiki)
+- [TiddlyWiki](https://tiddlywiki.com/) - Non-linear personal web notebook. ([Code](https://github.com/Jermolene/TiddlyDesktop))
+- [Notes with TiddlyWiki](http://beza1e1.tuxen.de/tiddlywiki_notes.html)
+- [Rekowl](https://rekowl.com/) - You personal knowledge library.
+- [nb](https://github.com/xwmx/nb) - CLI plain-text notes & bookmarks with Git, sync, encryption, and more. ([HN](https://news.ycombinator.com/item?id=24709393)) ([Docs](https://xwmx.github.io/nb/))
+- [NoteApps](https://www.noteapps.info/) - Encyclopedia of note taking apps. ([Launch Notes](https://www.noteapps.info/launch_note)) ([Lobsters](https://lobste.rs/s/uii8of/noteapps_info_launch_notes))
+- [Organising knowledge with multi-level content: Making knowledge easier to understand, remember and communicate (2018)](https://www.francismiller.com/organising_knowledge_paper.pdf)
+- [Zetteldeft](https://github.com/EFLS/zetteldeft) - Emacs package for a Zettelkasten system.
+- [Luhmann's Original Zettelkasten Digitalized (2020)](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1_1_V) ([HN](https://news.ycombinator.com/item?id=24794569))
+- [Walling](https://walling.app/) - Visual Walls to Collect Ideas & Plot out Projects.
+- [How do I work with Obsidian on Mobile? (2020)](https://forum.obsidian.md/t/how-do-i-work-with-obsidian-on-mobile/471)
+- [Introduction to the Zettelkasten Method (2020)](https://zettelkasten.de/introduction/) ([HN](https://news.ycombinator.com/item?id=24916536))
+- [How I remember everything I learn (2020)](https://dev.to/aurelio/how-i-remember-everything-i-learn-19mi)
+- [Digital gardens let you cultivate your own little bit of the internet (2020)](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/) ([HN](https://news.ycombinator.com/item?id=24996780))
+- [Standard Notes](https://app.standardnotes.org/) - Free, open-source, and completely encrypted notes app. ([Code](https://github.com/standardnotes/web))
+- [Linked knowledge greatest links](https://scrapbox.io/benfoden/Linked_knowledge_greatest_links)
+- [Information Storage and Archiving strategies (2020)](https://strikingloo.github.io/wiki-articles/information-storage/archiving)
+- [zettel](https://github.com/hackstream/zettel) - Notes organizer - based on Zettelkasten methodology. Written in Go.
+- [Foamy NextJS Starter](https://github.com/yenly/foamy-nextjs) - Basic Foam + NextJS with MDX starter for building a digital garden.
+- [Awesome Knowledge Management](https://github.com/brettkromkamp/awesome-knowledge-management)
+- [Memex](https://github.com/kormyen/memex) - Simple bookmarks and notes.
+- [POC on how a Memex could potentially work](https://github.com/steve-1820/memex)
+- [Agora](https://anagora.org/) - Distributed, goal-oriented social network centered around a cooperatively built and maintained knowledge graph.

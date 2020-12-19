@@ -1,6 +1,6 @@
 # [Notion](https://www.notion.so)
 
-Use it for projects as a wiki of docs, notes, todos.
+Use it for projects as a wiki of docs, notes, todos. I [share some boards in public](https://www.notion.so/Public-4899a884e6aa4bd394527d9a352a29dd).
 
 ## Notes
 
@@ -28,3 +28,11 @@ Use it for projects as a wiki of docs, notes, todos.
 - [My 2020 Setup in Notion](https://joeyabanks.io/notes/my-2020-setup-in-notion)
 - [Notion for Artists and Creatives](https://flowarte.com/notion-for-artists-and-creatives/)
 - [Super](https://super.so/) - Custom domains, fonts, and analytics for Notion.
+- [Notion Tools](https://www.notion.so/Notion-Tools-25d054da911344199cdf403cc04f317c)
+- [Notion Landing Pages, Ultimate Guide](https://optemization.com/notion-landing-page-guide)
+- [Notion Automations](https://notion-automations.com/) - Automate your Workflows on Notion with Zapier. ([HN](https://news.ycombinator.com/item?id=24931344))
+- [Host Notion](https://www.hostnotion.co/) - Custom domains for your Notion pages.
+- [Documentation for Dummies](https://air.inc/blog/documentation-for-dummies-notion-templates-for-early-stage-startups) - Notion templates based on real docs.
+- [Collection of Notion-based products and services](https://www.notion.so/Ultimate-Notion-collection-27cf98d2ed1c42f9a188990d0e36bf0a)
+- [Nishan](https://github.com/Nishan-Open-Source/Nishan) - Unofficial Notion api for node.js with all crud functionalities for Space, User, Block, Page and many more.
+- [notablog](https://github.com/dragonman225/notablog) - Generate a minimalistic blog from a Notion.so table.

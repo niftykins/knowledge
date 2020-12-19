@@ -8,7 +8,7 @@
 
 ## Links
 
-- [Physically Based Rendering Book](http://www.pbr-book.org) ([Web](https://www.pbrt.org/))
+- [Physically Based Rendering Book](http://www.pbr-book.org) ([Web](https://www.pbrt.org/)) ([V3](https://github.com/mmp/pbrt-v3)) ([V4](https://github.com/mmp/pbrt-v4))
 - [NVIDIA GeForce RTX - Official Launch Event (2018)](https://www.youtube.com/watch?v=Mrixi27G9yM)
 - [Writing to framebuffer](http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/)
 - [GUI Development is broken (2018)](http://www.charlesetc.com/gui-development-is-broken/)
@@ -22,7 +22,6 @@
 - [Cross-platform GPU fluid simulation](https://github.com/haxiomic/GPU-Fluid-Experiments)
 - [Interactive Cube](http://sketches.vlucendo.com/cube/)
 - [Skia](https://skia.org/) - Open source 2D graphics library which provides common APIs that work across a variety of hardware and software platforms. ([Code](https://github.com/google/skia))
-  - [Safe Rust bindings to the Skia](https://github.com/rust-skia/rust-skia)
 - [Introduction to Raymarching](https://github.com/ajweeks/RaymarchingWorkshop)
 - [2D Graphics on Modern GPU (2019)](https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html)
 - [Resources for Learning Graphics Programming](http://stephaniehurlburt.com/blog/2019/3/25/resources-for-learning-graphics-programming)
@@ -68,7 +67,7 @@
 - [Computer Graphics course by Keenan Crane (2020)](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
 - [How 3D video games do graphics (2020)](https://www.youtube.com/watch?v=bGe-d09Nc_M) ([Reddit](https://www.reddit.com/r/gamedev/comments/gvrx5m/how_3d_video_games_do_graphics/))
 - [The Physics of Light and Rendering - John Carmack (2013)](https://www.youtube.com/watch?v=P6UKhR0T6cs)
-- [Computer Graphics from scratch](https://github.com/ggambetta/computer-graphics-from-scratch) ([Web](https://gabrielgambetta.com/computer-graphics-from-scratch/introduction.html))
+- [Computer Graphics from Scratch](https://github.com/ggambetta/computer-graphics-from-scratch) ([Web](https://gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)) ([HN](https://news.ycombinator.com/item?id=25266812))
 - [Online path sampling control with progressive spatio-temporal filtering (2020)](https://arxiv.org/abs/2005.07547) ([Twitter](https://twitter.com/jpantaleoni/status/1270261105802252289))
 - [A sort-middle architecture for 2D graphics (2020)](https://raphlinus.github.io/rust/graphics/gpu/2020/06/12/sort-middle.html)
 - [Journal of Computer Graphics Techniques](http://www.jcgt.org/read.html)
@@ -80,3 +79,45 @@
 - [Lights and Shadows (2020)](https://ciechanow.ski/lights-and-shadows/) ([HN](https://news.ycombinator.com/item?id=23702552))
 - [Can’t Invert the CDF? The Triangle-Cut Parameterization of the Region under the Curve (2020)](https://eheitzresearch.wordpress.com/792-2/) ([Talk](https://www.youtube.com/watch?v=ZvgpbP0DyHs))
 - [Coding Adventure: Portals (2020)](https://www.youtube.com/watch?v=cWpFZbjtSQg)
+- [Computation graphs and graph computation (2020)](http://breandan.net/2020/06/30/graph-computation/) ([Lobsters](https://lobste.rs/s/flhjdb/computation_graphs_graph_computation))
+- [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html)
+- [Motion Capture from Internet Videos (2020)](https://zju3dv.github.io/iMoCap/)
+- [SPIR-V](https://www.khronos.org/registry/spir-v/) - Binary intermediate language for representing graphical-shader stages and compute kernels for multiple Khronos APIs, including OpenCL, OpenGL, and Vulkan.
+- [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) - Tool designed for parsing and converting SPIR-V to other shader languages.
+- [Low Level Graphics Library (LLGL)](https://github.com/LukasBanana/LLGL) - Abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal.
+- [Band-Limiting Procedural Textures (2020)](https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm)
+- [The compositor causes problems and leads to complexity (2020)](https://raphlinus.github.io/ui/graphics/2020/09/13/compositor-is-evil.html) ([HN](https://news.ycombinator.com/item?id=24466929))
+- [Rendering the Hellscape of Doom Eternal (2020)](http://advances.realtimerendering.com/s2020/RenderingDoomEternal.pdf)
+- [Introduction to Computer Graphics (2018)](http://math.hws.edu/graphicsbook/index.html) ([HN](https://news.ycombinator.com/item?id=24526845))
+- [Ray Marching Soft Shadows in 2D (2020)](https://www.rykap.com/2020/09/23/distance-fields/) ([HN](https://news.ycombinator.com/item?id=24569542))
+- [The polygons of DOOM: PSX (2020)](https://fabiensanglard.net/doom_psx/)
+- [A trip through the Graphics Pipeline 2011](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+- [Fooling Around with Foveated Rendering (2020)](https://www.peterstefek.me/focused-render.html) ([HN](https://news.ycombinator.com/item?id=24695275))
+- ["Panini projection", probably used by the Baroque painters, allows us to render images with wide field-of-vision (here 170°) more nicely than the usual perspective](https://twitter.com/ZenoRogue/status/1314573353353609216)
+- [HDRI Haven](https://hdrihaven.com/) - 100% Free High Quality HDRIs for Everyone.
+- [TwinklebearDev SDL 2.0 Tutorial](https://www.willusher.io/pages/sdl2/) ([Code](https://github.com/Twinklebear/TwinklebearDev-Lessons))
+- [Will Usher's research](https://www.willusher.io/)
+- [Graphics Samples of Jiayin Cao](https://github.com/JiayinCao/Graphics-Samples)
+- [Jiayin Cao Graphics Notes Blog](https://agraphicsguynotes.com/posts/)
+- [Text layout is a loose hierarchy of segmentation (2020)](https://raphlinus.github.io/text/2020/10/26/text-layout.html) ([HN](https://news.ycombinator.com/item?id=24906010))
+- [Bundler](https://github.com/snavely/bundler_sfm) - Bundler Structure from Motion Toolkit.
+- [CMU Computer Graphics course (2020)](http://15462.courses.cs.cmu.edu/fall2020/) ([Exams](http://15462.courses.cs.cmu.edu/fall2020content/exams/)) ([Tweet](https://twitter.com/keenanisalive/status/1321397305514332161))
+- [Nvdiffrast](https://github.com/NVlabs/nvdiffrast) - Modular Primitives for High-Performance Differentiable Rendering.
+- [Mesa](https://github.com/mesa3d/mesa) - 3D Graphics Library. ([Web](https://mesa3d.org/))
+- [A Comparison of Modern Graphics APIs (2020)](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
+- [Fluid Engine Dev - Jet](https://github.com/doyubkim/fluid-engine-dev) - Fluid simulation engine SDK for computer graphics applications. ([Web](https://fluidenginedevelopment.org/))
+- [meshoptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes meshes smaller and faster to render.
+- [Mitsuba 2: Retargetable Forward and Inverse Renderer (Differentiable Renderer)](http://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2) ([HN](https://news.ycombinator.com/item?id=25159154))
+- [RGL: Realistic Graphics Lab](http://rgl.epfl.ch/)
+- [Eight Years at Roblox (2020)](https://zeux.io/2020/08/02/eight-years-at-roblox/) ([HN](https://news.ycombinator.com/item?id=25158904))
+- [Mitsuba Renderer 2](https://github.com/mitsuba-renderer/mitsuba2) - Research-oriented rendering system written in portable C++17.
+- [Painting a Selfie Girl, with Maths (2020)](https://www.youtube.com/watch?v=8--5LwHRhjk)
+- [Building an artificial sun that looks unbelievably realistic (2020)](https://www.youtube.com/watch?v=6bqBsHSwPgw)
+- [Computer Graphics at Stanford University](https://graphics.stanford.edu/)
+- [Wojciech Jarosz Bibliography](https://github.com/wkjarosz/rendering-bib) - Publications mostly in computer graphics, rendering, transport theory, and statistics.
+- [OpenImageIO](https://github.com/OpenImageIO/oiio) - Reading, writing, and processing images in a wide variety of file formats, using a format-agnostic API, aimed at VFX applications.
+- [Deep Learning Medical Decathlon Demos for Python](https://github.com/IntelAI/unet)
+- [Computer Animation and Simulation (2020)](http://www-scf.usc.edu/~csci520/)
+- [Blend2D](https://github.com/blend2d/blend2d) - 2D Vector Graphics Powered by a JIT Compiler. ([Web](https://blend2d.com/))
+- [GLFW](https://www.glfw.org/) - Multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input. ([Code](https://github.com/glfw/glfw))
+- [Hallucinations re: the rendering of Cyberpunk 2077 (2020)](http://c0de517e.blogspot.com/2020/12/hallucinations-re-rendering-of.html) ([HN](https://news.ycombinator.com/item?id=25460220))

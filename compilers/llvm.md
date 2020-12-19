@@ -18,7 +18,7 @@
 - [LLVM Tutor](https://github.com/banach-space/llvm-tutor) - Collection of self-contained reference LLVM passes. It's a tutorial that targets novice and aspiring LLVM developers.
 - [LLVM Discourse](https://llvm.discourse.group/)
 - [LLVM Discord](https://discordapp.com/invite/xS7Z362)
-- [LLVM for Grad Students (2015)](https://www.cs.cornell.edu/~asampson/blog/llvm.html)
+- [LLVM for Grad Students (2015)](https://www.cs.cornell.edu/~asampson/blog/llvm.html) ([step-by-step tutorial for building an LLVM sample pass](https://github.com/abenkhadra/llvm-pass-tutorial))
 - [Quala](https://github.com/sampsyo/quala) - Type Qualifiers for LLVM/Clang.
 - [haybale](https://github.com/PLSysSec/haybale) - Symbolic execution of LLVM IR, written in Rust.
 - [2019 EuroLLVM Developers’ Meeting: V. Bridgers & F. Piovezan “LLVM IR Tutorial - Phis, GEPs ...”](https://www.youtube.com/watch?v=m8G_S5LwlTo)
@@ -44,3 +44,13 @@
 - [Vellvm](https://github.com/vellvm/vellvm) - Coq formalization of the semantics of (a subset of) the LLVM compiler IR.
 - [Writing an LLVM Optimization (2020)](https://www.youtube.com/watch?v=MagR2KY8MQI)
 - [KLEE](https://github.com/klee/klee) - Symbolic virtual machine built on top of the LLVM compiler infrastructure.
+- [ALLVM Research Project](https://publish.illinois.edu/allvm-project/) - All software components — except a small set needed for bootstrapping — are represented in a virtual instruction set instead of native machine code.
+- [Run LLVM Assembly in the Browser](http://kripken.github.io/llvm.js/demo.html) ([HN](https://news.ycombinator.com/item?id=24097446))
+- [Compiling a Higher-Order Smart Contract Language to LLVM](https://arxiv.org/pdf/2008.05555.pdf) ([Tweet](https://twitter.com/maqstik/status/1294170007891566593))
+- [The Dynamic Runtime Inlining (DRTI)](https://github.com/drti/drti) - With this project it is possible to take the output from an LLVM compiler such as clang and allow selected parts of the code to recompile themselves at runtime.
+- [Understanding static single assignment forms (2020)](https://blog.yossarian.net/2020/10/23/Understanding-static-single-assignment-forms)
+- [LLVM tutorial in Rust language](https://github.com/jauhien/iron-kaleidoscope)
+- [A tutorial on how to write a compiler using LLVM (2020)](https://tomassetti.me/a-tutorial-on-how-to-write-a-compiler-using-llvm/)
+- [cargo-llvm-lines](https://github.com/dtolnay/cargo-llvm-lines) - Count lines of LLVM IR per generic function.
+- [QBE vs. LLVM](https://c9x.me/compile/doc/llvm.html) ([HN](https://news.ycombinator.com/item?id=25273907))
+- [Infrastructure for ML - Driven Optimizations in LLVM](https://github.com/google/ml-compiler-opt)

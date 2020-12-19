@@ -4,6 +4,9 @@
 
 - [Opium](https://github.com/rgrinberg/opium) - Sinatra like web toolkit for OCaml.
 - [OCaml On Ice](https://github.com/roddyyaga/ocoi) - Web framework for OCaml in the style of Ruby on Rails.
+- [http/af](https://github.com/inhabitedtype/httpaf) - High performance, memory efficient, and scalable web server written in OCaml.
+- [Eliom](https://github.com/ocsigen/eliom) - Framework for building client/server Web and mobile applications in OCaml.
+- [ocaml-wasmtime](https://github.com/LaurentMazare/ocaml-wasmtime) - OCaml WebAssembly runtime powered by wasmtime.
 
 ## Test
 
@@ -11,7 +14,7 @@
 
 ## Science
 
-- [Owl](https://github.com/owlbarn/owl) - OCaml library for scientific and engineering computing. ([HN](https://news.ycombinator.com/item?id=20449595))
+- [Owl](https://github.com/owlbarn/owl) - OCaml library for scientific and engineering computing. ([HN](https://news.ycombinator.com/item?id=20449595)) ([Web](https://ocaml.xyz/))
 
 ## ML
 
@@ -42,6 +45,21 @@
 - [ppx_stage](https://github.com/stedolan/ppx_stage) - Staged metaprogramming in stock OCaml.
 - [Caqti](https://github.com/paurkedal/ocaml-caqti) - Provides a monadic cooperative-threaded OCaml connector API for relational databases.
 - [Streaming](https://github.com/odis-labs/streaming) - Fast, safe and composable streaming abstractions. ([Announcement](https://discuss.ocaml.org/t/ann-first-release-of-streaming/5961))
+- [cameleer](https://github.com/mariojppereira/cameleer) - Deductive Verification Tool for OCaml Programs.
+- [Ppxlib](https://github.com/ocaml-ppx/ppxlib) - Base library and tools for ppx rewriters.
+- [jsoo-react](https://github.com/jchavarri/jsoo-react) - Bindings to React for js_of_ocaml, including JSX ppx. Allows to use React from OCaml.
+- [OByteLib](https://github.com/bvaugon/obytelib) - OCaml bytecode library tools. Useful to read, write and evaluate OCaml bytecode files.
+- [bimage](https://github.com/zshipko/ocaml-bimage) - Composable image processing library for OCaml.
+- [Lwd](https://github.com/let-def/lwd) - Lets you build values that changes over time.
+- [Digestif](https://github.com/mirage/digestif) - Hash algorithms in C and OCaml.
+- [directories](https://github.com/OCamlPro/directories) - OCaml library that provides configuration, cache and data paths.
+- [Repr](https://github.com/mirage/repr) - Run-time representations of OCaml types.
+- [OCaml-MPST](https://github.com/keigoi/ocaml-mpst) - Communication library powered by Multiparty Session Types (abbreviated as MPST) in OCaml.
+- [eqaf](https://github.com/mirage/eqaf) - Constant time equal function.
+- [Pp](https://github.com/ocaml-dune/pp) - Pretty printing library.
+- [capnp-ocaml](https://github.com/capnproto/capnp-ocaml) - OCaml code generator plugin for the Cap'n Proto serialization framework.
+- [TyXML](https://github.com/ocsigen/tyxml) - Build valid HTML and SVG documents.
+- [parany](https://github.com/UnixJunkie/parany) - Parallelize any kind of computation.
 
 ## Links
 

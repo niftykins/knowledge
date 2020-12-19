@@ -3,7 +3,7 @@
 ## React Native
 
 - [CallStack](https://callstack.com/) - React Native community-trusted, extremely skilled Javascript developers.
-- [Galois](https://galois.com/) - Develops technology to guarantee the trustworthiness of systems where failure is unacceptable.
+- [Galois](https://galois.com/) - Develops technology to guarantee the trustworthiness of systems where failure is unacceptable. ([GitHub](https://github.com/GaloisInc/))
 - [Akveo](https://www.akveo.com/) - Delivering Web & Mobile Solutions.
 - [Spaceship Studio](https://spaceship.studio/) - Web & mobile development, strategy, and training.
 
@@ -15,6 +15,7 @@
 ## Rust
 
 - [Asquera](https://asquera.de/) - Specialise on the things below the covers: databases, queues, caches, APIs and the tiny details that make them all work together.
+- [Lyken Software Solutions](https://lyken.rs/) ([GitHub](https://github.com/LykenSol))
 
 ## Data Science
 
@@ -28,6 +29,7 @@
 - [Exyte](https://exyte.com/) - Mobile,  Blockchain,  AR/VR development services.
 - [M Cubed Software](https://www.mcubedsw.com/)
 - [Breakpoint Studio](https://breakpointstudio.com/) - Mobile Strategy, Design, Development.
+- [Elegant Chaos](https://elegantchaos.com/) - Mac and iOS software development, consultancy, debugging, and contracting.
 
 ## Node
 
@@ -45,6 +47,18 @@
 - [Red Collar digital agency](https://redcollar.digital/)
 - [Dialectic Design](https://dialectic.design/)
 - [Unfold](https://unfold.co/) - Create delightful experiences for brands. ([Dribble](https://dribbble.com/unfold))
+- [Clay](https://clay.global/) - UI/UX Design Agency, Web Design & Branding. ([Dribble](https://dribbble.com/clayglobal))
+- [makemepulse](https://www.makemepulse.com/)
+- [Milkinside](https://milkinside.com/)
+- [Awkward](https://www.awkward.co/) - Digital product agency.
+- [Human Deluxe Design Studio](https://humandeluxe.com/)
+- [This Too Shall Grow](https://thistooshallgrow.com/)
+- [Wiredcraft](https://wiredcraft.com/) - Creates & grows digital products for the world’s best brands.
+- [Z1](https://z1.digital/) - Digital Product Studio.
+- [No Service 24/7](https://www.noservice.today/) - Brand Agency.
+- [Unlikely Objects](https://unlikelyobjects.com/) - Storytelling studio.
+- [FAVO Studio](https://favostudio.com/) - Motion Design, Animation & Video.
+- [Websmyth](https://websmyth.co/) - Custom Websites For Small Businesses.
 
 ## DB
 
@@ -62,6 +76,10 @@
 
 - [Dasshbit](https://dashbit.co/) - Help startups and enterprises adopt and run Elixir in production.
 
+## Haskell
+
+- [Kowainik](https://kowainik.github.io/)
+
 ## NixOS
 
 - [NumTide](https://numtide.com/) - Bringing the power of Nix to companies since 2016.
@@ -69,6 +87,14 @@
 ## Elm
 
 - [Incremental Elm Consulting](https://incrementalelm.com/)
+
+## ML
+
+- [Principia Labs](https://principialabs.co.uk/) ([GitHub](https://github.com/principia-labs))
+
+## Embedded
+
+- [Vertigo Designs](https://vertigo-designs.com/)
 
 ## Other
 
@@ -94,6 +120,47 @@
 - [black.af](https://black.af/) - Software consulting agency aiming to provide you with industry experience, forward thinking solutions and self-driven tools.
 - [Futurice](https://futurice.com/) - Digital Engineering and Innovation.
 - [Little Miss Robot](https://littlemissrobot.com/) - Digital Product Design Agency.
+- [Itty Bitty Apps](https://www.ittybittyapps.com/) - Dedicated to native mobile apps.
+- [Troodon Software](http://www.troodon-software.com/)
+- [Lickability](https://lickability.com/) - Software studio in NYC that builds apps.
+- [Skcript](https://www.skcript.com/)
+- [Autogram](https://autogram.is/) - Content management and design systems experts.
+- [Echobind](https://echobind.com/)
+- [This Dot Labs](https://labs.thisdot.co/)
+- [Uberdosis](https://github.com/ueberdosis) - Digital product agency, building own products & working for clients.
+- [Littlelines](https://littlelines.com/) - Ruby on Rails Development Company.
+- [Atomic Object](https://atomicobject.com/)
+- [Bitfield Consulting](https://bitfieldconsulting.com/) - Cloud native & Go consultancy.
+- [Apptension](https://apptension.com/)
+- [Abstract Machines](https://abstractmachines.dev/) - Short contracts, code reviews, and coaching in the fields of web, data, and knowledge engineering.
+- [Futured](https://www.futured.app/en/) - Mobile business builders.
+- [Metosin](https://www.metosin.fi/en/)
+- [Elements](https://www.elements.nl/en) - Specialist for Digital Design & Development.
+- [HYPE4](https://hype4.com/) - Web and mobile / design and development.
+- [FP Complete](https://www.fpcomplete.com/) - Specialize in building Reliable, Repeatable, Scalable and Highly Secure Software.
+- [gskinner](https://gskinner.com/)
+- [47 Degrees](https://www.47deg.com/) - Engineering the Future of Enterprise.
+- [Moritz Systems](https://www.moritz.systems/) - Code Security, Embedded Solutions, IOT and Edge Computing.
+- [LateCheckout](https://withlatecheckout.com/) - Communities design firm.
+- [Underjord](https://underjord.io/) - Artisanal software development, quality productions and some teaching.
+- [Strumenta](https://strumenta.com/)
+- [RokkinCat](https://rokkincat.com/)
+- [The Agile Monkeys](https://www.theagilemonkeys.com/) - Team of full-stack senior software engineers.
+- [QuarkWorks](https://quarkworks.co/)
+- [Jayway](https://www.jayway.com/)
+- [Bad Idea Factory](https://biffud.com/)
+- [Shakacode](https://www.shakacode.com/) - Ruby on Rails, React, Gatsby and Reason development.
+- [Nodes Agency](https://www.nodesagency.com/) - Digital product development agency.
+- [Technokrat](https://technokrat.ch/)
+- [Dwarves Foundation](https://dwarves.foundation/) ([GitHub](https://github.com/dwarvesf))
+- [Beautiful Interactions](https://beautifulinteractions.com/) - Tailored digital solutions, made beautifully.
+- [Jantcu](https://jantcu.com/) - Web design & tech consulting. ([GitHub](https://github.com/Jantcu))
+- [Mwie Ltd](http://www.mwie.com/)
+- [STRV](https://www.strv.com/) - Software Design & Engineering.
+- [Typeable](https://typeable.io/) - Haskell, FP, software development and consulting. ([GitHub](https://github.com/typeable))
+- [wearereasonablepeople](https://wearereasonablepeople.com/) ([GitHub](https://github.com/wearereasonablepeople))
+- [Lucina & Associates](https://lucina.net/) - Small consulting group specializing in bespoke software development and system integration.
+- [EGO Creative Innovations](https://www.ego-cms.com/) - Develop Mobile Apps for Businesses.
 
 ## Links
 
@@ -105,3 +172,6 @@
 - [Client](https://www.toclient.com/) - Simplified requirement collection for freelancers and agencies. Say goodbye to boring contact forms, emails and unproductive first calls.
 - [Clutch](https://clutch.co/) - B2B Ratings & Reviews.
 - [Software Consulting Legal Documents](https://numtide.github.io/software-consulting-documents/) ([Code](https://github.com/numtide/software-consulting-documents))
+- [Software Consulting: What This Really Means and How to Start (2020)](https://daedtech.com/software-consulting/)
+- [Becoming A Consultant In 2020: A How-To Guide (2020)](https://ericvanular.com/becoming-a-consultant-in-2020/)
+- [Ask HN: How do custom software dev firms make money? (2020)](https://news.ycombinator.com/item?id=24959238)

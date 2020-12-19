@@ -28,3 +28,22 @@
 - [Ethics in Geo (2020)](https://macwright.org/2020/06/21/ethics-in-geo.html)
 - [Seeing how it all unfolds (2020)](https://erdavis.com/2020/06/19/seeing-how-it-all-unfolds/)
 - [Very spatial people to follow on Twitter (2020)](https://spatialawareness.xyz/blog/very-spatial-people-to-follow-on-twitter/) ([Tweet](https://twitter.com/robhawkes/status/1280055131178926080))
+- [Specifications for storing geospatial data in Apache Arrow and Apache Parquet](https://github.com/geopandas/geo-arrow-spec)
+- [IMDF - Indoor Mapping Data Format](https://register.apple.com/resources/imdf/) ([HN](https://news.ycombinator.com/item?id=24763023))
+- [React-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - React wrapper for mapbox-gl-js.
+- [Solaris](https://github.com/CosmiQ/solaris) - Geospatial Machine Learning Analysis Toolkit.
+- [GeoJSON Vector Tiles](https://github.com/mapbox/geojson-vt) - Slice GeoJSON into vector tiles on the fly in the browser.
+- [I Hate Coordinate Systems](https://ihatecoordinatesystems.com/) ([HN](https://news.ycombinator.com/item?id=24917394))
+- [contextily](https://github.com/geopandas/contextily) - Context geo tiles in Python.
+- [FlatGeobuf](https://github.com/bjornharrtell/flatgeobuf) - Performant binary encoding for geographic data based on flatbuffers.
+- [Spatial computing could be the next big thing (2020)](https://www.scientificamerican.com/article/spatial-computing-could-be-the-next-big-thing/) ([HN](https://news.ycombinator.com/item?id=25216621))
+- [Best practices with cloud-optimized-geotiffs (COGs)](https://github.com/pangeo-data/cog-best-practices)
+- [Awesome Geospatial Companies](https://github.com/chrieke/awesome-geospatial-companies)
+- [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL. ([Docs](https://docs.mapbox.com/mapbox-gl-js/api/)) ([OSS Fork](https://github.com/openmaptiles/gl-js))
+- [Zood](https://www.zood.xyz/) - End encrypted location sharing service like Google Latitude. ([HN](https://news.ycombinator.com/item?id=25347915))
+- [OpenMapTiles](https://openmaptiles.org/) - World maps you can self-host. ([GitHub](https://github.com/openmaptiles))
+- [OpenStreetMap](https://www.openstreetmap.org/) - Provides map data for thousands of web sites, mobile apps, and hardware devices. ([GitHub](https://github.com/openstreetmap))
+- [We Built Scalable Spatial Indexing in CockroachDB (2020)](https://www.cockroachlabs.com/blog/how-we-built-spatial-indexing/)
+- [Leaflet.glify](https://github.com/robertleeplummerjr/Leaflet.glify) - Functional, ridiculously fast web gl renderer plugin for leaflet.
+- [Satpy](hnttps://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing.
+- [Pytroll](http://pytroll.github.io/) - Easy to use, modular, free and open source python framework for the processing of earth observation satellite data. ([GitHub](https://github.com/pytroll))

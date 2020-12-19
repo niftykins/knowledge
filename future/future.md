@@ -1,17 +1,20 @@
 # Future
 
-## ~ 2030
+## ~ 2025
 
-- People wake up and animals get actual rights and are no longer forced to endure life in slaughterhouses. Being vegan is normal. Caring is normal.
-- Learn Anything is top 5 most visited websites on the internet. AI is able to craft personal optimized learning paths for learning any topic on Earth.
-- No use of fossil fuels. Only sustainable & environmentally safe sources used.
-- Every device that needs to connect to the internet, is connected. Abundant connectivity for all devices.
-- Autonomous driving fully integrated into society.
-
-## ~ 2040
-
-- AGI
-- Cure for all cancers & diseases (cheap immunotherapies, drugs)
+- Animals get human rights and are no longer forced to endure life in slaughterhouses and be eaten. No animal can be harmed for food. Being vegan is normal. Caring is normal.
+- No fossil fuels used. Only sustainable & environmentally energy sources used. Each country's grid is ran off renewable clean energy.
+- All vehicles are electrical. Autonomous driving fully realized.
+- Cure for all cancers & diseases (cheap immunotherapies, medicine).
+- Psychedelics legalized. Both possession, purchase and manufacturing.
+- NLP lets machines understand knowledge & language at deep level.
+- Universal basic income allows each person to work on problems they deeply care about. Novel ideas can be explored by each person according to their interest & skill.
+- Learn Anything is top 5 most visited websites on the internet. AI is able to craft personal optimized learning paths for learning any topic.
+- No more Electron. All apps are native and use optimal amount of resources.
+- No more UX dark patterns. Each app/tool experience optimizes for user joy & empowerment.
+- Ability to control computers with thoughts at high bandwidth.
+- Smarter cities that are friendly to humans, not cars.
+- A lot of designated areas across the globe given back to wildlife to flourish.
 
 ## Links
 
@@ -39,3 +42,11 @@
 - [ASK HN: What’s a big trend we should all be following? (2020)](https://news.ycombinator.com/item?id=23579184) ([Reddit](https://www.reddit.com/r/startups/comments/hc7vqb/whats_a_big_trend_right_now_we_should_all_be/))
 - [The Roots of Progress](https://rootsofprogress.org/) - The story of human progress—and how we can keep it going.
 - [Progress Studies for Aspiring Young Scholars](https://progressstudies.school/) - Online summer program in the history of technology for high school students. ([HN](https://news.ycombinator.com/item?id=23665298))
+- [Future of work + cities (2020)](https://twitter.com/wolfejosh/status/1295742515879055367)
+- [Fascinating Internet niche communities](https://twitter.com/_patriciamou/status/1296654041569570819)
+- [What happened to the future? - Founders Fund](https://foundersfund.com/the-future/)
+- [Which positive change in the world do you hope to see in your lifetime? (2020)](https://twitter.com/MaxCRoser/status/1310245891731750913)
+- [Audio’s opportunity and who will capture it (2020)](https://www.matthewball.vc/all/audiotech) ([HN](https://news.ycombinator.com/item?id=24815888))
+- [Progress, Stagnation, and Flying Cars (2020)](https://rootsofprogress.org/where-is-my-flying-car) ([HN](https://news.ycombinator.com/item?id=25073835))
+- [Metatrends shaping the next decade (2020)](https://peterhdiamandis.medium.com/metatrends-shaping-the-next-decade-d09718144961) ([HN](https://news.ycombinator.com/item?id=25083480))
+- [Ask HN: What underestimated technologies will dominate within 5 years? (2020)](https://news.ycombinator.com/item?id=25096973)

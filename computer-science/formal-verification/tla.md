@@ -11,3 +11,8 @@
 - [BlockingQueue](https://github.com/lemmy/BlockingQueue) - Tutorial-style talk "Weeks of debugging can save you hours of TLA+".
 - [APALACHE](https://github.com/konnov/apalache) - Symbolic model checker for TLA+.
 - [TLA+ Model Checking Made Symbolic (2019)](https://hal.archives-ouvertes.fr/hal-02280888/document)
+- [TLA+ Examples](https://github.com/tlaplus/Examples) - Collection of TLA+ specifications of varying complexities.
+- [Using TLA+ in the Real World to Understand a Glibc Bug (2020)](https://probablydance.com/2020/10/31/using-tla-in-the-real-world-to-understand-a-glibc-bug/) ([HN](https://news.ycombinator.com/item?id=24958504))
+- [Safety and Liveness Properties (2020)](https://buttondown.email/hillelwayne/archive/safety-and-liveness-properties/)
+- [TLA+ at Microsoft to build planetary-scale systems (2020)](https://www.youtube.com/watch?v=UVHnuxWZkvk) ([HN](https://news.ycombinator.com/item?id=25426030))
+- [TLA+ Community Event & Conference](http://conf.tlapl.us/home/)

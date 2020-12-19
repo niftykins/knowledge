@@ -3,6 +3,8 @@
 ## Notes
 
 - Like how [Stripe](https://stripe.com/) does the hamburger menu on mobile.
+- [Underappreciated competitive advantage: letting people do x without creating an account.](https://twitter.com/paulg/status/1261976515408990208)
+- Love how both Apple & [Linear](https://linear.app/release-2020-12) present features in neat boxes on a grid.
 
 ## Links
 
@@ -25,3 +27,30 @@
 - [Design and Anatomy of a Push Notification 2020](https://onesignal.com/blog/push-notification-design-anatomy/)
 - [Waveguide](https://www.waveguide.io/patterns/all) - Customer Experience Examples and UX Design Examples.
 - [Menus, Metaphors and Materials: Milestones of User Interface Design (2020)](https://medium.com/@borism/menus-metaphors-and-materials-milestones-of-user-interface-design-f3f75481c46c)
+- [Writing UX copy for buttons and links (2020)](https://vanschneider.com/writing-ux-copy-for-buttons-and-links)
+- [Laws of UX](https://lawsofux.com/) - Help anyone understand web design principles for the sites we use everyday. ([HN](https://news.ycombinator.com/item?id=24030969)) ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/i2fp1e/laws_of_ux_can_help_anyone_understand_web_design/))
+- [The UX of LEGO Interface Panels (2020)](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)
+- [How to conduct UX user interviews (2020)](https://uxdesign.cc/how-to-conduct-ux-user-interviews-68721f186fb)
+- [UX design: Tools, methods and frameworks for generalists (2020)](https://nickdewilde.substack.com/p/the-keyring-zac-halbert-on-ux-design) ([HN](https://news.ycombinator.com/item?id=24112275))
+- [Read Me: Web](https://readymag.com/designs/1961839/) - To keep attention focused, readability is key. ([HN](https://news.ycombinator.com/item?id=24451426))
+- [Why Do We Interface?](https://whydoweinterface.com/) - Micro-book with incomplete observations on human-computer interfaces.
+- [The How (and Why) of User Flows](https://learnuxd.io/posts/the-how-and-why-of-user-flows/)
+- [Learn UXD](https://learnuxd.io/) - Learn user-first design.
+- [Stop Asking Me to “Sign Up” (2014)](https://www.gkogan.co/blog/stop-asking-me-to-sign-up/) ([HN](https://news.ycombinator.com/item?id=24599642))
+- [Guide to UX Research](https://maze.design/guides/ux-research)
+- [Tips on using toggle switches](https://twitter.com/alexmuench/status/1311217244379271168)
+- [Design better data tables (2017)](https://medium.com/nextux/design-better-data-tables-4ecc99d23356)
+- [Usability Testing in 4 Simplified Steps](https://learnuxd.io/posts/usability-testing-in-4-simplified-steps)
+- [The UX copywriter](https://vanschneider.com/series/writing-ux-copy)
+- [UXArchive](https://uxarchive.com/) - Library of mobile user flows.
+- [Linear's Superb User Experience (2020)](https://www.buildwithusers.com/p/superb-user-experience-with-linear)
+- [How we built an app update flow our users love (2020)](https://medium.com/raycastapp/how-we-built-an-app-update-flow-our-users-love-89820602e8fe)
+- [How we made our SaaS homepage cookie-free (2020)](https://blog.leavemealone.app/no-more-cookies/) ([HN](https://news.ycombinator.com/item?id=24979167))
+- [Best UX resources for 2021](https://blog.uxtweak.com/best-ux-resources-2021/)
+- [Reducing Cognitive Overload for a Better User Experience (2016)](https://www.smashingmagazine.com/2016/09/reducing-cognitive-overload-for-a-better-user-experience/)
+- [Free UX crash course](https://www.kickassux.com/free-crash-course)
+- [Kickass UX](https://www.kickassux.com/) - Learn UX/UI design.
+- [User Experience Database](https://www.uxdatabase.io/) - Biggest free curated product design resources & tools.
+- [Interaction Design in a Nutshell](https://github.com/SSoelvsten/interaction-design-in-a-nutshell) - Dense, clearly defined, and small guide to interaction design.
+- [List of worst UX (2020)](https://twitter.com/iamdevloper/status/1337538974789865473)
+- [UX Christmas](https://ux.christmas/)

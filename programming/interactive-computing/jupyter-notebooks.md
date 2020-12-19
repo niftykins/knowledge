@@ -14,6 +14,8 @@
 - [jupyterlab-execute-time](https://github.com/deshaw/jupyterlab-execute-time) - Execute Time Plugin for Jupyter Lab.
 - [jupyterlab-cell-flash](https://github.com/jtpio/jupyterlab-cell-flash) - Show a flash effect when a notebook cell is executed.
 - [Octave kernel for Jupyter](https://github.com/Calysto/octave_kernel)
+- [extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts) - Cookiecutter template for creating a JupyterLab extension in TypeScript with optionally a Python server extension.
+- [GitPlus](https://github.com/ReviewNB/jupyterlab-gitplus) - JupyterLab extension to create GitHub commits & pull requests.
 
 ## Links
 
@@ -64,3 +66,27 @@
 - [A Jupyter kernel for SQLite (2020)](https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551) ([HN](https://news.ycombinator.com/item?id=23539541))
 - [Jovian.ml](https://www.jovian.ml/) - Collaboration platform for data science projects & Jupyter notebooks. ([Code](https://github.com/JovianML/jovian-py))
 - [Juniper](https://github.com/ines/juniper) - Edit and execute code snippets in the browser using Jupyter kernels.
+- [Transform Jupyter Notebook to an Ebook (2020)](https://towardsdatascience.com/transform-jupyter-notebook-to-an-ebook-ef3a9d32ac4f)
+- [Starboard](https://starboard.gg/) - Fully in-browser literate notebooks like Jupyter Notebook. ([HN](https://news.ycombinator.com/item?id=24029002)) ([Code](https://github.com/gzuidhof/starboard-notebook))
+- [Jupyter Book](https://github.com/executablebooks/jupyter-book) - Open-source tool for building publication-quality books and documents from computational material. ([Intro](https://blog.jupyter.org/announcing-the-new-jupyter-book-cbf7aa8bc72e)) ([HN](https://news.ycombinator.com/item?id=24136955)) ([Web](https://jupyterbook.org/intro.html)) ([Docs](https://executablebooks.org/en/latest/))
+- [Tracking Jupyter newsletter](https://tinyletter.com/TrackingJupyter/)
+- [Text2Code for Jupyter notebook](https://github.com/deepklarity/jupyter-text2code) - Proof-of-concept jupyter extension which converts english queries into relevant python code.
+- [Notebook.community](https://notebook.community/) - Effort to archive the most interesting open-source Jupyter notebooks.
+- [How TensorFlow docs uses Jupyter notebooks (2020)](https://blog.tensorflow.org/2020/10/how-tensorflow-docs-uses-juypter-notebooks.html)
+- [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks. ([Docs](https://jupyterhub.readthedocs.io/en/stable/))
+- [Treebeard](https://github.com/treebeardtech/treebeard) - Notebook-First Continuous Integration Framework.
+- [kernel-relay](https://github.com/nteract/kernel-relay) - GraphQL service for interfacing with one or more Jupyter kernels.
+- [xeus](https://github.com/jupyter-xeus/xeus) - C++ implementation of the Jupyter kernel protocol.
+- [xeus-cling](https://github.com/jupyter-xeus/xeus-cling) - Jupyter kernel for C++ based on the C++ interpreter cling and the native implementation of the Jupyter protocol xeus.
+- [xeus-python](https://github.com/jupyter-xeus/xeus-python) - Jupyter kernel for Python based on the native implementation of the Jupyter protocol xeus.
+- [Jeremy Howard: I Like Notebooks (2020)](https://www.youtube.com/watch?v=9Q6sLbz37gk) ([HN](https://news.ycombinator.com/item?id=24926214)) ([HN 2](https://news.ycombinator.com/item?id=24945671))
+- [ReviewNB](https://www.reviewnb.com/) - Visual Diff & Commenting for Jupyter Notebooks. ([GitHub](https://github.com/ReviewNB))
+- [Jupyter Extension for VS Code](https://github.com/microsoft/vscode-jupyter)
+- [Jupyter Notebook Format](https://github.com/jupyter/nbformat) - Reference implementation of the Jupyter Notebook format. ([Docs](https://nbformat.readthedocs.io/en/latest/))
+- [nbsafety](https://github.com/nbsafety-project/nbsafety) - Fearless interactivity for Jupyter notebooks.
+- [notebooker](https://github.com/man-group/notebooker) - Productionise your Jupyter Notebooks, just as interactively as you wrote them.
+- [NBClient](https://github.com/jupyter/nbclient) - Client library for programmatic notebook execution, is a tool for running Jupyter Notebooks in different execution contexts.
+- [transforms](https://github.com/nteract/outputs) - Collection of React components for displaying rich Jupyter display objects.
+- [jupyterlab server](https://github.com/jupyterlab/jvomupyterlab_server) - Set of server components for JupyterLab and JupyterLab like applications.
+- [Setup Anaconda, Jupyter, and Rust (2020)](https://datacrayon.com/posts/programming/rust-notebooks/setup-anaconda-jupyter-and-rust/)
+- [NBSite](https://github.com/pyviz-dev/nbsite) - Build a tested, sphinx-based website from notebooks.

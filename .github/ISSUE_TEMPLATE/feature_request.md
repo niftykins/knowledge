@@ -1,13 +1,10 @@
 ---
 name: Feature ✨
-about: Suggest new idea for the project
-labels: enhancement
+about: Suggest new idea
+labels: feature
 ---
+<!-- Search existing issues to avoid duplicates. Check readme/contributing docs. -->
+<!-- Why do we need this? Please explain the motivation, how it will be used, etc. -->
 
 ### Feature ✨
-<!-- Search existing issues to avoid duplicates. Provide detailed request. -->
 
-
-
-<!-- Why do we need this? Please explain the motivation, how it will be used, etc. -->
-<!-- Optionally think about how this could be added. Can you add it and submit a PR? -->

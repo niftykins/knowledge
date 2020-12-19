@@ -4,7 +4,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Utility
 
-- [Ale](https://github.com/w0rp/ale) - Asynchronous Lint Engine.
+- [Ale](https://github.com/dense-analysis/ale) - Asynchronous Lint Engine.
 - [Cool](https://github.com/romainl/vim-cool) - Stop matching after search is done.
 - [Auto Pairs](https://github.com/jiangmiao/auto-pairs) - Insert or delete brackets, parens, quotes in pair.
 - [Nerdcommenter](https://github.com/scrooloose/nerdcommenter) - Quick comments.
@@ -17,7 +17,6 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Incsearch](https://github.com/haya14busa/incsearch.vim) - Improved incremental searching.
 - [Easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed.
 - [Quickrun](https://github.com/thinca/vim-quickrun) - Run commands quickly.
-- [Prettier](https://github.com/prettier/vim-prettier) - Prettier support.
 
 ## Git
 
@@ -36,11 +35,19 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Utility
 
+- [instant.nvim](https://github.com/jbyuki/instant.nvim) - Collaborative editing in Neovim using built-in capabilities.
+- [any-jump.vim](https://github.com/pechorin/any-jump.vim) - Vim code inspection plugin for finding definitions and references/usages.
+- [FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - No nonsense floating terminal written in lua.
+- [barbar.nvim](https://github.com/romgrk/barbar.nvim) - Tabs, as understood by any other editor.
+- [nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - Neovim plugin to make the LSP client use FZF.
+- [Vista.vim](https://github.com/liuchengxu/vista.vim) - View and search LSP symbols, tags in Vim/NeoVim.
+- [vim-clap](https://github.com/liuchengxu/vim-clap) - Modern generic interactive finder and dispatcher.
+- [vim-picker](https://github.com/srstevenson/vim-picker) - Vim plugin for fuzzy selection of files, buffers, tags, and more.
 - [Conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet).
 - [vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right.
 - [express.vim](https://github.com/tommcdo/vim-express) - Easily create custom Vim operators using expressions and substitutions.
 - [completion-nvim](https://github.com/haorenW1025/completion-nvim) - Async completion framework aims to provide completion to neovim's built in LSP written in Lua.
-- [vim-floaterm](https://github.com/voldikss/vim-floaterm) - Play with nvim/vim's builtin terminal.
+- [vim-floaterm](https://github.com/voldikss/vim-floaterm) - Use nvim/vim's builtin terminal in the floating/popup window.
 - [WakaTime](https://github.com/wakatime/vim-wakatime) - Automatic time tracking.
 - [Dash](https://github.com/rizzatti/dash.vim) - Search Dash app.
 - [vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - Plugin designed to make you better at vim by creating a game to practice basic movements in.
@@ -53,6 +60,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [NCM2](https://github.com/ncm2/ncm2) - Slim, Fast and Hackable Completion Framework for Neovim.
 - [Neoformat](https://github.com/sbdchd/neoformat) - Format code.
 - [Snippets](https://github.com/honza/vim-snippets) - Snippet files for various programming languages.
+- [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Next generation library for creating floating pickers with advanced features.
 - [Deoplete](https://github.com/Shougo/deoplete.nvim) - Asynchronous completion framework.
 - [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [Autoformat](https://github.com/Chiel92/vim-autoformat) - Easy code formatting.
@@ -83,13 +91,13 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Startup Time](https://github.com/tweekmonster/startuptime.vim) - Profile startup time.
 - [Sneak](https://github.com/justinmk/vim-sneak) - Jump to any location specified by two characters.
 - [Limelight](https://github.com/junegunn/limelight.vim) - Highlight only active paragraphs.
-- [Auto pairs](https://github.com/jiangmiao/auto-pairs) - Insert or delete brackets, parens, quotes in pair.
 - [Unimpaired](https://github.com/tpope/vim-unimpaired) - Pairs of handy bracket mappings.
 - [Multiple cursors](https://github.com/terryma/vim-multiple-cursors) - Sublime Text style multiple selections.
 - [Table mode](https://github.com/dhruvasagar/vim-table-mode) - Instant table creation.
 - [Abolish](https://github.com/tpope/vim-abolish) - Search for, substitute, and abbreviate multiple variants of a word.
 - [Gutentags](https://github.com/ludovicchabant/vim-gutentags) - Manages your tag files.
 - [Vimtex](https://github.com/lervag/vimtex) - LaTeX support.
+- [Prettier](https://github.com/prettier/vim-prettier) - Prettier support.
 - [Goyo](https://github.com/junegunn/goyo.vim) - Distraction-free writing.
 - [Ultisnips](https://github.com/SirVer/ultisnips) - Ultimate snippet solution for Vim.
 - [Incsearch & Easymotion](https://github.com/haya14busa/incsearch-easymotion.vim) - Incsearch & easymotion integration.
@@ -100,6 +108,12 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root (identified by presence of known directory or file).
 - [vimspector](https://github.com/puremourning/vimspector) - Multi-language debugging system for Vim.
 - [Completor](https://github.com/maralla/completor.vim) - Async completion framework made ease.
+- [File Explorer](https://github.com/kyazdani42/nvim-tree.lua) - Simple tree for neovim written in lua.
+- [Defx](https://github.com/Shougo/defx.nvim) - Dark powered file explorer implementation.
+- [coc-explorer](https://github.com/weirongxu/coc-explorer) - Explorer for coc.nvim.
+- [nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion plugin for nvim.
+- [fzf-preview.vim](https://github.comfzf-preview.vim/yuki-ycino/fzf-preview.vim) - coc extensions and Neovim plugin that provides collection of features to assist file management using fzf.
+- [vimspector](https://github.com/puremourning/vimspector) - Multi language graphical debugger for Vim.
 
 ## Looks
 
@@ -110,6 +124,9 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Bufferline](https://github.com/bling/vim-bufferline) - Show the list of buffers in the command bar.
 - [Airline](https://github.com/vim-airline/vim-airline) - Lean & mean status/tabline.
 - [Airline themes](https://github.com/vim-airline/vim-airline-themes) - Collection of themes for Airline.
+- [vim-colors-xcode](https://github.com/arzg/vim-colors-xcode) - Xcode 11’s dark and light colourschemes, now for Vim.
+- [galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) - Neovim statusline plugin written in lua.
+- [Lush](https://github.com/rktjmp/lush.nvim) - Define Neovim themes as a DSL in lua, with real-time feedback.
 
 ## Syntax
 
@@ -161,6 +178,10 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 - [lightline-ale](https://github.com/maximbaz/lightline-ale) - Provides ALE indicator for the lightline vim plugin.
 
+## OCaml
+
+- [Merlin](https://github.com/ocaml/merlin) - Context sensitive completion for OCaml in Vim and Emacs.
+
 ## Vim
 
 - [Neco](https://github.com/Shougo/neco-vim) - Vim source for neocomplete/deoplete.
@@ -180,3 +201,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Vim plugins I use (2018)](https://news.ycombinator.com/item?id=17430546)
 - [Overview of what belongs in each directory of a Vim plugin](https://gist.github.com/nelstrom/1056049/784e252c3de653e204e9e128653010e19fbd493f)
 - [Vim Awesome](https://vimawesome.com/) - Awesome Vim plugins from across the universe. ([Code](https://github.com/vim-awesome/vim-awesome))
+- [vim-plug](https://github.com/junegunn/vim-plug) - Minimalist Vim Plugin Manager.
+- [dein.vim](https://github.com/Shougo/dein.vim) - Dark powered Vim/Neovim plugin manager.
+- [Paq](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
+- [Neovim Lua Debug Adapter](https://github.com/mfussenegger/nvim-lua-debugger) - Debug Adapter that allows debugging lua plugins written for Neovim.

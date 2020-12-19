@@ -28,3 +28,21 @@
 - [Analog-to-Digital Conversion Playground](https://github.com/kronawetter/analog-to-digital-conversion) - Aims to explain the process of converting analog signals to digital ones.
 - [Logic, before ICs (2020)](https://northcoastsynthesis.com/news/logic-before-ics/) ([HN](https://news.ycombinator.com/item?id=23591521))
 - [Synth DIY Projects](https://northcoastsynthesis.com/synth-diy-projects/)
+- [Electronics & Microcontrollers for Absolute Beginners (2020)](https://hackaday.io/page/7185-electronics-microcontrollers-for-absolute-beginners-part-1)
+- [VSRTL](https://github.com/mortbopet/VSRTL) - Visual Simulation of Register Transfer Logic.
+- [Signal Reflection](https://www.solipsys.co.uk/new/SignalReflection.html?th08hn) ([HN](https://news.ycombinator.com/item?id=24093132))
+- [3D Printing Integrated Circuits: What's Possible Now and in the Future? (2019)](https://www.nano-di.com/blog/2019-3d-printing-integrated-circuits-whats-possible-now-and-in-the-future) ([HN](https://news.ycombinator.com/item?id=24119102))
+- [An Analog IC Design Book Draft (2020)](https://hackaday.com/2020/08/31/an-analog-ic-design-book-draft/)
+- [Zachtronics Kohctpyktop game](http://www.zachtronics.com/kohctpyktop-engineer-of-the-people/)
+- [Edalize](https://github.com/olofk/edalize) - Python Library for interacting with EDA tools.
+- [This electrical transmission tower has a problem (2020)](https://twitter.com/tubetimeus/status/1306359385656946688) ([HN](https://news.ycombinator.com/item?id=24499924)) ([Notes](https://twitter.com/MarcJBrooker/status/1306594464337551360))
+- [Precursor – A mobile, open source electronics platform](https://www.bunniestudios.com/blog/?p=5921) ([HN](https://news.ycombinator.com/item?id=24527846))
+- [Guide to LEDs (2020)](https://www.youtube.com/watch?v=Y06VHj1GvLI)
+- [An Intuitive Look at Moving Average and CIC Filters (2020)](https://tomverbeure.github.io/2020/09/30/Moving-Average-and-CIC-Filters.html)
+- [Elroy Lamp: A transparent LCD lamp](https://www.kylescholz.com/wp/the-elroy-lamp/)
+- [Kitspace](https://kitspace.org/) - Place to share ready-to-order electronics designs.
+- [WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses.
+- [Copper](https://github.com/Yatekii/copper) - PCB EDA Tool written in Rust.
+- [Building Sustainable Electronics (2020)](https://gopher.mills.io/republic.circumlunar.space/0/~xkp/phlog/2020-11-08-building-sustainable-electronics.txt)
+- [Ask HN: Most efficient way for the inexperienced to learn PCB design? (2020)](https://news.ycombinator.com/item?id=25164660)
+- [logicsim](https://github.com/raycar5/logicsim) - Create and simulate digital circuits with Rust abstractions.

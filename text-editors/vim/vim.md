@@ -8,11 +8,11 @@ I use [Neovim](https://github.com/neovim/neovim) instead of vim and my vimrc can
 
 I switch between Ayu Light and Ayu Mirage themes as I change between macOS appearances.
 
-![](https://i.imgur.com/iu79ifS.png)
+![](https://i.imgur.com/LKSOmms.png)
 
 > Ayu Light
 
-![](https://i.imgur.com/k9pyjvd.png)
+![](https://i.imgur.com/f0wFbdH.png)
 
 > Ayu Mirage
 
@@ -65,3 +65,28 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Neovim Async Tutorial (2020)](https://ms-jpq.github.io/neovim-async-tutorial/)
 - [How Did Vim Become So Popular (2020)](https://pragmaticpineapple.com/how-did-vim-become-so-popular/) ([HN](https://news.ycombinator.com/item?id=23689091)) ([Lobsters](https://lobste.rs/s/smszig/how_did_vim_become_so_popular)) ([Reddit](https://www.reddit.com/r/vim/comments/hilqrw/how_did_vim_become_so_popular/))
 - [Vim's Versatile CLI (2020)](https://www.youtube.com/watch?v=pt36X1OJRG4) ([Lobsters](https://lobste.rs/s/v0vfcy/vim_s_versatile_cli))
+- [GNvim](https://github.com/vhakulinen/gnvim) - Rich Neovim GUI without any web bloat.
+- [Why Should You Learn Vim in 2020](https://pragmaticpineapple.com/why-should-you-learn-vim-in-2020/) ([Lobsters](https://lobste.rs/s/07tbby/why_should_you_learn_vim_2020)) ([HN](https://news.ycombinator.com/item?id=24064809))
+- [Vim Search, Find and Replace: a Detailed Guide (2020)](https://thevaluable.dev/vim-search-find-replace/)
+- [Neovim 0.5.0: Language Server Protocol (2020)](https://nathansmith.io/posts/neovim-lsp)
+- [Neovim for macOS](https://github.com/JaySandhu/neovim-mac) - Fast, minimal, Neovim GUI for macOS.
+- [VimTricks](https://vimtricks.com/) - Weekly Vim tips, tricks, guides, screencasts, and more.
+- [Learn Vim (the Smart Way)](https://github.com/iggredible/Learn-Vim) ([HN](https://news.ycombinator.com/item?id=24287566))
+- [VIM quick-start, cheat-sheet, and links (2013)](https://jkirchartz.com/2013/04/vim_quick_start_cheatsheet_and_links.html)
+- [VimConf](https://www.vimconf.live/) - Virtual vim conference.
+- [Vim: Sharpening the Axe (2020)](https://www.youtube.com/watch?v=iEShYRRVZOE)
+- [Using LibUV in Neovim](https://teukka.tech/vimloop.html)
+- [Beyond basic modal editing. Using vim's command-line mode (2020)](https://thoughtbot.com/blog/beyond-basic-modal-editing-using-vims-command-line-mode)
+- [Vimscript Language Server](https://github.com/google/vimscript-language-server)
+- [Vim Registers: What, How, and Macros (2020)](https://www.youtube.com/watch?v=Q5eDxR7bU2k)
+- [GoNeovim](https://github.com/akiyosi/goneovim) - Neovim GUI written in Go, using a Qt binding for Go.
+- [pyvim](https://github.com/prompt-toolkit/pyvim) - Pure Python Vim clone.
+- [NeoVims built-in Language Server Client and why you should use it (2020)](https://expectationmax.github.io/2020/NeoVims-Language-Server-Client/)
+- [Getting started using Lua in Neovim](https://github.com/nanotee/nvim-lua-guide)
+- [Firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in your browser.
+- [Why I teach vim (2020)](https://blog.ceos.io/2020/11/14/why-i-teach-vim/) ([HN](https://news.ycombinator.com/item?id=25097788))
+- [Improving Vim Workflow With fzf (2020)](https://pragmaticpineapple.com/improving-vim-workflow-with-fzf/) ([Lobsters](https://lobste.rs/s/buaxj3/improving_vim_workflow_with_fzf))
+- [Vim Script Parser written in Go](https://github.com/haya14busa/go-vimlparser)
+- [glrnvim](https://github.com/beeender/glrnvim) - Fast & stable neovim GUI could be accelated by GPU.
+- [Five lines I put in a blank .vimrc (2020)](https://swordandsignals.com/2020/12/13/5-lines-in-vimrc.html) ([HN](https://news.ycombinator.com/item?id=25410390)) ([Lobsters](https://lobste.rs/s/du8i6z/5_lines_i_put_blank_vimrc))
+- [neovim-editor](https://github.com/rhysd/neovim-component) - WebComponent to embed Neovim to your app with great ease.

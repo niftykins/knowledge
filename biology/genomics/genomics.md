@@ -23,3 +23,24 @@
 - [Learn Genetics](https://learn.genetics.utah.edu/) ([HN](https://news.ycombinator.com/item?id=23295590))
 - [fgsea](https://github.com/ctlab/fgsea) - Fast Gene Set Enrichment Analysis.
 - [Awesome Genome Visualization](https://github.com/cmdcolin/awesome-genome-visualization)
+- [Computational Genomics Class Playlist at San Diego State University](https://www.youtube.com/playlist?list=PLpPXw4zFa0uLMHwSZ7DMeLGjIUgo1IBbn)
+- [Computational Genomics Manual](https://linsalrob.github.io/ComputationalGenomicsManual/) ([Code](https://github.com/linsalrob/ComputationalGenomicsManual))
+- [A Theory of Natural Universal Computation Through RNA (2020)](https://arxiv.org/abs/2008.08814) ([Tweet](https://twitter.com/theHessam/status/1296650944302776321))
+- [Hail](https://github.com/hail-is/hail) - Open-source, general-purpose, Python-based data analysis tool with additional data types and methods for working with genomic data. ([References](https://hail.is/references.html))
+- [gnomAD](https://gnomad.broadinstitute.org/) - Genome aggregation database.
+- [We can now edit the human genome – how far should we go?](https://www.pbs.org/wgbh/nova/video/human-nature/) ([HN](https://news.ycombinator.com/item?id=24454954))
+- [Scientific Background: A tool for genome editing (2020)](https://www.nobelprize.org/uploads/2020/10/advanced-chemistryprize2020.pdf)
+- [Introduction to Social Science Genetics (2020)](https://silverbeach.in/courses/2020/october/social-science-genetics/)
+- [gplearn](https://github.com/trevorstephens/gplearn) - Implements Genetic Programming in Python, with a scikit-learn inspired and compatible API.
+- [Genetic List](https://geneticlist.com/) - Browsable genetic marker lists.
+- [Cutevariant](https://github.com/labsquare/cutevariant) - Standalone and free application to explore genetics variations from VCF file.
+- [A hypothesis is a liability (2020)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02133-w)
+- [Awesome Imaging Genetics](https://github.com/heykeetae/AwesomeImagingGenetics)
+- [There is little chance CRISPR will ever be widely used to directly treat disease (2020)](http://www.josiahzayner.com/2020/10/crispr-is-dead.html) ([HN](https://news.ycombinator.com/item?id=25096386))
+- [misha](https://github.com/tanaylab/misha) - Genomic data analysis suite.
+- [MetaCell R](https://github.com/tanaylab/metacell) - Single-cell mRNA Analysis.
+- [nf-core/eager](https://github.com/nf-core/eager) - Bioinformatics best-practice analysis pipeline for NGS sequencing based ancient DNA (aDNA) data analysis.
+- [GenomicSQLite](https://github.com/mlin/GenomicSQLite) - Genomics Extension for SQLite.
+- [gfabase](https://github.com/mlin/gfabase) - Command-line utility for random-access storage of Graphical Fragment Assembly (GFA) data.
+- [GenomeSpy](https://genomespy.app/) - Genome visualization tool with a grammar of graphics and WebGL-powered fluid interactions. ([Code](https://github.com/tuner/genome-spy))
+- [Decoding the Language of Genomes (2020)](https://caltechletters.org/science/decoding-the-language-of-genomes) ([HN](https://news.ycombinator.com/item?id=25384412))

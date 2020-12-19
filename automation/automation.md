@@ -12,8 +12,15 @@
 - [RobotJS](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 - [Ask HN: What automation tools have you used to replace mundane activities? (2020)](https://news.ycombinator.com/item?id=22345150)
 - [Atbswp](https://github.com/rmpr/atbswp) - Minimalist keyboard macro and mouse recording and playback tool.
-- [The Art of Automation (2020)](https://blog.jessfraz.com/post/the-art-of-automation/)
+- [The Art of Automation (2020)](https://blog.jessfraz.com/post/the-art-of-automation/) ([HN](https://news.ycombinator.com/item?id=24598281))
 - [ElectroNeek](https://electroneek.com/) - Easy Robotic Process Automation. ([HN](https://news.ycombinator.com/item?id=23770214))
+- [Automatoes](https://automatoes.com/) ([Code](https://github.com/johnlindquist/automatoes.com))
+- [Huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.
+- [Node-RED](https://nodered.org/) - Low-code programming for event-driven applications. ([Code](https://github.com/node-red/node-red))
+- [n8n](https://github.com/n8n-io/n8n) - Workflow Automation Tool. ([Web](https://n8n.io/))
+- [Integromat](https://www.integromat.com/en/) - Advanced online automation platform.
+- [Ask HN: What's are your personal automations? (2020)](https://news.ycombinator.com/item?id=25381191)
+- [Robocorp](https://robocorp.com/) - Open source stack for simplifying automation. ([GitHub](https://github.com/robocorp))
 
 ## Images
 

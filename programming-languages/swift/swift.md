@@ -1,5 +1,10 @@
 # [Swift](https://developer.apple.com/swift/)
 
+## Notes
+
+- [Avoid using AnyCollection.](https://twitter.com/AirspeedSwift/status/1294292068412473347)
+- [Swift collection types are value types, with copy-on-write to ensure performance as long as they aren’t shared.](https://lobste.rs/s/uel1zp/rust_ordinary_vectors_are_values)
+
 ## Links
 
 - [Swift Book](https://docs.swift.org/swift-book/)
@@ -8,7 +13,7 @@
 - [WWDC videos](https://developer.apple.com/videos/)
 - [Swift for TensorFlow - TFiwS](https://www.youtube.com/watch?v=Yze693W4MaU&t=0s&index=14&list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN)
 - [Functional Swift](https://www.objc.io/books/functional-swift/)
-- [Objc](https://www.objc.io/)
+- [Objc](https://www.objc.io/) ([The Complete Collection - All Books Published Bundle](https://www.objc.io/books/bundles/complete-collection/))
 - [Top App Developers](https://github.com/app-developers/top)
 - [Proposal: Universal dynamic dispatch for method calls (2015)](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20151207/001948.html)
 - [SwiftSyntax](https://github.com/apple/swift-syntax) - Set of Swift bindings for the libSyntax library. It allows for Swift tools to parse, inspect, generate, and transform Swift source code..
@@ -41,7 +46,7 @@
 - [SwiftKit](https://github.com/SvenTiigi/SwiftKit) - Start your next Open-Source Swift Framework.
 - [Swiftenstein](https://github.com/nicklockwood/Swiftenstein) - Simple Wolfenstein 3D clone written in Swift.
 - [How do closures and callbacks work? It's turtles all the way down (2018)](https://desiatov.com/closures/)
-- [SwiftWasm](https://swiftwasm.org/) - Compiles your Swift code to WebAssembly.
+- [SwiftWasm](https://swiftwasm.org/) - Compiles your Swift code to WebAssembly. ([Docs](https://book.swiftwasm.org/)) ([Docs code](https://github.com/swiftwasm/swiftwasm-book))
 - [NSScreencast](https://nsscreencast.com/episodes) - Video Training for iOS Developers.
 - [Swift for TensorFlow Newsletter](https://www.s4tfnews.com/issues)
 - [SourceKit-LSP](https://github.com/apple/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages.
@@ -76,7 +81,7 @@
 - [Point Free](https://www.pointfree.co/) - Video series exploring functional programming and Swift. ([Code](https://github.com/pointfreeco/pointfreeco))
 - [Swift Dev](https://theswiftdev.com/) - Weekly Swift articles.
 - [tree-sitter-swift](https://github.com/tree-sitter/tree-sitter-swift) - Swift grammar for tree-sitter.
-- [[Manifesto] Interoperability between Swift and C++ (2020)](https://forums.swift.org/t/manifesto-interoperability-between-swift-and-c/33874) ([GitHub doc](https://github.com/apple/swift/blob/master/docs/CppInteroperabilityManifesto.md))
+- [[Manifesto] Interoperability between Swift and C++ (2020)](https://forums.swift.org/t/manifesto-interoperability-between-swift-and-c/33874) ([GitHub doc](https://github.com/apple/swift/blob/main/docs/CppInteroperabilityManifesto.md)) ([HN](https://news.ycombinator.com/item?id=24808968))
 - [Swift Evolution](https://apple.github.io/swift-evolution/) - Proposals for changes and user-visible enhancements to Swift. ([Code](https://github.com/apple/swift-evolution))
 - [Swift AST Explorer](https://swift-ast-explorer.kishikawakatsumi.com/) ([Code](https://github.com/kishikawakatsumi/swift-ast-explorer-playground))
 - [ProcreateUndoGesture](https://github.com/SavageSource/ProcreateUndoGesture) - Example of Procreate's Undo and Redo gestures.
@@ -126,12 +131,50 @@
 - [100 Days of Swift](https://www.hackingwithswift.com/100)
 - [Swift Knowledge Base - Swift example code](https://www.hackingwithswift.com/example-code)
 - [Swift in Sixty Seconds](https://www.hackingwithswift.com/sixty)
-- [Hacking with Swift Forums](https://www.hackingwithswift.com/forums)
-- [Hacking with Swift](https://www.hackingwithswift.com/) - Learn to code iPhone and iPad apps with free Swift tutorials.
+- [Hacking with Swift](https://www.hackingwithswift.com/) - Learn to code iPhone and iPad apps with free Swift tutorials. ([Code](https://github.com/twostraws/HackingWithSwift))
 - [Hacking with Swift+](https://www.hackingwithswift.com/plus)
+- [Hacking with Swift Forums](https://www.hackingwithswift.com/forums)
 - [Awesome Swift NIO](https://github.com/slashmo/awesome-swift-nio)
 - [Swiftly Speaking: Chris Lattner interview (2020)](https://www.youtube.com/watch?v=OAaQhW4ifu0)
 - [Swift optimization notes](https://github.com/kelvin13/png/blob/master/benchmarks/README.md)
 - [Adding Core Data to a Swift Package (2020)](https://ishabazz.dev/blog/2020/7/5/using-core-data-with-swift-package-manager)
 - [Mark Moeykens's Swift videos](https://www.youtube.com/c/MarkMoeykens/playlists)
 - [What the heck are closures and why does Swift love them so much? (2020)](https://www.hackingwithswift.com/quick-start/understanding-swift/what-the-heck-are-closures-and-why-does-swift-love-them-so-much)
+- [Questions & Answers | Swift by Sundell](https://swiftbysundell.com/questions/)
+- [AppCoda](https://www.appcoda.com/) - Learn Swift, SwiftUI, iOS, and Mac App Programming.
+- [Swift in Depth](https://www.swiftindepth.com/)
+- [Swift Server Work Group](https://swift.org/server/) ([Code](https://github.com/swift-server))
+- [SwiftRef](https://dabrahams.github.io/SwiftRef/) - Community-Generated Swift Programming Language Reference. ([Code](https://github.com/dabrahams/SwiftRef))
+- [Swift type checking is undecidable (2020)](https://forums.swift.org/t/swift-type-checking-is-undecidable/39024) ([Lobsters](https://lobste.rs/s/yl7a1w/swift_type_checking_is_undecidable)) ([HN](https://news.ycombinator.com/item?id=24047394))
+- [The state of Swift documentation (2020)](https://forums.swift.org/t/the-state-of-swift-documentation/39130)
+- [A deep dive into Swift’s function builders (2020)](https://swiftbysundell.com/articles/deep-dive-into-swift-function-builders/) ([HN](https://news.ycombinator.com/item?id=24585647))
+- [Introduction to parsing Swift code with the SwiftSyntax Library (2020)](https://vivekseth.com/swift-syntax-intro/)
+- [Swift Calling Conventions on ARM64 (2020)](https://vivekseth.com/swift-arm64-int-bool/)
+- [Force-Unwrapping in Swift is NOT a Bad Thing](https://wolfmcnally.com/82/force-unwrapping-swift-not-bad-thing/)
+- [Functional Programming in Swift (2020)](https://www.47deg.com/academy/2020-09-01-Functional-Programming-in-Swift-with-Bow-course/)
+- [Logging in Swift (2020)](https://steipete.com/posts/logging-in-swift/)
+- [Swiftly](https://swiftly.dev/) - Swift references for busy coders.
+- [The Swift Runtime: Heap Objects (2020)](https://belkadan.com/blog/2020/08/Swift-Runtime-Heap-Objects/)
+- [JSON Decoding in Swift with Codable: A Practical Guide (2020)](https://matteomanferdini.com/codable/)
+- [Understanding Swift Performance - WWDC (2016)](https://developer.apple.com/videos/play/wwdc2016/416/) ([Notes](https://lobste.rs/s/v5cb0t/swift_5_3_released))
+- [Introducing Swift Cluster Membership (2020)](https://swift.org/blog/swift-cluster-membership/) ([Lobsters](https://lobste.rs/s/havoue/introducing_swift_cluster_membership))
+- [SwiftWasm Pad](https://swiftwasm-pad.netlify.app/) - Online playground to help developers learn about Swift on Web. ([Code](https://github.com/kateinoigakukun/swiftwasm-pad))
+- [swift-tools-support-core](https://github.com/apple/swift-tools-support-core) - Contains common infrastructural code for both SwiftPM and llbuild.
+- [Swift on Windows (2020)](https://swift.org/blog/swift-on-windows/) ([HN](https://news.ycombinator.com/item?id=24556245))
+- [Swift System](https://github.com/apple/swift-system) - Provides idiomatic interfaces to system calls and low-level currency types. ([Announcement](https://swift.org/blog/swift-system/)) ([HN](https://news.ycombinator.com/item?id=24593028))
+- [Introducing Swift Atomics (2020)](https://swift.org/blog/swift-atomics/) ([HN](https://news.ycombinator.com/item?id=24657500))
+- [Lickability Swift Best Practices Guide](https://github.com/Lickability/swift-best-practices)
+- [SwiftDump](https://github.com/neil-wu/SwiftDump) - Command-line tool for retriving the Swift Object info from Mach-O file.
+- [Advanced Swift learning resources (2020)](https://twitter.com/drewmccormack/status/1314539109013127181)
+- [MinSwift](https://github.com/giginet/MinSwift-workshop) - Minimum Swift compiler written in Swift.
+- [Swift Concurrency Roadmap (2020)](https://forums.swift.org/t/swift-concurrency-roadmap/41611) ([HN](https://news.ycombinator.com/item?id=24944777)) ([Video overview](https://www.youtube.com/watch?v=zLK30aKLANA))
+- [Slow Swift Compiler Performance (2020)](https://useyourloaf.com/blog/slow-swift-compiler-performance/)
+- [Practical Server Side Swift book](https://gumroad.com/l/practical-server-side-swift) ([Vapor 4 code samples](https://github.com/tib/practical-server-side-swift))
+- [Swift Dependency Injection by Needle (2020)](https://medium.com/joom/dependency-injection-by-needle-6d1c823893b)
+- [Core Data Best Practices by Antoine van der Lee](https://github.com/AvdLee/CoreDataBestPractices)
+- [Differentiable programming for gradient-based machine learning in Swift](https://forums.swift.org/t/differentiable-programming-for-gradient-based-machine-learning/42147)
+- [CompileSwift Blog/Podcast](https://www.compileswift.com/)
+- [Shwifty](https://github.com/chessai/shwifty) - Generate Swift types from Haskell types.
+- [Practical Core Data](https://gumroad.com/l/practical-core-data) - Modern guide to the Core Data framework.
+- [Swift Version](https://swiftversion.net/) - Which Swift shipped with which Xcode?
+- [200 weeks of Swift (2020)](https://www.swiftbysundell.com/articles/200-weeks-of-swift/)

@@ -8,7 +8,7 @@
 
 ## Links
 
-- [TTN wiki](https://www.thethingsnetwork.org/docs/)
+- [TTN wiki](https://www.thethingsnetwork.org/docs/) ([Code](https://github.com/TheThingsNetwork/docs))
 - [Teaching a new dog old tricks](https://medium.com/@aallan/teaching-a-new-dog-old-tricks-965a578e753b)
 - [Nicolas Sornin - Future of LoRa](https://www.youtube.com/watch?v=jNnPTxWRNxs)
 - [Introduction to LoRa](https://www.youtube.com/watch?v=8Oxcp9wQQnk)
@@ -29,7 +29,6 @@
 - [Interview with Alistair Fulton (Semtech) - The Things Conference 2019](https://www.youtube.com/watch?v=-tzKMHTdoe8)
 - [Extending LoRaWAN's reach - Nicolas Sornin (Semtech) - The Things Conference 2019](https://www.youtube.com/watch?v=pHq7_rgDyFA)
 - [From zero to LoRaWAN in a weekend (2018)](https://github.com/ttn-zh/ic880a-gateway/wiki)
-- [LoRa Server](https://github.com/brocaar/loraserver) - Open-source LoRaWAN network-server.
 - [LoRaWAN and the Ocean Cleanup - Jasper den Hartog (MCS) (2019)](https://www.youtube.com/watch?v=E5huiCbVR5A)
 - [Lacuna Space](http://lacuna.space/) - Low-cost, simple and reliable global connections to sensors and mobile equipment.
 - [Can someone give me the rundown on LoRa? (2019)](https://www.reddit.com/r/IOT/comments/bzd2q0/can_someone_give_me_the_rundown_on_lora/)
@@ -39,10 +38,20 @@
 - [Compact server for private LoRaWAN networks](https://github.com/gotthardp/lorawan-server)
 - [Introduction to LoRaWAN and The Things Network (2019)](https://channel9.msdn.com/Shows/Internet-of-Things-Show/Introduction-to-LoRaWAN-and-The-Things-Network)
 - [Technical overview of LoRa and LoRaWAN](https://lora-alliance.org/sites/default/files/2018-04/what-is-lorawan.pdf)
-- [The Things Stack](https://thethingsstack.io) - Open Source LoRaWAN Network Server.
+- [The Things Stack](https://thethingsstack.io) - Open Source LoRaWAN Network Server. ([Code](https://github.com/TheThingsIndustries/lorawan-stack-docs))
 - [Securing LoRaWAN with Secure Elements (2019)](https://www.linkedin.com/pulse/securing-lorawan-secure-elements-johan-stokking/)
 - [The Things Conference 2020](https://www.youtube.com/watch?v=0eOpMDffbQ0)
 - [The LoraWan Pager](https://hackaday.io/project/22038-the-lorawan-pager) - Open telecommunicator device, independent from SIM CARDS and Telecom providers.
 - [LoRa-based Device-to-Device Smartphone Communication for Crisis Scenarios (2020)](https://dtn7.github.io/assets/hoechst2020lora.pdf) ([HN](https://news.ycombinator.com/item?id=22725623))
 - [Adding machine learning to your LoRaWAN device - Jan Jongboom (2020)](https://www.youtube.com/watch?v=e-v0wnSM6YA)
 - [LoRa Mesh Communication without Infrastructure: The Meshtastic Project (ESP32, BLE, GPS) (2020)](https://www.youtube.com/watch?v=TY6m6fS8bxU) ([Reddit](https://www.reddit.com/r/darknetplan/comments/gyalhx/lora_mesh_communication_without_infrastructure/))
+- [TTGO LoRa32 development board (2020)](https://www.settorezero.com/wordpress/lora_lorawan_lilygo_ttgo_lora32_esp32/) ([Reddit](https://www.reddit.com/r/esp32/comments/hu32z1/in_this_article_i_explain_how_lora_and_lorawan/))
+- [DecodingLora](https://revspace.nl/DecodingLora)
+- [We build a \$20 LoRa Satellite Ground Station and we follow the FossaSat-1 launch (2019)](https://www.youtube.com/watch?v=5k0aM-PJzo8) ([HN](https://news.ycombinator.com/item?id=24519340))
+- [Arduino Library for The Things Node](https://github.com/TheThingsNetwork/arduino-node-lib)
+- [LoRa packet forwarder](https://github.com/Lora-net/packet_forwarder) - Program running on the host of a Lora gateway that forwards RF packets receive by the concentrator to a server through a IP/UDP link, and emits RF packets that are sent by the server.
+- [ChirpStack](https://www.chirpstack.io/) - Open-source LoRaWAN Network Server stack. ([Code](https://github.com/brocaar/chirpstack-network-server))
+- [Experiments with LoRa radios](https://ds0.me/lora/index.html)
+- [Connecting Your LoRaWAN Devices from The Things Stack to AWS IoT Core (2020)](https://aws.amazon.com/blogs/apn/connecting-your-lorawan-devices-from-the-things-stack-to-aws-iot-core/)
+- [LORIOT](https://www.loriot.io/) - LoRaWAN Network Server Provider.
+- [CellSol](https://github.com/RbtsEvrwhr-Riley/CellSol/) - Long Range Solar Powered Communications Network. LoRa based mesh. ([Docs](https://www.f3.to/cellsol/))

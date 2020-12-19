@@ -2,7 +2,7 @@
 
 ## Links
 
-- [A Road to Common Lisp (2018)](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
+- [A Road to Common Lisp (2018)](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
 - [C. Schafmeister “Lessons Learned Implementing Common Lisp with LLVM” (2018)](https://www.youtube.com/watch?v=mbdXeRBbgDM)
 - [SICL](https://github.com/robert-strandh/SICL) - Fresh implementation of Common Lisp.
 - [Common Lisp tips](https://github.com/lisp-tips/lisp-tips)
@@ -23,4 +23,20 @@
 - [Kai](https://github.com/komi1230/kai) - High-level plotter library for Common Lisp. ([HN](https://news.ycombinator.com/item?id=23757545))
 - [Common Lisp GUI Toolkits](https://lispcookbook.github.io/cl-cookbook/gui.html)
 - [Common Lisp: A Gentle Introduction to Symbolic Computation](https://www.cs.cmu.edu/~dst/LispBook/book.pdf)
-- [The Common Lisp Condition System Book (2020)](https://www.apress.com/us/book/9781484261330) ([HN](https://news.ycombinator.com/item?id=23843525))
+- [The Common Lisp Condition System Book (2020)](https://www.apress.com/us/book/9781484261330) ([HN](https://news.ycombinator.com/item?id=23843525)) ([HN 2](https://news.ycombinator.com/item?id=24867548))
+- [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html) ([Lobsters](https://lobste.rs/s/gb566t/lisp_quickstart))
+- [Creating a Common Lisp implementation (2020)](https://www.youtube.com/watch?v=Wa81OJnlsoI) ([HN](https://news.ycombinator.com/item?id=24276881))
+- [Clasp](https://github.com/clasp-developers/clasp) - Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. ([Clasp: Common Lisp using LLVM and C++ for Molecular Metaprogramming (2015)](https://www.youtube.com/watch?v=8X69_42Mj-g))
+- [Cl-Cuda](https://github.com/takagi/cl-cuda) - Library to use NVIDIA CUDA in Common Lisp programs.
+- [iterate](https://common-lisp.net/project/iterate/) - Extensible iteration construct for Common Lisp.
+- [HexstreamSoft](https://www.hexstreamsoft.com/) - Public Domain Common Lisp R&D.
+- [Opinionated Common Lisp Resources 2020](https://gist.github.com/digikar99/a1925ad3249a431c9eecf09af2fdef8a)
+- [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl)
+- [Modern CI testing and packaging for Common Lisp](https://nyxt.atlas.engineer/article/continuous-testing-and-packaging.org)
+- [Archive of Lisp Machine](https://github.com/jrm-code-project/LISP-Machine) ([HN](https://news.ycombinator.com/item?id=25147970))
+- [Common LISP Parser & AST Viewer](https://github.com/littledivy/lisp-ast)
+- [Common Lisp Iteration (2020)](https://tailrecursion.com/~alan/Lisp/CommonLispIteration.html)
+- [SLY](https://github.com/joaotavora/sly) - Sylvester the Cat's Common Lisp IDE.
+- [Common Lisp by Example](https://github.com/ashok-khanna/common-lisp-by-example/blob/main/Common%20Lisp%20by%20Example.pdf)
+- [Emacs For Common Lisp](https://github.com/susam/emacs4cl) - Tiny ~/.emacs for Common Lisp programming explained line-by-line.
+- [Portacle](https://portacle.github.io/) - Portable Common Lisp Development Environment.

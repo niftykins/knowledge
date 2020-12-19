@@ -5,7 +5,7 @@
 - [Beam](https://github.com/eBay/beam) - Distributed knowledge graph store.
 - [Metacademy.org's application code](https://github.com/metacademy/metacademy-application)
 - [Crowdsourced Comprehension: Predicting Prerequisite Structure in Wikipedia](http://talukdar.net/papers/crowdcomp-bea7.pdf)
-- [Grakn](https://grakn.ai/) - Intelligent database - a knowledge graph. ([Source](https://github.com/graknlabs/grakn))
+- [Grakn](https://grakn.ai/) - Intelligent database - a knowledge graph. ([Code](https://github.com/graknlabs/grakn))
 - [GraphSAGE](http://snap.stanford.edu/graphsage/) - Inductive Representation Learning on Large Graphs.
 - [Grakn KGLIB (Knowledge Graph Library)](https://github.com/graknlabs/kglib)
 - [Grakn Example Projects and Tutorials](https://github.com/graknlabs/examples)
@@ -28,6 +28,30 @@
 - [Extracting Structured Data from Templatic Documents (2020)](https://ai.googleblog.com/2020/06/extracting-structured-data-from.html) ([HN](https://news.ycombinator.com/item?id=23502131))
 - [Knowledge Search](http://knowledgesearch.us/) - Graph-based knowledge search engine powered by Wikipedia. ([Code](https://github.com/marksibrahim/knowledge_search))
 - [Low-Dimensional Hyperbolic Knowledge Graph Embeddings (ACL 2020)](https://www.youtube.com/watch?v=Yf03-CBYKe4)
-- [Underlay](https://www.underlay.org/) - Free and open source system for structuring, storing, and aggregating open, distributed graph data. Its goal is to make machine-readable public knowledge accessible to all as a public good.
+- [Underlay](https://www.underlay.org/) - Free and open source system for structuring, storing, and aggregating open, distributed graph data. Its goal is to make machine-readable public knowledge accessible to all as a public good. ([Lobsters](https://lobste.rs/s/toc0px/underlay_world_s_distributed_knowledge))
 - [Knowledge Futures Group](https://www.knowledgefutures.org/) - Builds technology for the production, curation, and preservation of knowledge in service of the public good.
 - [w2g](https://github.com/w2g/w2g) - World Wide Graph: A memex for semantic notetaking. ([Web](https://graph.global/?id=))
+- [Khan Academy knowledge map editor tool](https://github.com/beneater/kmap-editor)
+- [Amazon’s open-source tools make embedding knowledge graphs much more efficient (2020)](https://www.amazon.science/blog/amazons-open-source-tools-make-embedding-knowledge-graphs-much-more-efficient)
+- [An Introduction to Natural Language Processing with Python for SEOs (2020)](https://www.searchenginejournal.com/natural-language-processing-python-seo/377051/)
+- [Deep Learning for Knowledge Graph Embeddings (2020)](https://cxlabs.sap.com/2020/08/31/deep-learning-for-knowledge-graph-embeddings/)
+- [Wikimedia Research/Showcase](https://www.mediawiki.org/wiki/Wikimedia_Research/Showcase)
+- [Knowledge Gaps Index/Taxonomy](https://meta.wikimedia.org/wiki/Research:Knowledge_Gaps_Index/Taxonomy)
+- [Wikimedia Research Showcase (2020)](https://www.youtube.com/watch?v=GJDsKPsz64o)
+- [LUKE](https://github.com/studio-ousia/luke) - Language Understanding with Knowledge-based Embeddings.
+- [mkb](https://github.com/raphaelsty/mkb) - Library dedicated to knowledge graph embeddings.
+- [Gentle introduction to the Wikidata Query Service](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/A_gentle_introduction_to_the_Wikidata_Query_Service#A_gentle_introduction_to_the_Wikidata_Query_Service) ([HN](https://news.ycombinator.com/item?id=24823074))
+- [wikibase-cli](https://github.com/maxlath/wikibase-cli) - Read and edit a Wikibase instance from the command line.
+- [Web hub based on Wikidata](https://github.com/maxlath/hub) - Let's you craft URLs to go from an origin to a destination on the web, at the condition that you provide enough information on those points to be identified within Wikidata. ([Web](https://hub.toolforge.org/))
+- [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) - Free and open knowledge base that can be read and edited by both humans and machines.
+- [Ontology Log](https://en.wikipedia.org/wiki/Olog) - Attempt to provide a rigorous mathematical framework for knowledge representation, construction of scientific models and data storage using category theory.
+- [MPqa](https://github.com/svakulenk0/KBQA) - Complex Question Answering over Knowledge Graphs.
+- [LibKGE](https://github.com/uma-pi1/kge) - PyTorch-based library for efficient training, evaluation, and hyperparameter optimization of knowledge graph embeddings.
+- [Get psyched about mapping knowledge](https://github.com/synchrony/smsn-why)
+- [CoDEx](https://github.com/tsafavi/codex) - Set of knowledge graph Completion Datasets Extracted from Wikidata and Wikipedia.
+- [PyKEEN (Python KnowlEdge EmbeddiNgs)](https://github.com/pykeen/pykeen) - Python package designed to train and evaluate knowledge graph embedding models (incorporating multi-modal information).
+- [mediKanren](https://github.com/webyrd/mediKanren) - Proof-of-concept for reasoning over the SemMedDB knowledge base, using miniKanren + heuristics + indexing.
+- [Atomic Search](https://atomicsearchinc.com/) - Using NLP to create self-evolving, searchable knowledge graphs. ([Twitter](https://twitter.com/atomicsearchinc))
+- [Awesome Knowledge Graph Question Answering](https://github.com/BshoterJ/awesome-kgqa)
+- [Awesome Knowledge Graph Learning](https://github.com/BrambleXu/knowledge-graph-learning)
+- [REGAL: Representation Learning-based Graph Alignment (2018)](https://github.com/GemsLab/REGAL)

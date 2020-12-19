@@ -30,7 +30,7 @@
 - [oskel](https://github.com/CraigFe/oskel) - Skeleton generator for OCaml projects.
 - [OCaml-CI](https://github.com/ocurrent/ocaml-ci) - CI for OCaml projects.
 - [OCurrent](https://github.com/ocurrent/ocurrent) - Allows you to specify a workflow / pipeline for keeping things up-to-date.
-- [Real World OCaml book](https://dev.realworldocaml.org/) - Functional programming for the masses.
+- [Real World OCaml book](https://dev.realworldocaml.org/) - Functional programming for the masses. ([Code](https://github.com/realworldocaml/book))
 - [Domical](https://github.com/louisabraham/domical) - In-browser OCaml notebooks.
 - [Bisect_ppx](https://github.com/aantron/bisect_ppx) - Code coverage for OCaml and Reason.
 - [An in-depth Look at OCaml’s new “Best-fit” Garbage Collector Strategy (2020)](http://www.ocamlpro.com/2020/03/23/ocaml-new-best-fit-garbage-collector/) ([HN](https://news.ycombinator.com/item?id=22663297))
@@ -46,3 +46,24 @@
 - [OCaml Forum](https://discuss.ocaml.org/)
 - [Multicore OCaml: May 2020 update](https://discuss.ocaml.org/t/multicore-ocaml-may-2020-update/5898) ([HN](https://news.ycombinator.com/item?id=23380370))
 - [Misc algorithms in OCaml (HyperLogLog, jump consistent hashing)](https://github.com/let-def/grenier)
+- [Composable Error Handling in OCaml (2018)](https://keleshev.com/composable-error-handling-in-ocaml)
+- [opam](https://opam.ocaml.org/) - OCaml Package Manager. ([Code](https://github.com/ocaml/opam-repository))
+- [OCaml Scientific Computing Book](https://ocaml.xyz/book/) - Functional programming meets data science. ([HN](https://news.ycombinator.com/item?id=24269368)) ([Draft discussion](https://discuss.ocaml.org/t/ann-draft-of-ocaml-scientific-computing-book/6291))
+- [OCaml for Scientists](https://www.ffconsultancy.com/products/ocaml_for_scientists/index.html)
+- [OCaml 2020 All Videos](https://www.youtube.com/playlist?list=PLKO_ZowsIOu5fHjRj0ua7_QWE_L789K_f)
+- [OCaml-Java](http://www.ocamljava.org/) - Run OCaml code on a JVM, and manipulate Java entities from OCaml.
+- [OCaml Labs](https://github.com/ocamllabs)
+- [Multicore OCaml: September 2020](https://discuss.ocaml.org/t/multicore-ocaml-september-2020/6565) ([HN](https://news.ycombinator.com/item?id=24719124))
+- [duniverse](https://github.com/ocamllabs/duniverse) - Experimental vendoring system for Dune.
+- [Toy compiler for subset of OCaml written in Go](https://github.com/kkty/compiler)
+- [OCaml website code](https://github.com/ocaml/ocaml.org)
+- [Darklang: Leaving OCaml (2020)](https://blog.darklang.com/leaving-ocaml/) ([HN](https://news.ycombinator.com/item?id=24974907)) ([Lobsters](https://lobste.rs/s/bcwbuw/leaving_ocaml))
+- [OCamlPro](https://www.ocamlpro.com/) - Harnessing Cutting-Edge Technologies. ([GitHub](https://github.com/OCamlPro))
+- [OCaml Cheat Sheets](https://ocamlpro.github.io/ocaml-cheat-sheets/) - OCaml Documentations as one-pagers, easy to keep useful commands in mind. ([Code](https://github.com/OCamlPro/ocaml-cheat-sheets))
+- [Overview of the main OCaml CI services](https://github.com/ocurrent/overview)
+- [A Taste of OCaml's Predictable Performance (2020)](https://devpoga.org/post/2020-11-21-a-taste-of-ocaml-predictable-performance/)
+- [ocamlearlybird](https://github.com/hackwaly/ocamlearlybird) - Debug adapter purely written in OCaml.
+- [OCaml-LSP](https://github.com/ocaml/ocaml-lsp) - OCaml Language Server Protocol implementation.
+- [drom](https://github.com/OCamlPro/drom) - Wrapper over opam/dune in an attempt to provide a cargo-like user experience.
+- [On Effectiveness of Exceptions in OCaml](https://lemaetech.co.uk/articles/exceptions.html) ([Reddit](https://www.reddit.com/r/ocaml/comments/k62l15/on_effectiveness_of_exceptions_in_ocaml/))
+- [Memthol](https://github.com/OCamlPro/memthol) - Visualizer for memory profiling data generated from OCaml programs.

@@ -14,7 +14,7 @@
 - [A Cat Explains DNS (2017)](https://www.youtube.com/watch?v=4ZtFk2dtqv0)
 - [octoDNS](https://github.com/github/octodns) - Tools for managing DNS across multiple providers.
 - [Gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go.
-- [CoreDNS](https://github.com/coredns/coredns) - DNS server that chains plugins.
+- [CoreDNS](https://github.com/coredns/coredns) - DNS server that chains plugins. ([Web](https://coredns.io/))
 - [How we optimized our DNS server using go tools (2020)](https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709)
 - [A warm welcome to DNS](https://powerdns.org/hello-dns/) - Attempts to provide a correct introduction to the Domain Name System as of 2018.
 - [Public Zone Database (ZoneDB)](https://github.com/zonedb/zonedb) - Contains a list and associated metadata of public DNS zones.
@@ -37,3 +37,32 @@
 - [An interview with Paul Mockapetris, the creator of the DNS (2020)](https://www.welcometothejungle.com/en/collections/behind-the-code/coder-stories/articles/btc-interview-paul-mockapetris) ([HN](https://news.ycombinator.com/item?id=23650499))
 - [DNS Push Notifications](https://www.rfc-editor.org/rfc/rfc8765.html) ([HN](https://news.ycombinator.com/item?id=23627094))
 - [DNS questions](https://questions.wizardzines.com/dns.html)
+- [Under the Hood of a Simple DNS Server (2020)](https://blog.aos.sh/2020/08/23/under-the-hood-of-a-simple-dns-server/)
+- [Understanding DNS—anatomy of a BIND zone file (2020)](https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/)
+- [DNSLink](https://dnslink.io/) - Simple protocol to link content and services directly from DNS.
+- [DNS flag day](https://dnsflagday.net/) ([Code](https://github.com/dns-violations/dnsflagday))
+- [Secondary DNS – Deep Dive (2020)](https://blog.cloudflare.com/secondary-dns-deep-dive/)
+- [DNSimple](https://dnsimple.com/) - Secure & Simple DNS Hosting.
+- [Speeding up HTTPS and HTTP/3 negotiation with... DNS (2020)](https://blog.cloudflare.com/speeding-up-https-and-http-3-negotiation-with-dns/) ([Tweet](https://twitter.com/SimmerVigor/status/1311294630198161410))
+- [DNS Flag Day 2020](https://blog.cloudflare.com/dns-flag-day-2020/)
+- [Unbound](https://github.com/NLnetLabs/unbound) - Validating, recursive, and caching DNS resolver. ([Web](https://nlnetlabs.nl/projects/unbound/about/))
+- [namebench](https://github.com/catap/namebench) - Open-source DNS Benchmark Utility.
+- [Yet Another Kubernetes DNS Latency Story (2020)](https://build.thebeat.co/yet-another-kubernetes-dns-latency-story-2a1c00ebbb8d)
+- [Oblivious DoH Library](https://github.com/chris-wood/odoh)
+- [Which DNS servers are you pointing to?](https://which.nameserve.rs/) ([HN](https://news.ycombinator.com/item?id=24886120)) ([Code](https://github.com/redirect2me/which-dns))
+- [Resolve.rs](https://resolve.rs/) - Troubleshooting website for network and DNS issues. ([Code](https://github.com/redirect2me/resolvers))
+- [DNS Trends (2020)](https://www.potaroo.net/ispcol/2020-10/trends.html)
+- [Dynroute53](https://github.com/thoeni/dynroute53) - Dynamic DNS updater for AWS Route53. Like DDNS for AWS managed domains.
+- [Handshake](https://handshake.org/) - Experimental peer-to-peer root naming system. ([Code](https://github.com/handshake-org/hsd)
+- [What Does It Take To Resolve A Hostname (2020)](https://venam.nixers.net/blog/unix/2020/11/01/resolving-a-hostname.html)
+- [dog](https://github.com/ogham/dog) - Command-line DNS client. ([Web](https://dns.lookup.dog/)) ([HN](https://news.ycombinator.com/item?id=25033056))
+- [Sad DNS](https://www.cs.ucr.edu/~zhiyunq/SADDNS.html) - Revival of the classic DNS cache poisoning attack.
+- [SAD DNS Explained (2020)](https://blog.cloudflare.com/sad-dns-explained/)
+- [DNS Resolution: Optimization Tools and Opportunities (2020)](https://ashu.online/blogs/optimize-dns-resolution-for-fast-website)
+- [Improving DNS Privacy with Oblivious DoH (2020)](https://blog.cloudflare.com/oblivious-dns/) ([HN](https://news.ycombinator.com/item?id=25344358))
+- [odoh-go](https://github.com/cloudflare/odoh-go) - Oblivious DoH library in Go.
+- [odoh-server-go](https://github.com/cloudflare/odoh-server-go) - Oblivious DoH server in Go.
+- [DNSTools](https://dnstools.ws/) - Perform DNS lookups, pings, traceroutes, and other utilities, from 24 locations around the world. ([Code](https://github.com/Daniel15/dnstools))
+- [DIY Dynamic DNS Using Netlify API (2020)](https://blog.skylerlewis.io/2020/12/diy-dynamic-dns-using-netlify-api.html)
+- [dcompass](https://github.com/LEXUGE/dcompass) - High-performance DNS server with rule matching/DoT/DoH functionality built-in.
+- [doggo](https://github.com/mr-karan/doggo) - Command-line DNS Client for Humans. Written in Go. ([Lobsters](https://lobste.rs/s/6ey5mv/doggo_command_line_dns_client))

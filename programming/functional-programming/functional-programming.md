@@ -46,7 +46,7 @@
 - [Freer Monads, More Extensible Effects paper](http://okmij.org/ftp/Haskell/extensible/more.pdf) ([Code](https://github.com/jwiegley/refine-freer))
 - [A Type of Programming by Renzo Carbonara](https://atypeofprogramming.com/)
 - [3 examples of algebraic thinking (2019)](https://lispcast.com/3-examples-of-algebraic-thinking/)
-- [Functional Design and Architecture book (2020)](https://leanpub.com/functional-design-and-architecture) ([Draft](https://docs.google.com/document/d/1al1kW7X4ZncBP_RKR0DZMY84pUtcbbiPQTtkDsjafsw/edit))
+- [Functional Design and Architecture book (2020)](https://leanpub.com/functional-design-and-architecture) ([Draft](https://docs.google.com/document/d/1al1kW7X4ZncBP_RKR0DZMY84pUtcbbiPQTtkDsjafsw/edit)) ([Reddit](https://www.reddit.com/r/haskell/comments/illft7/the_book_functional_design_and_architecture_is/))
 - [Sara Fransson: Functional lenses through a practical lens (2019)](https://www.youtube.com/watch?v=sFzuu676pFs)
 - [Algebraic structures: things i wish someone had explained about functional programming (2019)](https://jrsinclair.com/articles/2019/algebraic-structures-what-i-wish-someone-had-explained-about-functional-programming/) ([HN](https://news.ycombinator.com/item?id=21440932))
 - [MLKit](https://github.com/melsman/mlkit) - Standard ML Compiler and Toolkit.
@@ -87,6 +87,22 @@
 - [Graham Hutton: Publications](http://www.cs.nott.ac.uk/~pszgmh/bib.html)
 - [Queensland Functional Programming Lab](https://qfpl.io/)
 - [List of useful resources to learn typed FP](https://github.com/dewey92/typed-fp-good-reads)
+- [Monads and Mom (2020)](https://twitchard.github.io/posts/2020-07-26-monads.html) ([Lobsters](https://lobste.rs/s/hkz1kh/monads_mom))
+- [Learn Functional Programming Design from Redux (2020)](https://pitayan.com/posts/redux-fp-design/) ([HN](https://news.ycombinator.com/item?id=24046631))
+- [Imperative functional programming (1992)](https://www.microsoft.com/en-us/research/wp-content/uploads/1993/01/imperative.pdf)
+- [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire (1991)](https://ris.utwente.nl/ws/portalfiles/portal/6142049/meijer91functional.pdf) ([Web](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.125))
+- [Monads, Explained Without Bullshit (2020)](https://www.boringcactus.com/2020/07/18/monads-without-the-bullshit.html)
+- [Is Haskell good for learning functional programming? (2020)](https://www.reddit.com/r/haskell/comments/ik9yqi/is_haskell_good_for_learning_functional/)
+- [Functional lessons learnt (2019)](https://manzanit0.github.io/functional%20programming/2019/08/23/functional-lessons.html)
+- [Algebra-Driven Design book](https://algebradriven.design/) - Elegant Software from Simple Building Blocks. ([Lobsters](https://lobste.rs/s/xs8vlo/algebra_driven_design))
+- [What is functional reactive programming](https://github.com/Pauan/programming-notes/blob/master/Signals.rst)
+- [Implement Box functional data structure](https://github.com/Pauan/programming-notes/blob/master/Boxes.rst)
+- [CS316 “Functional Programming” course (2020)](https://github.com/bobatkey/CS316-2020)
+- [Of Groups and Monads](https://garlandus.co/OfGroupsAndMonads.html) ([Lobsters](https://lobste.rs/s/zzcjr9/groups_monads))
+- [Compositional Podcast](https://www.compositional.fm/) - All about functional programming in practice.
+- [Understanding Combinators using Elm](https://discourse.elm-lang.org/t/understanding-combinators/6425)
+- [Objects in Functional Languages](https://journal.infinitenegativeutility.com/objects-in-functional-languages) ([Lobsters](https://lobste.rs/s/wa5vbs/objects_functional_languages)) ([HN](https://news.ycombinator.com/item?id=25258354))
+- [Functional Christmas](https://functional.christmas/)
 
 ## Images
 

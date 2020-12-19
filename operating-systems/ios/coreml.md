@@ -10,3 +10,6 @@
 - [TensorFlow to CoreML Converter](https://github.com/tf-coreml/tf-coreml)
 - [How to Deploy PyTorch Models to iOS with Core ML via Tests (2020)](http://www.ml-illustrated.com/2020/05/25/run-pytorch-models-on-ios-with-coreml.html)
 - [YOLO with Core ML and MPSNNGraph](https://github.com/hollance/YOLO-CoreML-MPSNNGraph)
+- [From PyTorch to CoreML](https://github.com/vincentfpgarcia/from-pytorch-to-coreml)
+- [YOLOv3](https://github.com/ultralytics/yolov3) - YOLOv3 in PyTorch > ONNX > CoreML > iOS.
+- [Creating an Image Classifier Model with CoreML](https://developer.apple.com/documentation/createml/creating_an_image_classifier_model)

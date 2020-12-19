@@ -12,9 +12,10 @@
 - [skdata](https://github.com/jaberg/skdata) - Data sets for machine learning in Python.
 - [TensorFlow Datasets](https://github.com/tensorflow/datasets) - Collection of datasets ready to use with TensorFlow.
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [Awesome Public Datasets Core](https://github.com/awesomedata/apd-core) - Next iteration of APD project.
 - [LORIS](https://github.com/aces/Loris) - Web-accessible database solution for longitudinal multi-site studies.
 - [ProteinNet](https://github.com/aqlaboratory/proteinnet) - Standardized data set for machine learning of protein structure.
-- [Registry of Open Data on AWS](https://registry.opendata.aws/)
+- [Registry of Open Data on AWS](https://registry.opendata.aws/) ([Code](https://github.com/awslabs/open-data-registry))
 - [List of datasets for machine-learning research](https://en.m.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 - [Syndetic](https://www.getsyndetic.com/) - Replaces static data dictionaries with a live data profiling system. Annotate, measure, and monitor your datasets. Share the results. ([HN](https://news.ycombinator.com/item?id=22406560))
 - [FaceForensics++](https://github.com/ondyari/FaceForensics) - Learning to Detect Manipulated Facial Images.
@@ -35,5 +36,28 @@
 - [DataHub](https://datahub.io/) - Provide various solutions to Publish and Deploy your Data with power and simplicity.
 - [Core Data](https://datahub.io/docs/core-data) - Important, commonly-used data as high quality, easy-to-use & open data packages. ([Code](https://github.com/datasets))
 - [Awesome collections on DataHub](https://github.com/datasets/awesome-data)
-- [Label Studio](https://labelstud.io/) - Multi-type data labeling and annotation tool with standardized output format. ([Code](https://github.com/heartexlabs/label-studio))
+- [Label Studio](https://labelstud.io/) - Multi-type data labeling and annotation tool with standardized output format. ([Code](https://github.com/heartexlabs/label-studio)) ([Time Series Data Labeling](https://labelstud.io/blog/release-080-time-series-labeling.html))
 - [Heartex](https://www.heartex.ai/) - Data Management Platform for Machine Learning.
+- [Clothing Dataset: Call for Action (2020)](https://medium.com/data-science-insider/clothing-dataset-call-for-action-3cad023246c1)
+- [Unsplash Dataset](https://github.com/unsplash/datasets) - 2,000,000+ Unsplash images made available for research and machine learning. ([Web](https://unsplash.com/data))
+- [100k+ Rows Topic Labeled News Dataset (2020)](https://newscatcherapi.com/blog/topic-labeled-news-dataset)
+- [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) - MNIST-like fashion product database.
+- [FiveThirtyEight Datasets](https://data.fivethirtyeight.com/)
+- [Books in .txt format for AI training purposes](https://twitter.com/theshawwn/status/1320282149329784833) ([HN](https://news.ycombinator.com/item?id=24884789))
+- [Sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
+- [SuperAnnotate](https://superannotate.com/) - Fastest annotation platform for training AI.
+- [Activeloop Hub](https://github.com/activeloopai/Hub) - Fastest way to access and manage datasets for PyTorch and TensorFlow.
+- [Objectron Dataset](https://github.com/google-research-datasets/Objectron) - Dataset of short object centeric video clips with pose annotations.
+- [Google Research Datasets](https://github.com/google-research-datasets)
+- [matorage](https://github.com/graykode/matorage) - Efficient way to store/load and manage dataset, model and optimizer for deep learning.
+- [HN Posts datasets](https://github.com/massanishi/hackernews-post-datasets) ([HN](https://news.ycombinator.com/item?id=25125458))
+- [Hypersim Toolkit](https://github.com/apple/ml-hypersim) - Set of tools for generating photorealistic synthetic datasets from V-Ray scenes.
+- [mirdata](https://github.com/mir-dataset-loaders/mirdata) - Interoperable Dataset Loaders for Music Information Retrieval (MIR).
+- [MetFaces Dataset](https://github.com/NVlabs/metfaces-dataset) - Image dataset of human faces extracted from works of art.
+- [Lionbridge AI](https://lionbridge.ai/) - Provides human-labeled data for hundreds of use cases.
+- [Traditional Chinese Landscape Painting Dataset](https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset)
+- [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
+- [Wikimedia Downloads](https://dumps.wikimedia.org/) - Download all of Wikipedia free.
+- [How to shuffle a big dataset (2018)](https://blog.janestreet.com/how-to-shuffle-a-big-dataset/) ([Reddit](https://www.reddit.com/r/gwern/comments/k9iqd3/how_to_shuffle_a_big_dataset/))
+- [ESC-50: Dataset for Environmental Sound Classification](https://github.com/karolpiczak/ESC-50)
+- [Booking.com WSDM challenge](https://www.bookingchallenge.com/) - Training dataset consists of over a million of anonymized hotel reservations, based on real data.

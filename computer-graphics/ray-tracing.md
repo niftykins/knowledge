@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Ray Tracing in One Weekend: The Book Series](https://raytracing.github.io/) ([Code](https://github.com/raytracing/raytracing.github.io/))
+- [Ray Tracing in One Weekend: The Book Series](https://raytracing.github.io/) ([Code](https://github.com/raytracing/raytracing.github.io/)) ([Book](https://raytracing.github.io/books/RayTracingInOneWeekend.html))
 - [Ray Tracing in One Weekend implemented in Golang, chapter-by-chapter](https://github.com/hunterloftis/oneweekend)
 - [Ray Tracing in One Weekend implemented in C++, chapter-by-chapter](https://github.com/utilForever/ray-tracing-in-one-weekend-cpp)
 - [Understandable Ray Tracing in 256 lines of bare C++ course (2019)](https://github.com/ssloy/tinyraytracer)
@@ -37,3 +37,22 @@
 - [Saturno](https://github.com/alvarosan/saturno) - Implementation of 'Ray Tracing in One Weekend' in Rust (and wasm).
 - [Ray tracing in Nim (2020)](https://nim-lang.org/blog/2020/06/30/ray-tracing-in-nim.html) ([HN](https://news.ycombinator.com/item?id=23707286))
 - [How to Write a Ray Tracer Intuitively (2020)](https://blog.scottlogic.com/2020/03/10/raytracer-how-to.html)
+- [Traceur: a path tracing renderer in Ink and JavaScript (2020)](https://dotink.co/posts/traceur/)
+- [Racing the Beam Ray Tracer (2018)](https://tomverbeure.github.io/rtl/2018/11/26/Racing-the-Beam-Ray-Tracer.html) - Full Hardware Real-Time Ray-Tracer. ([Code](https://github.com/tomverbeure/rt))
+- [Ray-tracer / Learning project with Rust](https://github.com/qu4k/rain)
+- [tray_rust](https://github.com/Twinklebear/tray_rust) - Toy Ray Tracer in Rust.
+- [Visionaray](https://github.com/szellmann/visionaray) - C++-based, cross platform ray tracing library. ([Web](https://vis.uni-koeln.de/forschung/software-visionaray))
+- [Raytraced Shadows in Call of Duty: Modern Warfare](https://www.activision.com/cdn/research/Raytraced_Shadows_in_Call_of_Duty_Modern_Warfare.pdf) - How ray tracing can be integrated into a modern, forward+ engine with minimal-to-no content changes.
+- [Slightly Incremental Ray Tracing In One Weekend (2020)](https://www.peterstefek.me/incr-ray-tracer.html)
+- [SORT (Simple Open-source Ray Tracing)](https://github.com/JiayinCao/SORT) - Cross platform ray tracing renderer in C++. ([Web](https://sort-renderer.com/))
+- [redner](https://github.com/BachiLi/redner) - Differentiable Monte Carlo Ray Tracing through Edge Sampling.
+- [Vulkan Real-time Path Tracer Engine](https://github.com/Zielon/PBRVulkan)
+- [Rust Ray Tracer, an Update (and SIMD) (2020)](https://siliconsprawl.com/2020/11/06/simd-ray-tracer.html) ([Lobsters](https://lobste.rs/s/kpfbis/rust_ray_tracer_update_simd))
+- [Path Tracing with Babylon, Background and Implementation](https://forum.babylonjs.com/t/path-tracing-with-babylon-background-and-implementation/12832)
+- [Lentil](https://www.lentil.xyz/) - Advanced camera toolkit for the Arnold renderer. Ray tracing through real lenses. ([HN](https://news.ycombinator.com/item?id=25045034))
+- [Factorio Raytracer](https://twitter.com/notch/status/1328335971176370181)
+- [rpt](https://github.com/ekzhang/rpt) - Physically-based path tracer in Rust.
+- [Raygon](https://github.com/raygon-renderer/readme) - High-performance proprietary CPU path tracer written in the Rust programming language.
+- [Jaeger](https://www.jaegertracing.io/) - Open source, end-to-end distributed tracing. ([Code](https://github.com/jaegertracing/jaeger))
+- [SuperRT - Realtime raytracing on the SNES (2020)](https://www.shironekolabs.com/posts/superrt/) ([HN](https://news.ycombinator.com/item?id=25431203))
+- [vk_mini_path_tracer](https://github.com/nvpro-samples/vk_mini_path_tracer) - Beginner-friendly Vulkan path tracing tutorial in under 300 lines of C++.

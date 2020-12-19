@@ -31,7 +31,7 @@
 - [MVP.css](https://andybrewer.github.io/mvp/) - Minimalist stylesheet for HTML elements. No class names, no frameworks, just semantic HTML. ([Code](https://github.com/andybrewer/mvp))
 - [HTML DOM](https://htmldom.dev/) - Common tasks of managing HTML DOM with vanilla JavaScript. ([Code](https://github.com/phuoc-ng/html-dom)) ([HN](https://news.ycombinator.com/item?id=22758218))
 - [hyper(HTML)](https://github.com/WebReflection/hyperHTML) - Fast & Light Virtual DOM Alternative available for Node.js and NativeScript too.
-- [Open Graph Image as a Service](https://github.com/zeit/og-image) - Serverless service that generates dynamic Open Graph images that you can embed in your <meta> tags.
+- [Open Graph Image as a Service](https://github.com/vercel/og-image) - Serverless service that generates dynamic Open Graph images that you can embed in your <meta> tags.
 - [Responsive Images the Simple Way (2020)](https://cloudfour.com/thinks/responsive-images-the-simple-way/)
 - [sahtml-query](https://github.com/mdevils/sahtml-query) - Fast and low memory query API for HTML (node.js).
 - [HTML is more complicated than you think (2020)](https://www.tempertemper.net/blog/html-is-more-complicated-than-you-think)
@@ -45,7 +45,7 @@
 - [pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX/) - Convert PDF to HTML without losing text or format.
 - [htmlparser2](https://github.com/fb55/htmlparser2) - Forgiving html and xml parser.
 - [Awesome lit-html](https://github.com/web-padawan/awesome-lit-html)
-- [Grid.js](https://gridjs.io/) - Free and open-source HTML table plugin written in TypeScript. ([HN](https://news.ycombinator.com/item?id=23420091)) ([Code](https://github.com/grid-js/gridjs))
+- [Grid.js](https://gridjs.io/) - Free and open-source HTML table plugin written in TypeScript. ([HN](https://news.ycombinator.com/item?id=23420091)) ([Code](https://github.com/grid-js/gridjs)) ([Grid.js Website code](https://github.com/grid-js/website))
 - [keen-slider](https://github.com/rcbyr/keen-slider) - HTML touch slider carousel with the most native feeling.
 - [HTML Tutorial for Beginners 101 (Including HTML5 Tags) (2020)](https://websitesetup.org/html-tutorial-beginners/)
 - [ElaAdmin HTML5 Admin Dashboard Template](https://github.com/puikinsh/ElaAdmin)
@@ -60,3 +60,32 @@
 - [drag-drop](https://github.com/feross/drag-drop) - HTML5 drag & drop for humans.
 - [HTML APIs: What They Are And How To Design A Good One (2017)](https://www.smashingmagazine.com/2017/02/designing-html-apis/)
 - [Creating a sitemap.xml from a pile of HTML files](https://www.christopherbiscardi.com/creating-a-sitemap-xml-from-a-pile-of-html-files)
+- [DOM Expressions](https://github.com/ryansolid/dom-expressions) - Fine-Grained Runtime for Performant DOM Rendering.
+- [Form Design](https://gerireid.com/forms.html)
+- [xm](https://github.com/giuseppeg/xm) - Extensible HTML. ([Docs](https://giuseppegurgone.com/xm/))
+- [DOMPurify bypass: XSS via HTML namespace confusion (2020)](https://research.securitum.com/mutation-xss-via-mathml-mutation-dompurify-2-0-17-bypass/) ([HN](https://news.ycombinator.com/item?id=24703230))
+- [The usability of HTML elements (2020)](https://shkspr.mobi/blog/2020/10/the-usability-of-html-elements/) ([HN](https://news.ycombinator.com/item?id=24729006))
+- [Awfice](https://zserge.com/posts/awfice/) - Collection of tiny office suite apps. ([Article](https://zserge.com/posts/awfice/)) ([HN](https://news.ycombinator.com/item?id=24752546))
+- [croquis.js](https://github.com/disjukr/croquis.js) - HTML5 drawing tool library.
+- [Emmet](https://github.com/emmetio/emmet) - Web-developer’s toolkit for boosting HTML & CSS code writing. ([Web](https://emmet.io/))
+- [This page is a truly naked, brutalist HTML quine](https://secretgeek.github.io/html_wysiwyg/html.html) ([HN](https://news.ycombinator.com/item?id=24824977))
+- [Konva](https://github.com/konvajs/konva) - HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. ([Web](https://konvajs.org/))
+- [Typed HTML](https://github.com/nicojs/typed-html) - TypeSafe HTML templates using TypeScript. No need to learn a template library.
+- [he](https://github.com/mathiasbynens/he) - Robust HTML entity encoder/decoder written in JavaScript.
+- [bluemonday](https://github.com/microcosm-cc/bluemonday) - HTML sanitizer implemented in Go. It is fast and highly configurable.
+- [vanilla-colorful](https://github.com/web-padawan/vanilla-colorful) - Tiny color picker custom element for modern web apps.
+- [HTML forms, Databases, Integration tests (2020)](https://www.lpalmieri.com/posts/2020-08-31-zero-to-production-3-5-html-forms-databases-integration-tests/)
+- [Tocbot](https://github.com/tscanlin/tocbot) - Build a table of contents from headings in an HTML document. ([Web](http://tscanlin.github.io/tocbot/))
+- [async-htm-to-string](https://github.com/voxpelli/async-htm-to-string) - Renders a htm tagged template asyncly into a string.
+- [HTML and CSS simple tips and tricks for your website](https://thomasorus.com/html-tips.html)
+- [Headers.CSS](https://headers-css.vercel.app/) - Blueprint HTML and CSS for 17+ website headers. ([Code](https://github.com/shadeed/headers-css))
+- [minify-html](https://github.com/wilsonzlin/minify-html) - Fast and smart HTML + JS minifier, available for Rust, Node.js, Python, Java, and Ruby.
+- [HTML & CSS Is Hard | Friendly web development tutorial](https://www.internetingishard.com/html-and-css/)
+- [imperative-html](https://github.com/johnnesky/imperative-html) - Small JavaScript library for creating HTML (and SVG) elements in a web browser.
+- [lit-html-server](https://github.com/popeindustries/lit-html-server) - Render lit-html templates on the server as strings or streams (and in the browser too).
+- [hypertag](https://github.com/AndreasPizsa/hypertag) - HTML tag parser built for speed.
+- [DomStorm](https://domstorm.skepticfx.com/) - Dashboard for interesting DOM tricks/techniques. ([Code](https://github.com/skepticfx/domstorm))
+- [Alt vs Figcaption (2020)](https://thoughtbot.com/blog/alt-vs-figcaption)
+- [Ultralight](https://ultralig.ht/) - Next-Generation HTML Renderer for Desktop Apps and Games. ([Code](https://github.com/ultralight-ux/Ultralight))
+- [The Zen of index.html (2020)](https://hugodaniel.com/posts/using-just-an-index-to-develop-a-web-app/)
+- [PostHTML](https://github.com/posthtml/posthtml-expressions) - Use variables, JS-like expressions, and even markup-powered logic in your HTML. ([Web](https://posthtml.org/#/))

@@ -16,11 +16,25 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Codex](https://github.com/jakewies/hugo-theme-codex) - Minimal blog theme built for Hugo.
 - [Carlisle](https://github.com/thesephist/carlisle) - Minimal template for a Hugo site.
 - [Archie](https://github.com/athul/archie) - Minimal and clean theme for hugo with a markdown-ish UI.
+- [Chlorine](https://github.com/AnnaOpss/hugo-chlorine-theme) - Simple responsive blog theme for Hugo based on Natrium.
+- [Ghostwriter](https://github.com/jbub/ghostwriter) - Port of ghostwriter theme to Hugo.
+- [Blogophonic](https://github.com/formspree/blogophonic-hugo) - Modern, beautiful, and easily configurable blog for Hugo that includes a dedicated page with a functional contact form.
+- [Pulp](https://github.com/koirand/pulp/) - Hugo theme for getting a simple, easy-to-read blog site.
+- [Hugo Starter Tailwind Basic](https://github.com/bep/hugo-starter-tailwind-basic) - Simple starter set up with TailnwindCSS and its typograhpy plugin and a build setup using PostCSS and PurgeCSS (when running the production build).
+- [Minimal](https://github.com/calintat/minimal)
+- [Cocoa](https://github.com/nishanths/cocoa-hugo-theme) - Responsive Hugo blog theme.
+- [Tale](https://github.com/EmielH/tale-hugo/) - Minimal theme curated for storytellers.
+- [Ink](https://github.com/knadh/hugo-ink) - Crisp, minimal personal website and blog theme Hugo.
+- [Hugo Book Theme](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book.
+- [Terminal](https://github.com/panr/hugo-theme-terminal) - Simple, retro theme for Hugo.
+- [Call me Sam](https://github.com/victoriadrake/hugo-theme-sam) - Simple and Minimalist theme for Hugo with a focus on typography and content.
 
 ## Examples
 
 - [The source for pimbook.org](https://github.com/pim-book/pim-book.github.io)
 - [Oxide Computer](https://github.com/oxidecomputer/design.oxide.computer)
+- [Platform.sh User Docs](https://github.com/platformsh/platformsh-docs)
+- [/dev/null as a Service](https://devnull-as-a-service.com/home/) ([Code](https://github.com/noqqe/devnull-as-a-service))
 
 ## Links
 
@@ -35,3 +49,8 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Nice articles on Hugo](https://www.ronaldsvilcins.com/tags/hugo/)
 - [Hugo: a static-site generator explained (2020)](https://lwn.net/SubscriberLink/825507/77df07d41cec68c4/)
 - [Themeless & Gitless Introduction to Hugo](https://www.ii.com/themeless-gitless-intro-hugo/)
+- [SEO for Hugo blogs (2020)](https://mathieuhendey.com/2020/10/seo-for-hugo-blogs/)
+- [Minifying CSS With Hugo Pipelines (2020)](https://mathieuhendey.com/2020/10/minifying-css-with-hugo-pipelines/)
+- [Awesome Hugo](https://github.com/theNewDynamic/awesome-hugo)
+- [Using Github Issues as a Hugo frontend with Github Actions and Netlify (2020)](https://shazow.net/posts/github-issues-as-a-hugo-frontend/) ([Lobsters](https://lobste.rs/s/oeelem/using_github_issues_as_hugo_frontend_with))
+- [Hugo Code](https://github.com/gohugoio/hugo)

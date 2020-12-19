@@ -16,3 +16,6 @@
 - [Rod](https://github.com/ysmood/rod) - High-level Chrome Devtools controller directly based on Chrome DevTools Protocol.
 - [Chrome DevTools UI](https://github.com/ChromeDevTools/devtools-frontend)
 - [DevTools tips (2020)](https://twitter.com/brian_d_vaughn/status/1250659369496145921)
+- [Hidden Features of Chrome DevTools (2020)](https://martinheinz.dev/blog/33)
+- [How to Debug JavaScript Apps with Chrome DevTools (2020)](https://blog.asayer.io/how-to-debug-javascript-apps-with-chrome-devtools)
+- [Emulate vision deficiencies in DevTools (2020)](https://addyosmani.com/blog/emulate-vision-deficiencies-devtools/)

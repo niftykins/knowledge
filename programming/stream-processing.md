@@ -13,3 +13,10 @@
 - [Storm Applied: Strategies for real-time event processing](https://www.amazon.com/Storm-Applied-Strategies-real-time-processing/dp/1617291897)
 - [Template Haskell and Stream-processing programs (2020)](https://jmtd.net/log/template_haskell/streamgraph/)
 - [Eventual Consistency isn’t for Streaming (2020)](https://materialize.io/eventual-consistency-isnt-for-streaming/) ([HN](https://news.ycombinator.com/item?id=23832149))
+- [Hazelcast Jet](https://github.com/hazelcast/hazelcast-jet) - Open-Source Distributed Stream and Batch Processing. ([Web](https://jet-start.sh/))
+- [WTF are streams? (2019)](https://manzanit0.github.io/computing/2019/05/29/wtf-are-streams.html)
+- [Benthos](https://github.com/Jeffail/benthos) - Stream processor for mundane tasks written in Go. ([Web](https://www.benthos.dev/))
+- [Amazon Kinesis](https://aws.amazon.com/kinesis/) - Process & Analyze Streaming Data .
+- [Kiner](https://github.com/bufferapp/kiner) - Python AWS Kinesis Producer with error handling and thread support.
+- [Modern Distributed Data Architecture with Event Streams, Stream Processing and Derived Data (2020)](https://makingsmallercircles.com/articles/modern-distributed-data-architecture-with-event-streams-stream-processing-and-derived-data/)
+- [Apache Samza](https://github.com/apache/samza) - Distributed stream processing framework.

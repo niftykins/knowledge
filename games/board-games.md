@@ -1,10 +1,11 @@
 # Board games
 
-I keep a [list of all board games I played](https://boardgamegeek.com/collection/user/nikivi?subtype=boardgame&ff=1).
+I keep a [list of all board games I played & want to play](https://boardgamegeek.com/collection/user/nikivi?subtype=boardgame).
 
 ## Interesting
 
 - [Liberty or Death: The American Insurrection](https://boardgamegeek.com/boardgame/165872/liberty-or-death-american-insurrection)
+- [Articulate](https://boardgamegeek.com/boardgame/6541/articulate)
 
 ## Links
 
@@ -18,3 +19,9 @@ I keep a [list of all board games I played](https://boardgamegeek.com/collection
 - [The Utilitarian Pleasures of Playing Board Games By Yourself (2020)](https://www.atlasobscura.com/articles/utilitarian-pleasures-playing-board-games-by-yourself)
 - [Hanabi Live](https://hanabi.live/) - Place to play Hanabi online. Cooperative card game of logic and reasoning. ([Code](https://github.com/Zamiell/hanabi-live)) ([List of Hanabi Strategies](https://github.com/Zamiell/hanabi-conventions))
 - [Love Letter to KataGo or: Go AI past, present, and future](https://brantondemoss.com/writing/kata/)
+- [StartPlaying.Games](https://startplaying.games/) - Tabletop RPGs run by pro game masters. ([HN](https://news.ycombinator.com/item?id=24827162))
+- [I Solved British Square (2020)](https://nullprogram.com/blog/2020/10/19/)
+- [Go Game notes](https://tromp.github.io/go.html)
+- [You Should Play Secret Hitler (2020)](https://kristoff.it/blog/you-should-play-secret-hitler/)
+- [The Interactive Way To Go](http://playgo.to/iwtg/en/) - Learn to play Go board game.
+- [Multiplayer Go for the Web (In Rust) with KataGo AI](https://go.terkwood.farm/)

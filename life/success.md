@@ -12,6 +12,8 @@ Success comes from not giving up and doing what you love.
 - [All learning is dependent on feedback. The faster the feedback, the faster you can learn. Thus, in many domains, the individual, team, or organization with the fastest feedback cycle is the one that wins.](https://twitter.com/JamesClear/status/1084862272734937095)
 - [Explore the solution space before refining the solution. (aka 'Get the right design, then get the design right')](https://twitter.com/destraynor/status/1087398748479733760)
 - [Pessimists sound smart. Optimists make money.](https://twitter.com/patrickc/status/1263482890668503041)
+- [The single most important factor to success is the ability to make things happen. This requires determination, resourcefulness, focus, tenacity, confidence, a willingness to look like an idiot, and an ability to do the work when no one is watching.](https://twitter.com/ShaneAParrish/status/1322967152434008064)
+- [Don't be impressed by money, followers, degrees, and titles. Be impressed by kindness, integrity, humility, and generosity.](https://twitter.com/ProfFeynman/status/1330178700424458243)
 
 ## Links
 
@@ -43,7 +45,7 @@ Success comes from not giving up and doing what you love.
 - [The Bus Ticket Theory of Genius (2019)](http://paulgraham.com/genius.html) ([HN](https://news.ycombinator.com/item?id=21613357))
 - [I coached 101 CEOs, founders, VCs and other executives in 2019: These are the biggest takeaways (2019)](https://leowid.com/2019-2) ([HN](https://news.ycombinator.com/item?id=21882441))
 - [How To Be Successful (At Your Career) (2020)](https://twitter.com/sama/status/1214274038933020672) ([HN](https://news.ycombinator.com/item?id=21974718))
-- [Almanac of Naval Ravikant](https://www.navalmanack.com/) - Guide to Wealth and Happiness.
+- [Almanac of Naval Ravikant](https://www.navalmanack.com/) - Guide to Wealth and Happiness. ([HN](https://news.ycombinator.com/item?id=24611721))
 - [Some examples of people quickly accomplishing ambitious things together](https://patrickcollison.com/fast) ([HN](https://news.ycombinator.com/item?id=21848860))
 - [Ask HN: What has your work taught you that other people don't realize? (2020)](https://news.ycombinator.com/item?id=22018946)
 - [Ask HN: What were the things you did that made the biggest impact at your work? (2020)](https://news.ycombinator.com/item?id=22210361)
@@ -55,3 +57,13 @@ Success comes from not giving up and doing what you love.
 - [Ask HN: How to develop a growth mindset? (2020)](https://news.ycombinator.com/item?id=23605790)
 - [Sources of competitive advantage that you can generate simply by adjusting your own mentality](https://twitter.com/patio11/status/1275600252121133057)
 - [How to be more positive sum](https://twitter.com/eriktorenberg/status/1105556875611795456)
+- [30 Year Thinking (2020)](https://www.nateliason.com/blog/30-years)
+- [Blueprint I've followed to build my own business/income in ~4 years (2020)](https://twitter.com/jdnoc/status/1291773397010087938)
+- [Advice on making a living as an independent maker (2020)](https://twitter.com/adamwathan/status/1296447318074568704)
+- [Vector theory of impact](https://twitter.com/sama/status/1297912739206242306)
+- [Some guiding principles for a good life (2020)](https://twitter.com/Kpaxs/status/1300016373482106882)
+- [Build Personal Moats (2020)](https://eriktorenberg.substack.com/p/build-personal-moats) ([HN](https://news.ycombinator.com/item?id=24538443))
+- [Half-assing it with everything you've got (2015)](http://mindingourway.com/half-assing-it-with-everything-youve-got/)
+- [Getting Big Things Done (2020)](http://brooker.co.za/blog/2020/10/19/big-changes.html)
+- [From McDonald’s to Google: How Kelsey Hightower became one of the most respected people in cloud computing (2020)](https://www.protocol.com/kelsey-hightower-google-cloud) ([HN](https://news.ycombinator.com/item?id=24942908))
+- [Consume Less. Create More. It’s More Fun. (2020)](https://telegra.ph/Consume-Less-Create-More-Its-More-Fun-12-04)

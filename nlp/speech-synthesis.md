@@ -14,3 +14,13 @@
 - [Sonatic](https://www.sonantic.io/) - Emotionally Expressive Text to Speech.
 - [GAN-based Mel-Spectrogram Inversion Network for Text-to-Speech Synthesis](https://github.com/descriptinc/melgan-neurips)
 - [Ask HN: My wife might lose the ability to speak in 3 weeks – how to prepare? (2020)](https://news.ycombinator.com/item?id=23490115)
+- [DiffWave](https://github.com/lmnt-com/diffwave) - Fast, high-quality neural vocoder and waveform synthesizer.
+- [Voice Conversion with Non-Parallel Data](https://github.com/andabi/deep-voice-conversion)
+- [Speech Synthesis Papers](https://github.com/xcmyz/speech-synthesis-paper)
+- [VoiceFilter](https://github.com/mindslab-ai/voicefilter) - Unofficial PyTorch implementation of Google AI's VoiceFilter system. ([Web](http://swpark.me/voicefilter/))
+- [ForwardTacotron](https://github.com/as-ideas/ForwardTacotron) - Generating speech in a single forward pass without any attention. ([Web](https://as-ideas.github.io/ForwardTacotron/))
+- [HiFi-GAN](https://github.com/jik876/hifi-gan) - Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis.
+- [Parakeet](https://github.com/PaddlePaddle/Parakeet) - Text-to-speech toolKIT (supporting WaveFlow, ClariNet, WaveNet, Deep Voice 3, Transformer TTS and FastSpeech).
+- [pyttsx3](https://github.com/nateshmbhat/pyttsx3) - Offline Text To Speech synthesis for python.
+- [SOVA TTS](https://github.com/sovaai/sova-tts) - Speech syntthesis solution based on Tacotron 2 architecture.
+- [eSpeak NG](https://github.com/espeak-ng/espeak-ng) - Open source speech synthesizer that supports more than hundred languages and accents.

@@ -1,4 +1,4 @@
-# [Scheme](<https://en.wikipedia.org/wiki/Scheme_(programming_language)>)
+# [Scheme](https://wiki.call-cc.org/)
 
 ## Links
 
@@ -18,3 +18,19 @@
 - [Fibers](https://github.com/wingo/fibers) - Facility that provides Go-like concurrency for Guile Scheme, in the tradition of Concurrent ML.
 - [Practical Chicken Scheme with Emacs: hello-world webserver (2017)](https://www.youtube.com/watch?v=eXB3I3S3vJc)
 - [The evolution of a Scheme programmer (2020)](https://erkin.party/blog/200715/evolution/) ([Lobsters](https://lobste.rs/s/ao7qpz/evolution_scheme_programmer))
+- [Awesome Scheme](https://github.com/schemedoc/awesome-scheme)
+- [A New R6RS Scheme Compiler (2019)](https://weinholt.se/articles/new-r6rs-compiler/) ([Lobsters](https://lobste.rs/s/6gbneg/new_r6rs_scheme_compiler))
+- [STklos](https://stklos.net/index.html) - Free Scheme system mostly compliant with the languages features defined in R7RS small.
+- [A Simple Scheme Compiler (1997)](https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_142.html#SEC271) ([HN](https://news.ycombinator.com/item?id=24257488))
+- [Planet Scheme](http://www.scheme.dk/planet/) - Community Scheme Blog.
+- [CHICKEN Scheme wiki](https://wiki.call-cc.org/)
+- [CHICKEN User's Manual](http://wiki.call-cc.org/man/5/The%20User%27s%20Manual)
+- [Scheme C FFI](https://github.com/Mathieu-Desrochers/Schemings) ([HN](https://news.ycombinator.com/item?id=23860977))
+- [SICP done in Scheme](https://github.com/kana/sicp)
+- [Loko Scheme](https://scheme.fail/) - Optimizing R6RS Scheme compiler.
+- [Unsyntax](https://www.unsyntax.org/) - Sane implementation of R7RS Scheme. ([Lobsters](https://lobste.rs/s/xszs7d/unsyntax_sane_implementation_r7rs))
+- [s7 Scheme](https://ccrma.stanford.edu/software/snd/snd/s7.html) - Scheme implementation intended as extension language for other applications. ([HN](https://news.ycombinator.com/item?id=24687031))
+- [Cyclone Scheme](https://github.com/justinethier/cyclone) - Brand-new compiler that allows practical application development using R7RS Scheme. ([Web](https://justinethier.github.io/cyclone/)) ([HN](https://news.ycombinator.com/item?id=24696939))
+- [SRFIs for Chez Scheme](https://github.com/arcfide/chez-srfi)
+- [Compiling Scheme to C with flat closure conversion](http://matt.might.net/articles/compiling-scheme-to-c/)
+- [Bibliography of Scheme-related Research](https://github.com/schemedoc/bibliography)

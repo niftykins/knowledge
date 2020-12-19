@@ -18,7 +18,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [WebTTY](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC.
 - [libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O.
 - [Python implementation of the IPv8 layer](https://github.com/Tribler/py-ipv8)
-- [mitmproxy](https://mitmproxy.org/) - Free and open source interactive HTTPS proxy.
+- [mitmproxy](https://mitmproxy.org/) - Free and open source interactive HTTPS proxy. ([Code](https://github.com/mitmproxy/mitmproxy)) ([HN](https://news.ycombinator.com/item?id=24959897))
 - [CFSSL](https://github.com/cloudflare/cfssl) - CloudFlare's PKI/TLS swiss army knife.
 - [Every Linux networking tool I know](https://wizardzines.com/networking-tools-poster/)
 - [inlets](https://github.com/alexellis/inlets) - Expose your local endpoints to the Internet. ([HN](https://news.ycombinator.com/item?id=19189455)) [HN 2](https://news.ycombinator.com/item?id=20410552)
@@ -45,7 +45,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [docker-nginx-http3](https://github.com/RanadeepPolavarapu/docker-nginx-http3) - Alpine Linux image with Nginx with HTTP/3 (QUIC), TLSv1.3, 0-RTT, brotli support.
 - [SCION Internet Architecture](https://github.com/scionproto/scion)
 - [Everything curl - the book](https://ec.haxx.se) ([Code](https://github.com/bagder/everything-curl))
-- [Seastar](https://github.com/scylladb/seastar) - High performance server-side application framework.
+- [Seastar](https://github.com/scylladb/seastar) - High performance server-side application framework. ([Web](http://seastar.io/)) ([Article](https://www.scylladb.com/2020/03/26/avi-kivity-at-core-c-2019/))
 - [ServiceTalk](https://github.com/apple/servicetalk/) - Networking framework that evolves with your application.
 - [Beginner Network Pentesting course notes](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
 - [Scale By The Bay 2019: Norman Maurer, Netty 5: Lessons Learned](https://www.youtube.com/watch?v=hvYqSz_BgUM&list=PLNESult6cnOlb1BAO4o2T3DdNbMnCpTjp&index=24&t=0s)
@@ -119,3 +119,60 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Can we talk about client-side certificates? (2020)](https://drewdevault.com/tls/security/oauth/2020/06/12/Can-we-talk-about-client-side-certs.html) ([Lobsters](https://lobste.rs/s/oddjob/can_we_talk_about_client_side))
 - [How CDNs Generate Certificates (2020)](https://fly.io/blog/how-cdns-generate-certificates/)
 - [Tunnel to dev](https://tunnelto.dev/) - Expose your local web server to the internet with a public URL.
+- [CS Visualized: CORS (2020)](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
+- [IPv4, IPv6, and a sudden change in attitude (2020)](https://apenwarr.ca/log/20200708) ([HN](https://news.ycombinator.com/item?id=23914482))
+- [Cloudflare Network Interconnect (2020)](https://blog.cloudflare.com/cloudflare-network-interconnect/) ([HN](https://news.ycombinator.com/item?id=24049525))
+- [Adding a fiber link to my home network (2020)](https://michael.stapelberg.ch/posts/2020-08-09-fiber-link-home-network/) ([HN](https://news.ycombinator.com/item?id=24099425))
+- ["Cloud-like" Infrastructure at Home - Part 1: LoadBalancers on the Metal (2020)](https://cmacr.ae/post/2020-08-10-cloud-like-infra-at-home-part-1/)
+- [Ask HN: How Belarus can keep connected despite internet blackout? (2020)](https://news.ycombinator.com/item?id=24129059)
+- [How NAT traversal works (2020)](https://tailscale.com/blog/how-nat-traversal-works/) ([Lobsters](https://lobste.rs/s/4unriw/how_nat_traversal_works))
+- [Peer-to-Peer Communication Across Network Address Translators](https://bford.info/pub/net/p2pnat/)
+- [25 Best CDN Providers 2020](https://haydenjames.io/best-cdn-providers/)
+- [How do Routers Work, Really? (2020)](https://kamila.is//teaching/how-routers-work/) ([HN](https://news.ycombinator.com/item?id=24435454))
+- [Building a better home network (2020)](https://kevin.burke.dev/kevin/building-a-better-home-network/) ([Lobsters](https://lobste.rs/s/cjpeek/building_better_home_network))
+- [socat (2018)](https://medium.com/@copyconstruct/socat-29453e9fc8a6) - Socat stands for SOcket CAT. It is a utility for data transfer between two addresses.
+- [PJON (Padded Jittering Operative Network)](https://github.com/gioblu/PJON) - Arduino-compatible, multi-master, multi-media network protocol.
+- [Fast Software Cache Design for Network Appliances (2020)](https://www.youtube.com/watch?v=VR68-d9qf4Y)
+- [Creating a Home IPv6 Network (2020)](https://blog.hansenpartnership.com/creating-a-home-ipv6-network/)
+- [Building the Next Evolution of Cloud Networks at Slack (2020)](https://slack.engineering/building-the-next-evolution-of-cloud-networks-at-slack/)
+- [Gubernator](https://github.com/mailgun/gubernator) - Distributed, high performance, cloud native and stateless rate limiting service.
+- [MTProxy](https://github.com/TelegramMessenger/MTProxy) - Simple MT-Proto proxy.
+- [Multicast and the markets with Brian Nigito (2020)](https://overcast.fm/+hrS4EaIbk)
+- [NetworKit](https://github.com/networkit/networkit) - Open-source tool suite for high-performance network analysis. Its aim is to provide tools for the analysis of large networks in the size range from thousands to billions of edges. ([Web](https://networkit.github.io/))
+- [Understanding operational 5G: a first measurement study (2020)](https://blog.acolyer.org/2020/10/05/understanding-operational-5g/) ([HN](https://news.ycombinator.com/item?id=24688751))
+- [slurm](https://github.com/mattthias/slurm) - Yet another network load monitor.
+- [evilscan](https://github.com/eviltik/evilscan) - Nodejs Simple Network Scanner.
+- [Ixy languages](https://github.com/ixy-languages/ixy-languages) - High-speed network driver written in C, Rust, C++, Go, C#, Java, OCaml, Haskell, Swift, JavaScript, and Python.
+- [Redwood](https://github.com/andybalholm/redwood) - Web content filter that runs as an HTTP proxy.
+- [Anachro: Network Protocol, and a PC architecture for a microcontroller-based system](https://anachro.computer/)
+- [Cloudflare One (2020)](https://blog.cloudflare.com/introducing-cloudflare-one/) ([HN](https://news.ycombinator.com/item?id=24753940))
+- [I Setup My Own Personal CDN using Cloudflare and S3 (2020)](https://joel.net/how-i-setup-my-own-personal-cdn-using-cloudflare-and-s3)
+- [Mininet](https://github.com/mininet/mininet) - Emulator for rapid prototyping of Software Defined Networks. ([Web](http://mininet.org/))
+- [Project V](https://github.com/v2fly/v2ray-core) - Set of network tools that help you to build your own computer network. Secures your network connections and thus protects your privacy.
+- [BPF, XDP, Packet Filters and UDP (2020)](https://fly.io/blog/bpf-xdp-packet-filters-and-udp/) ([Tweet](https://twitter.com/tqbf/status/1318908202994573314))
+- [Hermes](https://github.com/George3d6/Hermes) - Minimalist, easy to deploy, dependency free file server written in go.
+- [CDN Geolocation](https://github.com/redirect2me/cdn-geolocation) - Geolocation API via HTTP headers from a CDN, currently supporting AWS Cloudfront, Cloudflare, Fastly and Google AppEngine.
+- [remotemoe](https://github.com/fasmide/remotemoe) - Software daemon for exposing ad-hoc services to the internet without having to deal with the regular network stuff such as configuring VPNs, changing firewalls, or adding port forwards.
+- [MOSN](https://github.com/mosn/mosn) - Cloud native proxy for edge or service mesh written in Go.
+- [File Descriptor Transfer over Unix Domain Sockets (2020)](https://copyconstruct.medium.com/file-descriptor-transfer-over-unix-domain-sockets-dcbbf5b3b6ec)
+- [curl](https://curl.haxx.se/) - Command line tool and library for transferring data with URLs. ([Code](https://github.com/curl/curl))
+- [IPv6 Is a Nightmare (2020)](https://teknikaldomain.me/post/ipv6-is-a-total-nightmare/) ([HN](https://news.ycombinator.com/item?id=24994587)) ([Lobsters](https://lobste.rs/s/vm8wei/ipv6_is_total_nightmare_this_is_why))
+- [Etherify](https://github.com/sq5bpf/etherify) - Transmit Radio Signals via Ethernet. ([HN](https://news.ycombinator.com/item?id=25025552))
+- [NetworkMananger-l2tp](https://github.com/nm-l2tp/NetworkManager-l2tp) - L2TP and L2TP/IPsec support for NetworkManager.
+- [GNUnet](https://gnunet.org/en/index.html) - Network protocol stack for building secure, distributed, and privacy-preserving applications. ([Code](https://github.com/equalitie/gnunet))
+- [Secure Reliable Transport (SRT) Protocol](https://github.com/Haivision/srt) - Open source transport technology that optimizes streaming performance across unpredictable networks, such as the Internet.
+- [Awesome Optimal Transport](https://github.com/kilianFatras/awesome-optimal-transport)
+- [Build VNF](https://github.com/stevelorenz/build-vnf) - Collection of utilities to build fast and green virtualized network functions.
+- [Argo Tunnel client](https://github.com/cloudflare/cloudflared) - Tunneling daemon that proxies any local webserver through the Cloudflare network. ([Docs](https://developers.cloudflare.com/argo-tunnel/))
+- [Many services, one cloudflared (2020)](https://blog.cloudflare.com/many-services-one-cloudflared/)
+- [Transport Protocols: TCP and UDP](https://www.youtube.com/watch?v=37AFBZv4_6Y)
+- [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) - Multiplatform C++ library for capturing, parsing and crafting of network packets.
+- [LibreSpeed](https://librespeed.org/) - Free and Open Source Speedtest. ([LibreSpeed CLI](https://github.com/librespeed/speedtest-cli))
+- [CppServer](https://github.com/chronoxor/CppServer) - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution.
+- [TinyCheck](https://github.com/KasperskyLab/TinyCheck) - Allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them.
+- [uSockets](https://github.com/uNetworking/uSockets) - Miniscule cross-platform eventing, networking & crypto for async applications.
+- [Nanomsg](https://nanomsg.org/) - Socket library that provides several common communication patterns. It aims to make the networking layer fast, scalable, and easy to use. ([GitHub](https://github.com/nanomsg))
+- [Proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
+- [Messaging Layer Security (MLS) Protocol](https://messaginglayersecurity.rocks/) ([Code](https://github.com/mlswg/mls-protocol))
+- [Messaging Layer Security (MLS) Architecture](https://github.com/mlswg/mls-architecture)
+- [rosen: censorship-resistant proxy tunnel (2020)](https://spacetime.dev/rosen-censorship-resistant-proxy-tunnel) ([Lobsters](https://lobste.rs/s/gkwrk2/rosen_censorship_resistant_proxy_tunnel))

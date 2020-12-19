@@ -13,3 +13,11 @@
 - [TensorFlow Probability](https://github.com/tensorflow/probability) - Library for probabilistic reasoning and statistical analysis in TensorFlow.
 - [Soss: Probabilistic Programming with Julia (2020)](https://notamonadtutorial.com/soss-probabilistic-programming-with-julia-6acc5add5549)
 - [NumPyro](https://github.com/pyro-ppl/numpyro) - Probabilistic programming with NumPy powered by JAX for autograd and JIT compilation to GPU/TPU/CPU.
+- [Edward2](https://github.com/google/edward2) - Simple probabilistic programming language.
+- [MCX](https://github.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference on CPU & GPU. Powered by JAX. ([Intro](https://rlouf.github.io/post/introduce_mcx/))
+- [Soss](https://github.com/cscherrer/Soss.jl) - Julia library for probabilistic programming via source rewriting.
+- [Orbit](https://github.com/uber/orbit) - Python package for time series modeling and inference using Bayesian sampling methods for model estimation. ([Docs](https://uber.github.io/orbit/))
+- [PyMC3](https://github.com/pymc-devs/pymc3) - Python package for Bayesian statistical modeling and Probabilistic Machine Learning focusing on advanced Markov chain Monte Carlo (MCMC) and variational inference (VI) algorithms.
+- [PyMC3 Resources](https://github.com/pymc-devs/resources)
+- [Ranked Programming](https://github.com/tjitze/ranked-programming) - Ranked Programming Extension for Racket. Ranked programming is similar to probabilistic programming, except that the underlying uncertainty formalism is replaced with ranking theory.
+- [Foundations of Probabilistic Programming (2020)](https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/819623B1B5B33836476618AC0621F0EE)

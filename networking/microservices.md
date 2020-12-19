@@ -1,12 +1,17 @@
 # Microservices
 
+## Notes
+
+- [Microservices; the act of replacing every SQL query with a gRPC call.](https://twitter.com/davecheney/status/1296033304756404225)
+- [The single most effective thing you can do to improve the reliability, performance, and coherence of a distributed system is to minimize the required coördination and communication between nodes](https://twitter.com/peterbourgon/status/1300092429018820616)
+
 ## Links
 
 - [What are Microservices? (2019)](https://www.netlify.com/blog/2019/11/18/what-are-microservices/)
 - [StdLib](https://github.com/stdlib/lib) - Service Creation, Deployment, and Management Tools.
 - [Hipster Shop: Cloud-Native Microservices Demo Application](https://github.com/GoogleCloudPlatform/microservices-demo) - Contains a 10-tier microservices application.
-- [Micro](https://github.com/micro/micro) - Runtime for microservice development.
-- [Go Micro](https://github.com/micro/go-micro) - Framework for micro service development. ([HN](https://news.ycombinator.com/item?id=21491378)) ([HN 2](https://news.ycombinator.com/item?id=23368451)) ([Web](https://github.com/micro/go-micro))
+- [Micro](https://github.com/micro/micro) - Runtime for microservice development. ([Web](https://micro.mu/))
+- [Nitro](https://github.com/asim/nitro) - Fast framework for distributed app development, IoT, edge and p2p. ([Web](https://go-nitro.dev/)) ([HN](https://news.ycombinator.com/item?id=21491378)) ([HN 2](https://news.ycombinator.com/item?id=23368451))
 - [Banking on Go - Matt Heath (2017)](https://www.youtube.com/watch?v=iRNwLjKeVRE)
 - [Envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy. ([Web](https://www.envoyproxy.io/))
 - [Dapr](https://github.com/dapr/dapr) - Portable, event-driven, serverless runtime for building distributed applications across cloud and edge.
@@ -15,7 +20,7 @@
 - [3 common pitfalls in microservice integration and how to avoid them (2018)](https://www.youtube.com/watch?v=O2-NHptllKQ)
 - [So you want to learn Microservices? (2019)](https://dev.to/kgoralski/deep-dive-into-microservices-architecture-h54) ([HN](https://news.ycombinator.com/item?id=21583072))
 - [SuperGloo](https://github.com/solo-io/supergloo) - Service Mesh Orchestration Platform.
-- [Kapow](https://github.com/BBVA/kapow) - Turn shell scripts into HTTP API endpoints.
+- [Kapow](https://github.com/BBVA/kapow) - Turn shell scripts into HTTP API endpoints. ([Lobsters](https://lobste.rs/s/jfydw6/turn_shell_commands_into_apis))
 - [Ask HN: How do you deal with atomicity in microservice environments? (2019)](https://news.ycombinator.com/item?id=21656891)
 - [Go: Introduction to Protobuf: Services](https://scene-si.org/2019/12/02/introduction-to-protobuf-services/)
 - [Go: Dependency injection with Wire (2019)](https://scene-si.org/2019/12/11/dependency-injection-with-wire/)
@@ -42,3 +47,19 @@
 - [Microservices: Up and Running book (2020)](https://www.oreilly.com/library/view/microservices-up-and/9781492075448/)
 - [Gizmo Microservice Toolkit](https://github.com/nytimes/gizmo) - Provides packages to put together server and pubsub daemons.
 - [Go + Microservices = Go Kit - Peter Bourgon (2017)](https://www.youtube.com/watch?v=NX0sHF8ZZgw)
+- [Conductor](https://github.com/Netflix/conductor) - Microservices orchestration engine. ([Docs](https://netflix.github.io/conductor/)) ([HN](https://news.ycombinator.com/item?id=24214735))
+- [When To Use Microservices (And When Not To) • Sam Newman & Martin Fowler (2020)](https://www.youtube.com/watch?v=GBTdnfD6s5Q)
+- [Improve Your Micro-Services Debugging Environment (2020)](https://medium.com/@moshe.beladev.mb/better-debugging-environment-for-your-micro-services-9420a71b8a37)
+- [Modern Banking in 1500 Microservices (2020)](https://www.youtube.com/watch?v=t7iVCIYQbgk)
+- [Horizon Network Service](https://github.com/hashicorp/horizon) - Location Independent Routing Mesh.
+- [Autoscaling Monzo: How we optimise our platform to be just the right size (2020)](https://monzo.com/blog/2020/10/19/autoscaling-monzo)
+- [Microservices – architecture nihilism in minimalism's clothes (2020)](https://vlfig.me/posts/microservices) ([HN](https://news.ycombinator.com/item?id=24963742))
+- [Gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard.
+- [cote](https://github.com/dashersw/cote) - Node.js library for building zero-configuration microservices.
+- [Go-Chassis](https://github.com/go-chassis/go-chassis) - Microservice framework for rapid development of microservices in Go.
+- [Goa](https://github.com/goadesign/goa) - Framework for building micro-services and APIs in Go using a unique design-first approach. ([Web](https://goa.design/))
+- [Lab: Using GCP services to execute transactional workflows in microservices architecture](https://github.com/GoogleCloudPlatform/transactional-microservice-examples)
+- [Confidential Consortium Framework (CCF)](https://github.com/microsoft/CCF) - Open-source framework for building a new category of secure, highly available, and performant applications that focus on multi-party compute and data. ([Docs](https://microsoft.github.io/CCF/master/))
+- [State of Microservices 2020 Report](https://tsh.io/state-of-microservices/)
+- [Podinfo](https://github.com/stefanprodan/podinfo) - Tiny web application made with Go that showcases best practices of running microservices in Kubernetes.
+- [Building Go Web Applications and Microservices Using Gin (2020)](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin) ([Code](https://github.com/gitpod-io/go-gin-app))

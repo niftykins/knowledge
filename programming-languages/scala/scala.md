@@ -1,4 +1,8 @@
-# Scala
+# [Scala](https://www.scala-lang.org/)
+
+## Notes
+
+- [Scala enables abstractions which aren’t possible and/or not nearly as elegantly expressed in Kotlin due to for example the lack of native higher-kinded type (HKT), typeclasses, structural intersection/union type lattice, operator overloading, path dependent types and robust pattern matching in Kotlin (and probably many other nuances such a value types which are ostensibly useful for example for efficiently emulating new type system features)](https://www.reddit.com/r/scala/comments/ixjjmf/dotty_becomes_scala_3/)
 
 ## Links
 
@@ -11,7 +15,7 @@
 - [Fury](https://github.com/propensive/fury) - Experimental dependency manager and build tool for Scala.
 - [Scala Best Practices](https://github.com/alexandru/scala-best-practices) - Collection of Scala best practices.
 - [scala-steward](https://github.com/fthomas/scala-steward) - Robot that helps you keeping your Scala projects up-to-date.
-- [Mill](https://github.com/lihaoyi/mill) - Your shiny new Java/Scala build tool.
+- [Mill](https://github.com/lihaoyi/mill) - Your shiny new Java/Scala build tool. ([Build Tool based on Pure Functional Programming](https://www.youtube.com/watch?v=j6uThGxx-18))
 - [Functional Programming for Mortals with Scala book](https://leanpub.com/fpmortals/read)
 - [Functional Programming in Scala book](https://www.manning.com/books/functional-programming-in-scala)
 - [Scala Almost Succeeded (2019)](https://medium.com/@fommil/scala-almost-succeeded-c3b1028b02c5) ([Lobsters](https://lobste.rs/s/ku13t3/scala_almost_succeeded))
@@ -34,10 +38,25 @@
 - [Scala School](http://twitter.github.io/scala_school/) - Lessons in the Fundamentals of Scala. ([Code](https://github.com/twitter/scala_school))
 - [The Death of Hype: What's Next for Scala (2020)](http://www.lihaoyi.com/post/TheDeathofHypeWhatsNextforScala.html) ([Lobsters](https://lobste.rs/s/5m7mtd/death_hype_what_s_next_for_scala)) ([HN](https://news.ycombinator.com/item?id=22830779))
 - [Seed](https://github.com/tindzk/seed) - Build tool for Scala projects.
-- [Hands-on Scala Programming](https://www.handsonscala.com/) ([HN](https://news.ycombinator.com/item?id=22914610)) ([HN 2](https://news.ycombinator.com/item?id=23421582))
+- [Hands-on Scala Programming](https://www.handsonscala.com/) ([HN](https://news.ycombinator.com/item?id=22914610)) ([HN 2](https://news.ycombinator.com/item?id=23421582)) ([Code](https://github.com/handsonscala/handsonscala))
 - [Formalizing scala with dependent object types (2019)](https://uwspace.uwaterloo.ca/bitstream/handle/10012/15322/Rapoport_Marianna.pdf?sequence=7&isAllowed=y)
 - [Effekt (2019)](http://ps.informatik.uni-tuebingen.de/publications/brachthaeuser19effekt.pdf) - Type and Effect-Safe, Extensible Effect Handlers in Scala.
 - [mdoc](https://github.com/scalameta/mdoc) - Typechecked markdown documentation for Scala.
 - [Visual Scala Reference](https://superruzafa.github.io/visual-scala-reference/) ([Code](https://github.com/superruzafa/visual-scala-reference))
 - [Martin Odersky – A Scala 3 Update](https://www.youtube.com/watch?v=Z0w_pITUTyU) ([Reddit](https://www.reddit.com/r/scala/comments/hngs27/martin_odersky_a_scala_3_update/))
-- [Dotty](https://github.com/lampepfl/dotty) - Research compiler that will become Scala 3. ([Web](https://dotty.epfl.ch/))
+- [Dotty](https://github.com/lampepfl/dotty) - Research compiler that will become Scala 3. ([Web](https://dotty.epfl.ch/)) ([Docs](https://dotty.epfl.ch/docs/index.html))
+- [Signify Technology](https://www.signifytechnology.com/) - Award Winning Scala Recruitment.
+- [A Simple Soundness Proof for Dependent Object Types](https://arxiv.org/pdf/1706.03814.pdf)
+- [Things you need to know about JVM (that matter in Scala) (2020)](https://leanpub.com/jvm-scala-book)
+- [Annoying things in Scala 2 that’ll be (mostly) gone in Scala 3 (2020)](https://blog.softwaremill.com/annoying-things-in-scala-2-thatll-be-mostly-gone-in-scala-3-e1479a6d855c)
+- [sbt-updates](https://github.com/rtimush/sbt-updates) - sbt plugin that can check Maven and Ivy repositories for dependency updates.
+- [Get started with Nix in Scala](https://github.com/gvolpe/sbt-nix.g8)
+- [Foundations of Functional Programming in Scala course (2020)](https://www.fp-tower.com/courses/foundations) ([Video](https://www.youtube.com/watch?v=OdPaWmRnAc4)) ([Tweet](https://twitter.com/JulienTruffaut/status/1318459887144361986))
+- [Scala Website Code](https://github.com/scala/scala-lang)
+- [ScalaZONE](https://scala.zone/) - Scala 3 Programming Language Courses.
+- [HN: Scala 3.0.0-M1 (2020)](https://news.ycombinator.com/item?id=24986396)
+- [Build your own Programming Language with Scala (2019)](https://www.lihaoyi.com/post/BuildyourownProgrammingLanguagewithScala.html)
+- [Explicit term inference with Scala 3 (2020)](https://www.scala-lang.org/2020/11/06/explicit-term-inference-in-scala-3.html) ([HN](https://news.ycombinator.com/item?id=25031870))
+- [Scala Docs](https://docs.scala-lang.org/) ([Code](https://github.com/scala/docs.scala-lang))
+- [Scala Monthly](https://scalamonthly.com/) - High-quality coding challenge delivered to your inbox monthly.
+- [Scala 3 - Crossing the finish line (2020)](https://www.scala-lang.org/blog/2020/12/15/scala-3-crossing-the-finish-line.html) ([Reddit](https://www.reddit.com/r/scala/comments/ke9p82/scala_3_crossing_the_finish_line/gg2woqv/))

@@ -7,3 +7,8 @@
 - [Holmes](https://github.com/i-am-tom/holmes) - Reference library for constraint-solving with propagators and CDCL.
 - [Incorrectness Logic (2020)](http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/IncorrectnessLogic.pdf)
 - [Datalog in Haskell](https://github.com/travitch/datalog) - Pure Haskell implementation of Datalog, as a library.
+- ["Constraint Logic Propagation Conflict Spreadsheets" by William Taysom (2015)](https://www.youtube.com/watch?v=voG5-15aDu4)
+- [Ceptre](https://github.com/chrisamaphone/interactive-lp) - Tiny logic programming language for prototyping rulesets that you can run, interact with, and analyze.
+- [TouIST](https://github.com/touist/touist) - Language for propositional logic. ([Web](https://www.irit.fr/TouIST/))
+- [Why Logic Programming Matters (2020)](https://cxlabs.sap.com/2020/11/16/why-logic-programming-matters/)
+- [Mercury](https://github.com/Mercury-Language/mercury) - Logic/functional programming language which combines the clarity and the expressiveness of declarative programming with advanced static analysis and error detection features. ([Web](http://www.mercurylang.org/))

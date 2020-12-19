@@ -1,5 +1,10 @@
 # Remote work
 
+## Notes
+
+- [Remote work tip: Leave a Zoom open that anyone on the team can drop by during some predictable hours. No specific agenda.](https://twitter.com/dksf/status/1308799667153432576)
+- [Running a Remote Company ≠ Working From Home. It means the freedom to set your own work hours, work from anywhere (cafes, travel, co-working) and live where you want.](https://twitter.com/awilkinson/status/1317911134704340992)
+
 ## Links
 
 - [Remote Habits](http://remotehabits.com/)
@@ -61,3 +66,26 @@
 - [10 stages of working remotely (2020)](https://twitter.com/sytses/status/1278370350338699265)
 - [Remote Year](https://www.remoteyear.com/) - Work and Travel Abroad Programs for Professionals.
 - [Ask HN: How do you deal with social isolation while working from home? (2020)](https://news.ycombinator.com/item?id=23722523)
+- [Ask HN: Should a remote employee’s salary be tied to their physical location? (2020)](https://news.ycombinator.com/item?id=23927974)
+- [Remote Workers](https://remoteworkers.dev/) - Hire from a global talent pool of remote workers.
+- [Ask HN: Newly Remote Workers – Where Are You Moving? (2020)](https://news.ycombinator.com/item?id=24152096)
+- [Remote work predictions (2020)](https://twitter.com/chris_herd/status/1294590291761037312)
+- [Ask HN: How do you switch off from work, particularly when WFH? (2020)](https://news.ycombinator.com/item?id=24196433)
+- [Remoteleaf](https://remoteleaf.com/) - Receive hand-picked remote jobs delivered straight to your inbox.
+- [Why do so many people want us back in the office? (2020)](https://paulitaylor.com/2020/09/12/why-do-so-many-people-want-us-back-in-the-office/) ([HN](https://news.ycombinator.com/item?id=24452280))
+- [Remotive](https://remotive.io/) - Remote Jobs in Programming, Support, Design and more.
+- [Remote Technology Jobs by Standard Resume](https://standardresume.co/remote-jobs)
+- [Getting noticed as a remote engineer (2020)](https://triplebyte.com/blog/getting-noticed-as-a-remote-engineer-and-why-it-matters/) ([HN](https://news.ycombinator.com/item?id=24702397))
+- [Slite Remote Coaching](https://slite.com/remote-chat) - Schedule a 30 min chat to untangle remote work.
+- [We Work Remotely](https://weworkremotely.com/) - Remote jobs in design, programming, marketing and more.
+- [RemoteOK](https://remoteok.io/) - Remote Jobs in Programming, Design, Sales and more.
+- [FreshRemote.work](https://freshremote.work/) - Fresh Remote Jobs Anywhere.
+- [Remote Work Jobs](https://remoteworkjobs.io/) - Simple remote work jobs board.
+- [Remotely People](https://remotelypeople.com/) - Worldwide Remote jobs in design, marketing, programming.
+- [Workaline.com](https://workaline.com/) - Remote job board.
+- [Remote team bonding ideas (2020)](https://twitter.com/louispilfold/status/1320740516053590016)
+- [onsite.fun](https://onsite.fun/) - Online activities for remote teams.
+- [Remote Clan](https://remoteclan.com/) - Connect with remote workers to shape the future of work. ([News Feed](https://remoteclan.com/news-feed))
+- [Building Team Culture, Gitlab-Style (2020)](https://aboutsnack.com/blog/informal-communication-in-remote-work)
+- [To find great remote employees, prioritize candidates with strong writing skills (2020)](https://youteam.io/blog/3-remote-productivity-hacks-we-wish-we-knew-from-day-one/) ([HN](https://news.ycombinator.com/item?id=25120207))
+- [The guide on 1-on-1 meetings for remote teams (2020)](https://nohq.co/blog/guide-to-1-on-1-meetings-in-remote-teams/)

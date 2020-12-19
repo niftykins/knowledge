@@ -10,3 +10,7 @@
 - [Markov-chain Monte Carlo Interactive Gallery](http://chi-feng.github.io/mcmc-demo/) ([Code](https://github.com/chi-feng/mcmc-demo))
 - [Applications of Markov Chains (2003)](http://langvillea.people.cofc.edu/MCapps7.pdf) ([HN](https://news.ycombinator.com/item?id=23639863))
 - [Open Markov Processes (2020)](https://johncarlosbaez.wordpress.com/2020/07/04/open-markov-processes/)
+- [gomarkov](https://github.com/mb-14/gomarkov) - Go implementation of markov chains for textual data.
+- [Hidden Markov models in PyMC3](https://github.com/AmpersandTV/pymc3-hmm)
+- [Wayeb](https://github.com/ElAlev/Wayeb) - Complex Event Processing and Forecasting (CEP/F) engine written in Scala.
+- [Mici](https://github.com/matt-graham/mici) - Manifold Markov chain Monte Carlo methods in Python.

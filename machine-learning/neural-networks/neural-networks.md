@@ -24,7 +24,6 @@
 - [DyNet](https://github.com/clab/dynet) - Dynamic Neural Network Toolkit.
 - [gonn](https://github.com/sausheong/gonn) - Building a simple neural network in Go.
 - [Neural Ordinary Differential Equations (2018)](https://arxiv.org/abs/1806.07366) - [Video explanation](https://www.youtube.com/watch?v=AD3K8j12EIE) | [Notes](https://github.com/llSourcell/Neural_Differential_Equations/blob/master/Neural_Ordinary_Differential_Equations.ipynb)
-- [MindsDB](https://github.com/mindsdb/mindsdb) - Framework to streamline use of neural networks.
 - [Neural Network framework in 25 LOC](https://gist.github.com/macournoyer/620a8ba4a2ecd6d6feaf)
 - [Learning and Processing over Networks (2019)](https://github.com/rodrigo-pena/amld2019-graph-workshop) - Workshop presented by Michaël Defferrard and Rodrigo Pena at the Applied Machine Learning Days in January 2019.
 - [The Next Generation of Neural Networks by Geoffrey Hinton (2007)](https://www.youtube.com/watch?v=AyzOUbkUf3M)
@@ -83,14 +82,14 @@
 - [Haiku](https://github.com/deepmind/haiku) - JAX-based neural network library.
 - [Convolution in one dimension for neural networks (2020)](https://e2eml.school/convolution_one_d.html)
 - [Lucid](https://github.com/tensorflow/lucid) - Collection of infrastructure and tools for research in neural network interpretability.
-- [Minkowski Engine](https://github.com/StanfordVL/MinkowskiEngine) - Auto-diff convolutional neural network library for high-dimensional sparse tensors.
+- [Minkowski Engine](https://github.com/NVIDIA/MinkowskiEngine) - Auto-diff neural network library for high-dimensional sparse tensors.
 - [Generating MIDI melody from lyrics using LSTM-GANs](https://github.com/yy1lab/Lyrics-Conditioned-Neural-Melody-Generation) ([HN](https://news.ycombinator.com/item?id=22524176))
 - [Zoom In: An Introduction to Circuits (2020)](https://distill.pub/2020/circuits/zoom-in/)
 - [Lagrangian Neural Networks (2020)](https://greydanus.github.io/2020/03/10/lagrangian-nns/) ([HN](https://news.ycombinator.com/item?id=22552790))
 - [Neural Tangents](https://github.com/google/neural-tangents) - Fast and Easy Infinite Neural Networks in Python.
 - [A Survey of Long-Term Context in Transformers (2020)](https://www.pragmatic.ml/a-survey-of-methods-for-incorporating-long-term-context/)
 - [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) - Open Source Neural Machine Translation in PyTorch.
-- [Deep Learning for Symbolic Mathematics](https://github.com/facebookresearch/SymbolicMathematics)
+- [Deep Learning for Symbolic Mathematics (2019)](https://github.com/facebookresearch/SymbolicMathematics) ([Paper](https://arxiv.org/pdf/1912.01412.pdf))
 - [Google Brain AutoML](https://github.com/google/automl)
 - [Physics Informed Neural Networks](https://github.com/maziarraissi/PINNs) - Data-driven Solutions and Discovery of Nonlinear Partial Differential Equations.
 - [An introduction to Bayesian neural networks (2020)](https://papercup.dev/posts/bayesian-neural-nets/)
@@ -132,3 +131,59 @@
 - [Business Card Neural Network (2020)](https://imois.in/posts/card-network/)
 - [Functional Neural Networks (2020)](https://b-thi.github.io/Posts/FNNs.html)
 - [Attention Is All You Need (2017)](https://www.youtube.com/watch?v=iDulhoQ2pro)
+- [Getting Artificial Neural Networks Closer to Animal Brains (2020)](https://maraoz.com/2020/07/12/brains-vs-anns/)
+- [Foolbox Native](https://github.com/bethgelab/foolbox) - Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX.
+- [Genann](https://github.com/codeplea/genann) - Minimal, well-tested library for training and using feedforward artificial neural networks (ANN) in C.
+- [High-Frequency Component Helps Explain the Generalization of Convolutional Neural Networks (2020)](https://blog.ml.cmu.edu/2020/08/14/high-frequency-component-helps-explain-the-generalization-of-convolutional-neural-networks/)
+- [Awesome Pruning](https://github.com/he-y/Awesome-Pruning) - Curated list of neural network pruning resources.
+- [Hopfield Networks is All You Need (2020)](https://arxiv.org/abs/2008.02217)
+- [Sparse Networks from Scratch: Faster Training without Losing Performance (2019)](https://timdettmers.com/2019/07/11/sparse-networks-from-scratch/)
+- [Jigsaw Labs - Learn Neural Nets](https://www.jigsawlabs.io/#neural_nets)
+- [Implementing a Neural Network in C](https://www.cs.bham.ac.uk/~jxb/INC/nn.html) ([Code](https://github.com/mathmagson/neuralnetwork))
+- [Web Neural Network API](https://webmachinelearning.github.io/webnn/) - Dedicated low-level API for neural network inference hardware acceleration. [Polyfill](https://github.com/webmachinelearning/webnn-polyfill)
+- [Clarifying exceptions and visualizing tensor operations in deep learning code (2020)](https://explained.ai/tensor-sensor/index.html)
+- [Tensor Sensor](https://github.com/parrt/tensor-sensor) - Generate more helpful exception messages for numpy/pytorch matrix algebra expressions. ([Tweet](https://twitter.com/jeremyphoward/status/1313584515206451200))
+- [Explaining RNNs without neural networks (2020)](https://explained.ai/rnn/index.html)
+- [A visual explanation for regularization of linear models (2020)](https://explained.ai/regularization/index.html)
+- [A Guide to Deep Learning and Neural Networks (2020)](https://serokell.io/blog/deep-learning-and-neural-network-guide)
+- [Handwriting Synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs.
+- [How DeepMind learns physics simulators with Graph Networks (w/ author interview) (2020)](https://www.youtube.com/watch?v=JSed7OBasXs)
+- [Build Your Own Artificial Neural Network. It’s Easy! (2020)](http://nautil.us//blog/build-your-own-artificial-neural-network-its-easy)
+- [Neural Circuit Policies Enabling Auditable Autonomy](https://github.com/mlech26l/keras-ncp)
+- [FermiNet: Fermionic Neural Networks](https://github.com/deepmind/ferminet) ([Quantum Physics and Chemistry from First Principles (2020)](https://deepmind.com/blog/article/FermiNet)) ([Tweet](https://twitter.com/deepmind/status/1318257586983096320?s=21))
+- [What is the Role of a Neuron?](https://github.com/davidbau/dissect)
+- [Marabou](https://github.com/NeuralNetworkVerification/Marabou) - SMT-based tool that can answer queries about a network’s properties by transforming these queries into constraint satisfaction problems.
+- [Demonstration of the attention mechanism with some toy experiments and explanations](https://github.com/greentfrapp/attention-primer)
+- [Augerino](https://github.com/g-benton/learning-invariances) - Codebase for Learning Invariances in Neural Networks.
+- [ELI5](https://github.com/TeamHG-Memex/eli5) - Python package which helps to debug machine learning classifiers and explain their predictions.
+- [Cream of the Crop: Distilling Prioritized Paths For One-Shot Neural Architecture Search](https://github.com/microsoft/Cream)
+- [Brian2](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks. ([Web](https://briansimulator.org/))
+- [Neural Networks from Scratch in Python](https://nnfs.io/)
+- [Naszilla](https://github.com/naszilla/naszilla) - Python library for neural architecture search (NAS).
+- [The Unreasonable Syntactic Expressivity of RNNs (2020)](https://nlp.stanford.edu/~johnhew/rnns-hierarchy.html)
+- [DeepMath Conference](https://deepmath-conference.com/) - Conference on the Mathematical Theory of DNN's. ([HN](https://news.ycombinator.com/item?id=25015941))
+- [Coding a Neural Network: A Beginner's Guide (2020)](https://www.youtube.com/watch?v=TIEKzVwS12g)
+- [Eiffel2](https://github.com/Ale9806/Eiffel2) - Neural Network architecture Visualization tool.
+- [Graph Convolutional Neural Networks (GCNN) models](https://github.com/google/gcnn-survey-paper)
+- [Elegy](https://github.com/poets-ai/elegy) - Neural Networks framework based on Jax inspired by Keras and Haiku.
+- [SpinalNet](https://github.com/dipuk0506/SpinalNet) - Deep Neural Network with Gradual Input.
+- [Deeply-supervised Nets](https://github.com/s9xie/DSN)
+- [diagNNose](https://github.com/i-machine-think/diagNNose) - Python library that facilitates a broad set of tools for analysing hidden activations of neural models.
+- [MiniSom](https://github.com/JustGlowing/minisom) - Minimalistic implementation of the Self Organizing Maps.
+- [Basics of Convolution (2020)](https://ashwinsharma.tech/basics-of-convolution)
+- [DeepGCNs: Can GCNs Go as Deep as CNNs?](https://github.com/lightaime/deep_gcns_torch)
+- [Tinn](https://github.com/glouw/tinn) - 200 line dependency free neural network library written in C99.
+- [musicnn](https://github.com/jordipons/musicnn) - Set of pre-trained musically motivated convolutional neural networks for music audio tagging.
+- [Convolution Is Fancy Multiplication](https://betterexplained.com/articles/intuitive-convolution/) ([HN](https://news.ycombinator.com/item?id=25190770))
+- [Tools to Design or Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
+- [ENNUI](https://math.mit.edu/ennui/) - Elegant Neural Network User Interface. ([Code](https://github.com/martinjm97/ENNUI))
+- [Dynamic Graph CNN for Learning on Point Clouds](https://github.com/WangYueFt/dgcnn)
+- [robustness](https://github.com/MadryLab/robustness) - Library for experimenting with, training and evaluating neural networks, with a focus on adversarial robustness.
+- [JAX, M.D.](https://github.com/google/jax-md) - Accelerated, Differentiable, Molecular Dynamics. ([Paper](https://arxiv.org/abs/1912.04232))
+- [Neural Reverse Engineering of Stripped Binaries using Augmented Control Flow Graphs](https://github.com/tech-srl/Nero)
+- [NN SVG](https://alexlenail.me/NN-SVG/AlexNet.html) - Generate publication-ready NN-architecture schematics. ([HN](https://news.ycombinator.com/item?id=25272360))
+- [e3nn](https://github.com/e3nn/e3nn) - Modular framework for neural networks with Euclidean symmetry.
+- [Delve](https://github.com/delve-team/delve) - Python package for visualizing deep learning model training.
+- [Graph Mining @ NeurIPS 2020](https://gm-neurips-2020.github.io/) ([Talks](https://www.youtube.com/playlist?list=PLY5kjoYG4AfHQWhYB7cNS5X2QlMg5WIpV))
+- [jax_verify](https://github.com/deepmind/jax_verify) - Neural network verification in JAX.
+- [Self-supervised learning through the eyes of a child (2020)](https://arxiv.org/abs/2007.16189) ([Code](https://github.com/eminorhan/baby-vision))

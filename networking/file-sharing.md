@@ -5,7 +5,7 @@
 - [Firefox Send](https://github.com/mozilla/send) - File sharing experiment which allows you to send encrypted files to other users. ([HN](https://news.ycombinator.com/item?id=19367850))
 - [ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [Transfer.sh](https://transfer.sh/) - Easy file sharing from the command line or web.
-- [Syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization.
+- [Syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization. ([Web](https://syncthing.net/))
 - [OnionShare](https://github.com/micahflee/onionshare) - Securely and anonymously send and receive files, and publish onion sites.
 - [Dropbox Transfer](https://www.dropbox.com/transfer)
 - [bita](https://github.com/oll3/bita) - Differential file synchronization over http.
@@ -27,3 +27,24 @@
 - [Syncthing is everything I used to love about computers (2020)](https://tonsky.me/blog/syncthing/) ([Lobsters](https://lobste.rs/s/4ucmcp/computers_as_i_used_love_them)) ([HN](https://news.ycombinator.com/item?id=23537243))
 - [Perkeep](https://perkeep.org/) - Lets you permanently keep your stuff, for life. ([HN](https://news.ycombinator.com/item?id=23676350))
 - [HN: Discussing Dropbox (2020)](https://news.ycombinator.com/item?id=23787446)
+- [SCP user's migration guide to rsync (2020)](https://fedoramagazine.org/scp-users-migration-guide-to-rsync/) ([Lobsters](https://lobste.rs/s/uupfif/scp_user_s_migration_guide_rsync))
+- [Broccoli: Syncing faster by syncing less (2020)](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)
+- [Ask HN: What is your favorite method of sending large files? (2020)](https://news.ycombinator.com/item?id=24351111)
+- [Data Transfer Project](https://github.com/google/data-transfer-project) - Makes it easy for people to transfer their data between online services. ([Web](https://datatransferproject.dev/))
+- [File Transfer with SSH, Tee, and Base64 (2019)](https://susam.in/blog/file-transfer-with-ssh-tee-and-base64/)
+- [Tardigrade](https://tardigrade.io/) - Decentralized Cloud Object Storage.
+- [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another. ([HN](https://news.ycombinator.com/item?id=24503077))
+- [wave-share](https://github.com/ggerganov/wave-share) - Serverless, peer-to-peer, local file sharing through sound. ([HN](https://news.ycombinator.com/item?id=24586390))
+- [JustBeamIt](https://justbeamit.com/) - File transfer made easy. ([CLI](https://github.com/justbeamit/beam))
+- [Magic Wormhole](https://github.com/warner/magic-wormhole) - Get things from one computer to another, safely.
+- [Send Anywhere](https://send-anywhere.com/) - File transfer.
+- [FileRoom](https://fileroom.io) - Browser File Transfer. Send files to anyone on the same WiFi or network that's on fileroom.io.
+- [wormhole-william](https://github.com/psanford/wormhole-william) - End-to-end encrypted file transfer. A magic wormhole CLI and API in Go.
+- [Global Socket](https://github.com/hackerschoice/gsocket) - Moving data from here to there. Securely, Fast and trough NAT/Firewalls.
+- [Warp](https://github.com/minio/warp) - S3 benchmarking tool.
+- [smart_open](https://github.com/RaRe-Technologies/smart_open) - Python 3 library for efficient streaming of very large files from/to storages such as S3, GCS, Azure Blob Storage, HDFS, WebHDFS, HTTP, HTTPS, SFTP, or local filesystem.
+- [FilePizza](https://file.pizza/) - Peer-to-peer file transfers in your browser. ([Code](https://github.com/kern/filepizza))
+- [tus](https://tus.io/) - Resumable file uploads. ([GitHub](https://github.com/tus))
+- [Hyp](https://github.com/hypercore-protocol/cli/) - CLI for peer-to-peer file sharing (and more) using the Hypercore Protocol. ([Demo](https://www.youtube.com/watch?v=SVk1uIQxOO8))
+- [Snapdrop](https://snapdrop.net/) - Local file sharing in your browser. Inspired by Apple's Airdrop. ([Code](https://github.com/RobinLinus/snapdrop))
+- [Shary](https://github.com/wilk/shary) - Share your files effortlessly with QRCodes.

@@ -4,6 +4,7 @@
 
 - [Is DNA compressed?](https://www.reddit.com/r/askscience/comments/637gyu/is_dna_compressed/)
 - One of the potential "limits" to DNA size is that everything has to be copied whenever a cell divides, which takes both time and energy to do, so there is selective pressure to keep it relatively efficient. A second limiting factor is that the DNA copying machinery isn't 100% accurate, so you end up with errors whenever DNA is copied despite the presence of error-checking processes (better in some organisms than others). So the with longer DNA you also end with more potential for errors. Cancer is primarily caused by this buildup of errors (though it's also the basis of evolution)
+- [DNA is copied by a protein machine 10 nanometers in size. In bacteria, it produces 1,000 DNA bases per second. Scaled to daily-life proportions, this would be equivalent to a FedEx truck going at the speed of sound, delivering the correct package every 30 centimetres.](https://twitter.com/van__Oijen/status/1310353334457348097)
 
 ## Links
 
@@ -29,3 +30,14 @@
 - [How do Genes know when to Turn On and Off? (2020)](https://www.reddit.com/r/askscience/comments/gqap1l/how_do_genes_know_when_to_turn_on_and_off/)
 - [Cosmic Rays May Explain Life’s Bias for Right-Handed DNA (2020)](https://www.quantamagazine.org/cosmic-rays-may-explain-lifes-bias-for-right-handed-dna-20200629/) ([HN](https://news.ycombinator.com/item?id=23688535))
 - [Allostery through DNA drives phenotype switching (2020)](https://www.biorxiv.org/content/10.1101/2020.07.04.187450v1)
+- [Manolis Kellis: Human Genome and Evolutionary Dynamics (2020)](https://overcast.fm/+eZyA3p3HE)
+- [Two female CRISPR scientists make history, winning Nobel in chemistry (2020)](https://www.statnews.com/2020/10/07/two-crispr-scientists-win-nobel-prize-in-chemistry/)
+- [Precision of Tissue Patterning is Controlled by Dynamical Properties of Gene Regulatory Networks (2020)](https://www.biorxiv.org/content/10.1101/721043v2) - How do precise boundaries of gene expression form in developing tissues? ([Tweet](https://twitter.com/briscoejames/status/1318829819761692673))
+- [PanglaoDB](https://panglaodb.se/) - Single Cell Sequencing Resource For Gene Expression Data.
+- [scRNAseq analysis notes from Ming Tang](https://github.com/crazyhottommy/scRNAseq-analysis-notes)
+- [Brain Cell DNA Refolds Itself to Aid Memory Recall (2020)](https://www.quantamagazine.org/brain-cell-dna-refolds-itself-to-aid-memory-recall-20201102/)
+- [SingleCellNet](https://github.com/pcahan1/singleCellNet) - Classify single cells across species and platforms.
+- [CellNet](https://github.com/pcahan1/CellNet) - Network biology applied to stem cell engineering.
+- [Molecular lithography: Making 3D nanosuperconductors with DNA (2020)](https://phys.org/news/2020-11-d-nanosuperconductors-dna.html)
+- [cube3d.dna](https://github.com/pallada-92/dna-3d-engine) - 3D engine implementation in DNA code. ([Tweet](https://twitter.com/pallada92/status/1332855023479484417))
+- [clinker](https://github.com/gamcil/clinker) - Gene cluster comparison figure generator.

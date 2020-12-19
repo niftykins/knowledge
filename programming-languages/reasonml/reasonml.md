@@ -1,5 +1,9 @@
 # [ReasonML](https://reasonml.github.io)
 
+## Example Sites
+
+- [alexfedoseev.com](https://github.com/alexfedoseev/alexfedoseev.com)
+
 ## Links
 
 - [Exploring ReasonML](http://reasonmlhub.com/exploring-reasonml/toc.html)
@@ -55,3 +59,12 @@
 - [BuckleScript Monorepo example](https://github.com/anmonteiro/bucklescript-monorepo)
 - [reanalyze](https://github.com/reason-association/reanalyze) - Program analysis for Reason and OCaml projects targeting JS (bucklescript) as well as native code (dune).
 - [If you think ReasonML compiles to JS, you are wrong (2019)](https://baturin.org/blog/if-you-think-reasonml-compiles-to-js-you-are-wrong/)
+- [Ulrik Strid - Reason Native Web (2020)](https://www.youtube.com/watch?v=t-sWyMqxsD0)
+- [Gabriel Nordeborn - ReasonRelay Demo (2020)](https://www.youtube.com/watch?v=fjbV0-OGuf4)
+- [ReScript](https://rescript-lang.org/) - Compiled language to JS. ([Code](https://github.com/rescript-lang/rescript-compiler))
+- [ReScript Docs](https://rescript-lang.org/docs/latest) ([Code](https://github.com/reason-association/rescript-lang.org))
+- [Easy cross compilation using esy [Reason/OCaml] (2020)](https://discuss.ocaml.org/t/ann-easy-cross-compilation-using-esy/6612)
+- [ReScript Syntax](https://github.com/rescript-lang/syntax) - ReScript parser & printer.
+- [Rust ReScript Demo](https://github.com/shakacode/rust-rescript-demo)
+- [bsconfig.json](https://github.com/idkjs/bsconfig.json) - Quickly create an opinionated bsconfig.json.
+- [Rescript Editor Support](https://github.com/rescript-lang/rescript-editor-support) - Command line to support editor integration for Rescript.

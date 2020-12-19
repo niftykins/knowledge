@@ -28,6 +28,7 @@
   3. Coordinate geometry - Loney
   4. Calculus of one variable - Maron
 - [If you can, find someone else to work with, and someone else who already knows some math to ask occasional questions would probably help you a lot.](https://news.ycombinator.com/item?id=18939913)
+- [Monad on Set is a way to describe some sort of gadget that's a set equipped with a bunch of operations obeying a bunch of equations](https://twitter.com/johncarlosbaez/status/1294054900289028096)
 
 ## Links
 
@@ -92,7 +93,6 @@
 - [Prime Numbers and the Riemann Hypothesis](https://github.com/williamstein/rh)
 - [nLab](https://ncatlab.org/nlab/show/HomePage) - Wiki-lab for collaborative work on Mathematics, Physics and Philosophy — especially from the n-point of view: in so far as these subjects are usefully treated with tools and notions of category theory or higher category theory.
 - [Understanding Mathematics](https://github.com/nbro/understanding-math)
-- [Deep learning for symbolic mathematics (2019)](https://openreview.net/pdf?id=S1eZYeHFDS)
 - [Eigenvectors from eigenvalues (2019)](https://terrytao.wordpress.com/2019/08/13/eigenvectors-from-eigenvalues/)
 - [Cantor's Paradise Math Blog](https://medium.com/cantors-paradise)
 - [Better intuition for information theory (2019)](https://www.blackhc.net/blog/2019/better-intuition-for-information-theory/)
@@ -161,7 +161,7 @@
 - [The Mathematical Hacker (2012)](https://www.evanmiller.org/mathematical-hacker.html) ([Lobsters](https://lobste.rs/s/pev6ks/mathematical_hacker_2012))
 - [Ask HN: Good articles/courses for understanding mathematical notation? (2020)](https://news.ycombinator.com/item?id=23575296)
 - [Small maths projects explored with Python](https://github.com/scipython/scipython-maths)
-- [BetterExplained](https://betterexplained.com/) - Clear, intuitive lessons about imaginary numbers, exponents, and more.
+- [BetterExplained](https://betterexplained.com/) - Clear, intuitive lessons about imaginary numbers, exponents, and more. ([HN](https://news.ycombinator.com/item?id=25100241))
 - [Implementing the Exponential Function (2020)](https://www.pseudorandom.com/implementing-exp) ([HN](https://news.ycombinator.com/item?id=23671262))
 - [Feynman on Fermat's Last Theorem (2016)](http://www.lbatalha.com/blog/feynman-on-fermats-last-theorem)
 - [Ask HN: Recommend a maths book for a teenager (2020)](https://news.ycombinator.com/item?id=23711942)
@@ -171,3 +171,54 @@
 - [Comprehensive List of Algebra Symbols](https://mathvault.ca/hub/higher-math/math-symbols/algebra-symbols/)
 - [Knuth - Two notes on notation (1992)](https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/knuth403-422.pdf) ([Lobsters](https://lobste.rs/s/xb2rsp/knuth_two_notes_on_notation_1992))
 - [How Gödel’s Incompleteness Theorems Work (2020)](https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714)
+- [The Marvels of Polynomials over a Field (2020)](https://decentralizedthoughts.github.io/2020-07-17-the-marvels-of-polynomials-over-a-field/)
+- [Mathematicians Discover the Perfect Way to Multiply](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/) ([Lobsters](https://lobste.rs/s/jmgjkj/mathematicians_discover_perfect_way)) ([HN](https://news.ycombinator.com/item?id=23919869))
+- [Bloom filters debunked: Dispelling 30 Years of bad math with Coq (2020)](https://gopiandcode.uk/logs/log-bloomfilters-debunked.html) ([Lobsters](https://lobste.rs/s/adwxhn/bloom_filters_debunked_dispelling_30))
+- [Irrational Numbers (2020)](https://blog.demofox.org/2020/07/26/irrational-numbers/) ([Lobsters](https://lobste.rs/s/nyu3y0/irrational_numbers))
+- [Terry Tao on some desirable properties of mathematical notation](https://mathoverflow.net/questions/366070/what-are-the-benefits-of-writing-vector-inner-products-as-langle-u-v-rangle/366118#366118) ([HN](https://news.ycombinator.com/item?id=23911903))
+- [Linear Logic Flavoured Composition of Petri Nets (2020)](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html)
+- [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418) ([HN](https://news.ycombinator.com/item?id=24029791))
+- [Who Is Alexander Grothendieck? (2008)](https://www.ams.org/notices/200808/tx080800930p.pdf) ([HN](https://news.ycombinator.com/item?id=24024248))
+- [Taylor Series and Accelerometers (2020)](https://jeremykun.com/2020/07/26/taylor-series-and-accelerometers/) ([HN](https://news.ycombinator.com/item?id=24129870))
+- [What is the difference between a theorem, a lemma, and a corollary? (2008)](https://divisbyzero.com/2008/09/22/what-is-the-difference-between-a-theorem-a-lemma-and-a-corollary/)
+- [Formalising Undergraduate Mathematics (2020)](https://www.youtube.com/watch?v=FDx0nXFQloE) ([Slides](http://wwwf.imperial.ac.uk/~buzzard/one_off_lectures/ug_maths.pdf)) ([Tweet](https://twitter.com/XenaProject/status/1292939583290736651))
+- [Explanation of monad (2020)](https://twitter.com/johncarlosbaez/status/1294697378755174400)
+- [Compendium of Mathematical Symbols (2020)](https://mathvault.ca/hub/higher-math/math-symbols/)
+- [Math Vault](https://mathvault.ca/) - Learn Higher Mathematics The Online Way.
+- [Mathematicians Report New Discovery About the Dodecahedron (2020)](https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/)
+- [MIT Math GitHub](https://github.com/mitmath) - Educational materials for MIT math courses.
+- [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
+- [Metamath](http://us.metamath.org/index.html) - Tiny language that can express theorems in abstract mathematics, accompanied by proofs that can be verified by a computer program.
+- [3Blue1Brown Learn Math Recommendations](https://www.3blue1brown.com/recommendations)
+- [Gurobi](https://www.gurobi.com/) - Powerful mathematical optimization solver.
+- [Mathematics for programmers (2020)](https://yurichev.com/writings/Math-for-programmers.pdf) ([Lobsters](https://lobste.rs/s/4mcasw/mathematics_for_programmers)) ([HN](https://news.ycombinator.com/item?id=24574574))
+- [Classic style and mathematical writing (2019)](https://www.epatters.org/post/classic-style-and-mathematical-writing/)
+- [Maxima](http://maxima.sourceforge.net/) - Computer Algebra System.
+- [Awesome Mathematical Notation Design](https://github.com/fredhohman/awesome-mathematical-notation-design)
+- [Toward an API for the Real Numbers (2020)](https://blog.acolyer.org/2020/10/02/toward-an-api-for-the-real-numbers/) ([HN](https://news.ycombinator.com/item?id=24700705))
+- [Making the Monty Hall problem weirder but obvious (2020)](https://dyno-might.github.io/2020/09/17/making-the-monty-hall-problem-weirder-but-obvious/) ([HN](https://news.ycombinator.com/item?id=24707305))
+- [Euler's Formula: A Complete Guide](https://mathvault.ca/euler-formula/) ([HN](https://news.ycombinator.com/item?id=24825065))
+- [Isomorphism - Mathematics of Programming book](https://github.com/liuxinyu95/unplugged) - Introduces the mathematics behind computer programming.
+- [Semigroups and Monoids](https://bkase.dev/posts/semigroups-and-monoids) ([Lobsters](https://lobste.rs/s/z0tqte/semigroups_monoids))
+- [Favorite (potentially long) mathematician quotes (2020)](https://twitter.com/3blue1brown/status/1317171780448972800)
+- [Mathematics for Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) ([HN](https://news.ycombinator.com/item?id=24867685))
+- [Ask HN: How do I improve my command of mathematical language? (2020)](https://news.ycombinator.com/item?id=24866734)
+- [Ask HN: Which general programming language is good for learning/exploring math? (2020)](https://news.ycombinator.com/item?id=24884561)
+- [Theta](http://thetamath.com/) - Web app that graphs an equation and allows you to pan and zoom around the coordinate grid. ([Code](https://github.com/evanw/theta))
+- [Algebraic Stacks Project](https://stacks.math.columbia.edu/) - Collaborative web-based project writing a text book on algebraic stacks and the algebraic geometry that is needed to define them. ([Code](https://github.com/stacks/stacks-project))
+- [Why is there no equation for the perimeter of an ellipse‽ (2020)](https://www.youtube.com/watch?v=5nW3nJhBHL0)
+- [Open textbooks approved by the American Institute of Mathematics](https://aimath.org/textbooks/approved-textbooks/)
+- [Intellectual Mathematics](http://intellectualmathematics.com/)
+- [Notes for courses taken at Harvard (2015--2019)](https://github.com/Dongryul-Kim/harvard_notes) ([HN](https://news.ycombinator.com/item?id=25055267))
+- [Paul's Online Math Tutorials and Notes](https://tutorial.math.lamar.edu/) ([HN](https://news.ycombinator.com/item?id=25081297))
+- [Terence Tao's Career Advice for math](https://terrytao.wordpress.com/career-advice/)
+- [Alexander Grothendieck: Memories of a Great Mathematician (2014)](https://www.albany.edu/offcourse/issue59/grothendiek.html)
+- [Learning Math for Machine Learning](https://www.ycombinator.com/library/51-learning-math-for-machine-learning)
+- [Fematika Video playlists on Math](https://www.youtube.com/c/Fematika/playlists)
+- [The Most Common Errors in Undergraduate Mathematics](https://math.vanderbilt.edu/schectex/commerrs/) ([HN](https://news.ycombinator.com/item?id=25135418))
+- [A History of Mathematical Notations by Florian Cajori](https://archive.org/details/in.ernet.dli.2015.200372)
+- [Visualizing Algebraic Numbers](https://im.icerm.brown.edu/portfolio/visualizing-algebraic-numbers/)
+- [The Simple Yet Powerful Math We Don't Talk About - Freya Holmer (2020)](https://www.youtube.com/watch?v=NzjF1pdlK7Y)
+- [Math | Johns Hopkins University | Course Descriptions & Syllabus](https://mathematics.jhu.edu/undergraduate/courses/course-descriptions/)
+- [A Course of Pure Mathematics (1921)](https://avidemia.com/pure-mathematics/)
+- [Learn Mathematics from start to finish (2020)](https://www.youtube.com/watch?v=pTnEG_WGd2Q)

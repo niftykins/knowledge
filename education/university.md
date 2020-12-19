@@ -89,3 +89,5 @@ There are many more things that simply would not happen if I didn't try new thin
 - [List of all universities in the world in CSV](https://github.com/endSly/world-universities-csv)
 - [HN: A twenty-year professor on starting college this fall: Don’t (2020)](https://news.ycombinator.com/item?id=22916869)
 - [Do I Need to Go to University? (2020)](http://colah.github.io/posts/2020-05-University/) ([HN](https://news.ycombinator.com/item?id=23376523))
+- [Summary on the current state of universities (2020)](https://twitter.com/eriktorenberg/status/1294485125703413761)
+- [Back to School? Marc Andreessen says get clear-eyed on what your education will give you (2020)](https://www.youtube.com/watch?v=_s1xyZM-2Gw)

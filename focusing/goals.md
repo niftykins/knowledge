@@ -1,37 +1,49 @@
 # Goals
 
-## Learn Anything
+## Action
 
-Make the best tool for learning anything and sharing ideas.
+### Build Learn Anything
 
-## Health
+Make the best tool for learning anything and sharing ideas. Release website, mobile app, API. Build up community.
 
-Eat healthy and exercise daily.
+### Expand personal site
 
-## Understand deeply
+Lots of [inspiration](../design/design-inspiration.md). I want a personal space I can expand and build upon (experiment).
 
-Understand deeply tech & tools I use. Understand each layer of the technical stack.
+Blog, wiki, art, projects, photos. Look backs as nice newsletters + rich derived data (from GitHub/Twitter/..).
 
-Learn by building/exploring and lots of reading/thinking. Document everything.
+### Read books / papers
 
-## Minimize, improve tools used, meet people
+Take time to read relevant books & papers.
 
-Focus on making and extending tools to solve problems & any frictions I have.
+### Build better tools for everything
 
-Filter incoming streams of information to contain only impactful things that inspire me. Meet more people.
+Lots of ideas around improving my workflow further. Build them.
 
-Cut time waste fully. No analytics. No compulsive behavior. Breathe, be mindful & create things that bring joy!
+## Theme
 
-## Read books/papers
+### Healthy mind/body
 
-Read books & research papers relevant to problems I want to solve.
+Eat healthy and exercise daily. Work ergonomically. Follow [rules](rules.md).
 
-## Express myself in all the ways
+### Learn what matters. Solve problems. Share learnings.
 
-Make more videos (educational & otherwise). More insightful articles. Richer wiki. Better tools for extracting knowledge.
+Understand tools I use deeply. Solve problems & write about what I learned.
 
-Express myself creatively by playing music, taking photos & making designs/drawings.
+### Remove complexity/waste. Streamline processes.
 
-## Complete important tasks & be focused
+Remove any friction I feel. Filter out wasteful news, info. No thoughtless actions. Focus on goals & todos. No time wasted.
 
-Progressively complete important 2Do tasks, GitHub issues. Keep in mind goals above & my rules.
+### Go out of my comfort zone. Meet people.
+
+Make screencasts/videos to educate. Write. Practice photography. Compose music. Design. Share & learn with community.
+
+Be inspired & improve myself. Reach out to people I admire.
+
+### Plan bigger. Save the planet.
+
+Create [amazing things](../ideas/ideas.md) for a [better future](../future/future.md).
+
+Focus on solving real global problems like reversing climate change ([electrically powered everything](https://blog.jessfraz.com/post/battery-day/), fully renewable energy) & [saving animals](https://www.reddit.com/r/worldnews/comments/iwujp5/humans_wiped_out_twothirds_of_the_worlds_wildlife/) (animal rights same as humans, can't be eaten, can't be harmed).
+
+Earth is for everyone, not just humans. Be goal & [value](../business/startups/values.md) driven.

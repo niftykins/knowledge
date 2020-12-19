@@ -42,7 +42,7 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Planetary](https://planetary.social/) - Building an open and humane alternative to Facebook.
 - [Twitterverse](https://twitterverse.net/) - Interactively explore visualizations of Twitter networks. ([Tweet](https://twitter.com/MenanderSoter/status/1234650368182771717))
 - [Opportunities in consumer social (2020)](https://twitter.com/eriktorenberg/status/1236860724430790659)
-- [Pleroma 2.0: a free, federated social networking server built on open protocols (2020)](https://pleroma.social/blog/2020/03/08/releasing-pleroma-2-0-0/) ([HN](https://news.ycombinator.com/item?id=22519209))
+- [Pleroma](https://pleroma.social/) - Free, federated social networking server built on open protocols. ([Article](https://pleroma.social/blog/2020/03/08/releasing-pleroma-2-0-0/)) ([HN](https://news.ycombinator.com/item?id=22519209)) ([Lobsters](https://lobste.rs/s/ukg62c/releasing_pleroma_2_1_0)) ([Deploy a Pleroma Server](https://10minutepleroma.com/))
 - [Moa](https://github.com/foozmeat/moa) - Mastodon, Twitter, and Instagram Cross-poster.
 - [Lessons I've Learned After Gaining 100,000 Twitter Followers (2020)](https://compiled.blog/blog/lessons-ive-learned-after-gaining-100000-twitter-followers)
 - [Bridgy](https://github.com/snarfed/bridgy) - Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more.
@@ -50,3 +50,29 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Auralite](https://auralite.io/) - New social network for the future. ([Tweet](https://twitter.com/m1guelpf/status/1275815147248979968))
 - [De-Escalating Social Media (2020)](https://nickpunt.com/blog/deescalating-social-media/) ([HN](https://news.ycombinator.com/item?id=23734535))
 - [PG: The biggest source of stress for me at YC was running HN (2020)](https://news.ycombinator.com/item?id=23806426)
+- [Instagram Morphs into an Information Powerhouse (2020)](https://www.axios.com/instagram-information-coronavirus-george-floyd-706d1ad3-9d6d-48d4-b085-3469a0d93b56.html) ([HN](https://news.ycombinator.com/item?id=24019977))
+- [Proof of X (2020)](https://julian.digital/2020/08/06/proof-of-x/)
+- [TikTok and the Sorting Hat (2020)](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat) ([HN](https://news.ycombinator.com/item?id=24049676))
+- [How to run a small social network site for your friends](https://runyourown.social/)
+- [A Blueprint for Content Governance and Enforcement (2018)](https://www.facebook.com/notes/mark-zuckerberg/a-blueprint-for-content-governance-and-enforcement/10156443129621634/)
+- [All the world's a stage. On alt accounts and communicative friction. (2020)](https://jasmine.substack.com/p/-all-the-worlds-a-stage)
+- [Wisdom Shelf](https://patriciamou.com/wisdom-shelf-waitlist) - Social network focused on personal development.
+- [Relevant](https://relevant.community/) - Social Network Built On Trust.
+- [The Social Dilemma](https://www.thesocialdilemma.com/) ([HN](https://news.ycombinator.com/item?id=24536929))
+- [Books and resources to read to learn more about challenges of social networks](https://twitter.com/mozilla/status/1308542908291661824)
+- [How TikTok's design makes the algorithm work (2020)](https://www.eugenewei.com/blog/2020/9/18/seeing-like-an-algorithm) ([HN](https://news.ycombinator.com/item?id=24550113))
+- [Is this real life? (2020)](https://julian.digital/2020/09/25/is-this-real-life/)
+- [Social Cooling](https://www.socialcooling.com/) - Big Data's unintended side effect. ([HN](https://news.ycombinator.com/item?id=24627363))
+- [Gurlic](https://gurlic.com/) - Free and Open Communities. ([HN](https://news.ycombinator.com/item?id=24680418)) ([Web tech used](https://news.ycombinator.com/item?id=25288755))
+- [Twt](https://jointwt.org/) - New way to social media.
+- [Going Viral as a Woman in Tech (2020)](https://www.emilykager.com/writing/2020/10/08/virality.html) ([HN](https://news.ycombinator.com/item?id=24743439))
+- [Why Social Media Is So Good at Polarizing Us (2020)](https://www.wsj.com/articles/why-social-media-is-so-good-at-polarizing-us-11603105204) ([Tweet](https://twitter.com/mims/status/1318177521318461447))
+- [Party at My House: Darius Kazemi on Human-Scaled Social Media (2020)](https://logicmag.io/security/party-at-my-house-darius-kazemi-on-human-scaled-social-media/)
+- [Clusters rule everything around me (2020)](https://www.worksinprogress.co/issue/clusters-rule-everything-around-me/) ([HN](https://news.ycombinator.com/item?id=24830588))
+- [The political economy of platforms (2020)](https://parametricity.com/posts/2020-platforms/)
+- [Media Manipulation Casebook](https://mediamanipulation.org/) - Digital research platform linking together theory, methods, and practice for mapping media manipulation and disinformation campaigns.
+- [Cooper](https://cooper.app/) - Private professional network. Get quality introductions from people you trust.
+- [Contra](https://contra.com/) - New professional network for your independent journey.
+- [LinkedIn’s Alternate Universe (2020)](https://divinations.substack.com/p/linkedins-alternate-universe##) - How the professional platform makes networking weird. ([HN](https://news.ycombinator.com/item?id=25320536))
+- [Hiven](https://hiven.io/) - Chat platform from the future. ([Themes](https://hiven-design-git-main.ezolla.vercel.app/))
+- [Hive Index](https://thehiveindex.com/) - Discover Online Communities. ([HN](https://news.ycombinator.com/item?id=25417624))

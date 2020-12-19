@@ -8,10 +8,10 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 
 ## Favorite
 
-- [Growing a Language - Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0) - [Transcript](http://www.cs.virginia.edu/%7Eevans/cs655/readings/steele.pdf).
+- [Growing a Language - Guy Steele (1998)](https://www.youtube.com/watch?v=_ahvzDzKdB0) - [Transcript](http://www.cs.virginia.edu/%7Eevans/cs655/readings/steele.pdf). ([HN](https://news.ycombinator.com/item?id=24383919))
 - [Malte Ubl - Designing very large JavaScript applications (2018)](https://www.youtube.com/watch?v=ZZmUwXEiPm4) - [Transcript](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3).
 - [John Sundell - Sharing (2018)](https://www.youtube.com/watch?v=_mQNwL8HkS0)
-- [Bret Victor - Inventing on Principle (2012)](https://vimeo.com/36579366)
+- [Bret Victor - Inventing on Principle (2012)](https://www.youtube.com/watch?v=PUv66718DII)
 - [Drupal and the secret of my success | Steve Francia](https://www.youtube.com/watch?v=EJo9tPXGPo8&t=13m4s)
 - [Apple WWDC 1997 Closing Keynote - Steve Jobs Fireside Chat](https://www.youtube.com/watch?v=KWJ6rGiopvo)
 - [Simplicity Matters - Rich Hickey (2012)](https://www.youtube.com/watch?v=rI8tNMsozo0)
@@ -27,6 +27,8 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 ## Notes
 
 - Giving a talk, it is often best to start with a `Why?`
+- [I love the virtual conf format of "play pre-recorded video while speaker engages with the audience in chat". As a speaker, I enjoy interacting with the audience this way throughout the entire talk, and being able to answer questions without losing any speaking time.](https://twitter.com/techgirl1908/status/1294355241412878336)
+- [Give a roadmap whenever you start speaking. Signpost every argument. Explicitly state the implications of your arguments. Good debaters talk about facts, great ones talk about framing.](https://twitter.com/david_perell/status/1307493332285825024)
 
 ## Links
 
@@ -52,3 +54,7 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [How to Speak course](https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/index.htm)
 - [Alexis King's talks](https://github.com/lexi-lambda/talks)
 - [Speaking Tips (2020)](https://twitter.com/swyx/status/1276918032971886592)
+- [Notist](https://noti.st/) - Your public speaking portfolio.
+- [List of best talks (2020)](https://twitter.com/ashleymcnamara/status/1278537744352862208)
+- [Badass Conference Talks](https://github.com/emmabostian/badass-conference-talks)
+- [workshopctl](https://github.com/cloud-native-nordics/workshopctl) - Tool for running workshops easily in the cloud.

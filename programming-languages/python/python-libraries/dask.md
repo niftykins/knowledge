@@ -13,3 +13,13 @@
 - [Tom Augspurger: Scalable Machine Learning with Dask (2019)](https://www.youtube.com/watch?v=we1m4-IsbL8)
 - [Data Processing with Dask (2020)](https://www.pluralsight.com/tech-blog/data-processing-with-dask/)
 - [Dask Updates 2020](https://twitter.com/_JacobTomlinson/status/1280885857734590466)
+- [Deploying and Scaling Data Science Tools on Distributed Systems (2020)](https://www.youtube.com/watch?v=Db4Gk18bs50)
+- [dask-sql](https://github.com/nils-braun/dask-sql) - SQL Engine for Dask. ([Web](https://nils-braun.github.io/dask-sql/))
+- [Coiled: Dask for Everyone, Everywhere (2020)](https://medium.com/coiled-hq/coiled-dask-for-everyone-everywhere-376f5de0eff4)
+- [Coiled](https://coiled.io/) - Scaling Python Simply.
+- [Coiled Cloud](https://cloud.coiled.io/)
+- [Runtime vs Scheduler: Analyzing Dask's Overheads (2020)](https://arxiv.org/abs/2010.11105)
+- [Dask Helm Charts](https://github.com/dask/helm-chart) ([Web](https://helm.dask.org/))
+- [Dask CUDA](https://github.com/rapidsai/dask-cuda) - Utilities for Dask and CUDA interactions.
+- [Dask Web Code](https://github.com/dask/dask.github.io)
+- [Dask Example Notebooks](https://github.com/dask/dask-examples) - Includes easy-to-run example notebooks for Dask. ([Docs](https://examples.dask.org/))

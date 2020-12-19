@@ -9,7 +9,7 @@
 - [Haskell to WebAssembly](https://github.com/tweag/asterius)
 - [Awesome compilers](https://github.com/aalhour/awesome-compilers)
 - [Compiler Optimization examples](http://compileroptimizations.com/)
-- [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly.
+- [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly. ([HN](https://news.ycombinator.com/item?id=24066570))
 - [ShivyC](https://github.com/ShivamSarodia/ShivyC) - C compiler created in Python.
 - [swc](https://github.com/swc-project/swc) - Super-fast alternative for Babel.
 - [Introduction to Compilers](https://github.com/ahoppen/introduction-to-compilers) - Swift Playground giving an overview over the inner workings of modern compilers.
@@ -34,7 +34,7 @@
 - [Propeller](https://github.com/google/llvm-propeller) - Profile Guided Optimizing Large Scale LLVM-based Relinker.
 - [Intel(r) SPMD Program Compiler](https://github.com/ispc/ispc) - Compiler for a variant of the C programming language, with extensions for single program, multiple data programming.
 - [hobbes](https://github.com/Morgan-Stanley/hobbes) - Language and an embedded JIT compiler.
-- [Crafting Interpreters book](http://www.craftinginterpreters.com/) ([Code](https://github.com/munificent/craftinginterpreters))
+- [Crafting Interpreters book](http://www.craftinginterpreters.com/) ([Code](https://github.com/munificent/craftinginterpreters)) ([Lox in Rust](https://github.com/mariosangiorgio/rulox)) ([Lox in OCaml](https://github.com/ludwigpacifici/saumon))
 - [Compiling a Functional Language Using C++, Part 0 - Intro (2019)](https://danilafe.com/blog/00_compiler_intro/)
 - [Compiling at Compile Time (2019)](https://blog.veitheller.de/Compiling_at_Compile_Time.html)
 - [MLIR: Multi-Level Intermediate Representation for Compiler Infrastructure - Tatiana Shpeisman, Chris Lattner (2019)](https://www.youtube.com/watch?v=qzljG6DKgic)
@@ -48,12 +48,9 @@
 - [GRIN](https://github.com/grin-compiler/grin) - Compiler back-end for lazy and strict functional languages with whole program optimization support. ([Website](https://grin-compiler.github.io/))
 - [Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
 - [Listing of compiler, language and runtime teams for people looking for jobs in this area](https://github.com/mgaudet/CompilerJobs)
-- [Basics of Compiler Design](httwp://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf) ([HN](https://news.ycombinator.com/item?id=21778546))
 - [Computer Language Engineering course (2019)](https://github.com/6035/fa19)
-- [MazuCC](https://github.com/jserv/MazuCC) - Minimalist C compiler with x86_64 code generation.
 - [Dive into Deep Learning Compiler](http://tvm.d2l.ai/)
 - [Compiler Auto-Vectorization with Imitation Learning](http://papers.nips.cc/paper/9604-compiler-auto-vectorization-with-imitation-learning.pdf) ([HN](https://news.ycombinator.com/item?id=21968118))
-- [AST Explorer](https://astexplorer.net/)
 - [Clang Build Analyzer](https://github.com/aras-p/ClangBuildAnalyzer) - Can be useful to figure out what takes time during compilation of one source file.
 - [CS 6120: Advanced Compilers course](https://www.cs.cornell.edu/courses/cs6120/2019fa/) ([Code](https://github.com/sampsyo/cs6120))
 - [A Survey on Compiler Autotuning using Machine Learning (2018)](https://arxiv.org/abs/1801.04405)
@@ -76,7 +73,7 @@
 - [Let's Build A Simple Interpreter](https://github.com/rspivak/lsbasi)
 - [Introduction to Static Analysis - An Abstract Interpretation Perspective (2020)](https://mitpress.mit.edu/books/introduction-static-analysis)
 - [Zig cc: A drop-in replacement for GCC/Clang (2020)](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html) ([HN](https://news.ycombinator.com/item?id=22679138)) ([Lobsters](https://lobste.rs/s/dw9qyv/zig_cc_powerful_drop_replacement_for_gcc))
-- [Basics of Compiler Design (2000)](http://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf) ([HN](https://news.ycombinator.com/item?id=21778546))
+- [Basics of Compiler Design (2000)](http://hjemmesider.diku.dk/~torbenm/Basics/) ([HN](https://news.ycombinator.com/item?id=21778546)) ([PDF](http://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf))
 - [Modern Compiler Implementation in ML book (1998)](https://www.cs.princeton.edu/~appel/modern/ml/) ([Rust code](https://github.com/antoyo/tiger-rs))
 - [Efficient Deconstruction with Typed Pointer Reversal (2019)](https://hal.inria.fr/hal-02177326v2)
 - [Scripts for building compilers that run anywhere, which build things that run anywhere](https://github.com/theopolis/build-anywhere)
@@ -114,3 +111,28 @@
 - [The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - Ultra-simplified example of all the major pieces of a modern compiler written in easy to read JavaScript.
 - [Awesome machine learning for compilers and program optimisation](https://github.com/zwang4/awesome-machine-learning-in-compilers)
 - [Compiler Fuzzing: How Much Does It Matter? (2019)](https://www.youtube.com/watch?v=5TX5R_aX3ec)
+- [SOIL: Single Open Intermediate Language](http://soil-initiative.org/) ([Lobsters](https://lobste.rs/s/2kdxph/soil_single_open_intermediate_language))
+- [A Quick Introduction to Register Allocation (2020)](https://hassamuddin.com/blog/reg-alloc/) ([Lobsters](https://lobste.rs/s/3wfzfq/quick_introduction_register_allocation))
+- [Effective Function Merging in the SSA Form (2020)](https://www.youtube.com/watch?v=tu4p1ftTBVw) ([Tweet](https://twitter.com/cbarrett/status/1288615955870949383))
+- [Compiler Construction - Niklaus Wirth](https://people.inf.ethz.ch/wirth/CompilerConstruction/index.html)
+- [Beyond Code: New Signals for Static Analysis (2020)](https://pldi20.sigplan.org/details/SOAP-2020-papers/5/Keynote-Beyond-Code-New-Signals-for-Static-Analysis-)
+- [HPVM - Heterogeneous Parallel Virtual Machine](https://publish.illinois.edu/hpvm-project/)
+- [GraalVM](https://github.com/oracle/graal) - Run Programs Faster Anywhere. ([Web](https://www.graalvm.org/)) ([HN](https://news.ycombinator.com/item?id=24103233))
+- [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/) ([Code](https://github.com/justinmeiners/lc3-vm))
+- [Deep learning for compilers (2020)](https://era.ed.ac.uk/handle/1842/36866)
+- [MLIR Tutorial](https://mlir.llvm.org/docs/Tutorials/Toy/Ch-1/)
+- [Does register selection matter to performance on x86 CPUs? (2020)](https://fiigii.com/2020/02/16/Does-register-selection-matter-to-performance-on-x86-CPUs/)
+- [Self hosting compiler (2020)](https://www.reddit.com/r/Compilers/comments/ipsdj0/self_hosting_compiler/)
+- [Bootstrapping compilers](https://bootstrapping.miraheze.org/wiki/Main_Page) - Building up compilers and interpreters and tools from nothing.
+- [Linkers go brrrrr (2020)](https://vinayak.io/2020/09/28/day-34-linkers-go-brrrrr/)
+- [Hex Rays](https://www.hex-rays.com/) - State-of-the-art binary code analysis solutions.
+- [HexRaysDeob](https://github.com/RolfRolles/HexRaysDeob) - Hex-Rays microcode API plugin for breaking an obfuscating compiler.
+- [Compiler notes (focusing on Haskell)](https://crypto.stanford.edu/~blynn/compiler/)
+- [Minicompiler: Lexing (2020)](https://christine.website/blog/minicompiler-lexing-2020-10-29)
+- [Awesome Symbolic Execution](https://github.com/ksluckow/awesome-symbolic-execution)
+- [Grammar-Based Testing for Little Languages: An Experience Report with Student Compilers (2020)](https://www.youtube.com/watch?v=wv6ftJNq92Q)
+- [Automatic Syntax Error Recovery (2020)](https://tratt.net/laurie/blog/entries/automatic_syntax_error_recovery.html)
+- [What to read to learn compilers (RU)](https://github.com/true-grue/Compiler-Development)
+- [HN: Best Resources for Compiler Construction (2020)](https://news.ycombinator.com/item?id=25275675)
+- [Advanced Compilers: The Self-Guided Online Course (2020)](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/) ([HN](https://news.ycombinator.com/item?id=25386756))
+- [Advice on how to best approach learning compilers (2020)](https://www.reddit.com/r/Compilers/comments/kcpy3b/favorite_textbooks_for_students_taking_their/gfsk6kz/?utm_source=reddit&utm_medium=web2x&context=3)

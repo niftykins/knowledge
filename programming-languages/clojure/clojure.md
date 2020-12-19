@@ -62,3 +62,38 @@
 - [Transducers From The Ground Up (2020)](https://bsless.github.io/transducers-intro/)
 - [Clojure Learning Program](https://github.com/athensresearch/ClojureFam)
 - [Clojure Basics: Debugging with the REPL (2020)](https://www.youtube.com/watch?v=tpcl5pjkRTQ)
+- [Programming at the REPL (2018)](https://clojure.org/guides/repl/guidelines_for_repl_aided_development) ([HN](https://news.ycombinator.com/item?id=23791152))
+- [Nubank acquires Cognitect (2020)](https://cognitect.com/blog/2020/07/23/Cognitect-Joins-Nubank) ([HN](https://news.ycombinator.com/item?id=23926407))
+- [Cursive](https://cursive-ide.com/) - IDE for beautiful Clojure(Script) code. ([Lobsters](https://lobste.rs/s/2iyiwy/cursive_ide_for_beautiful_clojure_code))
+- [Clojurists Together](https://www.clojuriststogether.org/) - Funding critical Clojure open source software.
+- [(N)vim for Clojure development (2020)](https://tomekw.com/nvim-for-clojure-development/)
+- [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)
+- [Clojure Reddit](https://www.reddit.com/r/Clojure/) - Has nice resources in sidebar.
+- [Using Clojure in Command Line with Babashka (2020)](https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html)
+- [Deep Diamond - Deep Learning in Clojure is Fast, Simpler than Keras (2020)](https://dragan.rocks/articles/20/Deep-Diamond-Deep-Learning-in-Clojure-is-Fast-and-Simpler-than-Keras)
+- [What Clojure Spec is and what you can do with it (2020)](https://www.pixelated-noise.com/blog/2020/09/10/what-spec-is/) ([HN](https://news.ycombinator.com/item?id=24432461))
+- [Clojure Cheatsheet](https://clojure.org/api/cheatsheet)
+- [Essential Reference for the Clojure Standard Library](https://freecontent.manning.com/meet-the-clojure-standard-library/)
+- [Local memoized recursive functions (2020)](https://quanttype.net/posts/2020-09-20-local-memoized-recursive-functions.html)
+- [Clojure Notes](https://github.com/gnebbia/clojure_notes)
+- [I will never let monads be in a Clojure project (2018)](https://grishaev.me/en/no-monads/)
+- [Going faster than TensorFlow with Clojure (2020)](https://dragan.rocks/articles/20/Going-faster-than-TensorFlow-with-Clojure)
+- [Simulating Machines in Clojure](https://stopa.io/post/255) ([HN](https://news.ycombinator.com/item?id=24701737))
+- [Clojure projects with the REPL (2020)](https://www.youtube.com/watch?v=7muHVkxzZcE)
+- [Practicalli](https://practicalli.github.io/) - Practical approaches to learning Functional Programming with Clojure. ([GitHub](https://github.com/practicalli))
+- [Salza λiquid text editor](https://github.com/mogenslund/liquid) - Clojure Text Editor, for editing clojure code and markdown. Written entirely in Clojure with inspiration from Emacs and Vim.
+- [Clojure Rich Comment Blocks (2020)](https://betweentwoparens.com/rich-comment-blocks)
+- [Metosin GitHub projects](https://github.com/metosin) - Small house of programmers, mostly Clojure(Script).
+- [Planet Clojure](http://planet.clojure.in/) - Meta blog that collects posts from the blogs of various Clojure hackers and contributors. ([Code](https://github.com/ghoseb/planet.clojure))
+- [Simulating RAM in Clojure](https://stopa.io/post/258) ([HN](https://news.ycombinator.com/item?id=25086256))
+- [Clojure graph resources](https://github.com/simongray/clj-graph-resources) - Curated list of mostly mature and/or actively developed Clojure resources for dealing with graph-like data.
+- [Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0) ([HN](https://news.ycombinator.com/item?id=24940838))
+- [Learning Clojure in Public](https://github.com/alaq/learning-clojure-in-public)
+- [Transducers! But can I thread?](https://telescope.ac/nobody-watching/transducers) ([Lobsters](https://lobste.rs/s/zhp280/transducers_can_i_thread))
+- [Practicalli Clojure deps.edn](https://github.com/practicalli/clojure-deps-edn) - Collection of useful configuration and aliases for deps.edn based projects.
+- [re:Clojure 2020](https://reclojure.org/) - Community-driven effort to bring together knowledgeable speakers to present new and exciting topics on all things Clojure and Clojurescript. ([Video](https://www.youtube.com/watch?v=qRI1Ved0SfE))
+- [Towards Awesome Clojure Documentation (2017)](https://www.youtube.com/watch?v=nrpsMB2gYI0)
+- [How to be a REPL Sorcerer (2020)](https://www.youtube.com/watch?v=AcWnGKGqFZA)
+- [Semantic Clojure Formatting (2020)](https://metaredux.com/posts/2020/12/06/semantic-clojure-formatting.html) ([HN](https://news.ycombinator.com/item?id=25322836))
+- [The Future of Clojure (2020)](https://www.thoughtworks.com/podcasts/future-clojure) ([HN](https://news.ycombinator.com/item?id=25373831))
+- [CLJ Commons](https://clj-commons.org/) - Community-led project to build up the supporting infrastructure around Clojure. ([Discussion](https://github.com/clj-commons/meta))

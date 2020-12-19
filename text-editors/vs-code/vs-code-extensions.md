@@ -7,18 +7,33 @@ Below is a list of extensions I use.
 - [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim emulation.
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Format your JavaScript / TypeScript / CSS using [Prettier](https://github.com/prettier/prettier).
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools.
+- [Prisma](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma) - Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.
 
 ## Go
 
 - [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) - Rich language support for the Go language. ([Code](https://github.com/golang/vscode-go))
 
+## JS/TS
+
+- [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - Shows the latest version for each package using code lens.
+- [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) - Tightly integrate with the GraphQL Ecosystem. ([Code](https://github.com/prisma-labs/vscode-graphql))
+
 ## Python
 
-- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) - Performant, feature-rich language server for Python.
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Rich support for the Python language.
+- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) - Performant, feature-rich language server for Python. ([Code](https://github.com/microsoft/pylance-release))
 
 ## Git
 
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Visualize code authorship at a glance via Git blame annotations and code lens.
+
+## HTML
+
+- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag. ([Code](https://github.com/vincaslt/vscode-highlight-matching-tag))
+
+## CSS
+
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) ([Code](https://github.com/tailwindlabs/tailwindcss-intellisense))
 
 ## Theme
 
@@ -28,6 +43,10 @@ Below is a list of extensions I use.
 
 ## Utility
 
+- [ModalEdit](https://github.com/johtela/vscode-modaledit) - Configurable Modal Editing in VS Code.
+- [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) - Autocomplete AI. ([Code](https://github.com/codota/tabnine-vscode))
+- [Adobe XD](https://marketplace.visualstudio.com/items?itemName=Adobe.xd) - Design systems in VS Code.
+- [Docs View](https://marketplace.visualstudio.com/items?itemName=bierner.docs-view) - Display documentation in the sidebar or panel. ([Code](https://github.com/mattbierner/vscode-docs-view))
 - [MetaGo](https://github.com/metaseed/metaGo) - Provides fast cursor movement/selection for keyboard focused users in vscode.
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run code snippet or code file for multiple languages.
 - [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) - Allows you to open any folder in a container, on a remote machine.
@@ -37,7 +56,7 @@ Below is a list of extensions I use.
 - [HexEditor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor) - Allows Hex Editing inside VS Code. ([Code](https://github.com/microsoft/vscode-hexeditor))
 - [Terminal Command Keys](https://marketplace.visualstudio.com/items?itemName=petekinnecom.terminal-command-keys) - Assign a terminal command to a keybinding. ([Code](https://github.com/petekinnecom/terminal-command-keys))
 - [Code Tour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour) - Allows you to record and playback guided tours of codebases, directly within the editor. ([Code](https://github.com/vsls-contrib/codetour))
-- [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) ([Code](https://github.com/hediet/vscode-drawio))
+- [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) ([Code](https://github.com/hediet/vscode-drawio)) ([HN](https://news.ycombinator.com/item?id=24686707))
 - [CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) - Extended CMake support. ([Code](https://github.com/microsoft/vscode-cmake-tools))
 - [VSCode Essentials](https://marketplace.visualstudio.com/items?itemName=jabacchetta.vscode-essentials) - Turn VSCode into a supercharged IDE. ([Code](https://github.com/jabacchetta/vscode-essentials))
 - [Duplicate action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate) - Ability to duplicate files in VS Code. ([Code](https://github.com/mrmlnc/vscode-duplicate))
@@ -53,14 +72,16 @@ Below is a list of extensions I use.
 - [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash) - Dash documentation integration.
 - [Phi](https://github.com/GuillaumeSalles/phi-vscode) - Design components for web in VSCode. Generate code.
 - [RelativePath](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - Get relative URL paths from files in the current workspace.
-- [Debug Visualizer](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer) - Visualizes values while debugging. ([Code](https://github.com/hediet/vscode-debug-visualizer))
+- [Debug Visualizer](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer) - Visualizes values while debugging. ([Code](https://github.com/hediet/vscode-debug-visualizer)) ([Article](https://addyosmani.com/blog/visualize-data-structures-vscode/))
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocomplete filenames.
 - [REST Client Extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - Allows you to send HTTP request and view the response in VS Code directly.
+- [Hero Icons](https://marketplace.visualstudio.com/items?itemName=afzalsayed96.heroicons) ([Code](https://github.com/afzalsayed96/vscode-heroicons))
 - [Browser Preview](https://github.com/auchenberg/vscode-browser-preview) - Real browser preview inside your editor that you can debug.
 - [Bump](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-bump) - Bump your project's version and update the changelog. Opinionated but configurable.
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - Polaroid for your code.
 - [Advanced New File](https://marketplace.visualstudio.com/items?itemName=dkundel.vscode-new-file) - Create new files quickly.
 - [Calculate](https://marketplace.visualstudio.com/items?itemName=acarreiro.calculate) - Evaluate math expressions.
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons.
 - [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline) - Display code outline tree in the explorer pane.
 - [Empty indent](https://marketplace.visualstudio.com/items?itemName=DmitryDorofeev.empty-indent) - Remove indent of empty lines on save.
 - [Endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise) - Wisely add "end" in Ruby.
@@ -87,10 +108,13 @@ Below is a list of extensions I use.
 - [Twitch Highlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) - Twitch Line Highlighter.
 - [Clever VS Code](https://marketplace.visualstudio.com/items?itemName=davidbabel.Clever) - Add many productivity useful commands to vscode.
 - [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform.
-- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines in the editor and easily jump to them.
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines in the editor and easily jump to them. ([Code](https://github.com/alefragnani/vscode-bookmarks))
 - [TODO+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
 - [VS Code Neovim Integration](https://github.com/asvetliakov/vscode-neovim)
 - [Snipsnap](https://github.com/snipsnapdev/snipsnap) - Ultimate snippets collection for VS Code.
+- [VSpaceCode](https://marketplace.visualstudio.com/items?itemName=VSpaceCode.vspacecode) - Spacemacs' like keybindings. ([Code](https://github.com/VSpaceCode/VSpacecode))
+- [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support, with built-in Kubernetes syntax support. ([Code](https://github.com/redhat-developer/vscode-yaml))
+- [Wardley Maps](https://marketplace.visualstudio.com/items?itemName=damonsk.vscode-wardley-maps) - Display and edit Wardley Maps. ([Code](https://github.com/damonsk/vscode-wardley-maps)) ([Tweet](https://twitter.com/owardleymaps/status/1321215623813357568))
 
 ## Shell
 
@@ -110,8 +134,8 @@ Below is a list of extensions I use.
 
 ## Python
 
-- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Rich support for the Python language.
 - [Neuron](https://marketplace.visualstudio.com/items?itemName=neuron.neuron-IPE) - Interactive Programming Experience for Data Scientists. ([Code](https://github.com/neuron-team/vscode-ipe))
+- [VSCode Python Docstring Generator](https://github.com/NilsJPWerner/autoDocstring) - Quickly generate docstrings for python functions.
 
 ## Git
 
@@ -120,11 +144,11 @@ Below is a list of extensions I use.
 - [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github) - Integrates GitHub and its workflows into VSCode.
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - Git History, Search and More.
 - [Open in GitHub](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github) - Jump to a source code line in GitHub, Bitbucket, GitLab.
+- [edamagit](https://marketplace.visualstudio.com/items?itemName=kahole.magit) - Magit for VSCode, inspired by the awesome original Magit. ([Code](https://github.com/kahole/edamagit))
 
 ## JS/TS
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates [ESLint](http://eslint.org/) into VS Code.
-- [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - Shows the latest version for each package using code lens.
 - [React Native](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) - Debugging and integrated commands for React Native. ([Code](https://github.com/microsoft/vscode-react-native))
 - [ast-query](https://marketplace.visualstudio.com/items?itemName=nikaspran.ast-query) - Search and highlight JavaScript and TypeScript via Abstract Syntax Tree queries. ([Code](https://github.com/nikaspran/vscode-ast-query))
 - [Deoptigate](https://github.com/rbuckton/deoptigate-vscode) - Visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e. NodeJS, Chrome, etc.).
@@ -138,6 +162,7 @@ Below is a list of extensions I use.
 - [js-debug](https://github.com/microsoft/vscode-js-debug) - Upcoming VS Code JavaScript debugger.
 - [VS Code Folder Source Actions](https://github.com/mjbvz/vscode-folder-source-actions) - Adds a context menu that allows you to apply VS Code's organize imports code action to all files in a folder.
 - [Flow](https://marketplace.visualstudio.com/items?itemName=gcazaciuc.vscode-flow-ide) - Flow support.
+- [Abracadabra](https://marketplace.visualstudio.com/items?itemName=nicoespeon.abracadabra) - Automated refactorings for VS Code (JS & TS). ([Code](https://github.com/nicoespeon/abracadabra))
 
 ## React
 
@@ -159,7 +184,6 @@ Below is a list of extensions I use.
 
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS/Less with [Stylelint](https://stylelint.io/).
 - [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info) - Provides quick information CSS colors.
-- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) ([Code](https://github.com/bradlc/vscode-tailwindcss))
 
 ## ReasonML
 
@@ -170,10 +194,10 @@ Below is a list of extensions I use.
 
 - [Markdown Preview GitHub Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) - Changes VS Code's built-in markdown preview to match GitHub's style.
 - [Markdown](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Keyboard shortcuts, table of contents, auto preview and more.
+- [Markdown Notes](https://marketplace.visualstudio.com/items?itemName=kortina.vscode-markdown-notes) ([Code](https://github.com/kortina/vscode-markdown-notes))
 
 ## HTML
 
-- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag.
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Automatically rename paired HTML/XML tag.
 
 ## Haskell
@@ -200,6 +224,7 @@ Below is a list of extensions I use.
 ## Lua
 
 - [Lua](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua.
+- [VSCode Lua Format](https://github.com/Koihik/vscode-lua-format)
 
 ## Elm
 
@@ -211,11 +236,15 @@ Below is a list of extensions I use.
 
 ## Julia
 
-- [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) - Julia Language Support.
+- [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) - Julia Language Support. ([Code](https://github.com/julia-vscode/julia-vscode)) ([Web](https://www.julia-vscode.org/))
 
 ## Deno
 
 - [Deno](https://github.com/denoland/vscode_deno) - Adds Deno support for VS Code using the TypeScript Deno language service plugin.
+
+## Vue
+
+- [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets) ([Code](https://github.com/sdras/vue-vscode-snippets))
 
 ## Bash
 
@@ -259,6 +288,10 @@ Below is a list of extensions I use.
 
 - [Nim](https://github.com/pragmagic/vscode-nim) - Provides support for the Nim language.
 
+## Flutter
+
+- [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) ([Code](https://github.com/Dart-Code/Flutter))
+
 ## Erlang
 
 - [Erlang](https://github.com/erlang-ls/vscode) - Uses Erlang LSP.
@@ -292,15 +325,26 @@ Below is a list of extensions I use.
 
 - [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
 
+## Agda
+
+- [Agda Mode](https://marketplace.visualstudio.com/items?itemName=banacorn.agda-mode) ([Code](https://github.com/banacorn/agda-mode-vscode))
+
+## Fun
+
+- [VSinder](https://github.com/benawad/vsinder) - Dating app for programmers where you swipe on code. ([Tweet](https://twitter.com/benawad/status/1336691028473090050)) ([API](https://github.com/benawad/vsinder-api))
+
 ## Theme
 
-- [Dracula Pro](https://draculatheme.com/pro/)
+- [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) ([Code](https://github.com/sdras/night-owl-vscode-theme)) ([Web](https://night-owl-swag.netlify.app/))
+- [Horizon](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode) - Beautifully warm dual theme. ([Code](https://github.com/jolaleye/horizon-theme-vscode))
+- [Overnight](https://marketplace.visualstudio.com/items?itemName=cev.overnight)
 - [Monochrome](https://marketplace.visualstudio.com/items?itemName=anotherglitchinthematrix.monochrome) - Monochromatic theme collection, for those who seeks. ([Code](https://github.com/anotherglitchinthematrix/monochrome))
 - [Monokai Night](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
 - [Overnight](https://github.com/cevr/overnight) - Soft vibrant VSCode theme.
 - [Subliminal](https://marketplace.visualstudio.com/items?itemName=gaearon.subliminal)
 - [Alabaster](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster)
 - [Monokai Pro](https://www.monokai.pro/vscode/)
+- [Dracula Pro](https://draculatheme.com/pro/)
 - [Moxer](https://marketplace.visualstudio.com/items?itemName=Equinusocio.moxer-theme) ([Code](https://github.com/moxer-theme/moxer-code))
 
 ## Notes

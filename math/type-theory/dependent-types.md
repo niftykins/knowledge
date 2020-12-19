@@ -28,3 +28,18 @@
 - [How to implement dependent type theory (2012)](http://math.andrej.com/2012/11/08/how-to-implement-dependent-type-theory-i/)
 - [Dependently-typed compilers don't go wrong (2020)](http://www.cs.nott.ac.uk/~pszgmh/bib.html#well-typed)
 - [Dependable Types explained in parts (2018)](http://www.tomharding.me/2018/01/09/dependable-types/)
+- [Research library of the ##dependent IRC channel](https://github.com/dpndnt/library)
+- [Epigram language](http://www.e-pig.org/) - Dependently typed programming language and an interactive programming environment. ([Code](https://github.com/mietek/epigram2))
+- [A dependently typed calculus with pattern matching and erasure inference (2020)](https://dl.acm.org/doi/10.1145/3408973)
+- [A general definition of dependent type theories (2020)](http://math.andrej.com/2020/09/14/a-general-definition-of-dependent-type-theories/)
+- [dreamtt](https://github.com/jonsterling/dreamtt) - Pedagogic implementation of abstract bidirectional elaboration for dependent type theory.
+- [Metagen](https://github.com/thautwarm/Metagen) - Dependently type-safe code generator.
+- [Gradual Dependently Typed Language](https://github.com/JoeyEremondi/GDTL-artifact)
+- [Dependent types to code are what static types to data (2020)](https://www.poberezkin.com/posts/2020-09-04-dependent-types-to-code-are-what-static-types-to-data.html)
+- [Pie language](https://github.com/the-little-typer/pie) - Little Language with Dependent Types. Companion language for The Little Typer book.
+- [What makes dependent type theory more suitable than set theory for proof assistants?](https://mathoverflow.net/questions/376839/what-makes-dependent-type-theory-more-suitable-than-set-theory-for-proof-assista) ([HN](https://news.ycombinator.com/item?id=25167468))
+- [Dependent types at work (2009)](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.386.2624) ([Code](https://github.com/conal/DependentTypesAtWork-exercises))
+- [curnelo](https://github.com/webyrd/curnelo) - Cur dependently-typed programming language, implemented in miniKanren.
+- [cur](https://github.com/wilbowma/cur) - Language with static dependent-types and dynamic types, type annotations and parentheses, theorem proving and meta-programming.
+- [Daniel Gratzer Research](https://jozefg.github.io/)
+- [Improving Error Messages for Dependent Types with Constraint-based Unification (2016)](http://dspace.library.uu.nl/handle/1874/337692) ([Code](https://github.com/JoeyEremondi/lambda-pi-constraint))

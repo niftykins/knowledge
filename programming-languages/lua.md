@@ -7,8 +7,8 @@
 
 ## Links
 
-- [Luacheck](https://github.com/mpeterv/luacheck) - Tool for linting and static analysis of Lua code.
-- [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language.
+- [Luacheck](https://github.com/luarocks/luacheck) - Tool for linting and static analysis of Lua code.
+- [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language. ([HN](https://news.ycombinator.com/item?id=24390904))
 - [rlua](https://github.com/kyren/rlua) - High level bindings between Rust and Lua.
 - [How to Lua and C - a short novel (2018)](https://sepisoad.com/blog/how%20to%20lua%20and%20c%20-%20a%20short%20novel.html)
 - [Code Formatter for Lua](https://github.com/trixnz/lua-fmt) - Pretty-printer for Lua code, written in TypeScript and deeply inspired by prettier.
@@ -32,3 +32,18 @@
 - [HN: Lua 5.4.0 (2020)](https://news.ycombinator.com/item?id=23686297)
 - [Languages that compile to Lua](https://github.com/hengestone/lua-languages)
 - [Making the Fennel compiler self-hosting with another compiler (2020)](https://technomancy.us/192)
+- [Fennel](https://fennel-lang.org/) - Fennel is a programming language that brings together the speed, simplicity, and reach of Lua with the flexibility of a lisp syntax and macro system. ([Rationale](https://fennel-lang.org/rationale)) ([Lobsters](https://lobste.rs/s/6bphbw/fennel_programming_language_rationale))
+- [How to Plan a Luau: Augmenting Lua’s Syntax With Types (2020)](https://medium.com/roblox-tech-blog/how-to-plan-a-luau-augmenting-luas-syntax-with-types-7751a790f0d8) ([HN](https://news.ycombinator.com/item?id=24448364))
+- [Croissant](https://github.com/giann/croissant) - Lua REPL and debugger implemented in Lua.
+- [Fengari](https://github.com/fengari-lua/fengari) - Lua VM written in JS ES6 for Node and the browser. ([Web](https://fengari.io/))
+- [Lua Style Guide](https://github.com/Olivine-Labs/lua-style-guide)
+- [busted](https://github.com/Olivine-Labs/busted) - Elegant Lua unit testing.
+- [RxLua](https://github.com/bjornbytes/RxLua) - Reactive Extensions for Lua.
+- [LTUI](https://github.com/tboox/ltui) - Cross-platform terminal ui library based on Lua.
+- [Raymarching with Fennel and LÖVE (2020)](https://andreyorst.gitlab.io/posts/2020-10-15-raymarching-with-fennel-and-love/)
+- [Moonshine](https://github.com/gamesys/moonshine) - Lightweight Lua VM for the browser.
+- [A Look at the Design of Lua (2018)](https://cacm.acm.org/magazines/2018/11/232214-a-look-at-the-design-of-lua/fulltext) ([HN](https://news.ycombinator.com/item?id=18327661))
+- [lua-fsm](https://github.com/unindented/lua-fsm) - Simple finite-state machine implementation for Lua.
+- [plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - All the lua functions I don't want to write twice.
+- [LuaUnit](https://github.com/bluebird75/luaunit) - Popular unit-testing framework for Lua, with an interface typical of xUnit libraries.
+- [LuaFormatter](https://github.com/Koihik/LuaFormatter) - Reformats your Lua source code.

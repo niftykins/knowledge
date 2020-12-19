@@ -3,17 +3,17 @@
 ## Life
 
 - [Make](../ideas/ideas.md). [Learn](../sharing/everything-I-know.md). [Write](../sharing/my-articles.md). [Design](../design/design.md). [Share](../sharing/sharing.md).
-- Set [tasks](../focusing/focusing.md). [Plan](../macOS/apps/fantastical.md). Focus.
+- Set [tasks](../macOS/apps/2do.md) & [goals](../focusing/goals.md). [Plan](../macOS/apps/fantastical.md). [Focus](../focusing/focusing.md).
 - One task at a time. No distractions. Always [mindful](../mindfulness/mindfulness.md) of my actions & thoughts. Be calm. Value time.
-- [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document thoughts/processes/knowledge.
+- [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document thoughts/processes/knowledge. Build in public.
 - [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials. Use what I need.
 - Cut out noise (no analytics, likes..). No time wasted. Maximize impact & growth. Filter consumed information to optimize for signal.
-- Learn from mistakes. Reflect. [Journal](../looking-back/looking-back.md). Move forward. Move fast.
+- Learn from mistakes. [Reflect](../looking-back/looking-back.md). Adapt to changes. Think slow & deep (fundamental based). Move in right direction. Move fast. No regrets.
 - Embrace change. Be proactive. Be bold, fearless & open. Take ownership. Never give up. Never complain.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
-- Don't compare myself to other people. Surround myself with people that inspire me. Be my true self.
+- Don't compare myself to other people. Surround myself with people that inspire me & I can trust to do good. Be my true self. Inspire others.
 - Create art. Meet people. See places. Be inspired. Reuse work & ideas. Reach out to people.
-- Be consistent. Start early. Done > Perfect. Do the simplest thing. Solve problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
+- Be consistent. Start early. Done > Perfect. [Do the simplest thing](https://www.youtube.com/watch?v=4ihL32g0IMQ). Solve problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
 - Optimize and streamline [my workflow](../sharing/my-workflow.md) & [processes](processes.md) I use to get things done.
 - Don't judge anyone. Attempt to see another person's point of view. Be kind. Show love.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Give feedback.
@@ -23,30 +23,30 @@
 
 ## Health
 
-- [Exercise](../fitness/fitness.md). 30+ min cardio/weights daily.
-- Eat [whole food, plant based nutritious diet](../health/nutrition/nutrition.md).
+- [Exercise](../fitness/fitness.md). Start every morning with a workout & shower. 30+ min cardio/weights daily.
+- Eat [whole food plant based nutritious diet](../health/nutrition/nutrition.md).
 - Drink lots of water & tea. Limit coffee. No sugar.
 - Reach optimal micro & macro nutrient goals, [supplement](../health/nutrition/supplements.md) where needed.
-- Start every morning with workout & shower.
-- Brush/floss teeth & [clean face](../health/skin-care.md) every morning/evening.
-- Apply sun screen when going out. Don't frown. Don't touch face or mouth with dirty hands.
-- [Sleep](../sleep/sleep.md) fully. Don't limit sleep, ever. If need to wake up early, go to sleep early. Sleep ~8 hours each day.
+- Go on walks or do exercise throughout the day when possible as breaks.
+- Brush/floss teeth & [clean face](../health/skin-care.md) daily.
+- Apply sunscreen when going out for long time. Don't frown. Don't touch face or mouth with dirty hands.
+- Never sit for long. Sit up right (good posture, never slouch). Use great chair. Be comfortable & ergonomic. Use standing desk & vary between sitting & standing. Take breaks.
+- [Sleep](../sleep/sleep.md) fully & well. Don't limit sleep. If need to wake up early, go to sleep early. Sleep as much as body needs (~ 8h often).
 - Everything in moderation. Avoid any damaging drugs (i.e. alcohol/opiates). Health above all. Limit [psychedelic](../drugs/psychedelics/psychedelics.md) use.
-- Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life. No worries. No anxieties. Clean up.
+- Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life. No worries. No anxieties. Be calm. Clean up.
 
 ## Focus
 
-- [Break problems down](../research/solving-problems.md). Solve each step one at a time. Know the end goal.
+- [Break problems down](../research/solving-problems.md). Solve each step one at a time. Know the end goal. Think from first principles.
 - When [focusing](../focusing/focusing.md), do the active task. No news/distractions. No context switching.
 - Spend mindful time on all devices. On iOS, listen to podcasts/books, read/chat. Minimize things that can be done faster on mac.
 - Do bodyweight exercises during the day to regain focus. Change environments for inspiration.
-- Listen to [focus song](https://twitter.com/trorez/status/1280440336855138304) on mac/iOS or [Dark Noise sounds](https://github.com/nikitavoloboev/my-ios#widgets) or play [Focus playlist](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5?si=xD3AkrIRRhmeDoSPPer0wQ) / [Jazz](https://open.spotify.com/playlist/37i9dQZF1DX71VcjjnyaBQ?si=_LMsQq00T46b4zlNlrz7aw) when focusing. Or listen to nothing if non noisy environment.
+- When focusing, listen to silence or [Ambient](https://open.spotify.com/playlist/5QOChSDsvLTtBwXmIn8Pss?si=KShjGiRPT5ClDiRixB14xA)/[Focus](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5?si=H1iHJahZQSCN5DbvTq6OdA) playlist. Or [Dark Noise](https://github.com/nikitavoloboev/my-ios#widgets).
 - Only have essential notifications setup. iOS is always in Do Not Disturb mode.
 - Say **no** to things. Set constraints & limits.
 - Never give up if problem's worth solving. Optimize for long term growth over short term gains.
 - Always breathe fresh air. Have proper lighting.
 - Wear clean & comfortable clothes.
-- Never sit for long. Sit up right. Be comfortable & ergonomic. Use standing desk & vary between sitting & standing.
 - Only use the bed for sleep. Start each day quickly by waking up & standing up.
 - Don't overthink things. Clear up any confusions. Don't be stuck. Ask for help.
 - Use priority system for everything and don't go outside its bounds. (i.e. Trello [Learn board](https://trello.com/b/cu32qF3q) or [Goodreads currently reading list](https://www.goodreads.com/review/list/15768482?shelf=currently-reading))
@@ -65,7 +65,7 @@
 - [Build things from scratch](https://github.com/nikitavoloboev/learning) to understand. Minimal version that works.
 - Draw or sketch to distill complex ideas. Think through problems together. Discuss.
 - Watch videos at 2x speed, unless it hurts comprehension or it's entertainment.
-- Listen to podcasts/books at fastest speed I can comprehend. (Podcasts: ~1.8x + smart speed, Books: ~1.5x).
+- Listen to podcasts/books at fastest speed I can comprehend. (Podcasts: ~1.4x + smart speed, Books: ~1.25x).
 - Teach what I know in a clear way [aided by visualization, narrative & interactivity](https://youtu.be/kAoQzTcpkyo?t=12588). Learn and teach in public.
 
 ## Write
@@ -75,7 +75,7 @@
 - Use imperative tense for briefness when making tasks (2Do, Trello, GitHub issues). Add useful details where needed.
 - Remove unnecessary and [filler words](../writing/writing.md#dont-use). Use adverbs sparingly, they often undermine your point. Instead of `really like`, say `love`. Say more with less.
 - Minimize use of articles (`a`, `an`, `the`) as they in most cases add noise.
-- Hyperlink words/phrases appropriately.
+- Hyperlink words/phrases appropriately. Use descriptive link labels ([no `this`](https://lobste.rs/s/absbtc/search_personal_websites)).
 - Use headings to separate sections in articles/docs.
 - Fix mistakes with spell checker.
 - Format text to focus attention. **Bold** = strong emphasis. _Italic_ = soft emphasis. Syntax highlight `Code blocks`.
@@ -233,10 +233,11 @@
 - Yellow arrows & text is nicer to read when annotating images.
 - Don't play games on mac/iOS.
 - [Automate backups](../backups/backups.md).
+- Archive useful content no longer actively used. `~/archive`
 - Share images freely with [Imgur](https://imgur.com) (not tied to account) where direct linking doesn't work.
 - Copy screenshots to clipboard & paste for quick sharing.
 - Use package manager to install things. Keep packages updated.
-- Change macOS appearance where appropriate (light interface in sunny areas, dark otherwise). Use dark theme on iOS always.
+- Change OS appearance where appropriate (light interface in sunny areas, dark otherwise).
 
 ## Trello
 
@@ -248,7 +249,7 @@
 
 ## Travel
 
-- Mark [places I've liked](https://www.google.com/maps/placelists/list/1t_jW3zR93T4wMQCQPo1aBbcS61A?hl=en) in Google Maps with optional notes about them.
+- Mark [places I've liked](https://www.google.com/maps/placelists/list/1t_jW3zR93T4wMQCQPo1aBbcS61A) in Google Maps with optional notes about them.
 - Buy transport (plane/train) & accommodation for future events/conferences/travels as soon as possible (when I am sure I am attending event/place).
 - Proof check dates before buying tickets. Don't prepare large liquids (> 100ml) in planes.
 - Check in online as early as possible.

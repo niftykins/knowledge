@@ -13,3 +13,10 @@
 - [Pi Stats](https://github.com/Bunn/PiStats) - macOS app to visualize Pi-hole information.
 - [Should I Block Ads? (2020)](https://shouldiblockads.com/) ([HN](https://news.ycombinator.com/item?id=23276117))
 - [EasyList filter lists](https://github.com/easylist/easylist) - Sets of rules originally designed for Adblock that automatically remove unwanted content from the internet.
+- [HN: uMatrix has been archived (2020)](https://news.ycombinator.com/item?id=24532973)
+- [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Web browser extension to help bypass paywalls for selected sites.
+- [Stuff Your Pi-Hole from Anywhere (2020)](https://fly.io/blog/stuff-your-pi-hole-from-anywhere/) ([HN](https://news.ycombinator.com/item?id=24767792))
+- [How to Setup Pi-hole on a Local Computer without Raspberry Pi (2020)](https://pawelurbanek.com/pihole-local-computer)
+- [Making My Pi-hole Real Metal (2020)](https://teknikaldomain.me/gallery/making-my-pihole-real-metal/) ([HN](https://news.ycombinator.com/item?id=25069717))
+- [Blocky](https://github.com/0xERR0R/blocky) - DNS proxy for the local network written in Go.
+- [Unbound Pi-hole without scripts (2020)](https://jimh.dev/unbound/)

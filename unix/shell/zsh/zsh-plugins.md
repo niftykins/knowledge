@@ -31,6 +31,8 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 - [Fast Syntax Highlighting](https://github.com/zdharma/fast-syntax-highlighting) - Fine granularity, number of features, 40 work hours themes.
 - [cod](https://github.com/dim-an/cod) - Completion daemon for bash/zsh.
 - [Zsh Nix Shell](https://github.com/chisui/zsh-nix-shell) - Use Zsh as the default nix-shell shell.
+- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - Adds real-time type-ahead autocompletion to Zsh, plus many more completion features.
+- [zsh-history](https://github.com/b4b4r07/zsh-history) - Plugin for zsh history extended by golang, dealing it like SQL.
 
 ## Prompt
 

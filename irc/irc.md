@@ -1,12 +1,14 @@
 # [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat)
 
-I spend quite a lot of my time on [Freenode](https://freenode.net/) as it has so many useful channels and people that can help you.
+I spend some time on [Freenode](https://freenode.net/) as it has many useful channels and people that can help you.
 
-I use [Textual](https://www.codeux.com/textual/ "Textual") IRC client and I use [ZNC](http://en.wikipedia.org/wiki/ZNC) network bouncer to always keep me logged in to the servers as well as it keeping history logs when I am away.
+I like IRC even though Discord is a strictly superior experience. I currently use Matrix and [Element](https://element.io) client to connect to IRC Freenode channels I care about.
 
-Here are the IRC channels I often frequent:
+Previously I used [Textual](../macOS/apps/textual.md) IRC client and [ZNC](http://en.wikipedia.org/wiki/ZNC) network bouncer (via [LunarBNC](https://lunarbnc.net)) to always keep me logged in to the servers as well as it keeping history logs when I am away.
 
-![](https://i.imgur.com/6STwHFX.png)
+Here are IRC channels I frequent:
+
+![](https://i.imgur.com/rrI7FIp.png)
 
 ## IRC commands
 
@@ -35,3 +37,9 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [Synchronous Text (2019)](http://exple.tive.org/blarg/2019/04/26/synchronous-text/)
 - [Convos](https://convos.chat/) - Simplest way to use IRC in your browser. ([Code](https://github.com/Nordaaker/convos))
 - [Modern IRC Client Protocol](https://modern.ircdocs.horse/) ([Code](https://github.com/ircdocs/modern-irc))
+- [Quassel IRC](https://github.com/quassel/quassel) - Modern, cross-platform, distributed IRC client. ([Web](https://quassel-irc.org/))
+- [Why IRC is Still Good (2020)](https://www.paritybit.ca/blog/why-irc-is-still-good) ([Lobsters](https://lobste.rs/s/rzesjq/why_irc_is_still_good_current_year))
+- [BitlBee](https://github.com/bitlbee/bitlbee) - IRC to other chat networks gateway. ([Web](https://www.bitlbee.org/main.php/news.r.html))
+- [Kirc](https://github.com/mcpcpc/kirc) - Tiny IRC client written in POSIX C99. ([HN](https://news.ycombinator.com/item?id=24491839))
+- [InspIRCd](https://github.com/inspircd/inspircd) - Modular C++ IRC server. ([Web](https://www.inspircd.org/))
+- [IRC Browse](https://ircbrowse.tomsmeding.com/) - Web service for browsing IRC logs. ([Code](https://github.com/tomsmeding/ircbrowse))

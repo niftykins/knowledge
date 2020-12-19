@@ -37,7 +37,7 @@
 - [AutoGluon](https://github.com/awslabs/autogluon) - AutoML Toolkit for Deep Learning.
 - [DeepLearning.scala](https://github.com/ThoughtWorksInc/DeepLearning.scala) - Simple library for creating complex neural networks from object-oriented and functional programming constructs.
 - [Optuna](https://github.com/optuna/optuna) - Hyperparameter optimization framework.
-- [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
+- [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. ([Web](https://vowpalwabbit.org/)) ([Article](https://andraztori.medium.com/speed-is-a-feature-introducing-fwumious-wabbit-1cc9573ea7be))
 - [Brancher](https://github.com/AI-DI/Brancher) - User-centered Python package for differentiable probabilistic inference.
 - [Karate Club](https://github.com/benedekrozemberczki/karateclub) - General purpose community detection and network embedding library for research built on NetworkX.
 - [FlexFlow](https://github.com/flexflow/FlexFlow) - Distributed deep learning framework that supports flexible parallelization strategies.
@@ -47,7 +47,7 @@
 - [Deepkit](https://github.com/deepkit/deepkit) - Collaborative and real-time machine learning training suite: Experiment execution, tracking, and debugging.
 - [Sls](https://github.com/IssamLaradji/sls) - Stochastic Line Search.
 - [PyCaret](https://github.com/pycaret/pycaret) - Open source low-code machine learning library in Python that aims to reduce the hypothesis to insights cycle time in a ML experiment.
-- [Flax](https://github.com/google/flax) - Neural network library for JAX designed for flexibility.
+- [Flax](https://github.com/google/flax) - Neural network library for JAX designed for flexibility. ([Docs](https://flax.readthedocs.io/en/latest/))
 - [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - Python module capable of performing multi-label learning tasks.
 - [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - Python package offering a number of re-sampling techniques commonly used in datasets showing strong between-class imbalance.
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep learning optimization library that makes distributed training easy, efficient, and effective.
@@ -60,3 +60,37 @@
 - [NNI (Neural Network Intelligence)](https://github.com/microsoft/nni) - Lightweight but powerful toolkit to help users automate Feature Engineering, Neural Architecture Search, Hyperparameter Tuning and Model Compression.
 - [LMfit-py](https://github.com/lmfit/lmfit-py) - Non-Linear Least Squares Minimization, with flexible Parameter settings, based on scipy.optimize.leastsq, and with many additional classes and methods for curve fitting.
 - [tslearn](https://github.com/tslearn-team/tslearn) - Machine learning toolkit for time series analysis in Python.
+- [Libra](https://github.com/Palashio/libra) - Ergonomic machine learning for everyone. ([Docs](https://libradocs.github.io/))
+- [NGBoost](https://github.com/stanfordmlgroup/ngboost) - Natural Gradient Boosting for Probabilistic Prediction.
+- [LightGBM](https://github.com/microsoft/LightGBM) - Gradient boosting framework that uses tree based learning algorithms.
+- [XGBoost](https://github.com/dmlc/xgboost) - Optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework.
+- [DMLC-Core](https://github.com/dmlc/dmlc-core) - Common bricks library for building scalable and portable distributed machine learning.
+- [Linear Models](https://github.com/bashtage/linearmodels) - Add linear models including instrumental variable and panel data models that are missing from statsmodels.
+- [skift](https://github.com/shaypal5/skift) - scikit-learn wrappers for Python fastText.
+- [pulearn](https://github.com/pulearn/pulearn) - Positive-unlabeled learning with Python.
+- [pescador](https://github.com/pescadores/pescador) - Library for streaming (numerical) data, primarily for use in machine learning applications.
+- [TPOT (Tree-based Pipeline Optimization Tool)](https://github.com/EpistasisLab/tpot) - Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. ([Docs](http://epistasislab.github.io/tpot/))
+- [GraKeL](https://github.com/ysig/GraKeL) - Library that provides implementations of several well-established graph kernels. scikit-learn compatible.
+- [creme](https://github.com/creme-ml/creme) - Python library for online machine learning. All the tools in the library can be updated with a single observation at a time, and can therefore be used to learn from streaming data. ([Docs](https://creme-ml.github.io/))
+- [RecBole](https://github.com/RUCAIBox/RecBole) - Unified, comprehensive and efficient recommendation library.
+- [NNFusion](https://github.com/microsoft/nnfusion) - Flexible and efficient DNN compiler that can generate high-performance executables from a DNN model description.
+- [ncnn](https://github.com/Tencent/ncnn) - High-performance neural network inference computing framework optimized for mobile platforms.
+- [Scikit-Optimize](https://github.com/scikit-optimize/scikit-optimize) - Sequential model-based optimization with a `scipy.optimize` interface.
+- [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) - Scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning.
+- [Fedlearner](https://github.com/bytedance/fedlearner) - Collaborative machine learning frameowork that enables joint modeling of data distributed between institutions.
+- [SkLearn2PMML](https://github.com/jpmml/sklearn2pmml) - Python library for converting Scikit-Learn pipelines to PMML.
+- [vecstack](https://github.com/vecxoz/vecstack) - Python package for stacking (machine learning technique).
+- [LightSeq](https://github.com/bytedance/lightseq) - High Performance Inference Library for Sequence Processing and Generation.
+- [modestpy](https://github.com/sdu-cfei/modest-py) - Facilitates parameter estimation in models compliant with Functional Mock-up Interface.
+- [Distiller](https://github.com/IntelLabs/distiller) - Open-source Python package for neural network compression research.
+- [modAL](https://github.com/modAL-python/modAL) - Modular active learning framework for Python.
+- [Bambi](https://github.com/bambinos/bambi) - BAyesian Model-Building Interface in Python.
+- [Bolt](https://github.com/huawei-noah/bolt) - Deep learning library with high performance and heterogeneous flexibility.
+- [hypothesis](https://github.com/montefiore-ai/hypothesis) - Python toolkit for (simulation-based) inference and the mechanization of science.
+- [MMFeat](https://github.com/douwekiela/mmfeat) - Multi-modal features toolkit in Python.
+- [Flower](https://github.com/adap/flower) - Friendly Federated Learning Framework. ([Web](https://flower.dev/))
+- [brain.js](https://github.com/BrainJS/brain.js) - GPU accelerated Neural networks in JavaScript for Browsers and Node.js. ([Web](https://brain.js.org/#/))
+- [Buffalo](https://github.com/kakao/buffalo) - Fast and scalable production-ready open source project for recommender systems.
+- [EvalML](https://github.com/alteryx/evalml) - AutoML library that builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions.
+- [MindSpore](https://github.com/mindspore-ai/mindspore) - New open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
+- [Flashlight](https://github.com/facebookresearch/flashlight) - Fast, Flexible Machine Learning in C++.

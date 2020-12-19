@@ -2,6 +2,8 @@
 
 [Your ultimate guide to interview preparation](http://adilet.org/blog/your-ultimate-guide-to-interview-preparation/) is an amazing guide that covers pretty much everything you need to know to prepare & pass a technical interview.
 
+[CodeSandbox](https://codesandbox.io/) is a great platform for conducting live coding interviews for free.
+
 ## Notes
 
 - [Never think that a job interview is a one-way interview. At least, personally, I always am interviewing the potential team as well. No, you don't have all the control as the interviewer.](https://twitter.com/jessfraz/status/989878115710263297)
@@ -12,6 +14,8 @@
   - blind feedback
 - When trying to solve problems for understanding, don't blindly copy other's solutions. Read their solutions and take notes. Then reimplement from the notes.
 - [In my experience the best candidates speculate rather than giving up, ask appropriate clarifying questions, and take end-to-end ownership of each answer by synthesising disparate discussion into a coherent final explanation.](https://twitter.com/kieranmch/status/1215385877112815617)
+- [You don't need to know the answer (let's be honest, the interviewer didn't know it in details either) to actually talk about why the problem exists and what you understand about it.](https://news.ycombinator.com/item?id=24460286)
+- If you find someone who is capable of just getting things done and learning what they need to, that's all that matters. If they can google their way around and find the answer, then who cares what was in their brain the minute before, at the end of the day they solved the problem.
 
 ## Links
 
@@ -22,12 +26,12 @@
 - [LeetCode](https://leetcode.com/) - Collection of 700+ interview coding challenges.
 - [Preparing for SRE interview](https://blog.balthazar-rouberol.com/preparing-the-sre-interview.html)
 - [Developer questions](https://github.com/ggomaeng/better-developer-quotes)
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Complete computer science study plan to become a software engineer.
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Complete computer science study plan to become a software engineer. ([HN](https://news.ycombinator.com/item?id=25445493))
 - [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.org/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
 - [The Coding Interview by Palantir](https://www.palantir.com/the-coding-interview/) - Great tips.
 - [How to ace a phone interview](https://www.palantir.com/2012/09/how-to-ace-a-phone-interview/)
 - [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews)
-- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction) ([HN](https://news.ycombinator.com/item?id=20727126))
+- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction) ([HN](https://news.ycombinator.com/item?id=20727126)) ([Code](https://github.com/yangshun/tech-interview-handbook))
 - [Interview Map](https://github.com/KieSun/InterviewMap) - A map that can help you make a better preparation for the next interview.
 - [Full stack Developer Interview Questions & Answers](https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers)
 - [Prepare for interview in 1 week advice](https://news.ycombinator.com/item?id=17755688)
@@ -81,3 +85,23 @@
 - [On Interviewing Programmers (2020)](https://thecobraeffect.blogspot.com/2020/07/interviewing-programmers.html) ([HN](https://news.ycombinator.com/item?id=23771948))
 - [How Firebase Interviewed Software Engineers (2019)](https://startupandrew.com/posts/how-firebase-interviewed-software-engineers/)
 - [Tech sector job interviews assess anxiety, not software skills: study (2020)](https://news.ycombinator.com/item?id=23848039) ([HN](https://news.ycombinator.com/item?id=23848039))
+- [What I learned from doing over 60 technical interviews in 30 days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky) ([HN](https://news.ycombinator.com/item?id=24017555))
+- [How to conduct a System Design Interview (2020)](https://robertovitillo.com/how-to-conduct-a-system-design-interview/)
+- [The Technical Interview is an Ego Trip (2020)](https://blog.kowsheek.com/the-technical-interview-is-an-ego-trip/) ([HN](https://news.ycombinator.com/item?id=24447182))
+- [List of company wise questions available on Leetcode premium](https://github.com/MysteryVaibhav/leetcode_company_wise_questions)
+- [Ask HN: What is a better approach to interviewing? (2020)](https://news.ycombinator.com/item?id=24454866)
+- [Rewriting the Technical Interview (2020)](https://aphyr.com/posts/353-rewriting-the-technical-interview) ([Lobsters](https://lobste.rs/s/cvi4vc/rewriting_technical_interview))
+- [Lessons interviewing 200+ engineers: the perfect process to manage tech debt (2020)](https://blog.stepsize.com/the-perfect-process-to-manage-tech-debt/)
+- [Ask Me This Instead](https://www.holloway.com/b/ask-me-this-instead) - Flip the Interview to Land Your Dream Job.
+- [What an interview with Steve Jobs feels like (intimidating personality) (2020)](https://www.youtube.com/watch?v=ecKgqJRvZ5M)
+- [Reversing the technical interview (2017)](https://aphyr.com/posts/340-reversing-the-technical-interview) ([HN](https://news.ycombinator.com/item?id=24735062))
+- [EPI Judge](https://github.com/adnanaziz/EPIJudge) - Companion to our book Elements of Programming Interviews.
+- [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - Curated list of lists of technical interview questions.
+- [Everything you need to know to get the job](https://github.com/kdn251/interviews)
+- [Protips for tech interviewing, especially for big teams or orgs (2020)](https://twitter.com/devonbl/status/1318944166651613185)
+- [What to Ask as a Candidate – How to Go Deeper Than “What’s the Culture Like?” (2020)](https://firstround.com/review/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like/)
+- [AlgoExpert](https://www.algoexpert.io/product) - Resource to prepare for coding interviews. Everything you need, in one streamlined platform.
+- [Interview Often, Fail Often (2020)](https://ffhex.xyz/posts/interview-often-fail-often/)
+- [Interviews.school](https://interviews.school/) - Complete interview preparation guide.
+- [What I Learned From Bombing My Technical Interview (2020)](https://dev.to/ceeoreo/what-i-learned-from-bombing-my-technical-interview-22b5)
+- [Technical Interviewer's Checklist (2020)](https://jeffchen.dev/posts/Technical-Interview-Checklist/)

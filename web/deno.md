@@ -4,7 +4,7 @@
 
 - [Ryan Dahl. Deno, a new way to JavaScript (2019)](https://www.youtube.com/watch?v=z6JRlx5NC9E)
 - [Node vs Deno](https://github.com/egoist/node-vs-deno) - Deno guide for Node.js developers.
-- [Deno Website](https://deno.land/)
+- [Deno Website](https://deno.land/) ([Code](https://github.com/denoland/deno_website2))
 - [Ryan Dahl — Deno, a new way to JavaScript (2019)](https://www.youtube.com/watch?v=HjdJzNoT_qg)
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 - [DVM](https://github.com/imbsky/dvm) - Fast and simple Deno runtime version manager built with Native Reason.
@@ -20,8 +20,8 @@
 - [Deno 1.0 (2020)](https://deno.land/v1) ([HN](https://news.ycombinator.com/item?id=23172483)) ([Lobsters](https://lobste.rs/s/ukfvp3/deno_1_0))
 - [Deno Weekly](https://denoweekly.com/) - Weekly roundup of news, tutorials and projects from the land of Deno.
 - [DenoX](https://github.com/BentoumiTech/denox) - Script runner and workspace configuration for Deno.
-- [PostgreSQL driver for Deno](https://github.com/buildondata/deno-postgres)
-- [Deno Third Party Modules](https://deno.land/x)
+- [deno-postgres](https://github.com/denodrivers/postgres) - PostgreSQL driver for Deno.
+- [Deno Third Party Modules](https://deno.land/x) ([Code](https://github.com/denoland/deno_registry2))
 - [AutoPilot](https://github.com/divy-work/autopilot-deno) - Cross-platform desktop automation library for Deno.
 - [Alosaur](https://github.com/alosaur/alosaur) - Deno web framework with many decorators.
 - [pgc4d](https://github.com/jakajancar/pgc4d) - PostgreSQL client for Deno.
@@ -37,3 +37,25 @@
 - [Deno will stop using TypeScript (2020)](https://startfunction.com/deno-will-stop-using-typescript/) ([HN](https://news.ycombinator.com/item?id=23592483))
 - [Deno explained by Ryan Dahl (2020)](https://docs.google.com/presentation/d/1RnRx4cO4wTFJGHdw5XYypOx74XqQdDdWHP5bA7HjmiM/edit#slide=id.p) ([Tweet](https://twitter.com/trivikram/status/1275461881935745024))
 - [Testing in Deno: the basics (2020)](https://blog.begin.com/testing-in-deno-the-basics-943916d85224)
+- [nest.land](https://nest.land/) - Module registry for Deno, on the blockchain. ([Code](https://github.com/nestdotland/nest.land))
+- [Deno Apps with WebAssembly, Rust, and WASI (2020)](https://www.secondstate.io/articles/deno-webassembly-rust-wasi/)
+- [Using node modules in Deno (2020)](https://medium.com/samsung-internet-dev/using-node-modules-in-deno-2885600ed7a9)
+- [CAC](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
+- [Go <=> Deno](https://github.com/littledivy/godeno)
+- [Obsidian - GraphQL caching client & server module for Deno (2020)](https://blog.graphqleditor.com/obsidian-graphql-caching-client-server-module-for-deno/)
+- [Denosaurs](https://github.com/denosaurs) - Developing deno.land modules such as denon. ([Web](https://denosaurs.land/))
+- [Deno - An Unfinished Beauty (2020)](https://dev.to/emnudge/deno-an-unfinished-beauty-4bhn)
+- [Deno DOM](https://github.com/b-fuze/deno-dom) - Browser DOM in Deno.
+- [dext.ts](https://github.com/lucacasonato/dext.ts) - Preact Framework for Deno. Dext.ts is heavily inspired by Next.js.
+- [Aleph.js](https://github.com/postui/aleph.js) - React Framework in Deno, inspired by Next.js. ([Web](https://alephjs.org/)) ([Web Code](https://github.com/alephjs/alephjs.org))
+- [Deno WASM](https://github.com/sanderhahn/deno_wasm) - Deno WASM experiments.
+- [deno_swc](https://github.com/nestdotland/deno_swc) - SWC compiler for Deno.
+- [denoify](https://github.com/garronej/denoify) - Node to Deno Transpiler.
+- [Deno Cliffy](https://github.com/c4spar/deno-cliffy) - Command line framework for Deno.
+- [Kopo Cli](https://github.com/littletof/kopo-cli) - Deno registry browser in the terminal.
+- [Stampede](https://github.com/bashovski/stampede) - Deno REST framework/eco-system. ([HN](https://news.ycombinator.com/item?id=25094724))
+- [deno-redis](https://github.com/denodrivers/redis) - Redis client for Deno.
+- [Opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework for Deno ported from ExpressJS.
+- [deno_doc](https://github.com/denoland/deno_doc) - Rust crate to generate documentation for JavaScript and TypeScript modules.
+- [PostCSS for Deno](https://github.com/postcss/postcss-deno)
+- [HN: Deno 1.6 supports compiling TypeScript to a single executable (2020)](https://news.ycombinator.com/item?id=25366484)

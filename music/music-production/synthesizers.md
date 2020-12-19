@@ -12,3 +12,5 @@
 - [Reverse engineering the OP-1 drum patch (2020)](https://schollz.com/blog/op1/) ([HN](https://news.ycombinator.com/item?id=23211467))
 - [Love Hulten](http://www.lovehulten.com/) - Designs tiny synthesizers.
 - [PLANTYFLUTESIZER being explored by Pico and Verdi](https://twitter.com/_bichopalo_/status/1248919043161182209)
+- [M8](https://dirtywave.com/) - Portable synthesizer and sequencer. ([Demo](https://www.youtube.com/watch?v=DCFJ-3QfqZA))
+- [Helm](https://tytel.org/helm/) - Free polyphonic synth with lots of modulation. ([Code](https://github.com/mtytel/helm))

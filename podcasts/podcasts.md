@@ -26,6 +26,7 @@ It includes:
 - [Foodist with Darya Rose, Ph.D](https://overcast.fm/itunes1090954776/foodist-with-darya-rose-ph-d)
 - [FoundMyFitness](https://overcast.fm/itunes818198322/foundmyfitness) - Podcast about health, science, nutrition, aging, and fitness.
 - [Function with Anil Dash](https://overcast.fm/itunes1439658455/function-with-anil-dash) - Podcast about how technology shapes culture and communication.
+- [Future of Coding](https://futureofcoding.org/episodes/)
 - [Go Time](https://overcast.fm/itunes1120964487/go-time) - Diverse panel and special guests discuss cloud infrastructure, distributed systems, microservices, Kubernetes, Docker…oh and also Go.
 - [GraphQL Patterns](https://overcast.fm/itunes1437070363/graphql-patterns) - In depth discussions around everything GraphQL.
 - [Hello Internet](https://overcast.fm/itunes811377230/hello-internet) - CGP Grey and Brady Haran in Conversation.
@@ -63,6 +64,7 @@ It includes:
 - [This Week in Startups](https://overcast.fm/itunes315114957/this-week-in-startups-audio) - Jason Calacanis and a rotating group of guest experts bring you this weekly take on the best, worst, most outrageous and interesting stories from the world of Web companies.
 - [The Tim Ferriss Show](https://overcast.fm/itunes863897795/the-tim-ferriss-show) - Interesting interviews focused on life improvement.
 - [The Undefined Podcast](https://overcast.fm/itunes1451541555/the-undefined-podcast) - The only engineering podcast with a 2 drink minimum.
+- [TLB hit](https://tlbh.it/index.html) - Podcast about systems and compilers by Chris Leary and JF Bastien.
 - [Venture Stories](https://overcast.fm/itunes1316769266/venture-stories) - Partner and co-founder Erik Torenberg takes you inside the world of venture capital and technology.
 - [We Study Billionaires - The Investor’s Podcast Network](https://overcast.fm/itunes928933489/we-study-billionaires-the-investor-s-podcast-network) - We interview and study famous financial billionaires including Warren Buffett and Howard Marks, and teach you what we learn and how you can apply their investment strategies in the stock market.
 - [Weird Trick Mafia](https://overcast.fm/itunes1456548333/weirdtrickmafia-fm)
@@ -100,6 +102,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [The 140 Best Podcasts to Enrich Your Mind](http://www.openculture.com/great-podcasts)
 - [Curated podcasts list](https://roadmap.sh/podcasts)
 - [Podcasts in Russian](https://russiancast.club/)
+- [Collection of Podcasts for Developers](https://devandgear.com/posts/collection-podcasts-for-developers/)
 
 ## Notes
 
@@ -110,6 +113,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - You don't need expensive recording studio. It's just recording conversations.
 - Basic audio editing is easy to learn. You can use free tools like GarageBand and Audacity.
 - Podcasts are not necessarily live. You can edit out the parts that go off topic.
+- Can use a mirror for podcast interviews. Can look nice like [here](https://www.youtube.com/watch?v=ecKgqJRvZ5M).
 
 ## Links
 
@@ -119,7 +123,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Breaker](https://www.breaker.audio/) - Social podcast app.
 - [Podcast Notes](https://podcastnotes.org/)
 - [Podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds.
-- [Listen Notes](https://www.listennotes.com/) - Podcast Search Engine.
+- [Listen Notes](https://www.listennotes.com/) - Podcast Search Engine. ([API](https://www.listennotes.com/api/)) ([HN](https://news.ycombinator.com/item?id=25139833)) ([How I accidentally built an API business](https://www.listennotes.com/blog/how-i-accidentally-built-an-api-business-46/))
 - [Podcast Search](https://atshpthmkhc-app.azurewebsites.net/) - Full Text Search on Podcasts. ([HN](https://news.ycombinator.com/item?id=23036016))
 - [Winds](https://getstream.io/winds/) - Beautiful Open Source Podcast & RSS Reader created by Stream. ([Code](https://github.com/GetStream/Winds))
 - [Mixtape](https://mixtape.preslav.me/) - Search engine for podcasts. Discover and subscribe to topics you like.
@@ -134,6 +138,19 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [How podcasts work](https://twitter.com/benthompson/status/1264576467255439360)
 - [Learning effectively with podcasts (2020)](https://networkedthought.substack.com/p/learning-effectively-with-podcasts)
 - [Podify](https://podify-org.github.io/) - Create podcasts from anything youtube-dl can handle. ([Reddit](https://www.reddit.com/r/selfhosted/comments/h7lkw2/podify_create_podcasts_from_anything_youtubedl/))
-- [‎Airr](https://apps.apple.com/us/app/airr-share-podcast-clips/id1355926315?ls=1) - Highlight podcasts.
-- [Podcast Stats](https://www.listennotes.com/podcast-stats/) - How many podcasts are there? ([HN](https://news.ycombinator.com/item?id=23773537))
 - [Airr](https://apps.apple.com/us/app/airr-highlight-podcasts/id1355926315) - Podcast player that lets you highlight, add a note, and share moments from episodes.
+- [Podcast Stats](https://www.listennotes.com/podcast-stats/) - How many podcasts are there? ([HN](https://news.ycombinator.com/item?id=23773537))
+- [PodcastFest Russian](https://podfest.ru/)
+- [Podcast generator written in Go](https://github.com/jbub/podcasts)
+- [Relay FM](https://www.relay.fm/) - Independent podcast network for people who are creative, curious, and maybe even a little obsessive.
+- [How To Start and Grow a Podcast with David Perrell, Jeff Umbro, and Sachit Gupta (2020)](https://overcast.fm/+LDKdlTNzs)
+- [Brett’s 2020 Podcasting Setup](https://brettterpstra.com/2020/08/17/bretts-2020-podcasting-setup/)
+- [Artifact](https://www.heyartifact.com/) - Personal podcasts with the people in your life. ([HN](https://news.ycombinator.com/item?id=24919931))
+- [Podgrab](https://github.com/akhilrex/podgrab) - Self-hosted podcast manager to download episodes as soon as they become live.
+- [Podcast Hosting Review](https://podcasthosting.review/) - Reviews of popular podcast hosting platforms.
+- [Poise](https://www.narratedbypoise.com/) - Text-to-podcast: Repurpose any content into podcasts. ([HN](https://news.ycombinator.com/item?id=25117894))
+- [Capiche FM](https://capiche.fm/) - Turn phone calls into livestreamed radio shows.
+- [Fame](https://www.fame.so/) - Grow Your B2B Business With A Profitable Podcast.
+- [An Ode to Podcasting (2020)](https://eriktorenberg.substack.com/p/an-ode-to-podcasting) - Lessons learned from recording 500 podcasts.
+- [On Deck Podcaster Fellowship](https://www.beondeck.com/podcasters)
+- [Spotifeed](https://spotifeed.timdorr.com/) - Spotify Podcast RSS Feed Generator. ([Code](https://github.com/timdorr/spotifeed))

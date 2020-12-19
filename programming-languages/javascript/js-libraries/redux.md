@@ -73,3 +73,11 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [Notes on redux design](https://twitter.com/buildsghost/status/1255756148084367361)
 - [Dynadux](https://github.com/aneldev/dynadux) - Advanced and simpler Stores based on dispatch and Reducers. Alternative to Redux.
 - [Why I Stopped Using Redux (2020)](https://dev.to/g_abud/why-i-quit-redux-1knl)
+- [Redux Overview and Concepts](https://redux.js.org/tutorials/essentials/part-1-overview-concepts) ([HN](https://news.ycombinator.com/item?id=23950153))
+- [The evil pattern of Redux that reduces boilerplate (2020)](https://www.albertgao.xyz/2020/09/22/evil-pattern-of-redux-that-reduces-boilerplate/)
+- [Redux In Web Workers: Off-Main-Thread Redux Reducers and Middleware (2020)](https://blog.axlight.com/posts/redux-in-worker-off-main-thread-redux-reducers-and-middleware/)
+- [Refactoring a Redux app to use Recoil (2020)](https://blog.logrocket.com/refactoring-redux-app-to-use-recoil/)
+- [Repluggable](https://github.com/wix/repluggable) - Pluggable micro frontends in React+Redux apps.
+- [Redux is half of a pattern (2020)](https://dev.to/davidkpiano/redux-is-half-of-a-pattern-1-2-1hd7)
+- [RTK Query](https://rtk-query-docs.netlify.app/) - Data fetching and caching addon for Redux Toolkit. ([Code](https://github.com/rtk-incubator/rtk-query)) ([Tweet](https://twitter.com/acemarke/status/1333863983330299904))
+- [Functors - Redux (2020)](https://functional.christmas/2020/8)

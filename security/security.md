@@ -29,7 +29,7 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable) - Finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.
 - [camo](https://github.com/atmos/camo) - HTTP proxy to route images through SSL. Making insecure assets look secure.
-- [Vault](https://github.com/hashicorp/vault) - Tool for secrets management, encryption as a service, and privileged access management.
+- [Vault](https://github.com/hashicorp/vault) - Tool for secrets management, encryption as a service, and privileged access management. ([Web](https://www.vaultproject.io/))
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [OSS-Fuzz](https://github.com/google/oss-fuzz) - Continuous Fuzzing for Open Source Software.
 - [Wifiphisher](https://wifiphisher.org/) - Rogue Access Point framework for conducting red team engagements or Wi-Fi security testing. ([Code](https://github.com/wifiphisher/wifiphisher))
@@ -80,3 +80,59 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/) ([Code](https://github.com/mozilla/ssl-config-generator))
 - [OWASP Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery.
 - [tl;dr sec Newsletter](https://tldrsec.com/)
+- [Flipper Zero](https://flipperzero.one/) - Tamagochi for Hackers. ([HN](https://news.ycombinator.com/item?id=23996733)) ([Flipper Android App](https://github.com/Flipper-Zero/Flipper-Android-App))
+- [Security@ Conference](https://www.hackerone.com/security-at)
+- [I'm Open Sourcing the Have I Been Pwned Code Base (2020)](https://www.troyhunt.com/im-open-sourcing-the-have-i-been-pwned-code-base/) ([HN](https://news.ycombinator.com/item?id=24079682))
+- [Security Research from the Microsoft Security Response Center](https://github.com/microsoft/MSRC-Security-Research)
+- [Researchers can duplicate keys from the sounds they make in locks (2020)](https://kottke.org/20/08/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks) ([HN](https://news.ycombinator.com/item?id=24205833))
+- [DEF CON](https://defcon.org/) - Hacking Conference.
+- [Threat modelling case study: bicycles (2020)](http://calpaterson.com/bicycle-threat-model.html) ([Lobsters](https://lobste.rs/s/v1egoc/threat_modelling_case_study_bicycles))
+- [GTFOBins](https://gtfobins.github.io/) - Curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions. ([Code](https://github.com/GTFOBins/GTFOBins.github.io)) ([Lobsters](https://lobste.rs/s/qtb9da/gtfobins))
+- [MinTOTP](https://github.com/susam/mintotp) - Minimal TOTP generator written in Python. ([Lobsters](https://lobste.rs/s/fzkwum/minimal_totp_generator_20_lines_python))
+- [Information Security Requires Strongly-Typed Actors and Theories (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3418003)
+- [Intercepting Zoom's encrypted data with BPF (2020)](https://confused.ai/posts/intercepting-zoom-tls-encryption-bpf-uprobes)
+- [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) - List of useful payloads and bypass for Web Application Security and Pentest/CTF.
+- [Bypassing ESP32 Encrypted Secure Boot (2020)](https://raelize.com/posts/espressif-esp32-bypassing-encrypted-secure-boot-cve-2020-13629/)
+- [F-Secure Labs](https://labs.f-secure.com/) - Cyber security research and development.
+- [Hacking Apple (2020)](https://samcurry.net/hacking-apple/) ([HN](https://news.ycombinator.com/item?id=24718078))
+- [Penetration Testing Tools](https://github.com/IoT-PTv/List-of-Tools)
+- [Chamber](https://github.com/segmentio/chamber) - CLI for managing secrets. Currently it does so by storing secrets in SSM Parameter Store, an AWS service for storing secrets.
+- [Cyber Security Resources](https://github.com/The-Art-of-Hacking/h4cker) ([Web](https://h4cker.org/))
+- [HowToHunt](https://github.com/KathanP19/HowToHunt) - Some Tutorials and Things to Do while Hunting Particular Vulnerability.
+- [EarlyBird](https://github.com/americanexpress/earlybird) - Sensitive data detection tool capable of scanning source code repositories for clear text password violations, PII, outdated cryptography methods, key files and more.
+- [Awesome Hacking](https://github.com/jekil/awesome-hacking) - Curated list of hacking tools for hackers, pentesters and security researchers. ([Web](https://awesomehacking.org/))
+- [HashiCorp Boundary (2020)](https://www.boundaryproject.io/) - Simple and secure remote access — to any system anywhere based on trusted identity. ([Code](https://github.com/hashicorp/boundary)) ([Announcement](https://www.hashicorp.com/blog/hashicorp-boundary)) ([HN](https://news.ycombinator.com/item?id=24778073))
+- [mc2](https://github.com/mc2-project/mc2) - Multiparty Collaboration + Coopetition projects.
+- [Google Security Research](https://github.com/google/security-research) - Hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google.
+- [Timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis.
+- [XSStrike](https://github.com/s0md3v/XSStrike) - Advanced XSS Detection Suite.
+- [GHunt](https://github.com/mxrch/GHunt) - Investigate Google Accounts with emails.
+- [HideAndSec](https://hideandsec.sh/) - Group of cybersecurity enthusiasts.
+- [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) - Collection of high value information on specific application security topics. ([Code](https://github.com/OWASP/CheatSheetSeries))
+- [Tricks for penetration testing](https://github.com/kmkz/Pentesting)
+- [Malware Source Code Collection](https://github.com/vxunderground/MalwareSourceCode)
+- [Research code & papers from members of vx-underground](https://github.com/vxunderground/VXUG-Papers)
+- [Passguard](https://passguard.app/) - Decentralised and 100% secure password manager. ([Code](https://github.com/passguardapp/passguardapp.github.io))
+- [Web Hacker's Weapons](https://github.com/hahwul/WebHackersWeapons) - Collection of cool tools used by Web hackers.
+- [Crowdsec](https://github.com/crowdsecurity/crowdsec) - Modern behavior detection system, written in Go. ([Web](https://crowdsec.net/))
+- [Awesome Security](https://github.com/sbilly/awesome-security)
+- [A Researcher’s Guide to Some Legal Risks of Security Research (2020)](https://clinic.cyber.harvard.edu/files/2020/10/Security_Researchers_Guide-2.pdf)
+- [Spacehuhn Technologies](https://spacehuhn.tech/) - Open Source Hacking Tools. ([GitHub](https://github.com/SpacehuhnTech))
+- [Security features of musl](https://dustri.org/b/security-features-of-musl.html) ([Lobsters](https://lobste.rs/s/yfsbbl/security_features_musl))
+- [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/)
+- [Infection Monkey](https://github.com/guardicore/monkey) - Open source security tool for testing a data center's resiliency to perimeter breaches and internal server infection.
+- [Clean up your digital hygiene (2020)](https://luminousmen.com/post/clean-up-your-digital-hygiene)
+- [OSS Security Scorecards](https://github.com/ossf/scorecard)
+- [Gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit. ([Web](https://getgophish.com/))
+- [OpenEDR](https://github.com/ComodoSecurity/openedr) - Free and open source platform allows you to analyze what’s happening across your entire environment at base-security-event level.
+- [MITRE open source](http://mitre.github.io/) ([GitHub](https://github.com/mitre))
+- [r2c](https://r2c.dev/) - Enforcing code guardrails on every commit. ([GitHub](https://github.com/returntocorp/))
+- [Awesome Security Feeds](https://github.com/mrtouch93/awesome-security-feed)
+- [Neurax](https://github.com/redcode-labs/Neurax) - Library for constructing self-spreading binaries.
+- [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources. ([Web](https://cloudcustodian.io/))
+- [Depix](https://github.com/beurtschipper/Depix) - Tool for recovering passwords from pixelized screenshots. ([HN](https://news.ycombinator.com/item?id=25326450))
+- [Honest Security](https://honest.security/) - Guide to endpoint security and device management that doesn't erode your values. ([Code](https://github.com/kolide/honest.security))
+- [Metasploit](https://metasploit.com/) - Penetration testing framework. ([Code](https://github.com/rapid7/metasploit-framework))
+- [Awesome CTF (Capture The Flag)](https://github.com/apsdehal/awesome-ctf)
+- [Quarkslab](https://quarkslab.com/) - Software and security services.
+- [Security Christmas](https://security.christmas/)

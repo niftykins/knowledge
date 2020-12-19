@@ -1,8 +1,6 @@
 # Research
 
-Research is an interesting topic and something that plays a big role in my life. I like to think that I do research every day.
-
-## How I do research
+## How I research
 
 The most useful thing that has helped me be more productive in uncovering new and interesting things is to do things with a purpose. Research included.
 
@@ -57,3 +55,20 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Resources for Running Research Groups](https://github.com/jeanqasaur/research-group-resources)
 - [Where to Start Research? (2020)](https://acesounderglass.com/2020/06/09/where-to-start-research/)
 - [Ten Lessons I Wish I Had Been Taught (1997)](https://www.ams.org/notices/199701/comm-rota.pdf) ([HN](https://news.ycombinator.com/item?id=23722803))
+- [Relevance of researchers in a compute driven world (2020)](https://www.reddit.com/r/MachineLearning/comments/iezgsc/d_relevance_of_researchers_in_a_compute_driven/) ([Tweet](https://twitter.com/hardmaru/status/1298114780763316227))
+- [Scientists who never won a Nobel Prize (2019)](https://www.wondersofphysics.com/2019/01/scientists-who-never-won.html) ([HN](https://news.ycombinator.com/item?id=24283018))
+- [List of years in science](https://en.wikipedia.org/wiki/List_of_years_in_science) - Events related to science or technology which occurred in the listed year.
+- [Edinburgh Research Archive](https://era.ed.ac.uk/) - Digital repository of original research produced at The University of Edinburgh.
+- [ScienceDirect.com](https://www.sciencedirect.com/) - Science, health and medical journals, full text articles and books.
+- [Google Research](https://research.google/) ([GitHub](https://github.com/google-research))
+- [Microsoft Research](https://www.microsoft.com/en-us/research/)
+- [Yandex Research](https://research.yandex.com/) ([GitHub](https://github.com/yandex-research))
+- [The Book of Why: The New Science of Cause and Effect (2018)](http://cdar.berkeley.edu/wp-content/uploads/2017/04/Lisa-Goldberg-reviews-The-Book-of-Why.pdf) ([HN](https://news.ycombinator.com/item?id=24487135))
+- [Lecture Notes on Design & Analysis of Experiments](https://github.com/fcampelo/Design-and-Analysis-of-Experiments)
+- [Nature Scientific Reports](https://www.nature.com/srep/)
+- [NobelPrize.org](https://www.nobelprize.org/) - Set of annual international awards on science.
+- [Why writing research proposals is important for any researcher](https://twitter.com/omarsar0/status/1314217743391100928)
+- [PLOS Journals](https://plos.org/#journals) - Influential Open Access journals across all areas of science and medicine.
+- [Guide to Awesome Research Proposals](https://github.com/dair-ai/awesome-research-proposals-guide)
+- [NVIDIA Research](https://www.nvidia.com/en-us/research/) ([GitHub](https://github.com/NVlabs))
+- [Crossminds](https://crossminds.ai/) - Latest Tech Research Videos. ([Explore](https://crossminds.ai/explore/))

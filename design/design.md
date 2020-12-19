@@ -12,6 +12,7 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 
 - [A good way to make your interface look “designed” is to use a consistent space scale](https://twitter.com/siddharthkp/status/1264578950799523843)
 - [Don't design for average. If you want to make a great product, it needs to be great for someone.](https://twitter.com/linuz90/status/1275678185657716736)
+- [Design is about making things look a certain way. Not “make it look pretty” but “surface.” I have had many interactions with smart educated people (even designers!) whom seem to believe design is art, that design is mainly about surface (e.g. “a designer chair.”)](https://twitter.com/rsms/status/1305383261774905346)
 
 ## Links
 
@@ -33,7 +34,7 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [10 Year Challenge: How Popular Websites Have Changed (2019)](https://www.arun.is/blog/10-year-challenge/)
 - [Design Systems Repo](https://designsystemsrepo.com/) - Frequently updated collection of Design System examples, articles, tools and talks.
 - [Mike Bostock - Design is a Search Problem (2014)](https://www.youtube.com/watch?v=fThhbt23SGM)
-- [Little Big Details](http://littlebigdetails.com/)
+- [Little Big Details](http://littlebigdetails.com/) - Delightful UX Design.
 - [Whimsical](https://whimsical.com/) - Visual Workspace. Collaborate visually. Fast and delightful.
 - [Apply Pixels](https://applypixels.com/) - Industry Standard Design Resources.
 - [Firefox: The Evolution Of A Brand (2019)](https://blog.mozilla.org/opendesign/firefox-the-evolution-of-a-brand/)
@@ -118,3 +119,38 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Rora](https://rora.co/) - Design news and trends.
 - [Anima](https://www.animaapp.com/) - Design to code, automated.
 - [The Guide to Design](https://start.uxdesign.cc/)
+- [Themesberg](https://themesberg.com/) - Premium and Free Themes, Templates & UI Kits.
+- [Design Hunt](https://designhunt.us/) - Creative inspiration for everyone.
+- [Grid Systems in Graphic Design/Raster Systeme Fur Die Visuele Gestaltung by Josef Müller-Brockmann](https://www.goodreads.com/book/show/350962.Grid_Systems_in_Graphic_Design_Raster_Systeme_Fur_Die_Visuele_Gestaltung)
+- [Design Books by Womxn & People of Color](https://www.notion.so/Design-Books-by-Womxn-People-of-Color-efaffa5233cc44a8b3bebb2d0a2b038f)
+- [TTN Design Guidelines](https://github.com/TheThingsNetwork/lorawan-stack/blob/v3.9/DESIGN.md)
+- [LogoArchive](https://www.logoarchive.shop/) - Study of form language in logo design. ([IG](https://www.instagram.com/LogoArchive/))
+- [iA new site design (2020)](https://ia.net/topics/newsite)
+- [Six N. Five](https://sixnfive.com/) - Multidisciplinary Design Studio.
+- [Shift Nudge](https://shiftnudge.com/) - Interface Design Course.
+- [Neuralink Chip vector artwork](https://www.figma.com/community/file/882308473299123804)
+- [Mailbox UI](https://twitter.com/taylorlapeyre/status/1300589868603465733)
+- [To design and develop an interactive globe (2020)](https://stripe.com/blog/globe) ([HN](https://news.ycombinator.com/item?id=24350546))
+- [lookup.design](https://lookup.design/) - Find UI Design Examples.
+- [Disrespectful Design – Users aren’t stupid or lazy (2020)](https://somehowmanage.com/2020/09/13/disrespectful-design-users-arent-stupid-or-lazy/) ([HN](https://news.ycombinator.com/item?id=24461365))
+- [What do you think most of the non-designers you work with today still get wrong about design?](https://twitter.com/joulee/status/1305243609944346626)
+- [What's More to Design in a Chair (2020)](https://samanthaz.me/writing/what-s-more-to-design-in-a-chair)
+- [Contrast](https://www.contrast.app/) - Developer Handoff Reimagined. ([Blog](https://www.contrast.app/blog))
+- [How we created the illustration style for our partner products (2020)](https://booking.design/building-a-new-illustration-style-for-our-partner-products-808c32e5e16c)
+- [Intro to Web Design](https://rafaltomal.com/class/intro/)
+- [Adobe MAX Creativity Conference](https://max.adobe.com/)
+- [You don't know UI](https://github.com/MenaiAla/You-Dont-Know-UI) - Learn how to build universal, modern and scalable user interfaces.
+- [14 Patterns of Biophilic Design](https://www.terrapinbrightgreen.com/reports/14-patterns/)
+- [Startup Landing Templates](https://startuplanding.redq.io/) - Get Free React landing page every week.
+- [PatternPad](https://patternpad.com/) - Create beautiful patterns for presentations, social media or branding.
+- [InVision](https://www.invisionapp.com/) - Digital product design, workflow & collaboration.
+- [Canva](https://www.canva.com/) - Collaborate & Create Amazing Graphic Design for Free.
+- [Chasing the Pixel-Perfect Dream (2020)](https://joshwcomeau.com/css/pixel-perfection/) ([HN](https://news.ycombinator.com/item?id=25023282))
+- [Summary of My Work at Figma](https://rsms.me/work/figma/)
+- [The Merveilles Sensibility (2020)](https://wileywiggins.com/merveilles.html) - Solutioning for technological resilience.
+- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Free & open-source 2D sprite editor, made with the Godot Engine. ([Web](https://orama-interactive.itch.io/pixelorama))
+- [Designing User Interfaces Book](https://designingui.com/)
+- [Overlay](https://overlay-tech.com/) - Transform your design components into clean React, Vue and HTML components. Supports Figma & Sketch.
+- [Staff Design](https://staff.design/) - Conversations with high-impact individual contributors in product design.
+- [Goxel 3D Voxel Editor](https://goxel.xyz/) ([Code](https://github.com/guillaumechereau/goxel))
+- [UI Flowchart Cards](https://flowcards.io/) - Construct web pages with ease, using UI Flow Cards ―for website builders, designers and developers. ([HN](https://news.ycombinator.com/item?id=25384582))

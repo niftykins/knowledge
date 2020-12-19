@@ -17,6 +17,7 @@ The reason I am not currently using it is because I find the philosophy of `Know
 
 - [Image Occlusion Enhanced](https://ankiweb.net/shared/info/1111933094) - Lets you create cards that hide parts of an image to test your knowledge of that hidden information.
 - [Night Mode](https://github.com/krassowski/Anki-Night-Mode)
+- [Review Heatmap](https://github.com/glutanimate/review-heatmap) - Your learning performance at a glance.
 
 ## Notes
 
@@ -31,7 +32,7 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Anki Airtable](https://github.com/sirupsen/anki-airtable) - Anki plugin that can synchronize an Airtable to Anki when Anki starts up.
 - [Everything I Know: Strategies, Tips, and Tricks for Anki](https://senrigan.io/blog/everything-i-know-strategies-tips-and-tricks-for-spaced-repetition-anki)
 - [Spaced Repetition for Efficient Learning](https://www.gwern.net/Spaced-repetition)
-- [Mochi](https://mochi.cards/) - Take notes and make flashcards using markdown, then study them using spaced repetition.
+- [Mochi](https://mochi.cards/) - Take notes and make flashcards using markdown, then study them using spaced repetition. ([HN](https://news.ycombinator.com/item?id=20029466))
 - [MDAnki](https://github.com/ashlinchak/mdanki) - Converts Markdown file(s) to the Anki cards. ([HN](https://news.ycombinator.com/item?id=22385408))
 - [AnkiConnect](https://github.com/FooSoft/anki-connect) - Anki plugin to expose a remote API for creating flash cards.
 - [LearnObit](https://learnobit-36a54.web.app/) - Learning tool (Anki & WorkFlowy in one). ([HN](https://news.ycombinator.com/item?id=22823320))
@@ -39,3 +40,9 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Barbra](https://barbra.io/) - Lets classmates create online study groups to share flashcards, notes, and goals with one another. ([HN](https://news.ycombinator.com/item?id=22943075))
 - [Awesome Anki](https://github.com/tianshanghong/awesome-anki)
 - [genanki](https://github.com/kerrickstaley/genanki) - Library for Generating Anki Decks.
+- [Spaced repetition, Anki and Execute Program (2020)](https://mike.place/2020/executeprogram/)
+- [Why I Switched to SuperMemo After Using Anki 5 Years, 50k Cards and 420k Reviews (2018)](https://www.masterhowtolearn.com/2018-10-28-why-i-switched-to-supermemo/)
+- [Anki as Learning Superpower: Computer Science Edition (2020)](https://www.gresearch.co.uk/article/anki-as-learning-superpower-computer-science-edition/) ([HN](https://news.ycombinator.com/item?id=24878171))
+- [Memorai](https://memorai.humanloop.ml/) - AI memory assistant – remember everything you read. ([Code](https://github.com/humanloop/memorai))
+- [How to Learn to Code I: Use SRS and Anki (2020)](https://www.youtube.com/watch?v=kshXDo8psj8)
+- [mu](https://github.com/ticki/mu) - Advanced Unix-style Spaced Repetition System.

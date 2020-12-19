@@ -1,5 +1,10 @@
 # [Bitcoin](https://bitcoin.org/en/)
 
+## Notes
+
+- [Bitcoin is both trust-minimized (even more than gold) yet quite unlike gold digital & easily transferable in its trust-minimized form. It's an unprecedentedly superior form of money, but like anything else new traded in a free market, its historical journey starts off volatile.](https://twitter.com/NickSzabo4/status/1328759197769502722)
+- [At this point, of all the things Bitcoin can do that other financial assets can't (pseudo-anonymous, extremely hard to confiscate, can be moved quasi instantaneously across borders, demonstrably finite supply, can be use as a settlement layer for large players, etc ...) the one aspect that I believe attracts people is "store of value". Many people contest that last property citing high volatility, and they're correct if your window is less than 4 years. But for folks who play the long game, supply and demand tells a very compelling story for Bitcoin.](https://news.ycombinator.com/item?id=25157946)
+
 ## Links
 
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers.
@@ -32,3 +37,46 @@
 - [bwt](https://github.com/shesek/bwt) - Lightweight HD wallet indexer for Bitcoin, available as an Electrum RPC server and a modern HTTP REST API.
 - [Prism: Scaling Bitcoin by 10,000x](https://github.com/yangl1996/prism-rust) - Rust implementation.
 - [Bitcoin From Scratch (2020)](https://monokh.com/posts/bitcoin-from-scratch-part-1) ([HN](https://news.ycombinator.com/item?id=23728228))
+- [Bitcoin is more like ham radio than the early internet (2020)](http://jpkoning.blogspot.com/2020/07/bitcoin-is-more-like-ham-radio-than.html) ([HN](https://news.ycombinator.com/item?id=23823304))
+- [Bitcoin Information & Educational Resources](https://www.lopp.net/bitcoin-information.html)
+- [c-lightning](https://github.com/ElementsProject/lightning) - Lightning Network implementation in C. ([Rust bindings](https://github.com/laanwj/rust-clightning-rpc)) ([Go bindings](https://github.com/niftynei/glightning))
+- [Bitcoin Summer School 2016](https://bitcoinschool.gr/) ([Consensus](https://bitcoinschool.gr/slides/session3.pdf))
+- [Vapor](https://vapor.network/) - Decentralized Web over Bitcoinized HTTP. ([HN](https://news.ycombinator.com/item?id=24708161))
+- [Takeaways from MicroStrategy CEO 425 million investment into bitcoin (2020)](https://twitter.com/woonomic/status/1306853254685364225)
+- [Building on Bitcoin #1 — Isaac Morehouse (2020)](https://www.youtube.com/watch?v=4F4kWu_6vVE)
+- [What Comes Next. Building Bit.sv. (2020)](https://bit.sv/post/499dec5108b14e99d28b48b0c0dfcd5fe06edef43ad738d41f18264151aaf30d)
+- [This Month In Bitcoin Privacy](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/)
+- [RaspiBlitz](https://github.com/rootzoll/raspiblitz) - Build your own Lightning Node on a RaspberryPi with a nice Display.
+- [Blockstream.info](https://blockstream.info/) - Bitcoin Explorer. ([Code](https://github.com/Blockstream/esplora))
+- [Electrum Server in Rust](https://github.com/romanz/electrs)
+- [Esplora](https://github.com/Blockstream/electrs) - Block chain index engine and HTTP API written in Rust based on romanz/electrs.
+- [What Bitcoin’s White Paper Got Right, Wrong and What We Still Don’t Know (2018)](https://www.coindesk.com/what-bitcoins-white-paper-got-right-wrong-and-what-we-still-dont-know) ([HN](https://news.ycombinator.com/item?id=24951616))
+- [Bitbo](https://bitbo.io/) - Real-Time Bitcoin Dashboard.
+- [Bitcoin at 12 (2020)](https://medium.com/@nic__carter/bitcoin-at-12-f6fce39cb9bb)
+- [Blockstream](https://blockstream.com/) - Bitcoin and digital asset infrastructure.
+- [Awesome Lightning Network](https://github.com/bcongdon/awesome-lightning-network)
+- [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) - Desktop GUI for Bitcoin Core optimised to work with hardware wallets.
+- [Merkle trees in Git and Bitcoin (2020)](https://initialcommit.com/blog/git-bitcoin-merkle-tree)
+- [Chaincode Labs](https://chaincode.com/) - Exists to support Bitcoin.
+- [Notes and ideas for development work on Bitcoin Core](https://github.com/jonatack/bitcoin-development)
+- [HN: Bitcoin Price Hits All-Time High of $19,786, Topping 2017 Record (2020)](https://news.ycombinator.com/item?id=25255606)
+- [Scripts, tools & info for doing Bitcoin Core development and code review](https://github.com/fanquake/core-review)
+- [hal](https://github.com/stevenroose/hal) - Bitcoin companion. Command line tool that provides all kinds of Bitcoin-related utilities.
+- [btcd](https://github.com/btcsuite/btcd) - Alternative full node bitcoin implementation written in Go.
+- [Rust Bitcoin Library](https://github.com/rust-bitcoin/rust-bitcoin) - Library with support for de/serialization, parsing and executing on data structures and network messages related to Bitcoin.
+- [Michael Flaxman Research](https://www.michaelflaxman.com/)
+- [Lightning Node Management](https://openoms.gitbook.io/lightning-node-management/) - Beginner friendly resources to manage a routing node on the Lightning Network. ([Code](https://github.com/openoms/lightning-node-management))
+- [Bitcoin Tutorials](https://openoms.github.io/bitcoin-tutorials/) - Guides for the RaspiBlitz and Linux desktop. ([Code](https://github.com/openoms/bitcoin-tutorials))
+- [Bitcoin RPC Proxy](https://github.com/Kixunil/btc-rpc-proxy) - Finer-grained permission management for bitcoind.
+- [Brink](https://brink.dev/) - Exists to strengthen the Bitcoin protocol and network through fundamental research and development.
+- [Study Groups for bitcoin protocol developers](https://github.com/chaincodelabs/study-groups)
+- [Bitcoin Protocol Development Curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)
+- [Lightning Network Curriculum](https://github.com/chaincodelabs/lightning-curriculum)
+- [Satoshi Nakamoto Institute](https://nakamotoinstitute.org/) ([Forum Posts](https://satoshi.nakamotoinstitute.org/posts/))
+- [Bitcoin.org Website Code](https://github.com/bitcoin-dot-org/Bitcoin.org)
+- [Bitcoin Improvement Proposals](https://github.com/bitcoin/bips)
+- [CLIFlix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
+- [Bitcoin Cash](https://www.bitcoincash.org/) - Experimental digital currency that enables instant payments to anyone, anywhere in the world. ([Code](https://github.com/Bitcoin-ABC/bitcoin-abc))
+- [What does BCH offer that Ethereum don't already offer? (2020)](https://www.reddit.com/r/btc/comments/keu3nw/what_does_bch_offer_that_ethereum_dont_already/)
+- [Teleport Transactions](https://github.com/bitcoin-teleport/teleport-transactions) - Software aiming to improve the privacy of bitcoin.
+- [Bitcoin Archive](http://towardsliberty.com/bitcoin)

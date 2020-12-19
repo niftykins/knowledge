@@ -34,6 +34,19 @@
 - [Super Resolution and 3-D Imaging | Harald Hess (2019)](https://www.youtube.com/watch?v=tlvrkCZLagg) ([Tweet](https://twitter.com/karpathy/status/1279583346901651456))
 - [A Connectome of the Adult Drosophila Central Brain (2020)](https://www.biorxiv.org/content/10.1101/2020.01.21.911859v1)
 - [NanoNeuro 2020 Webinar](https://www.youtube.com/watch?v=CJXp8vCWlmA)
+- [Large Associative Memory Problem in Neurobiology and Machine Learning (2020)](https://arxiv.org/abs/2008.06996) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/icjcfk/r_biological_plausible_explanation_of_hopfield/))
+- [NeuroAI at CSHL](https://www.neuroaicshl.com/)
+- [Artificial neural networks for neuroscientists: A primer (2020)](https://arxiv.org/abs/2006.01001)
+- [Real-time tracking of serotonin, dopamine opens new window to the brain (2020)](https://newatlas.com/medical/serotonin-dopamine-real-time-tracking-brain/) ([HN](https://news.ycombinator.com/item?id=24771932))
+- [Memory involves the whole body. It’s how the self defies amnesia](https://psyche.co/ideas/memory-involves-the-whole-body-its-how-the-self-defies-amnesia)
+- [Scientists Discovered a Mysterious Organ Lurking in the Centre of the Head (2020)](https://www.sciencealert.com/chance-discovery-reveals-mysterious-organ-lurking-in-human-head-missed-for-centuries) ([HN](https://news.ycombinator.com/item?id=24846026))
+- [Cell Press: Neuron](https://www.cell.com/neuron/home) - Biweekly peer-reviewed scientific journal. Covers neuroscience and related biological processes.
+- [Neuromatch](https://neuromatch.io/) - Conference made for the whole neuroscience community.
+- [Cortical Circuitry book (2017)](http://corticalcircuitry.com/) - Provides a readable account of how the neocortex works.
+- [Deep Neural Networks Help to Explain Living Brains (2020)](https://www.quantamagazine.org/deep-neural-networks-help-to-explain-living-brains-20201028/)
+- [It takes two neurons to ride a bicycle – Matthew Cook](http://paradise.caltech.edu/~cook/papers/TwoNeurons.pdf)
+- [Tracking the temporal dynamics of cultural perceptual diversity in visual information processing (2014)](http://theses.gla.ac.uk/5055/2/2014LaoPhD.pdf)
+- [Is neuroscience the key to protecting AI from adversarial attacks? (2020)](https://bdtechtalks.com/2020/12/07/vonenet-neurscience-inspired-deep-learning/)
 
 ## Images
 

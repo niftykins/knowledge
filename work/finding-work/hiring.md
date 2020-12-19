@@ -2,8 +2,12 @@
 
 ## Recruitment tests
 
+- [Cloudflare General Assignment](https://github.com/cloudflare-hiring/cloudflare-2020-general-engineering-assignment)
+- [Cloudflare Systems Assignment](https://github.com/cloudflare-hiring/cloudflare-2020-systems-engineering-assignment)
+- [Guardian Coding Exercises](https://github.com/guardian/coding-exercises)
 - [Skyscanner](https://github.com/Skyscanner/full-stack-recruitment-test)
 - [Otta](https://github.com/XavKearney/otta-engineering-interview-task)
+- [PFN Internship Coding Tasks](https://github.com/pfnet/intern-coding-tasks)
 
 ## Nice Job pages
 
@@ -13,6 +17,14 @@
 - [Careers at Figma](https://www.figma.com/careers/) ([Twitter](https://twitter.com/rsms/status/1274057553266139137))
 - [Work at Basecamp](https://basecamp.com/about/jobs)
 - [Prisma Labs](https://www.notion.so/Open-positions-at-Prisma-Labs-eb709e36aba8405c8c189fad1c226389) - Likes that it uses Notion to list/maintain the jobs.
+- [Gumroad](https://www.notion.so/Open-positions-f43f816013b2405aa41ddefb663a4a38)
+- [Ueno Careers](https://ueno.co/careers/)
+- [Apple Jobs](https://www.apple.com/jobs/us/)
+- [Transloadit](https://transloadit.com/jobs/)
+
+## Questions to ask
+
+- [Describe a few of the hardest problems you solved & exactly how you solved them.](https://twitter.com/elonmusk/status/1324736076800577537)
 
 ## Notes
 
@@ -46,3 +58,12 @@
 - [When hiring, what's one quality or achievement in your field that makes someone an instant hire? (2020)](https://twitter.com/swyx/status/1261608997322461186)
 - [Thoughts on using references when hiring](https://twitter.com/nlevin/status/1265319461969489920)
 - [Hiring a distributed team - Inside PSPDFKit (2016)](https://pspdfkit.com/blog/2016/hiring-a-distributed-team/)
+- [Code katas for selecting technical talent (2020)](https://nelis.boucke.be/post/code-katas-for-hiring/)
+- [How to spot top talent](https://twitter.com/gregisenberg/status/1300105523111624713)
+- [Thoughts on HR software (2020)](https://twitter.com/jaltma/status/1308067827429961728)
+- [The Problem of Overfitting in Tech Hiring (2020)](https://scorpil.com/post/the-problem-of-overfitting-in-tech-hiring/)
+- [Typo](https://www.usetypo.com/) - Hiring simplified.
+- [My platonic ideal for how engineering hiring should work (2020)](http://blog.alinelerner.com/ive-been-an-engineer-and-a-recruiter-hiring-is-broken-heres-why-and-heres-what-it-should-be-like-instead/) ([HN](https://news.ycombinator.com/item?id=24840013))
+- [FairSourcing](https://github.com/swisscom/ai-research-fairsourcing) - Evaluate the impact of a candidate on the decided socially aware metrics in the sourcing process.
+- [Jeff Bezos’ 1st job posting for Amazon in August 1994](https://twitter.com/TrungTPhan/status/1329837146249650177)
+- [Asking a tech recruiter (2020)](https://underjord.io/asking-a-tech-recruiter.html)

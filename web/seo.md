@@ -10,6 +10,11 @@
   d) Doesn't annoy or piss off users such that they click the back button and choose someone else's link instead of yours.
   e) Earns links and amplification (see point below).
 - Have a great answer to the question: "Who will help amplify/link to this and WHY?" If you can nail that, and then get what you create in front of those right people/organizations, your ability to earn amplification, engagement, and links will be vastly better than simply trying to make stuff, then put it in front of likely linkers. Craft content the way Amazon crafts products - write the press release first. List the people who will want to share it/tweet it/post about it/write about it/link to it/etc. and then explain their motivations. Now you've got content that has the potential to earn the ranking signals you need.
+- [SEO strategy, I really like:](https://mobile.twitter.com/clokehead/status/1257597795432873986)
+  1. Find a topic that is growing using [ExplodingTopics](https://explodingtopics.com/)
+  2. Find existing keywords with some volume, where that topic can be substituted in to make a new keyword with no volume (but also no competition).
+  3. Wait for the new keyword to grow.
+  4. Profit.
 
 ## Links
 
@@ -28,3 +33,17 @@
 - [Ahrefs](https://ahrefs.com/) - Helps you learn why your competitors rank so high and what you need to do to outrank them.
 - [How MasterClass used SEO to grow (2020)](https://twitter.com/TheCoolestCool/status/1265382628724740098) ([HN](https://news.ycombinator.com/item?id=23315969))
 - [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag) - Add metadata tags for search engines and social networks to better index and display your site's content.
+- [My best SEO tactic so far (2020)](https://questinglog.com/my-best-seo-tactic-so-far/) ([HN](https://news.ycombinator.com/item?id=24163658))
+- [SEO Doesn't Matter Anymore (2020)](https://hawaiigentech.com/post/no-more-seo/)
+- [Some Things I’ve Learned About SEO](https://patwalls.com/some-things-i-ve-learned-about-seo) ([Tweet](https://twitter.com/thepatwalls/status/1306614893630681088))
+- [SEO tips for indie hackers (2020)](https://twitter.com/jdnoc/status/1308741583140007936)
+- [SEO mistakes I've made and how I fixed them (2020)](https://blog.maximeheckel.com/posts/seo-mistakes-i-have-made-and-how-i-fixed-them) ([HN](https://news.ycombinator.com/item?id=24766682))
+- [Understanding SEO - A Systematic Approach to Search Engine Optimization book (2020)](https://gumroad.com/l/understanding-seo/hacker-news)
+- [TypeScript playground SEO improvement (2020)](https://github.com/microsoft/TypeScript-Website/issues/130#issuecomment-712364792)
+- [Good SEO tools that aren't expensive (2020)](https://twitter.com/MicahIverson/status/1323148330910707712)
+- [Improving Performance and Search Rankings with Cloudflare for Fun and Profit (2020)](https://blog.cloudflare.com/improving-performance-and-search-rankings-with-cloudflare-for-fun-and-profit/)
+- [Effortless SEO Testing](https://seotesting.com/) - Track the changes you make to pages and websites, to see if they have an effect on Google rankings and clicks.
+- [Lean SEO](https://www.starterstory.com/lean-seo) - Our Framework For SEO Traction.
+- [Getting started with SEO 101 (2020)](https://twitter.com/jdnoc/status/1336699825325268993)
+- [Greenflare SEO Web Crawler](https://github.com/beb7/gflare-tk) - Open-Source Python Based SEO Web Crawler. ([Web](https://greenflare.io/))
+- [Top SEO myths to kiss goodbye in 2020](https://tabtimize.com/top-10-seo-myths-to-kiss-goodbye-in-2020/)

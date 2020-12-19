@@ -6,6 +6,19 @@
 - [Goldborough Studio](https://www.goldboroughstudio.com/)
 - [CD PROJEKT RED](https://en.cdprojektred.com/)
 - [GSC Game World](https://www.gsc-game.com/) - Makers of Stalker.
+- [HiWarp](https://www.hiwarp.com/) - Indie Game Studio.
+- [5 Lives Studios](http://5livesstudios.com/)
+- [Frictional Games](https://frictionalgames.blogspot.com/) - Creators of Penumbra, Amnesia and SOMA.
+- [Embark Studios](https://www.embark-studios.com/) - Stockholm-based games studio.
+- [Ghost Story Games](https://www.ghoststorygames.com/)
+- [Cloudhead Games](https://cloudheadgames.com/) - VR Game Studio.
+- [Nolla Games](https://nollagames.com/)
+- [Beamdog](https://www.beamdog.com/)
+- [Unknown Worlds](https://unknownworlds.com/)
+- [Hive Games](https://hivegames.io/)
+- [Lazy Bear Games](http://lazybeargames.com/)
+- [Rarebyte](https://www.rarebyte.com/)
+- [Supergiant Games](https://www.supergiantgames.com/)
 
 ## Notes
 
@@ -17,7 +30,7 @@
 - [Raylib](http://www.raylib.com) - Simple and easy-to-use library to learn video games programming.
 - [Diablo: A Classic Game Postmortem (2016)](https://www.youtube.com/watch?v=VscdPA6sUkc)
 - [Game Engine Architecture Book](https://www.gameenginebook.com/)
-- [Curated List of Game Network Programming Resources](https://github.com/MFatihMAR/Awesome-Game-Networking)
+- [Curated List of Game Network Programming Resources](https://github.com/MFatihMAR/Game-Networking-Resources)
 - [Kit](https://github.com/kitlang/kit) - Programming language designed for creating concise, high performance cross-platform applications.
 - [raylib](https://github.com/raysan5/raylib) - Simple and easy-to-use library to enjoy videogames programming.
 - [Tutorials, tools, and more as related to reverse engineering video games](https://github.com/dsasmblr/game-hacking)
@@ -77,3 +90,36 @@
 - [Pont - A multiplayer board game in Rust and WebAssembly (2020)](https://www.mattkeeter.com/projects/pont/) ([Code](https://github.com/mkeeter/pont))
 - [Playbyte](https://www.playbyte.io/) - Create fun games.
 - [Networked games: Playing in the past or future (2020)](https://www.evanjones.ca/network-game-simulation.html) ([HN](https://news.ycombinator.com/item?id=23839390))
+- [Rust Sokoban](https://sokoban.iolivia.me/) - Extended tutorial on making a Sokoban copy in Rust.
+- [How do I design a game from scratch? A primer on core loops (2020)](https://teamavocado.co/core-loop/) ([HN](https://news.ycombinator.com/item?id=23869155))
+- [Elo suck - better multiplayer rating systems for smaller games](https://medium.com/acolytefight/elo-sucks-better-multiplayer-rating-systems-for-smaller-games-8ca588ee652f) ([Lobsters](https://lobste.rs/s/tzdghs/elo_sucks_better_multiplayer_rating))
+- [A-Life: An Insight into Ambitious AI (2017)](https://blackshellmedia.com/2017/08/12/a-life-an-insight-into-ambitious-ai/)
+- [Ct.js](https://ctjs.rocks/) Visual Game Editor for Pixi.js. ([HN](https://news.ycombinator.com/item?id=24176655))
+- [High Hat Devlogs](https://www.youtube.com/playlist?list=PL0DiuJldNGZyVFZ9KWu7GymvYMbC-N0C3)
+- [Handmade Hero](https://hero.handmade.network/) - Ongoing project by Casey Muratori to create a complete, professional-quality game accompanied by videos that explain every single line of its source code.
+- [Bellwoods (2018)](https://mattdesl.svbtle.com/bellwoods)
+- [Kha](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework.
+- [Game Programming Patterns: Event Queue](https://gameprogrammingpatterns.com/event-queue.html) ([HN](https://news.ycombinator.com/item?id=24233229))
+- [Storymapr](https://www.storymapr.com/) - Visually design game dialogues and quests.
+- [VALORANT's 128-Tick Servers (2020)](https://technology.riotgames.com/news/valorants-128-tick-servers) ([Lobsters](https://lobste.rs/s/ecpsqo/valorant_s_128_tick_servers))
+- [Overwatch Gameplay Architecture and Netcode (2019)](https://www.youtube.com/watch?v=W3aieHjyNvw)
+- [The Making of Dune II](https://readonlymemory.vg/the-making-of-dune-ii/)
+- [Ask HN: Advice for Multiplayer Back End (2020)](https://news.ycombinator.com/item?id=24512488)
+- [LEd](https://deepnight.net/tools/led-2d-level-editor/) - Modern, lightweight and efficient 2D level editor. ([HN](https://news.ycombinator.com/item?id=24599269)) ([Code](https://github.com/deepnight/led))
+- [Laminar](https://github.com/amethyst/laminar) - Simple semi-reliable UDP protocol for multiplayer games.
+- [Fibers, Oh My (2020)](https://graphitemaster.github.io/fibers/) ([HN](https://news.ycombinator.com/item?id=24679740)) ([Lobsters](https://lobste.rs/s/2cranq/fibers_oh_my))
+- [Sid Meier's Memoir](https://sidmeiersmemoir.com/) ([HN](https://news.ycombinator.com/item?id=24729402))
+- [Zenva Academy](https://academy.zenva.com/) - Empower people so that they can create their own videogames, mobile apps and websites. ([YouTube](https://www.youtube.com/c/Zenva/videos))
+- [Video Game Source Project](https://gamehistory.org/video-game-source-project/) - Video Game History Foundation. Ability to study video game source material is rare. We’re changing that.
+- [Activision Research Publications](https://research.activision.com/publications)
+- [es_core](https://github.com/TTimo/es_core) - Experimental framework for low latency, high fps multiplayer games.
+- [Game Developers Conference (GDC)](https://gdconf.com/)
+- [Making a small game with Gloss [Haskell] (2020)](https://herebeseaswines.net/essays/2020-11-01-making-a-small-game-with-gloss)
+- [Serious Engine – Multiplayer Explained](https://staniks.github.io/articles/serious-engine-networking-analysis.html)
+- [Leveraging Go for Game Development and Operations (2020)](https://technology.riotgames.com/news/leveraging-golang-game-development-and-operations)
+- [Jupylet](https://github.com/nir/jupylet) - Python library that lets you create 2D and 3D games, graphics, music and sound synthesizers, interactively in a Jupyter notebook.
+- [Designing The Witcher 3's Most Famous Quest (2020)](https://www.youtube.com/watch?v=5gvVp9cP8xc)
+- [Quake’s 3-D Engine: The Big Picture](https://www.bluesnews.com/abrash/chap70.shtml)
+- [Game UI Database](https://www.gameuidatabase.com/) - Reference tool for interface designers.
+- [Ask HN: I'm quitting my job, will create a game – any advice? (2020)](https://news.ycombinator.com/item?id=25376714)
+- [The Lighting of Need for Speed Heat in Frostbite (2020)](https://www.youtube.com/watch?v=K-CIiBpOI0o)

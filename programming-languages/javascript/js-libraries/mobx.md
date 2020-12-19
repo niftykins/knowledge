@@ -23,3 +23,6 @@
 - [Introduction to MobX & React in 2020](https://www.youtube.com/watch?v=pnhIJA64ByY)
 - [MobX & RecoilJS differences (2020)](https://twitter.com/mweststrate/status/1261369870152871937)
 - [Why Infinite Red uses MobX-State-Tree instead of Redux (2020)](https://shift.infinite.red/why-infinite-red-uses-mobx-state-tree-instead-of-redux-d6c1407dead)
+- [MobX JSX](https://github.com/ryansolid/mobx-jsx) - Raw MobX performance without being restrained by a Virtual DOM.
+- [MobX 6 (2020)](https://michel.codes/blogs/mobx6) ([HN](https://news.ycombinator.com/item?id=24648363))
+- [Mobx Devtools](https://github.com/mobxjs/mobx-devtools)

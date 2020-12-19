@@ -13,3 +13,5 @@
 - [tmux2html](https://github.com/tweekmonster/tmux2html) - Render full tmux windows or individual panes as HTML.
 - [DMUX](https://github.com/zdcthomas/dmux) - Tmux workspace manager.
 - [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
+- [tmux cheat sheet](https://bismuth.garden/tmux)
+- [Ideas from my Development Setup: Always Tmux (2020)](https://cedaei.com/posts/ideas-from-my-dev-setup-always-tmux/) ([Lobsters](https://lobste.rs/s/n5blid/ideas_from_my_development_setup_always))

@@ -36,11 +36,12 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Say something you dislike about a language you love (2019)](https://lobste.rs/s/2cw6ov/say_something_you_dislike_about_language)
 - [Say something nice about a programming language you dislike (2019)](https://lobste.rs/s/hib1ui/say_something_nice_about_programming)
 - [comby](https://github.com/comby-tools/comby) - Tool for changing code across many languages.
-- [On the Expressive Power of Programming Languages by Shriram Krishnamurthi [PWLConf 2019]](https://www.youtube.com/watch?v=43XaZEn2aLc)
+- [On the Expressive Power of Programming Languages by Shriram Krishnamurthi [PWLConf 2019]](https://www.youtube.com/watch?v=43XaZEn2aLc) ([Web](https://pwlconf.org/2019/shriram-krishnamurthi/)) ([HN](https://news.ycombinator.com/item?id=25091705))
 - [The Rise of 'Worse is Better' by Richard Gabriel](https://www.jwz.org/doc/worse-is-better.html)
 - ["All the Languages Together" by Amal Ahmed (2018)](https://www.youtube.com/watch?v=3yVc5t-g-VU)
 - [Co](https://github.com/rsms/co) - Programming language and optimizing compiler written in TypeScript. ([Doc](https://rsms.me/co/doc/))
 - [User Interfaces for Programming Languages course (2019)](http://web.eecs.umich.edu/~comar/courses/ui-for-pl/)
+- [User Interfaces for Programming Languages: The Compendium](https://github.com/fplab/ui-for-pl)
 - [Advanced Programming Languages Cornell Course (2018)](http://www.cs.cornell.edu/courses/cs6110/2018sp/)
 - [A Programmable Programming Language (2018)](https://cs.brown.edu/~sk/Publications/Papers/Published/fffkbmt-programmable-prog-lang/paper.pdf) ([HN](https://news.ycombinator.com/item?id=21763407))
 - [Panel: the Future of Languages (2019)](https://www.infoq.com/presentations/panel-future-languages/)
@@ -75,7 +76,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Esoteric.Codes](https://esoteric.codes/) - Languages, platforms, and systems that break from the norms of computing.
 - [Resources for the working programmer to learn more about the fundamentals and theory of programming languages](https://github.com/jeanqasaur/learn-programming-languages)
 - [Call-By-Push-Value](https://www.cs.bham.ac.uk/~pbl/papers/thesisqmwphd.pdf) - New programming language paradigm, based on the slogan “a value is, a computation does".
-- [Semgrep](https://github.com/returntocorp/semgrep) - Tool for easily detecting and preventing bugs and anti-patterns in your codebase.
+- [Semgrep](https://github.com/returntocorp/semgrep) - Tool for easily detecting and preventing bugs and anti-patterns in your codebase. ([Web](https://semgrep.dev/))
 - [Algol 60 implementation (1964)](http://www.softwarepreservation.org/projects/ALGOL/book/Randell_ALGOL_60_Implementation_1964.pdf)
 - [Code Search](https://github.com/google/codesearch) - Tool for indexing and then performing regular expression searches over large bodies of source code. ([Lobsters](https://lobste.rs/s/g7mntu/codesearch_fast_indexed_regexp_search))
 - [Zoekt](https://github.com/google/zoekt) - Fast text search engine, intended for use with source code.
@@ -99,3 +100,49 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Statically Sized Higher-kinded Polymorphism (2020)](http://blog.ielliott.io/sized-hkts/) ([Lobsters](https://lobste.rs/s/vlndlq/statically_sized_higher_kinded))
 - [The language strangeness budget (2015)](https://steveklabnik.com/writing/the-language-strangeness-budget)
 - [Family spaghetti of programming languages (2019)](https://erkin.party/blog/190208/spaghetti/)
+- [Continuations by example: Exceptions, time-traveling search, threads, and more (2020)](http://matt.might.net/articles/programming-with-continuations--exceptions-backtracking-search-threads-generators-coroutines/) ([HN](https://news.ycombinator.com/item?id=23859278))
+- [People of Programming Languages](http://www.cs.cmu.edu/~popl-interviews/)
+- [People of Language Design and Implementation](http://abstract.ece.cmu.edu/peopleOfPLDI/)
+- [Hindley-Milner Type Inference (2012)](http://steshaw.org/hm/) ([HN](https://news.ycombinator.com/item?id=23794691))
+- [Deep learning to translate between programming languages (2020)](https://ai.facebook.com/blog/deep-learning-to-translate-between-programming-languages) ([HN](https://news.ycombinator.com/item?id=23914465))
+- [Ask HN: What are you using new programming languages for? (2020)](https://news.ycombinator.com/item?id=23956851)
+- [Build your own programming language (2020)](https://thesephist.com/posts/pl/)
+- [A Foundation for Typed Concatenative Languages (2017)](https://www2.ccs.neu.edu/racket/pubs/dissertation-kleffner.pdf) - Presents a sound and complete type inference algorithm.
+- [What Is The Minimal Set Of Optimizations Needed For Zero-Cost Abstraction? (2020)](https://robert.ocallahan.org/2020/08/what-is-minimal-set-of-optimizations.html)
+- [Kicking Off the Repl.it Programming Language Jam (2020)](https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105) ([HN](https://news.ycombinator.com/item?id=24113863))
+- [Structure and Interpretation of Computer Programs with Hal Abelson (2019)](https://overcast.fm/+LfVPfUqoc)
+- [Collection of papers on modules](https://github.com/ak3n/modules-papers)
+- [Analysis Tools](https://analysis-tools.dev/) - Most Popular Analysis Tools by Programming Language.
+- [What's the Deal with Message Passing, Anyway (2020)](https://buttondown.email/hillelwayne/archive/whats-the-deal-with-message-passing-anyway/) ([Lobsters](https://lobste.rs/s/k0lx87/what_s_deal_with_message_passing_anyway))
+- [Things that are not strings (2020)](https://frantic.im/no-strings) ([Lobsters](https://lobste.rs/s/wjpj6n/things_are_not_strings))
+- [ICFP 2020](https://www.youtube.com/playlist?list=PLyrlk8Xaylp4fOgwO5RUTrpgSA_HRjDMW)
+- [Essentials of Programming Languages](http://eopl3.com/) ([Code](https://github.com/mwand/eopl3)) ([HN](https://news.ycombinator.com/item?id=24324653))
+- [UW PLSE](http://uwplse.org/) - University of Washington Programming Languages and Software Engineering. ([GitHub](https://github.com/uwplse))
+- [Your Language Sucks, It Doesn’t Matter (2020)](https://matklad.github.io//2020/09/13/your-language-sucks.html) ([Lobsters](https://lobste.rs/s/zp2pqd/your_language_sucks_it_doesn_t_matter))
+- [Energy Efficiency across Programming Languages (2017)](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf) ([HN](https://news.ycombinator.com/item?id=24642134))
+- [Deep learning to translate between programming languages (2020)](https://ai.facebook.com/blog/deep-learning-to-translate-between-programming-languages/)
+- [Increasing the Impact of PL Research (2020)](https://blog.sigplan.org/2020/07/29/increasing-the-impact-of-pl-research/)
+- [Programming Languages course by Dan Grossman](https://www.coursera.org/learn/programming-languages) ([Answers](https://github.com/chuabingquan/programming-languages-coursera))
+- [Polygott](https://github.com/replit/polygott) - Base Docker image for the Repl.it evaluation server.
+- [Chris Lattner: The Future of Computing and Programming Languages (2020)](https://www.youtube.com/watch?v=nWTvXbQHwWs) ([Web](https://lexfridman.com/chris-lattner-2/)) ([HN](https://news.ycombinator.com/item?id=24823384))
+- [History of Programming Language Topics](https://porges.github.io/programming-history/) ([Code](https://github.com/Porges/programming-history))
+- [Language Design with Leo White (2020)](https://signalsandthreads.com/language-design/) ([Lobsters](https://lobste.rs/s/udstbt/dynamically_bound_goto_considered)) ([HN](https://news.ycombinator.com/item?id=24876465))
+- [Make a Language Using Rust](https://arzg.github.io/lang/) ([HN](https://news.ycombinator.com/item?id=25026419))
+- [Turing Incomplete Languages (2020)](http://neilmitchell.blogspot.com/2020/11/turing-incomplete-languages.html)
+- [Semantics-Guided Synthesis (2020)](https://pages.cs.wisc.edu/~loris/papers/popl21.pdf)
+- [We need less powerful languages (2015)](https://lukeplant.me.uk/blog/posts/less-powerful-languages/) ([HN](https://news.ycombinator.com/item?id=25090816))
+- [Learn languages that are not Java, Python and C++ (2020)](https://twitter.com/jjcarett2/status/1321110900040994822)
+- [PLIERS: A Process that Integrates User-Centered Methods into Programming Language Design (2020)](https://arxiv.org/abs/1912.04719)
+- [Liquid information flow control](https://cseweb.ucsd.edu/~npolikarpova/publications/icfp20-lifty.pdf)
+- [teaberry](https://github.com/JakeWheat/teaberry) - Learning project to implement a typed functional programming language/dialect of ML, which aims to be accessible and usable like Python is.
+- [Langkit](https://github.com/AdaCore/langkit) - Tool whose purpose is to make it easy to create syntactic and semantic analysis engines. Language creation framework.
+- [remark-prism](https://github.com/sergioramos/remark-prism) - Syntax highlighter for markdown code blocks using Prism.
+- [JIT compiler and runtime for a toy language, using Cranelift](https://github.com/bytecodealliance/simplejit-demo)
+- [PhD Thesis: Greybox Automatic Exploit Generation for Heap Overflows (2020)](https://sean.heelan.io/2020/11/18/phd-thesis-greybox-automatic-exploit-generation-for-heap-overflows-in-language-interpreters/)
+- [Programming languages genealogical tree](https://github.com/stereobooster/programming-languages-genealogical-tree)
+- [Q&A with Programming Language Beta Users (2020)](https://www.youtube.com/watch?v=Wp9XD5FKZ2c)
+- [Write You a Programming Language](https://dannypsnl.github.io/write-a-programming-language/) ([Code](https://github.com/dannypsnl/write-a-programming-language))
+- [PLT research](https://github.com/dannypsnl/plt-research) - Collection of PLT researching.
+- [History of programming languages concepts](http://rigaux.org/language-study/concepts-history.html)
+- [Programming Languages Study](http://rigaux.org/language-study/index.html)
+- [ALGT](https://github.com/pietervdvn/ALGT) - Abstract Language Generation Tool.

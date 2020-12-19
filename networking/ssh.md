@@ -3,7 +3,7 @@
 ## Links
 
 - [SSH logins using keys (2005)](http://alblue.bandlem.com/2005/08/howto-ssh-logins-using-keys.html)
-- [Endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that very slowly sends an endless, random SSH banner.
+- [Endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that very slowly sends an endless, random SSH banner. ([HN](https://news.ycombinator.com/item?id=24491453))
 - [SeKey](https://github.com/sekey/sekey) - Use Touch ID / Secure Enclave for SSH Authentication.
 - [BLESS](https://github.com/Netflix/bless) - SSH Certificate Authority that runs as an AWS Lambda function and is used to sign SSH public keys.
 - [sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port).
@@ -28,4 +28,21 @@
 - [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh.
 - [SSH Agent Explained (2020)](https://smallstep.com/blog/ssh-agent-explained/) ([HN](https://news.ycombinator.com/item?id=23241934))
 - [SSH Emergency Access (2020)](https://smallstep.com/blog/ssh-emergency-access/) ([HN](https://news.ycombinator.com/item?id=23731351))
-- [Smallstep](https://smallstep.com/) - Single Sign-on SSH & Production Identity.
+- [Smallstep](https://smallstep.com/) - Single Sign-on SSH & Production Identity. Say Goodbye to SSH Key Management.
+- [Step CLI](https://github.com/smallstep/cli) - Toolkit for working with your public key infrastructure (PKI).
+- [Lockbox](https://github.com/half-cambodian-hacker-man/ssh-lockbox) - Personal centralised SSH key deployment to multiple boxes. ([Lobsters](https://lobste.rs/s/d9ziys/ssh_lockbox_personal_centralised_ssh_key))
+- [Ask HN: What do you use for SSH key management of teams? (2020)](https://news.ycombinator.com/item?id=24157180)
+- [How to properly manage ssh keys for server access (2020)](https://www.paepper.com/blog/posts/how-to-properly-manage-ssh-keys-for-server-access/) ([HN](https://news.ycombinator.com/item?id=24599837))
+- [SSH tutorial](https://github.com/RabeaMue/SSH_tutorial/blob/master/SSH_tutorial.org) - Small guide how to use SSH.
+- [TRASA](https://github.com/seknox/trasa) - Zero Trust Service Access. ([Web](https://www.trasa.io/))
+- [PSSH](https://github.com/lilydjwg/pssh) - Provides parallel versions of OpenSSH and related tools, including pssh, pscp, prsync, pnuke and pslurp.
+- [SSHDog](https://github.com/Matir/sshdog) - Small portable SSH server in Go.
+- [SSH Through Websocket (2020)](https://rumpelsepp.org/blog/ssh-through-websocket/)
+- [assh](https://github.com/moul/assh) - Transparent wrapper that adds support for regex, aliases, gateways, dynamic hostnames, graphviz, json output, yaml configuration, and more to SSH.
+- [Roll your own Ngrok with Nginx, Letsencrypt, and SSH reverse tunnelling (2019)](https://jerrington.me/posts/2019-01-29-self-hosted-ngrok.html)
+- [SSH Tunnelling Basics](https://www.polarsparc.com/xhtml/SSH-Tunnel.html)
+- [LazySSH](https://github.com/stephank/lazyssh) - SSH server that acts as a jump host only, and dynamically starts temporary virtual machines. ([HN](https://news.ycombinator.com/item?id=25081472))
+- [Passive SSH](https://github.com/D4-project/passive-ssh) - Open source framework composed of a scanner and server to store and lookup the SSH keys and fingerprints per host (IPv4/IPv6/onion). ([Presentation](https://github.com/D4-project/passive-ssh/blob/main/doc/slides/passive-ssh-presentation.pdf))
+- [Paramiko](https://github.com/paramiko/paramiko) - Leading native Python SSHv2 protocol library.
+- [boxssh](https://github.com/prologic/sshbox) - Server that boxes you into a container.
+- [boringproxy](https://github.com/boringproxy/boringproxy) - No-frills HTTPS/SSH tunneling solution with as much automation as possible. Designed for self-hosters.

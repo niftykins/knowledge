@@ -28,3 +28,11 @@
 - [Accretor Cellular Automata (2018)](https://softologyblog.wordpress.com/2018/01/12/accretor-cellular-automata/)
 - [Eye Computer: Turning Vision into a Programmable Computer (2010)](https://humanfactorylab.com/uploads/8/3/4/4/83445868/changizi_eyecomputer_presspiece.pdf) ([Tweet](https://twitter.com/MarkChangizi/status/1271129027781234690))
 - [The Game of Life – Emergence in Generative Art (2020)](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art) ([HN](https://news.ycombinator.com/item?id=23840295))
+- [conwayste](https://github.com/conwayste/conwayste) - Multiplayer Conway's Game of Life.
+- [Cellular automata as convolutional neural networks (2020)](https://arxiv.org/abs/1809.02942) ([HN](https://news.ycombinator.com/item?id=24130849))
+- [What is that scarf? (2019)](https://csvoss.com/cellular-automaton-scarf)
+- [The Recursive Universe (2020)](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/) ([HN](https://news.ycombinator.com/item?id=24323011)) ([Lobsters](https://lobste.rs/s/kvujjm/recursive_universe))
+- [Build a working game of Tetris in Conway's Game of Life](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life) ([Lobsters](https://lobste.rs/s/lcgb1l/build_working_game_tetris_conway_s_game))
+- [Let’s build a computer in Conway's game of life (2020)](https://www.youtube.com/watch?v=Kk2MH9O4pXY)
+- [Building a computer in Conway's game of life (2020)](https://www.nicolasloizeau.com/gol-computer) ([HN](https://news.ycombinator.com/item?id=24831268))
+- [Cellular Automaton in Haskell (I). Conway's Game of Life](https://herebeseaswines.net/essays/2020-10-22-conways-game-of-life-in-haskell)

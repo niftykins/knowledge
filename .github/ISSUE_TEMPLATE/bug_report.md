@@ -1,20 +1,16 @@
 ---
 name: Bug 🐞
-about: Something isn't working as expected?
+about: Something not working as expected?
 labels: bug
 ---
+<!-- Search existing issues to avoid duplicates. Check readme/contributing docs. -->
+<!-- If you have relevant code sample, error messages, etc. Please provide it. -->
 
 ### Bug 🐞
-<!-- Search existing issues to avoid duplicates. Provide detailed report. -->
 
 
 
 ### Steps to Reproduce:
 
 1. 
-2. 
 
-
-
-<!-- If you have code sample, error messages, stack traces, please provide it. -->
-<!-- Optionally think about how this could be fixed. Can you fix it and submit a PR? -->

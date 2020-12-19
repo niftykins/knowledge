@@ -35,5 +35,22 @@
 - [EVE](https://www.lfedge.org/projects/eve/) - Aims to do for the IoT edge what Android did for mobile by creating an open edge computing engine that enables the development, orchestration and security of cloud-native and legacy applications on distributed edge compute nodes.
 - [Adam](https://github.com/lf-edge/adam) - Reference implementation of an LF-Edge API-compliant Controller.
 - [rtlamr](https://github.com/bemasher/rtlamr) - rtl-sdr receiver for Itron ERT compatible smart meters operating in the 900MHz ISM band.
-- [Nerves Platform](https://www.nerves-project.org/) - Open-source platform and infrastructure you need to build, deploy, and securely manage your fleet of IoT devices at speed and scale. ([Code](https://github.com/nerves-project/nerves))
+- [Nerves Platform](https://www.nerves-project.org/) - Open-source platform and infrastructure you need to build, deploy, and securely manage your fleet of IoT devices at speed and scale. ([Code](https://github.com/nerves-project/nerves)) ([HN](https://news.ycombinator.com/item?id=24184603))
 - [Espressif IoT Development Framework](https://github.com/espressif/esp-idf)
+- [Towards Secure IoT Programming in Haskell](http://nachivpn.me/haski.pdf)
+- [Octopi](https://octopi.chalmers.se/) - Research effort for creating an environment in which secure internet-of-things can be developed.
+- [Connected Home over IP](https://github.com/project-chip/connectedhomeip) - Working Group to develop and promote the adoption of a new, royalty-free connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet. ([Web](https://www.connectedhomeip.com/))
+- [RT-Thread](https://github.com/RT-Thread/rt-thread) - Open source IoT operating system. ([Web](https://www.rt-thread.io/))
+- [Amazon Sidewalk Privacy and Security Whitepaper](https://m.media-amazon.com/images/G/01/sidewalk/privacy_security_whitepaper_final.pdf) ([HN](https://news.ycombinator.com/item?id=24565259))
+- [Introducing Twilio Microvisor IoT Platform (2020)](https://www.twilio.com/blog/introducing-microvisor)
+- [IoT Pentesting](https://www.iotpentest.com/)
+- [Awesome Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
+- [Universal Radio Hacker (URH)](https://github.com/jopohl/urh) - Investigate Wireless Protocols Like A Boss.
+- [Automated irrigation system](https://github.com/PatrickHallek/automated-irrigation-system) - Open source application to water plants automatically.
+- [EMQ X Broker](https://www.emqx.io/) - Scalable and Reliable Real-time MQTT Message Broker for IoT in 5G Era.
+- [EMQ X Kuiper](https://www.emqx.io/products/kuiper) - SQL based IoT rule engine running at resource constrained edge devices. ([Code](https://github.com/emqx/kuiper))
+- [IoTGoat](https://github.com/OWASP/IoTGoat) - Deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices. ([Web](https://owasp.org/www-project-internet-of-things/))
+- [MCUNet: Tiny Deep Learning on IoT Devices (2020)](https://hanlab.mit.edu/projects/tinyml/mcunet/) ([Code](https://github.com/mit-han-lab/mcunet))
+- [Zigbee Alliance](https://zigbeealliance.org/) - Standard-bearer of the open IoT.
+- [Zigbee-lua](https://github.com/hwhw/zigbee-lua) - Zigbee coordinator and tools for LuaJIT.
+- [IoT Security at home (2020)](https://security.christmas/2020/16)

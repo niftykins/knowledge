@@ -59,3 +59,38 @@
 - [100 Day Computational Design Challenge](https://www.chelseawatson.com/100-computational-designs)
 - [Space colonization branching experiments in JavaScript (2020)](https://jasonwebb.io/2020/03/space-colonization-branching-experiments-in-javascript/)
 - [Ricky Reusser's sketches](https://rreusser.github.io/sketches/)
+- [The Generative Portraiture of Espen Kluge](https://www.artnome.com/news/2019/7/24/generative-portraiture-of-espen-kluge)
+- [Hyper Glu](https://hyperglu.com/) - Generative artist.
+- [Generative Art with CSS (2019)](https://generative-art-with-css.commons.host/) ([HN](https://news.ycombinator.com/item?id=24118534))
+- [Interview With Generative Artist Jared Tarbell (2020)](https://www.artnome.com/news/2020/8/24/interview-with-generative-artist-jared-tarbell)
+- [Moire Pattern](https://formmeetscode.in/blog/moire-pattern/)
+- [Generative Art with Context Free Grammars](https://www.leonrische.me/pages/generative_art_with_cfgs.html)
+- [ln](https://github.com/fogleman/ln) - Vector-based 3D renderer written in Go. It is used to produce 2D vector graphics (think SVGs) depicting 3D scenes. ([JS port](https://github.com/aweary/ln.js))
+- [Abstract Puzzles](https://abstractpuzzl.es/)
+- [Jigsaw Design IDE](https://github.com/pouretrebelle/jigsaws) - Development environment for abstractpuzzl.es jigsaw design.
+- [Interview with Generative Artist Kjetil Golid (2020)](https://www.artnome.com/news/2020/10/11/interview-with-generative-artist-kjetil-golid)
+- [Functional Geometry](https://eprints.soton.ac.uk/257577/1/funcgeo2.pdf) ([Code](https://github.com/micahhahn/FunctionalGeometry))
+- [Plotter Mushroom](https://github.com/cinnamon-bun/plotter-mushroom) - Algorithm for generating SVG art.
+- [List of Generative Art and Live Coding Tools](https://opinionatedguide.github.io/#/Design/d5-gen) ([HN](https://news.ycombinator.com/item?id=24889333))
+- [Generative Book Covers](https://github.com/golanlevin/generative_covers)
+- [Tixy.Land](https://tixy.land/) - Minimalist coding environment. Control 16x16 points with a single JavaScript function. ([1](https://tixy.land/?code=Math.sin%28Math.sqrt%28x*x%2By*y%29-t%29)) ([2](https://twitter.com/v21/status/1323403680922718208)) ([Lobsters](https://lobste.rs/s/p146zr/t_i_x_y_creative_code_golfing)) ([Code](https://github.com/aemkei/tixy))
+- [tixyz](https://doersino.github.io/tixyz/) - Minimalist three-dimensional coding environment. Control 8x8x8 dots with a single JavaScript function. ([Code](https://github.com/doersino/tixyz))
+- [Generative Collective Weekly](https://generative.substack.com/)
+- [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+- [Automaton](https://github.com/FMS-Cat/automaton) - Animation engine for creative coding.
+- [Olab's generative art](https://www.oppenlab.net/ge/)
+- [Recreating the OFFF by Night opening shot in Houdini (2019)](http://seenaburns.com/2019/06/20/recreating-offf-opening-shot/)
+- [yyz](https://github.com/mattdesl/yyz) - Experimental generative art toolkit based on JSX and esbuild.
+- [Vodka](https://github.com/eeeeaaii/vodka) - Creative Coding Environment. ([HN](https://news.ycombinator.com/item?id=25152882))
+- [Observable & creative coding (2020)](https://observablehq.com/@makio135/creative-coding)
+- [Callum's Sketchbook](https://sketchbook.macr.ae/) ([Code](https://github.com/callumacrae/sketchbook))
+- [Models of Interaction](https://github.com/prathyvsh/models-of-interaction) - Catalogue of models of interaction. Part of the trilogy on models of computers/interaction/computation.
+- [Etienne Jacob's Animations](https://bleuje.github.io/animations/) ([Code](https://github.com/Bleuje/bleuje.github.io))
+- [Interview with Etienne Jacob (2020)](https://www.generativehut.com/post/interview-with-etienne-jacob)
+- [wavegrower's animations](https://wavegrower.tumblr.com/) ([Code](https://www.openprocessing.org/user/44137))
+- [Codecember](https://codecember.ink/) - Create compform (computation form), one sketch a day. ([Code](https://github.com/codecember-ink/codecember))
+- [na5 art](https://a-na5.tumblr.com/) ([Twitter](https://twitter.com/yuruyurau/))
+- [Sighack](https://sighack.com/) - Explorations with generative art.
+- [Generative.fm](https://generative.fm/) - Platform for playing generative music in the browser. ([Code](https://github.com/generative-music/generative.fm))
+- [Creative Code-Generated Art](https://www.editorx.com/shaping-design/article/creative-coding) ([HN](https://news.ycombinator.com/item?id=25453252))
+- [Texture, from Nothing](https://austinjones.onfabrik.com/portfolio/texture-from-nothing)

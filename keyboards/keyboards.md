@@ -2,7 +2,7 @@
 
 I love keyboards. Specifically I love remapping them with [Karabiner](../macOS/apps/karabiner/karabiner.md) to extend them to do more awesome things for me.
 
-I am currently using builtin 2018 MacBook keyboard and love it. I love the low key travel as I get tired typing on most mechanical keyboards. The only thing I would change from that keyboard would be split space key into two keys for more remapping awesomeness.
+I am currently using builtin 2020 MacBook keyboard and love it. I love the low key travel as I get tired typing on most mechanical keyboards.
 
 ## Notes
 
@@ -17,13 +17,18 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [Dactyl Keyboard](https://github.com/adereth/dactyl-keyboard) - Parameterized ergonomic keyboard.
 - [Corne keyboard](https://github.com/foostan/crkbd) - Split keyboard with 3x6 column staggered keys and 3 thumb keys. ([Reddit](https://www.reddit.com/r/MechanicalKeyboards/comments/a4hp9e/corne_chocolatehotswappable_crkbd_for_chocolate/))
 - [Redox](https://github.com/mattdibi/redox-keyboard) - Ergonomic split mechanical keyboard.
-- [Helix](https://github.com/MakotoKurauchi/helix) - Compact split ortholinear keyboard.
+- [Helix](https://github.com/MakotoKurauchi/helix) - Compact split ortholinear keyboard. ([Article](http://xahlee.info/kbd/helix_keyboard.html))
 - [Lily58](https://github.com/kata0510/Lily58) - 6×4+4keys column-staggered split keyboard.
 - [Keyberon](https://github.com/TeXitoi/keyberon) - Hand wired ortholinear mechanical keyboard with a firmware in rust.
 - [Sonder](https://sonderdesign.com/keyboard/) - E-Ink Keyboard. ([HN](https://news.ycombinator.com/item?id=23370348))
 - [Dactyl-ManuForm](https://github.com/abstracthat/dactyl-manuform) - Fork of the Dactyl, a parameterized, split-hand, concave, columnar, ergonomic keyboard. ([HN](https://news.ycombinator.com/item?id=23444813))
 - [Absolem](https://zealot.hu/absolem/) ([Code](https://github.com/mrzealot/absolem))
 - [jklp](https://github.com/brow/jklp) - 36-key ergonomic keyboard.
+- [Moonlander](https://zsa.io/moonlander/) - Next-generation ergonomic keyboard. ([HN](https://news.ycombinator.com/item?id=23995049))
+- [Keychron K6](https://www.keychron.com/products/keychron-k6-wireless-mechanical-keyboard) ([Tweet](https://twitter.com/kaepora/status/1288755152854437894))
+- [Custom keyboard](https://twitter.com/_philpl/status/1297952549505466369) ([Specs](https://twitter.com/_philpl/status/1297955234795474946))
+- [Ergonomic Ultimate Hacking Keyboard 60](https://ultimatehackingkeyboard.com/blog/2020/11/05/introducing-the-uhk-60-v2) ([HN](https://news.ycombinator.com/item?id=25016438))
+- [Keyboardio Atreus](https://shop.keyboard.io/products/keyboardio-atreus) ([Keyboardio Atreus: yeah or meh? (review)](https://no-kill-switch.ghost.io/keyboardio-atreus-yeah-or-meh-review/))
 
 ## Interesting keycaps
 
@@ -70,3 +75,25 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [Collection of nice keyboard + photos](https://paco.im/keyboards)
 - [Remap Enter to Control in GNU/Linux (2020 Edition)](https://emacsredux.com/blog/2020/07/05/remap-enter-to-control-in-gnu-linux-2020-edition/) ([Lobsters](https://lobste.rs/s/q9l4fj/remap_enter_control_gnu_linux_2020))
 - [Keyboardio Atreus Review (2020)](https://blog.sulami.xyz/posts/atreus/) ([Lobsters](https://lobste.rs/s/b0zusu/keyboardio_atreus_review))
+- [Mechanical Keyboard Build : 5° Acrylic Case + DZ60 PCB (2018)](https://www.youtube.com/watch?v=oQj9y16OmlE)
+- [Split Mechanical Keyboard Build Log (2020)](https://benjamincongdon.me/blog/2020/07/30/Sinc-Split-Mechanical-Keyboard-Build-Log/) ([Lobsters](https://lobste.rs/s/u5nhjs/split_mechanical_keyboard_build_log))
+- [Model H: IBM Keyboard USB Conversion (2020)](https://www.johnhawthorn.com/2020/07/modelh-keyboard-controller/)
+- [I made a mechanical keyboard with 3d-printed switches (2020)](https://incoherency.co.uk/blog/stories/jesboard.html)
+- [Механические клавиатуры ресурсы](https://mkbd.ru/)
+- [Toward a more useful keyboard](https://github.com/jasonrudolph/keyboard)
+- [Art of Chording](https://www.artofchording.com/) - Teach yourself stenography for free. Use steno with Plover to type faster and more ergonomically than on a keyboard. ([HN](https://news.ycombinator.com/item?id=24182336))
+- [KBDfans](https://kbdfans.com/) - Mechanical Keyboards Store.
+- [Vim-like Layer for Xorg and Wayland (2020)](https://cedaei.com/posts/vim-like-layer-for-xorg-wayland/) ([HN](https://news.ycombinator.com/item?id=24280413))
+- [Nerves-keyboard - Running a mechanical keyboard with Elixir (2020)](https://underjord.io/nerves-keyboard-running-a-mechanical-keyboard-with-elixir.html)
+- [Mechanical Keyboard and where to find them](https://github.com/help-14/mechanical-keyboard)
+- [Planck Keyboard Layout Iterations](http://thedarnedestthing.com/planck%20constant)
+- [4x4 Macro Pad (2020)](https://0xc45.com/blog/4x4-macro-pad/) ([HN](https://news.ycombinator.com/item?id=24697624)) ([Lobsters](https://lobste.rs/s/utcopz/4x4_macro_pad_kit))
+- [Down the ergonomic keyboard rabbit hole (2020)](https://blog.scottlogic.com/2020/10/09/ergo-rabbit-hole.html) ([HN](https://news.ycombinator.com/item?id=24728224)) ([Lobsters](https://lobste.rs/s/xhvoke/down_ergonomic_keyboard_rabbit_hole))
+- [Monkey Type](https://monkeytype.com/) - Minimalistic typing test. ([Code](https://github.com/Miodec/monkeytype))
+- [Type Fu](https://type-fu.com/) - App that will teach you how to type fast. The right way.
+- [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design and test virtual keyboards. ([Code](https://github.com/crsnbrt/keysim))
+- [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Flexible firmware for Arduino-powered keyboards.
+- [Pimp My Microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave. ([HN](https://news.ycombinator.com/item?id=25093704))
+- [Guide to Building a Let's Split Keyboard](https://github.com/nicinabox/lets-split-guide)
+- [Keebfol.io](https://keebfol.io/) - Curated list of Open Source Mechanical Keyboard resources. ([Code](https://github.com/BenRoe/awesome-mechanical-keyboard))
+- [Interception Tools](https://gitlab.com/interception/linux/tools) - Minimal composable infrastructure on top of libudev and libevdev. ([Tweet](https://twitter.com/wincent/status/1337212128336470017))

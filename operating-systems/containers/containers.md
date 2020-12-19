@@ -41,3 +41,42 @@
 - [Rootless Containers](https://rootlesscontaine.rs/)
 - [Linux Containers Forum](https://discuss.linuxcontainers.org/)
 - [LXD – next generation system container manager release 4.3 (2020)](https://discuss.linuxcontainers.org/t/lxd-4-3-has-been-released/8303) ([HN](https://news.ycombinator.com/item?id=23828920))
+- [AWS Containers Roadmap](https://github.com/aws/containers-roadmap) ([Web](https://aws.amazon.com/about-aws/whats-new/containers/))
+- [Nestybox](https://www.nestybox.com/) - Run Docker and Kubernetes in Containers. ([HN](https://news.ycombinator.com/item?id=24084758))
+- [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers.
+- [GitHub Container Registry (2020)](https://github.blog/2020-09-01-introducing-github-container-registry/) ([HN](https://news.ycombinator.com/item?id=24343937))
+- [Introduction to runc (2020)](https://danishpraka.sh/2020/07/24/introduction-to-runc.html) ([HN](https://news.ycombinator.com/item?id=24390101))
+- [Cloud Native Buildpacks](https://buildpacks.io/) - Transform your application source code into images that can run on any cloud.
+- [Bravetools](https://github.com/bravetools/bravetools/) - End-to-end System Container management platform. ([Docs](https://bravetools.github.io/bravetools/))
+- [Packer](https://www.packer.io/) - Build Automated Machine Images. ([Code](https://github.com/hashicorp/packer))
+- [floki](https://github.com/Metaswitch/floki) - Launch containers to help build your software. ([Easy, reproducible, and shareable development environments](https://pure-hack.com/posts/floki/))
+- [Implementing fast lightweight containers in Go with bst and btrfs (2020)](https://snai.pe/posts/lightweight-containers-part-1)
+- [gVisor](https://github.com/google/gvisor) - Application kernel for containers that provides efficient defense-in-depth anywhere. ([Web](https://gvisor.dev/))
+- [Bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool.
+- [Singularity](https://github.com/hpcng/singularity) - Open source container platform designed to be simple, fast, and secure. ([Web](https://sylabs.io/singularity/))
+- [ContainerSSH](https://containerssh.github.io/) - SSH server that launches containers on demand. ([Code](https://github.com/ContainerSSH/containerssh.github.io))
+- [crun](https://github.com/containers/crun) - Fast and low-memory footprint OCI Container Runtime fully written in C.
+- [AF_GRAFT](https://github.com/upa/af-graft) - Grafting sockets from containers onto host network stacks.
+- [Tracee](https://github.com/aquasecurity/tracee) - Container and system tracing using eBPF.
+- [cAdvisor (Container Advisor)](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
+- [Building containers without Docker (2020)](https://blog.alexellis.io/building-containers-without-docker/) ([HN](https://news.ycombinator.com/item?id=24957887))
+- [ContainerLabs](https://containerlabs.kubedaily.com/) - Learn about containers. ([Code](https://github.com/sangam14/ContainerLabs))
+- [Practical Introduction to Container Security (2020)](https://cloudberry.engineering/article/practical-introduction-container-security/)
+- [DigitalOcean Container Registry](https://www.digitalocean.com/products/container-registry/) ([HN](https://news.ycombinator.com/item?id=24982524))
+- [AWS pre-announces public container image registry (2020)](https://aws.amazon.com/blogs/containers/advice-for-customers-dealing-with-docker-hub-rate-limits-and-a-coming-soon-announcement/) ([HN](https://news.ycombinator.com/item?id=24975195))
+- [Performance evaluation of containers and virtual machines (2020)](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.5693)
+- [Buildah](https://github.com/containers/buildah) - Tool that facilitates building Open Container Initiative (OCI) container images.
+- [Container networking is simple (2020)](https://iximiuz.com/en/posts/container-networking-is-simple/)
+- [Koyeb Serverless Engine: Docker Containers, Continuous Deployment of Functions (2020)](https://www.koyeb.com/blog/the-koyeb-serverless-engine-docker-containers-and-continuous-deployment-of-functions) ([HN](https://news.ycombinator.com/item?id=25070416))
+- [Linux Containers: What, Why, How](http://seenaburns.com/linux-containers-what-why-how/)
+- [Source-To-Image](https://github.com/openshift/source-to-image) - Toolkit and workflow for building reproducible container images from source code.
+- [Facts About Real-World Container Use – Datadog (2020)](https://www.datadoghq.com/container-report/)
+- [Containers the hard way: Gocker: A mini Docker written in Go](https://github.com/shuveb/containers-the-hard-way)
+- [nerdctl](https://github.com/AkihiroSuda/nerdctl) - Docker-compatible CLI for containerd.
+- [Trident](https://github.com/NetApp/trident) - Storage orchestrator for containers.
+- [PRoot](https://github.com/proot-me/proot) - chroot, mount --bind, and binfmt_misc without privilege/setup for Linux. ([Web](https://proot-me.github.io/))
+- [Automation to run VMs based on vanilla Cloud Images on Firecracker (2020)](https://www.ongres.com/blog/automation-to-run-vms-based-on-vanilla-cloud-images-on-firecracker/)
+- [Toolbox](https://github.com/containers/toolbox) - Tool for Linux operating systems, which allows the use of containerized command line environments.
+- [Supercronic](https://github.com/aptible/supercronic) - Crontab-compatible job runner, designed specifically to run in containers.
+- [secrets-init](https://github.com/doitintl/secrets-init) - Minimalistic init system for containers with AWS/GCP secrets support.
+- [Understanding containers](https://www.redhat.com/en/topics/containers)

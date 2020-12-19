@@ -23,13 +23,12 @@ Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) 
 - [Matrix IRCd](https://github.com/matrix-org/matrix-ircd)
 - [Riot Web](https://github.com/vector-im/riot-web) - Web client for Matrix.
 - [Ruma](https://github.com/ruma/homeserver) - Matrix homeserver written in Rust. Discontinued.
-- [Nheko](https://github.com/mujx/nheko) - Native desktop client for Matrix.
 - [Client-Server API](https://matrix.org/docs/spec/client_server/r0.3.0.html)
 - [Matrix Blog](https://matrix.org/blog/posts/)
 - [The 2018 Matrix Holiday Special](https://matrix.org/blog/2018/12/25/the-2018-matrix-holiday-special/)
 - [HN: The Matrix.org 2018 year in review](https://news.ycombinator.com/item?id=18756787)
-- [Nio](https://github.com/kiliankoe/nio) - Upcoming matrix client for iOS.
-- [Dendrite design](https://github.com/matrix-org/dendrite/blob/master/DESIGN.md)
+- [Nio](https://github.com/niochat/nio) - Upcoming matrix client for iOS.
+- [Dendrite design](https://github.com/matrix-org/dendrite/blob/master/docs/DESIGN.md)
 - [Dendrite checklist](https://docs.google.com/spreadsheets/d/1tkMNpIpPjvuDJWjPFbw_xzNzOHBA-Hp50Rkpcr43xTw) - API to finish for release.
 - [Running your own secure communication service with Matrix and Jitsi (2020)](https://matrix.org/blog/2020/04/06/running-your-own-secure-communication-service-with-matrix-and-jitsi) ([HN](https://news.ycombinator.com/item?id=22802645))
 - [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) - Matrix Client-Server SDK for Rust.
@@ -42,3 +41,14 @@ Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) 
 - [Thoughts on Peer-to-Peer Matrix (2020)](https://neilalexander.dev/2020/06/02/thoughts-p2p-matrix.html)
 - [Seaglass](https://github.com/neilalexander/seaglass) - Truly native Matrix client for macOS - written in Swift/Cocoa, with E2E encryption support.
 - [NovaChat](https://nova.chat/) - Multi-Network Chat. ([HN](https://news.ycombinator.com/item?id=23693371))
+- [HN: Matrix (2020)](https://news.ycombinator.com/item?id=24239564)
+- [Gitter is joining Matrix (2020)](https://matrix.org/blog/2020/09/30/welcoming-gitter-to-matrix) ([HN](https://news.ycombinator.com/item?id=24638438))
+- [Dendrite is entering Beta (2020)](https://matrix.org/blog/2020/10/08/dendrite-is-entering-beta) ([HN](https://news.ycombinator.com/item?id=24721160))
+- [Free Small Matrix Server](https://matrix.org/docs/guides/free-small-matrix-server)
+- [Nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++17.
+- [Combating abuse in Matrix – without E2EE backdoors (2020)](https://matrix.org/blog/2020/10/19/combating-abuse-in-matrix-without-backdoors) ([Lobsters](https://lobste.rs/s/ntyvtw/combating_abuse_matrix_without)) ([HN](https://news.ycombinator.com/item?id=24836987))
+- [How we fixed Synapse's scalability (2020)](https://matrix.org/blog/2020/11/03/how-we-fixed-synapses-scalability) ([Lobsters](https://lobste.rs/s/gwwnei/how_we_fixed_synapse_s_scalability_matrix))
+- [Using Matrix to replace proprietary and centralized chat apps (2020)](https://jae.moe/blog/2020/11/using-matrix-to-replace-proprietary-and-centralized-chat-apps/) ([HN](https://news.ycombinator.com/item?id=25091614))
+- [Free Small Matrix Server](https://github.com/ptman/matrix-docs/tree/master/free-matrix-server)
+- [libQuotient](https://github.com/quotient-im/libQuotient/) - Qt5 library to write cross-platform clients for Matrix.
+- [Quaternion](https://github.com/quotient-im/Quaternion/) - Qt5-based IM client for Matrix.

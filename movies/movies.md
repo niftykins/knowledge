@@ -10,7 +10,7 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 
 - [Some film critics to follow](https://www.reddit.com/r/flicks/comments/7lgwp1/having_a_hard_time_finding_quality_critics_on/)
 
-# Recommendations
+## Links
 
 - [Letterboxd 2017](https://letterboxd.com/2017/#most-popular-overall)
 - [Documentaries list](https://letterboxd.com/vitorgalvao/list/documentary/)
@@ -22,3 +22,10 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [New Movies Coming Out](https://newmoviescomingout.us/) - Never miss a movie coming out again. ([Article](https://medium.com/makesideproject/new-movies-coming-out-79ee9595d59f))
 - [Film School Rejects](https://filmschoolrejects.com/) - Website about popular culture.
 - [Eastern European Movies](https://easterneuropeanmovies.com/) ([HN](https://news.ycombinator.com/item?id=23624551))
+- [Ask HN: Films that made you see the world differently? (2020)](https://news.ycombinator.com/item?id=24088582)
+- [The Beauty Of French Cinema](https://www.youtube.com/watch?v=PZgamsxGtiM)
+- [MUBI](https://mubi.com/) - Watch and Discover Movies.
+- [The Movie Database (TMDb)](https://www.themoviedb.org/)
+- [Luminous Arts](https://luminousarts.co.uk/) - London-based film production company.
+- [Film at Lincoln Center](https://www.filmlinc.org/) - Dedicated to supporting the art and elevating the craft of cinema and enriching film culture.
+- [Recently watched movie you cannot stop thinking about (2020)](https://twitter.com/letterboxd/status/1334708381261565953)

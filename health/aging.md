@@ -10,7 +10,7 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 
 ## Links
 
-- [Longevity FAQ](https://www.ldeming.com/longevityfaq/) - A beginner's guide to longevity research.
+- [Longevity FAQ](https://www.ldeming.com/longevityfaq/) - A beginner's guide to longevity research. ([HN](https://news.ycombinator.com/item?id=24320846))
 - [Aesthetic anti-aging](https://www.reddit.com/r/longevity/comments/8q950u/aesthetic_antiaging/)
 - [Is there actually anything out on the market that is worth taking to extend your life, as of now?](https://www.reddit.com/r/longevity/comments/8e3eov/is_there_actually_anything_out_on_the_market_that/)
 - ["Future of Healthy Longevity" by Elizabeth Parrish (2018)](https://www.youtube.com/watch?v=92YyfMPqKVE)
@@ -21,7 +21,7 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Dr. Peter Attia - longevity compounds, fasting, supplements and more (2019)](https://overcast.fm/+GJeif6tM4)
 - [Prolonging healthy aging: Longevity vitamins and proteins](https://www.pnas.org/content/115/43/10836)
 - [Being Mortal: Medicine and What Matters in the End (2014)](https://www.goodreads.com/book/show/20696006-being-mortal)
-- [David Sinclair, Ph.D., Why we age and why we don’t have to (2019)](https://overcast.fm/+RxHFj_HuQ)
+- [David Sinclair, Ph.D., Why we age and why we don’t have to (2019)](https://overcast.fm/+RxHFj_HuQ) ([Talk](https://www.youtube.com/watch?v=9nXop2lLDa4))
 - [Some tips/notes about longevity (2019)](https://www.reddit.com/r/longevity/comments/dvoe62/some_questions_about_longevity/)
 - [The Longevity Fund](https://www.longevity.vc/) - Seed and Series A VC with \$37M under management, investing in breakthrough longevity companies.
 - [Celine Halioua's blog on longevity](https://medium.com/@celinehh)
@@ -38,3 +38,11 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Aging research links](https://www.notion.so/40e0f73987aa46f39932647ba05925e6?v=3c79739323b5452c9de3210adf481c97)
 - [Quantitative Translation of Dog-to-Human Aging (2020)](<https://www.cell.com/cell-systems/pdf/S2405-4712(20)30203-9.pdf>) ([HN](https://news.ycombinator.com/item?id=23730613))
 - [Anti-ageing: Where We Are At Now And The Various Drugs And Companies In The Field (2020)](https://www.reddit.com/r/singularity/comments/hlm7i5/antiageing_where_we_are_at_now_and_the_various/)
+- [Longevity — what we know so far (2020)](https://www.youtube.com/watch?v=R719BANcwkA)
+- [Calico](https://www.calicolabs.com/) - Research longevity.
+- [Who Gets to Solve Death? (2020)](https://divinations.substack.com/p/who-gets-to-solve-death)
+- [Learnings from Running a Longevity Startup (2020)](https://www.celinehh.com/year-1-learnings) ([HN](https://news.ycombinator.com/item?id=24923116))
+- [Elder Guide](https://elderguide.com/) - Nationwide Nursing Home Facts and Statistics.
+- [Old Dogs, New Research and the Secrets of Aging (2020)](https://www.nytimes.com/2020/11/09/science/dogs-aging-behavior.html) ([HN](https://news.ycombinator.com/item?id=25083096))
+- ["The MC1R Gene and Youthful Looks", Liu et al 2016](https://www.gwern.net/docs/genetics/heritable/2016-liu.pdf)
+- [I Hope to Die at 75 (2014)](https://www.theatlantic.com/magazine/archive/2014/10/why-i-hope-to-die-at-75/379329/) ([HN](https://news.ycombinator.com/item?id=25094593))

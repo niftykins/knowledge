@@ -2,7 +2,7 @@
 
 My favorite browser. It is incredibly fast & cares about my privacy unlike Chrome.
 
-Here are the websites I have in my `Favorites` which are usually sites I want super fast access to from iOS Safari:
+Here are websites I have in my `Favorites` which are usually sites I want super fast access to from iOS Safari:
 
 ![](https://i.imgur.com/uDjnhwX.jpg)
 
@@ -22,7 +22,7 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 
 ![](https://i.imgur.com/po7kXGS.png)
 
-- There's 500 open tabs limit on Safari iOS.
+- There's 500 open tabs limit on Safari.
 - [Can right click on any DOM node in the inspector and grab a screenshot of that node](https://twitter.com/brian_lovin/status/1255208138699010048)
 
 ## Links
@@ -33,3 +33,5 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [Safari 13, Mobile Keyboards, And The VisualViewport API (2019)](https://tkte.ch/2019/09/23/iOS-VisualViewport.html)
 - [Safari and Web - WWDC20](https://developer.apple.com/news/?id=e4u1mtfu)
 - [Safari is adopting an extensions API similar to Firefox’s WebExtensions (2020)](https://hacks.mozilla.org/2020/06/welcoming-safari-to-the-webextensions-community/) ([HN](https://news.ycombinator.com/item?id=23614754))
+- [Should I use WKWebView or SFSafariViewController for web views in my app?](https://developer.apple.com/news/?id=trjs0tcd)
+- [go-safari](https://github.com/deanishe/go-safari) - Access Safari bookmarks, reading list, history and tabs.

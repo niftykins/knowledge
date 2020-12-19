@@ -66,12 +66,12 @@
 - [Server-Side Rendering is a Thiel Truth (2020)](https://timr.co/server-side-rendering-is-a-thiel-truth) ([Lobsters](https://lobste.rs/s/m3oacg/server_side_rendering_is_thiel_truth)) ([HN](https://news.ycombinator.com/item?id=23016635))
 - [Lighthouse CI Diff](https://googlechrome.github.io/lighthouse-ci/viewer/)
 - [Automating Web Perf measurement with Puppeteer](https://github.com/addyosmani/puppeteer-webperf)
-- [Web Vitals](https://web.dev/vitals/) - Essential metrics for a healthy site. ([Article](https://blog.chromium.org/2020/05/introducing-web-vitals-essential-metrics.html)) ([HN](https://news.ycombinator.com/item?id=23081509)) ([Extension](https://github.com/GoogleChrome/web-vitals-extension))
+- [Web Vitals](https://web.dev/vitals/) - Essential metrics for a healthy site. ([Article](https://blog.chromium.org/2020/05/introducing-web-vitals-essential-metrics.html)) ([HN](https://news.ycombinator.com/item?id=23081509)) ([Extension](https://github.com/GoogleChrome/web-vitals-extension)) ([Code](https://github.com/GoogleChrome/web-vitals))
 - [The Cost of Javascript Frameworks (2020)](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/) ([HN](https://news.ycombinator.com/item?id=23114742))
 - [0x10 Rules](http://fabiensanglard.net/ilike/index.html)
 - [Fast or Slow](https://www.fastorslow.com/) - Global speed profiler. ([HN](https://news.ycombinator.com/item?id=23119701))
 - [Benchmark.js](https://github.com/bestiejs/benchmark.js) - Robust benchmarking library that supports high-resolution timers & returns statistically significant results.
-- [Perfume.js](https://github.com/Zizzamia/perfume.js) - Web performance library for measuring all User-centric performance metrics.
+- [Perfume.js](https://github.com/Zizzamia/perfume.js) - Web performance library for measuring all User-centric performance metrics. ([Docs](https://zizzamia.github.io/perfume/))
 - [How Khan Academy Successfully Handled 2.5x Traffic in a Week (2020)](http://engineering.khanacademy.org/posts/handling-2x-traffic-in-a-week.htm) ([HN](https://news.ycombinator.com/item?id=23168998))
 - [Quicklink](https://getquick.link/) - Drop-in solution for sites to prefetch links based on what is in the user's viewport. ([Code](https://github.com/GoogleChromeLabs/quicklink/)) ([Article](https://web.dev/quicklink/))
 - [Serve Videos Instead of GIFs (2020)](https://www.dannyguo.com/blog/serve-videos-instead-of-gifs/) ([Lobsters](https://lobste.rs/s/x44a92/serve_videos_instead_gifs)) ([HN](https://news.ycombinator.com/item?id=23207019))
@@ -90,3 +90,28 @@
 - [Is my host fast yet?](https://ismyhostfastyet.com/) - Leaderboard of hosting providers' TTFB performance. ([Code](https://github.com/rviscomi/ismyhostfastyet))
 - [web-vitals-reporter](https://github.com/treosh/web-vitals-reporter) - Tiny (800 B) utility to simplify web vitals reporting.
 - [Perf Track](https://perf-track.web.app/) - Tracking framework performance at scale. ([Code](https://github.com/GoogleChromeLabs/perf-track))
+- [Wikipedia's JavaScript initialisation on a budget (2020)](https://phabricator.wikimedia.org/phame/live/7/post/175/wikipedia_s_javascript_initialisation_on_a_budget/) ([Lobsters](https://lobste.rs/s/dckdjb/wikipedia_s_javascript_initialisation))
+- [Web Design Guidelines for Low Bandwidth](http://www.aptivate.org/webguidelines/Guidelines.html)
+- [Environmental web design & use tips](https://floss.social/@alcinnz/104390993016046404)
+- [How Fast Should Your Load? (2020)](https://medium.com/firebase-developers/how-fast-should-your-site-load-cfb14be48e8b)
+- [radEventListener: Client-side Framework Performance (2020)](https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/) ([HN](https://news.ycombinator.com/item?id=24279434))
+- [Tune The Web](https://www.tunetheweb.com/) - Make your website better today.
+- [The Ultimate Guide to Web Performance (2020)](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
+- [Performance Observer](https://github.com/sumup-oss/performance-observer) - Generic interface for PerformanceObserver API.
+- [Getting Postmark’s Lighthouse Performance Score to 100 (2020)](https://wildbit.com/blog/2020/09/30/getting-postmark-lighthouse-performance-score-to-100)
+- [Speedlify](https://www.speedlify.dev/) - Benchmark web pages over time. ([Code](https://github.com/zachleat/speedlify))
+- [Sitejoy](https://www.sitejoy.dev/) - Fast & responsive websites that will bring you joy.
+- [A Bit of Performance (2019)](https://www.kizu.ru/a-bit-of-performance/)
+- [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions.
+- [Next.js Analytics](https://nextjs.org/analytics) - Provides your Real Experience Score through data from actual visitors. ([HN](https://news.ycombinator.com/item?id=24908819))
+- [Request Metrics](https://requestmetrics.com/) - Website performance monitoring.
+- [Low Hanging Fruits in Frontend Performance Optimization (2020)](https://pawelurbanek.com/frontend-performance-optimization)
+- [The Core Web Vitals hype train (2020)](https://sylormiller.com/posts/2020/core-web-vitals/) ([Tweet](https://twitter.com/ksylor/status/1327363260295897088))
+- [How we improved the Lighthouse score of our landing page to 96 (2020)](https://blog.checklyhq.com/how-we-improved-the-lighthouse-score-of-our-landing-page-to-96/)
+- [1MB Club](https://1mb.club/) - Collection of performance-focused web pages found across the internet. ([HN](https://news.ycombinator.com/item?id=25151773)) ([Code](https://github.com/bradleytaunt/1mb-club))
+- [250kb Club](https://250kb.club/) ([Code](https://github.com/nkoehring/250kb-club)) ([HN](https://news.ycombinator.com/item?id=25176663))
+- [Optimizing Your Web App 100x is Like Adding 99 Servers (2020)](https://lukerissacher.com/blog/optimizing_your_web_app) ([HN](https://news.ycombinator.com/item?id=25165752))
+- [require-so-slow](https://github.com/GoogleCloudPlatform/require-so-slow) - `require`s taking too much time? Profile 'em.
+- [Awesome web performance list](https://github.com/geldmacher/awesome-performance)
+- [Why is the Google Cloud UI so slow? (2020)](https://www.debugbear.com/blog/slow-google-cloud-ui) ([HN](https://news.ycombinator.com/item?id=25357409))
+- [Measuring page performance with Puppeteer & Playwright](https://theheadless.dev/posts/basics-performance/)

@@ -14,6 +14,7 @@
 - [Awesome SwiftUI](https://github.com/vlondon/awesome-swiftui)
 - [Awesome SwiftUI 2](https://github.com/ygit/swiftui)
 - [Awesome SwiftUI 3](https://github.com/chinsyo/awesome-swiftui)
+- [Awesome SwiftUI 4](https://github.com/onmyway133/awesome-swiftui)
 - [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation.
 - [Swift Playground explaining the concepts of the new Combine framework](https://github.com/AvdLee/CombineSwiftPlayground)
 - [SwiftWebUI](https://github.com/swiftwebui/SwiftWebUI) - Demo implementation of SwiftUI for the Web.
@@ -88,3 +89,28 @@
 - [Swift UI Property Wrappers](https://swiftuipropertywrappers.com/) - Deciding when to use @State, @Binding, @StateObject, @ObservedObject, and @EnvironmentObject.
 - [RedditOS](https://github.com/Dimillian/RedditOS) - SwiftUI Reddit client for macOS.
 - [What is a SwiftUI Property Wrapper (2020)](https://www.christopherbiscardi.com/what-is-a-swift-ui-property-wrapper)
+- [Primitive School](https://www.primitive.school/) - Learn SwiftUI for Designers, Sprint Kits, and more.
+- [Alignment Guides in SwiftUI (2020)](https://swiftui-lab.com/alignment-guides/)
+- [SwiftUI Lab](https://swiftui-lab.com/)
+- [Impossible Grids with SwiftUI (2020)](https://swiftui-lab.com/impossible-grids/)
+- [SwiftUI Hierarchy List (2020)](https://www.fivestars.blog/code/swiftui-hierarchy-list.html)
+- [Using SwiftUI's Spacer to Create Complex Layouts (2019)](https://benmcmahen.com/using-spacer-in-swiftui/)
+- [SwiftUI Kit](https://github.com/jordansinger/SwiftUI-Kit) - SwiftUI system components and interactions demo app.
+- [Sharing SwiftUI layout information (2020)](https://fivestars.blog/swiftui/swiftui-share-layout-information.html)
+- [SwiftUI betas - what changed before 1.0 (2020)](https://mackuba.eu/2020/08/17/swiftui-beta/)
+- [The State of SwiftUI (2020)](https://steipete.com/posts/state-of-swiftui/)
+- [How Swift 5.3 enhances SwiftUI’s DSL (2020)](https://www.swiftbysundell.com/articles/how-swift-5-3-enhances-swiftui-dsl/) ([HN](https://news.ycombinator.com/item?id=24462511))
+- [Going native: SwiftUI from the perspective of a React developer (2020)](https://blog.maximeheckel.com/posts/swiftui-as-react-developer)
+- [Debating if I’ll use SwiftUI for my new project. Worried I’ll be a lot slower and will run into issues that force me to redo parts in UIKit (2020)](https://twitter.com/soffes/status/1308149148009472001)
+- [Nice SwiftUI books (2020)](https://twitter.com/drewmccormack/status/1314289042037514241)
+- [SwiftUI State Management Fundamentals (2020)](https://mykola-harmash.medium.com/swiftui-state-management-fundamentals-5b28d2522e4d)
+- [SwiftUI Learning Resources](https://www.notion.so/SwiftUI-16ae61e922684ba08f870a5f22ef017b)
+- [iOS 14 Onboarding in SwiftUI](https://github.com/jordansinger/swiftui-ios-14-onboarding)
+- [SwiftUICollection](https://github.com/defagos/SwiftUICollection) - Building a Collection For SwiftUI.
+- [Example Mail app on macOS using SwiftUI](https://github.com/jordansinger/mail-swiftui-sample)
+- [Widget Examples](https://github.com/pawello2222/WidgetExamples) - Demo project showcasing different types of Widgets created with SwiftUI and WidgetKit.
+- [MVVM in iOS with SwiftUI (Detailed Example + Pitfalls) (2020)](https://matteomanferdini.com/mvvm-pattern-ios-swift/)
+- [Should I use SwiftUI in production? A code-to-code comparison to help you decide (2020)](https://triplebyte.com/blog/should-i-use-swiftui-in-production-heres-how-to-decide?ref=hnpost) ([HN](https://news.ycombinator.com/item?id=25171532))
+- [SwiftUI Code Examples](https://github.com/LostMoa/SwiftUI-Code-Examples) - Solutions to interesting SwiftUI problems.
+- [SwiftUI Discussions](https://github.com/sindresorhus/swiftui/discussions) - Place to discuss SwiftUI things.
+- [iOS App Dev with SwiftUI Tutorials](https://developer.apple.com/tutorials/app-dev-training) ([HN](https://news.ycombinator.com/item?id=25424126)) ([Code](https://github.com/atrinh0/scrumdinger))

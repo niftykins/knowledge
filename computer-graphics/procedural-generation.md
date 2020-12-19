@@ -4,7 +4,8 @@
 
 - [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
 - [Wave Function Collapse](https://github.com/marian42/wavefunctioncollapse) - Infinite, procedurally generated city, assembled out of blocks using the Wave Function Collapse algorithm with backtracking.
-- [canvas-sketch](https://github.com/mattdesl/canvas-sketch) - Framework for making generative artwork in JavaScript and the browser.
+- [Introduction to the Wave Function Collapse Algorithm](https://mineralexistence.com/intro_to_wfc.html)
+- [canvas-sketch](https://github.com/mattdesl/canvas-sketch) - Framework for making generative artwork in JavaScript and the browser. ([CLI](https://github.com/mattdesl/canvas-sketch-cli))
 - [Go port of the Wave Function Collapse algorithm](https://github.com/shawnridgeway/wfc)
 - [Rant](https://github.com/TheBerkin/rant) - All-purpose procedural text engine that is most simply described as the opposite of Regex.
 - [TinkerSynth](https://tinkersynth.com/) - Create and purchase unique generative art.
@@ -26,3 +27,6 @@
 - [Generative Iris (2020)](https://mostlymaths.net/2020/06/iris-sketch.html/) ([HN](https://news.ycombinator.com/item?id=23592665))
 - [How to create a game using hyperbolic geometry?](http://roguetemple.com/z/hyper/dev.php)
 - [Akari Lanterns](http://roberthodgin.com/project/akari-lanterns) - System for creating paper lanterns in the style of Noguchi.
+- [Townscaper](https://store.steampowered.com/app/1291340/Townscaper/) - Building game inspired by the design of Scandinavian cities. ([HN](https://news.ycombinator.com/item?id=23937551)) ([Article](https://www.bloomberg.com/news/articles/2020-07-24/the-video-game-where-you-build-an-empty-town))
+- [ShapeWright.com](https://ship.shapewright.com/) - Procedurally generated space ships.
+- [1D Procedural Terrain Generation (2020)](https://arpitbhayani.me/blogs/1d-terrain)

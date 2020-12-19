@@ -183,10 +183,39 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Juvoni Beckford's bookshelf](https://juvoni.com/books)
 - [Nabeel Qureshi's favorite books](https://nabeelqu.co/Books)
 - [Sharif Shameem's Bookshelf](https://sharif.io/bookshelf/)
+- [Ask HN: Which book helped you understand the world? (2020)](https://news.ycombinator.com/item?id=23858599)
+- [Dan Romero's bookshelf](https://danromero.org/books/)
+- [Devine's curated list of books](https://wiki.xxiivv.com/site/readings.html)
+- [Books people (re)read (2020)](https://rauchg.com/2020/books-people-reread)
+- [89 books Paul Graham recommended](https://www.readthistwice.com/person/paul-graham)
+- [Best-Books.dev](https://www.best-books.dev/) - Best programming books, all in one place.
+- [Derek Sivers books read with notes](https://sive.rs/book)
+- [8 Science Fiction Books That Get Programming Right](https://www.tor.com/2020/08/14/8-science-fiction-books-that-get-programming-right/)
+- [Juanito Fatas Bookshelf](https://juanitofatas.com/bookshelf)
+- [Library of Merveilles](https://github.com/merveilles/Librarium)
+- [Patricia Mou Bookshelf](https://patriciamou.com/my-shelf)
+- [Brutality of Life Reading List](https://www.sonyasupposedly.com/brutality-books/) ([HN](https://news.ycombinator.com/item?id=24458522))
+- [Some good books](https://slate.host/haris/books)
+- [Abhinav Sarkar's books read](https://abhinavsarkar.net/readings/)
+- [Science Fiction Stories with Good Astronomy and Physics: A Topical Index](https://astrosociety.org/file_download/inline/621a63fc-04d5-4794-8d2b-38e7195056e9) ([HN](https://news.ycombinator.com/item?id=24686247))
+- [The 100 Best Fantasy Books of All Time](https://time.com/collection/100-best-fantasy-books/)
+- [Ian Vanagas's Reading List](https://ianvanagas.com/reading-list/)
+- [Maker Reads](https://makerreads.com/) ([News](https://news.makerreads.com/))
+- [Essential Reading for Startup CTOs](https://www.karllhughes.com/posts/reading-for-startup-ctos)
+- [Book Recommendations - Limitless Curiosity](https://limitlesscuriosity.com/book-recommendations/)
+- [Lex Fridman Library](https://lexfridmanlibrary.com/) - Library of book recommendations of all guests of the Lex Fridman Podcast.
+- [NPR's Best Books](https://apps.npr.org/best-books/) ([2020](https://apps.npr.org/best-books/#view=covers&year=2020))
+- [Founder Library Bookshelf](https://www.founderlibrary.com/bookshelf)
+- [Ask HN: Recommend books that give you insight into other professions (2020)](https://news.ycombinator.com/item?id=25317963)
+- [The Best Books of 2020](https://www.theguardian.com/books/2020/dec/06/the-best-books-of-2020-picked-by-our-acclaimed-guest-authors)
+- [The Best Books of 2020 2](https://kottke.org/20/12/the-best-books-of-2020)
+- [Great Books Program](https://tommycollison.com/greatbooks)
+- [A Map that Reflects the Territory](https://www.lesswrong.com/books) - Essays by the LessWrong community.
 
 ## Notes
 
 - With Audible plans, you can do easy exchanges. Don’t love a book? Swap it for free, anytime.
+- [Kindle changed the way we read books and then… stopped there. I want social highlights, notes, flash cards, and fractal reading (each chapter summarized in 1 paragraph, expandable on several levels if you want to dig deeper)](https://twitter.com/Altimor/status/1003408586553294856)
 
 ## Links
 
@@ -199,7 +228,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: What books changed the way you think about almost everything? (2019)](https://news.ycombinator.com/item?id=19087418)
 - [Awesome Programming Books](https://github.com/majikarp/awesome-programming-books)
 - [Libby](https://meet.libbyapp.com/) - Local library of thousands of ebooks and audiobooks.
-- [Why books don’t work (2019)](https://andymatuschak.org/books/)
+- [Why books don’t work (2019)](https://andymatuschak.org/books/) ([HN](https://news.ycombinator.com/item?id=24542224))
 - [BookBrowser](https://github.com/geek1011/BookBrowser) - Easy-to-use tool to generate a web-based ePub and PDF ebook browser.
 - [Now, what do I read?](https://nowwhatdoiread.com/) - Enter your favorite book and get a list of suggested books to read.
 - [How I Read (2018)](http://sirupsen.com/read/)
@@ -213,7 +242,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [JSTOR Open Content Books](https://www.jstor.org/open/)
 - [Public Books Database](https://www.publicbooks.org/public-books-database/)
 - [LibriVox](https://librivox.org/) - Free public domain audiobooks. ([HN](https://news.ycombinator.com/item?id=23558686))
-- [Standard Ebooks](https://standardebooks.org/ebooks/)
+- [Standard Ebooks](https://standardebooks.org/ebooks/) ([HN](https://news.ycombinator.com/item?id=25138534))
 - [SafariBooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from Safari Books Online library.
 - [Crafting "Crafting Interpreters" (2020)](http://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/) ([HN](https://news.ycombinator.com/item?id=22788738))
 - [BookAuthority](https://bookauthority.org/) - Curates the books recommended by the world's most successful CEOs, business leaders and experts.
@@ -246,3 +275,46 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun) ([HN](https://news.ycombinator.com/item?id=23676862))
 - [HN: There’s no replacement for the thrill of browsing in a bookstore (2020)](https://news.ycombinator.com/item?id=23678230)
 - [Lessons and Regrets from My \$25000 Book Launch (2020)](https://www.swyx.io/writing/coding-career-launch/)
+- [Timeful Texts (2020)](https://numinous.productions/timeful/) ([Tweet](https://twitter.com/andy_matuschak/status/1288221180063694848))
+- [Future Text Publishing](https://futuretextpublishing.com/) - Collection of dreams for how we want text to evolve as well as how we understand our current textual infrastructures, how we view the history of writing, and much more.
+- [Literature Map](https://www.literature-map.com/) - Tourist Map of Literature.
+- [Making a modern ebook with Standard Ebooks](https://awarm.space/fast/standard-ebooks)
+- [Readng](https://readng.co/) - Global community of book lovers & readers. ([Beta](https://beta.readng.co/))
+- [GITenberg](https://www.gitenberg.org/) - Open source community for publishing ebooks in the public domain. ([HN](https://news.ycombinator.com/item?id=24028510))
+- [Highlights from books and articles](https://highlights.melanie-richards.com/)
+- [The Book is a Program](https://hyperlink.academy/courses/the-book-is-a-program/21) - Practical exploration in dual-publishing websites and printed books, using Pollen, LaTeX, and the Racket programming language.
+- [Write a Micro-Textbook](https://hyperlink.academy/courses/write-a-micro-textbook/14) - Write a complete first draft of a micro-textbook on a subject of your choice.
+- [3D Book Image CSS Generator](https://3d-book-css.netlify.app/) ([Code](https://github.com/scastiel/3d-book-image-css-generator))
+- [StoryGraph](https://thestorygraph.com/index.html) - Help you to surface the best books that fit your current mood.
+- [Great book covers](https://twitter.com/simonsarris/status/1294317092393582600)
+- [Gatsby Starter Book](https://github.com/SaraVieira/gatsby-starter-book) - Gatsby starter focused on simplicity to help you create books.
+- [How Chekhov invented the modern short story (2020)](https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story) ([HN](https://news.ycombinator.com/item?id=24380587))
+- [I Want to Fix Goodreads (2020)](http://prepend.com/culture/2020/09/fixing_goodreads.html) ([HN](https://news.ycombinator.com/item?id=24454221))
+- [DeDRM tools for ebooks](https://github.com/apprenticeharper/DeDRM_tools) - Remove DRM from ebooks.
+- [Writing a book: is it worth it? (2020)](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html) ([HN](https://news.ycombinator.com/item?id=24628549))
+- [Searchable Library of book summaries](https://blas.com/books/searchable-library/)
+- [The Book Trail](https://www.thebooktrail.com/) - Match your next read to your destination with The Literary Travel Agency.
+- [Chareads](https://chareads.com/) ([YouTube](https://www.youtube.com/c/Chareads/videos))
+- [IntechOpen](https://www.intechopen.com/) - Publisher of Open Access books. By scientists, for scientists.
+- [Open Textbook Library](https://open.umn.edu/opentextbooks/)
+- [How I Made \$30,000 on My First Self-Published Book (2020)](https://randallkanna.medium.com/how-i-made-30k-on-my-first-self-published-book-2f9073dc33e5)
+- [Readium](https://www.readium.co/) - Easier way to track reading habits.
+- [Write Useful Books](https://writeusefulbooks.com/) - Guide containing everything I know about how to design, test, and refine nonfiction books.
+- [Inventaire](https://inventaire.io/) - Collaborative resource mapper powered by open-knowledge, starting with books. ([Code](https://github.com/inventaire/inventaire))
+- [Five Books](https://fivebooks.com/) - Best Books Recommended by Leading Experts.
+- [3D Book Cover](https://3dbook.xyz/) - Create your 3D Book Cover, and embed it on your website. ([HN](https://news.ycombinator.com/item?id=24906487))
+- [Pollen](https://github.com/mbutterick/pollen) - Book-publishing system written in Racket. ([Docs](https://docs.racket-lang.org/pollen/))
+- [How I read (2020)](https://www.spakhm.com/p/how-i-read)
+- [ibis](https://github.com/themsaid/ibis) - PHP tool that helps you write eBooks in markdown and convert to PDF.
+- [Writing a technical book: from idea to print (2020)](https://sararobinson.dev/2020/11/17/writing-a-technical-book.html) ([HN](https://news.ycombinator.com/item?id=25138216))
+- [Bit Better Book Club](https://books.bitbetter.club/)
+- [No Starch Press](https://nostarch.com/) - Publishing company, specializing in technical literature often geared towards the geek, hacker, and DIY subcultures.
+- [Fable](https://fable.co/) - Social reading club app.
+- [How I read books: a guide on how to learn (2020)](https://denzhadanov.com/how-i-read-books-a-guide-on-how-to-learn-a943123a4aeb) ([HN](https://news.ycombinator.com/item?id=25286870))
+- [Guide to Effective Reading](https://maartenvandoorn.nl/reading-guide/) ([HN](https://news.ycombinator.com/item?id=25302132))
+- [Nat Eliason's Roam books notes](https://roamresearch.com/#/app/NatsBrain/page/oCtf5BOXi)
+- [Ask HN: How do you decide what books to read? (2020)](https://news.ycombinator.com/item?id=25367016)
+- [BookDark](https://bookdark.com/) - Read over 56000 Free Books Online.
+- [Books Search with Typesense](https://books-search.typesense.org/) - Instantly search 28M books from OpenLibrary (by Internet Archive). ([HN](https://news.ycombinator.com/item?id=25414389)) ([Code](https://github.com/typesense/showcase-books-search))
+- [A Book Like Foo](https://abooklikefoo.com/escape/) - Powerful Book Recommendations. ([HN](https://news.ycombinator.com/item?id=25405259))
+- [Open Library](https://openlibrary.org/) - Open, editable library catalog, building towards a web page for every book ever published. ([Code](https://github.com/internetarchive/openlibrary))

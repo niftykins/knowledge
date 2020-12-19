@@ -67,6 +67,7 @@ These are my personal profiles on various websites sorted by categories.
 ## Photos
 
 - [Instagram](https://www.instagram.com/nikitavoloboev/)
+- [Exposure](https://nikitavoloboev.exposure.co/)
 - [VSCO](http://vsco.co/nikitavoloboev)
 - [Pretty Ways Instagram](https://www.instagram.com/prettiways/)
 - [Imgur](https://nikivi.imgur.com/)
@@ -92,7 +93,7 @@ These are my personal profiles on various websites sorted by categories.
 
 ## Gaming
 
-- [Steam](https://steamcommunity.com/id/nikivi)
+- [Steam](https://steamcommunity.com/id/nikivii/)
 
 ## Other
 
@@ -129,3 +130,4 @@ These are my personal profiles on various websites sorted by categories.
 - [Disqus](https://disqus.com/by/nikivi/)
 - [Tumblr](https://nikitavoloboev.tumblr.com/)
 - [Trello](https://trello.com/nikivi/activity)
+- [GitStalk](https://gitstalk.netlify.app/nikitavoloboev)

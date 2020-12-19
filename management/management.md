@@ -5,6 +5,9 @@
 - [As a CTO, my default loop is 'First, cycle through all my employees and make sure that I have equipped them to be happy and productive in their jobs. Second, find something to do. If possible, delegate it; if not, do it. Repeat.](https://news.ycombinator.com/item?id=16802530)
 - Ideas are more important than age.
   - Just because someone is junior doesn't mean they don't deserve respect and cooperation.
+- [So much of good management is so simple: recognizing when your people need a challenge vs. when they need help.](https://twitter.com/jenistyping/status/1277466746400563200)
+- [Review of Ted Lasso show and Ted's focus on making everyone in the team being the best version of themselves.](https://twitter.com/_danilo/status/1304811249499283456)
+- [Do you need to estimate the shit that needs to be done? No! It all needs to be done. The dev team will do it as fast as they can. Estimating the work will only waste time they could spend getting the shit done.](http://slap.pm/)
 
 ## Links
 
@@ -38,3 +41,31 @@
 - [People who’ve worked on teams where they felt valued and fulfilled: what made those teams special? (2020)](https://twitter.com/SparksZilla/status/1273073364551139329)
 - [Engineering manager resources](https://github.com/dmleong/manager-resources)
 - [What makes a good boss? (2020)](https://twitter.com/zenorocha/status/1274037726111657984)
+- [When your coworker does great work, tell their manager (2020)](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/) ([HN](https://news.ycombinator.com/item?id=23858662))
+- [Book Review: High Output Management by Andy Grove (2020)](https://multitasked.net/2020/08/01/book-review-high.html)
+- [Good managers, what they do, how they think & act (2020)](https://twitter.com/shreyas/status/1290685921348562948)
+- [12 Powerful Performance Review Examples (+ Expert Tips)](https://venngage.com/blog/performance-review-examples/)
+- [How to Operate (2020)](https://twitter.com/george__mack/status/1295079345732673540) - Keith Rabois Breaks down operational excellence.
+- [Software estimation methodologies that actually take into account uncertainty](https://twitter.com/mpeytonjones/status/1304326595461738503)
+- [Some Thoughts on Estimation (2019)](https://ronjeffries.com/articles/019-01ff/estimation-again/Index.html)
+- [Why software projects take longer than you think: a statistical model (2019)](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html)
+- [How Linear.app builds its software](https://linear.app/linear-method)
+- [The software engineering lifecycle: How we built the new Dropbox Plus (2020)](https://dropbox.tech/frontend/the-software-engineering-lifecycle--how-we-built-the-new-dropbox) ([HN](https://news.ycombinator.com/item?id=24494852))
+- [Sweary Lightweight Agile Planning](http://slap.pm/)
+- [Company-wide Retrospectives](https://sklivvz.com/posts/company-wide-retrospectives)
+- [We cancelled standups and let the team build](https://www.usehaystack.io/blog/we-cancelled-standups-and-let-the-team-build-heres-what-happened) ([HN](https://news.ycombinator.com/item?id=24581360))
+- [Is Netflix CEO Reed Hastings' "Keeper Test" good management? (2020)](https://qz.com/work/1909338/is-netflix-ceo-reed-hastings-keeper-test-good-management/)
+- [Estimates in software engineering do more harm than good, and drive people to act in dishonest ways (2020)](https://twitter.com/matryer/status/1313089174321405958)
+- [Four Keys](https://github.com/GoogleCloudPlatform/fourkeys) - Four key metrics that indicate the performance of a software development team.
+- [What is expected of a Engineering Manager? (2020)](http://blog.rlmflores.me/2020/10/14/what_is_expected_of_an_engineering_manager/)
+- [Using NLP to enable flatter organizations](https://middle-out.io/posts/nlp_orgs) ([HN](https://news.ycombinator.com/item?id=24886936))
+- [How Apple Is Organized for Innovation (2020)](https://hbr.org/2020/11/how-apple-is-organized-for-innovation) ([HN](https://news.ycombinator.com/item?id=24903764))
+- [Manager handoffs (2017)](https://larahogan.me/blog/manager-handoffs/)
+- [Manager advice when teammate shares their grief (or other heavy topic)](https://twitter.com/lara_hogan/status/1321896143261855746)
+- [Awesome Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management)
+- [Engineering Manager Event Loop (2018)](https://www.chriseigner.com/engineering-manager-event-loop/)
+- [Use decision records already](http://beza1e1.tuxen.de/decision_records.html) ([Lobsters](https://lobste.rs/s/h4ced9/use_decision_records_already))
+- [Why aren’t Lean and Agile Collaborating? (2019)](https://medium.com/humanorganisingco/why-arent-lean-and-agile-collaborating-60146847edf2) ([Tweet](https://twitter.com/ergestx/status/1330500607413772294))
+- [5 second feedback (2020)](https://critter.blog/2020/11/26/5-second-feedback/)
+- [Engineering Manager's Booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)
+- [30 tactical tips for managing up (2020)](https://firstround.com/review/a-tactical-guide-to-managing-up-30-tips-from-the-smartest-people-we-know/)

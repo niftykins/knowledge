@@ -20,7 +20,7 @@
 - [Lingvo](https://github.com/tensorflow/lingvo) - Framework for building neural networks in Tensorflow, particularly sequence models.
 - [Fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [Stanford CS224N: NLP with Deep Learning (2019)](https://www.youtube.com/watch?v=8rXD5-xhemo) - [Course page](https://web.stanford.edu/class/cs224n/). ([HN](https://news.ycombinator.com/item?id=19569883))
-- [Advanced NLP with spaCy: A free online course](https://github.com/ines/spacy-course)
+- [Advanced NLP with spaCy: A free online course](https://github.com/ines/spacy-course) ([Web](https://course.spacy.io/en/))
 - [Code for Stanford Natural Language Understanding course, CS224u (2019)](https://github.com/cgpotts/cs224u)
 - [Awesome Reinforcement Learning for Natural Language Processing](https://github.com/adityathakker/awesome-rl-nlp)
 - [ParlAI](https://github.com/facebookresearch/ParlAI) - Framework for training and evaluating AI models on a variety of openly available dialogue datasets.
@@ -42,7 +42,7 @@
 - [Unsupervised Data Augmentation](https://github.com/google-research/uda) - Semi-supervised learning method which achieves state-of-the-art results on a wide variety of language and vision tasks.
 - [Rasa](https://github.com/RasaHQ/rasa) - Open source machine learning framework to automate text-and voice-based conversations.
 - [T5](https://github.com/google-research/text-to-text-transfer-transformer) - Text-To-Text Transfer Transformer.
-- [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
+- [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers) ([HN](https://news.ycombinator.com/item?id=24377223))
 - [Awesome NLP](https://github.com/keon/awesome-nlp)
 - [NLP Library](https://github.com/mihail911/nlp-library) - Curated collection of papers for the NLP practitioner.
 - [spacy-transformers](https://github.com/explosion/spacy-transformers) - spaCy pipelines for pre-trained BERT, XLNet and GPT-2.
@@ -81,7 +81,7 @@
 - [NLP Paper Summaries](https://github.com/dair-ai/nlp_paper_summaries)
 - [Advanced NLP with spaCy](https://course.spacy.io/)
 - [Myle Ott's research](https://myleott.com/)
-- [Natural Language Processing with Python](https://www.nltk.org/book/) - Analyzing Text with the Natural Language Toolkit.
+- [Natural Language Toolkit (NLTK)](https://github.com/nltk/nltk) - Suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. ([Web](http://www.nltk.org/)) ([Book](https://www.nltk.org/book/))
 - [NLP 100 Exercise](https://nlp100.github.io/en/) - Bootcamp designed for learning skills for programming, data analysis, and research activities. ([Code](https://github.com/nlp100/nlp100.github.io))
 - [The Transformer Family (2020)](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
 - [Minimalist Implementation of a BERT Sentence Classifier](https://github.com/ricardorei/lightning-text-classification)
@@ -126,3 +126,84 @@
 - [Classifying 200k articles in 7 hours using NLP (2020)](https://salt.agency/blog/nlp-and-stuff/) ([HN](https://news.ycombinator.com/item?id=23760109))
 - [HN: Using GPT-3 to generate user interfaces (2020)](https://news.ycombinator.com/item?id=23821411)
 - [Thread of GPT-3 use cases (2020)](https://twitter.com/xuenay/status/1283312640199196673)
+- [GPT-3 Code Experiments](https://github.com/minimaxir/gpt-3-experiments) ([Examples](https://github.com/minimaxir/gpt-3-experiments/tree/master/examples))
+- [How GPT3 Works - Visualizations and Animations (2020)](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) ([Lobsters](https://lobste.rs/s/j54rgh/how_gpt3_works_visualizations)) ([HN](https://news.ycombinator.com/item?id=23967887))
+- [What is GPT-3? written in layman's terms (2020)](https://tinkeredthinking.com/index.php?id=841) ([HN](https://news.ycombinator.com/item?id=23923799))
+- [GPT3 Examples](https://gpt3examples.com/) ([HN](https://news.ycombinator.com/item?id=23993251))
+- [DQI: Measuring Data Quality in NLP (2020)](https://arxiv.org/abs/2005.00816)
+- [Humanloop](https://humanloop.com/) - Train and deploy NLP. ([HN](https://news.ycombinator.com/item?id=23987353))
+- [Do NLP Beyond English (2020)](https://ruder.io/nlp-beyond-english/) ([HN](https://news.ycombinator.com/item?id=24026511))
+- [Giving GPT-3 a Turing Test (2020)](https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html) ([HN](https://news.ycombinator.com/item?id=23887637))
+- [Neural Network Methods for Natural Language Processing (2017)](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?cPath=22&products_id=1056)
+- [Tempering Expectations for GPT-3 and OpenAI’s API (2020)](https://minimaxir.com/2020/07/gpt3-expectations/)
+- [Philosophers on GPT-3 (2020)](http://dailynous.com/2020/07/30/philosophers-gpt-3/) ([HN](https://news.ycombinator.com/item?id=24003384))
+- [GPT-3 Explorer](https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer) - Power tool for experimenting with GPT-3. ([Code](https://github.com/belay-labs/gpt-explorer))
+- [Recent Advances in Natural Language Processing (2020)](https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/) ([HN](https://news.ycombinator.com/item?id=24179795))
+- [Project Insight](https://github.com/abhimishra91/insight) - NLP as a Service. ([Forum post](https://discuss.streamlit.io/t/project-insight-streamlit-fastapi-huggingface-and-all-the-goodness/4978))
+- [Bob Coecke: Quantum Natural Language Processing (QNLP) (2020)](https://www.youtube.com/watch?v=mL-hWbwVphk) ([Article](https://medium.com/cambridge-quantum-computing/quantum-natural-language-processing-748d6f27b31d))
+- [Language-Agnostic BERT Sentence Embedding (2020)](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html)
+- [Language Interpretability Tool (LIT)](https://github.com/pair-code/lit/) - Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
+- [Booste Pre Trained Models](https://www.booste.io/pretrained-models) - Free-to-use GPT-2 API. ([HN](https://news.ycombinator.com/item?id=24561214))
+- [Context-theoretic Semantics for Natural Language: an Algebraic Framework (2007)](https://arxiv.org/abs/2009.10542)
+- [THUNLP (Natural Language Processing Lab at Tsinghua University) research](https://github.com/thunlp)
+- [AI training method exceeds GPT-3 performance with fewer parameters (2020)](https://www.infoq.com/news/2020/10/training-exceeds-gpt3/) ([HN](https://news.ycombinator.com/item?id=24704952))
+- [BERT Attention Analysis](https://github.com/clarkkev/attention-analysis)
+- [Neural Modules and Models for Conversational AI (2020)](https://medium.com/pytorch/nvidia-nemo-neural-modules-and-models-for-conversational-ai-d660480d9696)
+- [BERTopic](https://github.com/MaartenGr/BERTopic) - Topic modeling technique that leverages BERT embeddings and c-TF-IDF to create dense clusters allowing for easily interpretable topics whilst keeping important words in the topic descriptions.
+- [NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect) - Comprehensive reference for all topics related to Natural Language Processing.
+- [Practical Natural Language Processing book](http://www.practicalnlp.ai/) ([Code](https://github.com/practical-nlp/practical-nlp))
+- [NLP Reseach Project: Best Practices for Finetuning Large Transformer Language models (2020)](https://bkkaggle.github.io/blog/nlp-research-part-1/)
+- [Deep Learning for NLP notes (2020)](https://strikingloo.github.io/wiki-articles/machine-learning/deep_learning_NLP)
+- [Modern Practical Natural Language Processing course](https://github.com/jmugan/modern_practical_nlp)
+- [LXMERT: Learning Cross-Modality Encoder Representations from Transformers in PyTorch](https://github.com/airsplay/lxmert)
+- [Awesome software for Text ML](https://github.com/oskar-j/awesome-text-ml)
+- [Pretrained Transformers for Text Ranking: BERT and Beyond (2020)](https://arxiv.org/abs/2010.06467)
+- [SpaCy v3.0 Nightly (2020)](https://explosion.ai/blog/spacy-v3-nightly) ([HN](https://news.ycombinator.com/item?id=24789981)) ([Tweet](https://twitter.com/spacy_io/status/1316769056108818432))
+- [Explore trained spaCy v3.0 pipelines](https://share.streamlit.io/ines/spacy-streamlit-demo/master/app.py)
+- [spacy-streamlit](https://github.com/explosion/spacy-streamlit) - sGpaCy building blocks for Streamlit apps. ([Tweet](https://twitter.com/_inesmontani/status/1316781893791158273))
+- [Informers](https://github.com/ankane/informers) - State-of-the-art natural language processing for Ruby.
+- [How to Structure and Manage Natural Language Processing (NLP) Projects (2020)](https://neptune.ai/blog/how-to-structure-and-manage-nlp-projects-templates)
+- [Sentence-BERT for spaCy](https://github.com/MartinoMensio/spacy-sentence-bert) - Wraps sentence-transformers (also known as sentence-BERT) directly in spaCy.
+- [Lingua Franca](https://github.com/MycroftAI/lingua-franca) - Mycroft's multilingual text parsing and formatting library.
+- [Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers) - Based on the Transformers library by HuggingFace. Lets you quickly train and evaluate Transformer models.
+- [Deep Bidirectional Transformers for Language Understanding (2020)](https://www.youtube.com/watch?v=j9toSIRf4RI) - Explains a legendary paper, BERT. ([HN](https://news.ycombinator.com/item?id=24826599))
+- [EasyTransfer](https://github.com/alibaba/EasyTransfer) - Designed to make the development of transfer learning in NLP applications easier.
+- [LambdaBERT](https://github.com/gsarti/lambda-bert) - Transformers-style implementation of BERT using LambdaNetworks instead of self-attention.
+- [DialoGPT](https://github.com/microsoft/DialoGPT) - State-of-the-Art Large-scale Pretrained Response Generation Model.
+- [Neural reading comprehension and beyond - Danqi Chen's Thesis (2020)](https://github.com/danqi/thesis/blob/master/thesis.pdf) ([Code](https://github.com/danqi/thesis))
+- [LAMA: LAnguage Model Analysis](https://github.com/facebookresearch/LAMA) - Probe for analyzing the factual and commonsense knowledge contained in pretrained language models.
+- [awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec) - Curated list of 2vec-type embedding models.
+- [Rethinking Attention with Performers (2020)](https://ai.googleblog.com/2020/10/rethinking-attention-with-performers.html) ([HN](https://news.ycombinator.com/item?id=24878116))
+- [BERT Research - Key Concepts & Sources (2019)](https://mccormickml.com/2019/11/11/bert-research-ep-1-key-concepts-and-sources/)
+- [The Pile](https://github.com/EleutherAI/The-Pile) - Large, diverse, open source language modelling data set that consists of many smaller datasets combined together.
+- [Bort](https://github.com/alexa/bort) - Companion code for the paper "Optimal Subarchitecture Extraction for BERT."
+- [Vector AI](https://getvectorai.com/) - Encode And Deploy Vectors At The Edge. ([Code](https://github.com/vector-ai/vectorhub))
+- [KeyBERT](https://github.com/MaartenGr/KeyBERT/) - Minimal keyword extraction with BERT. ([Web](https://maartengr.github.io/KeyBERT/))
+- [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://github.com/yaohungt/Multimodal-Transformer) - In PyTorch.
+- [The Illustrated GPT-2 (Visualizing Transformer Language Models) (2020)](http://jalammar.github.io/illustrated-gpt2/)
+- [A Primer in BERTology: What we know about how BERT works (2020)](https://arxiv.org/abs/2002.12327) ([HN](https://news.ycombinator.com/item?id=25043280))
+- [GPT Neo](https://github.com/EleutherAI/GPTNeo) - Implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library.
+- [Text Synth](https://bellard.org/textsynth/) - Text completion using the GPT-2 language model.
+- [How to Go from NLP in 1 Language to NLP in N Languages in One Shot (2020)](https://x.ai/how-to-go-from-nlp-in-1-language-to-nlp-in-n-languages-in-one-shot/)
+- [Contextualized Topic Models](https://github.com/MilaNLProc/contextualized-topic-models) - Family of topic models that use pre-trained representations of language (e.g., BERT) to support topic modeling.
+- [Language Style Transfer](https://github.com/shentianxiao/language-style-transfer) - Code for [Style Transfer from Non-Parallel Text by Cross-Alignment](https://arxiv.org/abs/1705.09655) paper.
+- [NLU](https://github.com/JohnSnowLabs/nlu) - Power of Spark NLP, the Simplicity of Python. 1 line for hundreds of NLP models and algorithms.
+- [PyTorch Implementation of Google BERT](https://github.com/dhlee347/pytorchic-bert)
+- [High Performance Natural Language Processing (2020)](http://gabrielilharco.com/publications/EMNLP_2020_Tutorial__High_Performance_NLP.pdf)
+- [duoBERT](https://github.com/castorini/duobert) - Multi-stage passage ranking: monoBERT + duoBERT.
+- [Awesome GPT-3](https://github.com/elyase/awesome-gpt3)
+- [SMAC3](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration.
+- [Semantic Experiences by Google](https://research.google.com/semanticexperiences/) - Experiments in understanding language.
+- [Long-Range Arena](https://github.com/google-research/long-range-arena) - Systematic evaluation of efficient transformer models.
+- [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.
+- [DeepSPIN (Deep Structured Prediction in Natural Language Processing)](https://deep-spin.github.io/) ([GitHub](https://github.com/deep-spin))
+- [Multi-Task Learning in NLP](https://github.com/jg8610/multi-task-learning)
+- [FastSeq](https://github.com/microsoft/fastseq) - Provides efficient implementation of popular sequence models (e.g. Bart, ProphetNet) for text generation, summarization, translation tasks etc.
+- [Sentence Embeddings with BERT & XLNet](https://github.com/UKPLab/sentence-transformers)
+- [FastFormers](https://github.com/microsoft/fastformers) - Provides a set of recipes and methods to achieve highly efficient inference of Transformer models for Natural Language Understanding (NLU).
+- [Adversarial NLI](https://github.com/facebookresearch/anli) - Adversarial Natural Language Inference Benchmark.
+- [textract](https://github.com/deanmalmgren/textract) - Extract text from any document. No muss. No fuss. ([Docs](https://textract.readthedocs.io/en/stable/))
+- [NLP e Named Entity Recognition (2020)](https://techblog.smc.it/en/2020-12-11/nlp-ner)
+- [Big Bird: Transformers for Longer Sequences](https://github.com/google-research/bigbird)
+- [NLP PyTorch Tutorial](https://github.com/will-thompson-k/deeplearning-nlp-models)
+- [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://github.com/jasonwei20/eda_nlp)

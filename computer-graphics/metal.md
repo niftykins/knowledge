@@ -15,3 +15,11 @@
 - [mtlswift](https://github.com/s1ddok/mtlswift) - Metal shader Swift encoding code generator.
 - [Alloy](https://github.com/s1ddok/Alloy) - Make usage of Metal API a pleasure.
 - [Andrey Volodin - Explain Metal like I’m 5 (2020)](https://www.youtube.com/watch?v=ebap8D1-GIY)
+- [MetalANGLE](https://github.com/kakashidinho/metalangle) - OpenGL ES to Metal API translation layer.
+- [3 Years of Metal (2020)](https://blog.roblox.com/2020/05/3-years-metal/)
+- [Satin](https://github.com/Hi-Rez/Satin) - 3D Graphics Framework built on Apple's Metal.
+- [Toy3D](https://github.com/markdaws/Toy3D) - Simple 3D engine written in Swift + Metal, for educational purposes.
+- [MaLiang](https://github.com/Harley-xk/MaLiang) - iOS painting and drawing library based on Metal.
+- [mtlpp](https://github.com/naleksiev/mtlpp) - C++ wrapper around Metal.
+- [SirMetal](https://github.com/giordi91/SirMetal) - Metal-based game editor.
+- [Tailor your Metal apps for Apple M1 (2020)](https://developer.apple.com/videos/play/tech-talks/10859)

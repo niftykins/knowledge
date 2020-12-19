@@ -2,13 +2,14 @@
 
 ## Links
 
-- [Vega](https://github.com/vega/vega) - Visualization grammar.
-- [Vega-Lite](https://vega.github.io/vega-lite/) - High-level grammar of interactive graphics. Provides a concise JSON syntax for rapidly generating visualizations to support analysis.
+- [Vega](http://vega.github.io/) - Declarative format for creating, saving, and sharing visualization designs. ([Code](https://github.com/vega/vega))
+- [Vega-Lite](https://vega.github.io/vega-lite/) - High-level grammar of interactive graphics. Provides a concise JSON syntax for rapidly generating visualizations to support analysis. ([Code](https://github.com/vega/vega-lite)) ([HN](https://news.ycombinator.com/item?id=24937954))
+- [Vega-Lite API](https://github.com/vega/vega-lite-api) - JavaScript API for Vega-Lite.
+- [Vega Editor](https://vega.github.io/editor/#/)
+- [XVega](https://github.com/QuantStack/xvega) - C++ API to Vega-Lite.
 - [Fundamentals of Data Visualization book (2019)](https://serialmentor.com/dataviz/)
 - [Most cited scientific papers within data visualization (2019)](https://www.reddit.com/r/dataisbeautiful/comments/am2xk4/most_cited_scientific_papers_within_data/)
 - [Visualization of related subreddits](https://github.com/anvaka/sayit)
-- [Vega](http://vega.github.io/) - Declarative format for creating, saving, and sharing visualization designs.
-- [Vega-Lite](https://vega.github.io/vega-lite/) - High-level grammar of interactive graphics. [Code](https://github.com/vega/vega-lite).
 - [Draco](https://github.com/uwdata/draco) - Formal framework for representing design knowledge about effective visualization design as a collection of constraints.
 - [Observable](https://observablehq.com/) - Magic notebook for visualization.
 - [Bl.ocks](https://bl.ocks.org/) - Simple viewer for sharing code examples hosted on GitHub Gist.
@@ -36,7 +37,7 @@
 - [Facette](https://github.com/facette/facette) - Time series data visualization software.
 - [Experimental 3D axis for matplotlib](https://github.com/rougier/matplotlib-3d)
 - [Our World in Data](https://ourworldindata.org/) - Research and data to make progress against the world’s largest problems.
-- [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - QT5 based application to display time series in plots, using an intuitive "drag and drop" interface.
+- [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - QT5 based application to display time series in plots, using an intuitive "drag and drop" interface. ([Web](https://plotjuggler.io/)) ([HN](https://news.ycombinator.com/item?id=25357714))
 - [Lightweight Charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas.
 - [Glue](https://github.com/glue-viz/glue) - Python project to link visualizations of scientific datasets across many files. ([Web](http://glueviz.org/index.html)) ([Multi Dimensional Linked Data Exploration with Glue](https://www.youtube.com/watch?v=TkMZ9gZ8xtk))
 - [Learning Observable](https://www.youtube.com/playlist?list=PLOHIJAFwtkEfEsafMd9BY3KWsRrz7FV5e)
@@ -44,3 +45,27 @@
 - [Bar Chart Race](https://github.com/dexplo/bar_chart_race/) - Make animated bar chart races in Python with matplotlib. ([Docs](https://www.dexplo.org/bar_chart_race/)) ([Article](https://www.dunderdata.com/blog/official-release-of-bar_chart_race-a-python-package-for-creating-animated-bar-chart-races))
 - [Gallery of Concept Visualization](http://conceptviz.github.io/#/e30=) - Features projects which use pictures to communicate complex and difficult ideas.
 - [Vida](https://vida.io/) - Software tool that reads JSON files and turns them into compelling dashboards. ([Code](https://github.com/vidalab/vida))
+- [Best of the visualization web (2020)](https://www.visualisingdata.com/2020/07/best-of-the-visualisation-web-april-2020/)
+- [Data Visualisation Catalogue](https://datavizcatalogue.com/index.html) ([HN](https://news.ycombinator.com/item?id=23915694))
+- [Muze](https://muzejs.org/) - Free data visualization library to create Tableau-like charts in browser.
+- [Beautiful News](https://informationisbeautiful.net/beautifulnews/) - Unseen trends, uplifting stats - daily.
+- [Data-Visualization Books Everyone Should Read](https://informationisbeautiful.net/visualizations/dataviz-books/)
+- [Information is Beautiful](https://informationisbeautiful.net/)
+- [e-sum](https://anvaka.github.io/e-sum/) - Visualization of exponential sums. ([Code](https://github.com/anvaka/e-sum))
+- [Matplot++](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization.
+- [How to pick more beautiful colors for your data visualizations (2020)](https://blog.datawrapper.de/beautifulcolors/) ([HN](https://news.ycombinator.com/item?id=24391049))
+- [Kyrix](https://github.com/tracyhenry/Kyrix) - Interactive details-on-demand data visualizations at scale.
+- [Dash Deck](https://github.com/plotly/dash-deck) - Library for building 3D interactive maps and graphical visualizations directly in Dash.
+- [Apache ECharts](https://github.com/apache/incubator-echarts) - Powerful, interactive charting and data visualization library for browser. ([Web](https://echarts.apache.org/en/index.html))
+- [plotly.py](https://github.com/plotly/plotly.py) - Interactive graphing library for Python (includes Plotly Express).
+- [Gnuplot 5 book](https://alogus.com/g5script/gnuplot5/)
+- [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects.
+- [ImPlot](https://github.com/epezent/implot) - Immediate mode, GPU accelerated plotting library for Dear ImGui.
+- [Edward Tufte: Seeing with Fresh book (2020)](https://www.edwardtufte.com/tufte/seeing-with-fresh-eyes)
+- [Why We're Building Observable (2020)](https://observablehq.com/@observablehq/why-were-building-observable) ([HN](https://news.ycombinator.com/item?id=25161409))
+- [Global population density graphic (2020)](https://twitter.com/undertheraedar/status/1332733136715780096)
+- [Lux](https://github.com/lux-org/lux) - Python API for Intelligent Visual Data Discovery.
+- [ETE (Environment for Tree Exploration)](https://github.com/etetoolkit/ete) - Python programming toolkit that assists in the automated manipulation, analysis and visualization of phylogenetic trees. ([Web](http://etetoolkit.org/))
+- [From data to Viz](https://www.data-to-viz.com/) - Find the graphic you need. ([Code](https://github.com/holtzy/data_to_viz))
+- [hvPlot](https://github.com/holoviz/hvplot) - High-level plotting API for pandas, dask, xarray, and networkx built on HoloViews. ([Docs](https://hvplot.holoviz.org/))
+- [HoloViz](https://holoviz.org/) - High-level tools to simplify visualization in Python. ([GitHub](https://github.com/holoviz))

@@ -3,6 +3,7 @@
 ## Notes
 
 - [Semantics involves giving meaning to logical constants in a formal way. When we talk about truth table semantics, we’re talking about a way to formally interpret (or give meaning to) sentences in the logical language using truth tables. Similarly, algebraic semantics does the same, but using algebras. Proof-theoretic semantics attempts to give meaning in terms of proof rather than truth conditions.](https://www.reddit.com/r/logic/comments/78rihs/why_call_it_semantics/)
+- [Intuitionistic logic is also known as “constructive logic,” which is not a coincidence. And the Curry-Howard correspondence, which is also deeply related, connects computation to intuitionistic logic.](https://twitter.com/lexi_lambda/status/1294354136213921798)
 
 ## Links
 
@@ -20,3 +21,10 @@
 - [POTL: A First-Order Complete Temporal Logic for Operator Precedence Languages (2019)](https://arxiv.org/pdf/1910.09327.pdf)
 - [Symbolic Logic (1897)](https://www.gutenberg.org/files/28696/28696-h/28696-h.htm)
 - [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flaneries/LACI/)
+- [An Introduction to Godel's Theorems](https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf) ([HN](https://news.ycombinator.com/item?id=24081858))
+- [Gödel Without Tears, slowly (2020)](https://www.logicmatters.net/2020/09/01/godel-without-tears-slowly-1/) ([Published book](https://www.logicmatters.net/2020/11/04/godel-without-too-many-tears-published/))
+- [Logic, Explainability and the Future of Understanding (2018)](https://writings.stephenwolfram.com/2018/11/logic-explainability-and-the-future-of-understanding/)
+- [Finite of Sense and Infinite of Thought (2018)](https://pron.github.io/posts/computation-logic-algebra-pt1)
+- [What Godel Discovered](https://stopa.io/post/269) ([HN](https://news.ycombinator.com/item?id=25115746))
+- [Logicomix: An Epic Search for Truth book (2009)](https://www.logicomix.com/en/index.html)
+- [Logic and Semantics @ Aarhus University](https://cs.au.dk/research/logic-and-semantics/) ([GitHub](https://github.com/logsem))

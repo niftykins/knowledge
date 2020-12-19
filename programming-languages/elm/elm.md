@@ -38,3 +38,14 @@
 - [Ellie](https://ellie-app.com/) - Elm Live Editor. ([Code](https://github.com/ellie-app/ellie))
 - [Beginning Elm](https://elmprogramming.com/) - Gentle introduction to Elm programming language.
 - [Evan Czaplicki - The life of a file (2017)](https://www.youtube.com/watch?v=XpDsk374LDE)
+- [Elm debug extension](https://github.com/kraklin/elm-debug-extension) - Browser extension, that is making your elm Debug.log output much easier to work with.
+- [Issue #40: Functional programming in Elm (2020)](https://elmbits.com/issue-40-functional-programming/)
+- [Elm Bits](https://elmbits.com/) - Free weekly newsletter about Elm.
+- [Elm Shared State example](https://github.com/ohanhi/elm-shared-state) - Example for organizing large Single-Page Applications (SPAs) in Elm.
+- [elm-format](https://github.com/avh4/elm-format) - Formats Elm source code.
+- [Elm TypeScript Interop](https://github.com/dillonkearns/elm-typescript-interop) - Generate TypeScript declaration files for your elm ports.
+- [History and current state of Elm (2020)](https://www.youtube.com/watch?v=vHI7XlgmYCg)
+- [How I Write Elm Applications (2020)](https://jezenthomas.com/how-i-write-elm-applications/)
+- [Finish with Elm Book, where too now? (2020)](https://discourse.elm-lang.org/t/finish-with-elm-book-where-too-now/6540)
+- [Can Elm compiler skip virtual DOM?](https://discourse.elm-lang.org/t/can-the-compiler-skip-virtual-dom/6300/)
+- [Combinators - Inverting Top-Down Transforms (2020)](https://functional.christmas/2020/10)

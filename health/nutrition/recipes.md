@@ -21,3 +21,13 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Kitchen Midori](https://www.instagram.com/kitchen_midori/) - Japanese home cooking, Fermentation & Matcha.
 - [Just Another Chocolate Chip Cookie Recipe](https://www.arvarik.com/just-another-chocolate-chip-cookie-recipe)
 - [Brunch the Sunday Way (2020)](https://www.goodreads.com/book/show/53004549-brunch-the-sunday-way) ([Tweet](https://twitter.com/dan_abramov/status/1281010364721881088))
+- [Search for ingredients to pair with other ingredients](https://www.kulinarian.com/flavor-pairings/) ([HN](https://news.ycombinator.com/item?id=23997271))
+- [A Database of 5k Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks) ([HN](https://news.ycombinator.com/item?id=24154417))
+- [Favorite dairy-free and wheat-free desserts](https://merveilles.town/@lrhodes/104832099711215455)
+- [Subtle Asian Food](https://subtleasianfood.com/) - Search for yummy Asian desserts.
+- [Ask HN: Best Recipe Search Engine? (2020)](https://news.ycombinator.com/item?id=24630023)
+- [Heirloom](https://useheirloom.com/) - Small online recipe manager. ([Code](https://github.com/hrescak/useheirloom))
+- [Al Dente](https://aldente.substack.com/) - Cooking tips newsletter.
+- [RecipeMD](https://github.com/tstehr/RecipeMD) - Standard format for recipes as Markdown files and a python reference implementation. ([Docs](https://recipemd.org/))
+- [Favorite breakfast recipes](https://www.instagram.com/susannawurz.cooking/guide/my-favorite-breakfast-recipes/17908740661558387/)
+- [Instantly search 2M recipes](https://recipe-search.typesense.org/) ([HN](https://news.ycombinator.com/item?id=25365397)) ([Code](https://github.com/typesense/showcase-recipe-search))

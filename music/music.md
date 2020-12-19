@@ -1,7 +1,5 @@
 # Music
 
-I love listening to different music. My favorite genres are ambient, electronic, instrumental and Psybient.
-
 You can listen through a lot of the songs I liked on [YouTube](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) and [SoundCloud](https://soundcloud.com/you/likes). And I share a lot of [playlists](music-playlists.md) and [music artists](music-artists.md) I love.
 
 You can also see my most listened to [artists](https://www.last.fm/user/playfullyExist/library/artists), [songs](https://www.last.fm/user/playfullyExist/library/tracks) and [albums](https://www.last.fm/user/playfullyExist/library/albums) alongside my [yearly music stats](https://www.last.fm/user/playfullyExist/listening-report/year).
@@ -46,3 +44,49 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Music: a Mathematical Offering](https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html)
 - [Dynamic music for video creators](https://www.moodelizer.com/studio/music-for-video)
 - [Crowd-sourced list of Black artists on Bandcamp](https://www.blackbandcamp.info/#/)
+- [Music And Measure Theory (2015)](https://www.youtube.com/watch?v=cyW5z-M2yzw)
+- [Defining the ’90s Music Canon (2020)](https://pudding.cool/2020/07/song-decay/) ([HN](https://news.ycombinator.com/item?id=23919786))
+- [Soundslice](https://www.soundslice.com/) - Better music learning experience.
+- [Predicting the Music Mood of a Song with Deep Learning (2020)](https://towardsdatascience.com/predicting-the-music-mood-of-a-song-with-deep-learning-c3ac2b45229e)
+- [Plexamp](https://plexamp.com/) - Beautiful Plex music player for audiophiles, curators, and hipsters.
+- [Black Music History Library](https://blackmusiclibrary.com/Library)
+- [A Tale Of Two Ecosystems: On Bandcamp, Spotify And The Wide-Open Future (2020)](https://www.npr.org/2020/08/19/903547253/a-tale-of-two-ecosystems-on-bandcamp-spotify-and-the-wide-open-future?t=1598103940702)
+- [Lo-Fi Player](https://magenta.github.io/lofi-player/) - Interact with objects and create your own music. ([Article](https://magenta.tensorflow.org/lofi-player)) ([HN](https://news.ycombinator.com/item?id=24389748))
+- [myNoise](https://mynoise.net/) - Background Noises & Interactive Soundscapes.
+- [Pandora Music Genome Project](https://www.pandora.com/about/mgp) - Comprehensive analysis of music.
+- [Odesli](https://odesli.co/) - On demand smart links.
+- [OB–4 magic radio](https://teenage.engineering/products/ob-4)
+- [Psytrance Guide](http://www.psytranceguide.com/)
+- [Music Playlists with a story](https://www.youtube.com/channel/UCWlhyyYBiD67Aju1CXUgaug/videos)
+- [Generative Music – Brian Eno (1996)](https://inmotionmagazine.com/eno1.html) ([HN](https://news.ycombinator.com/item?id=24702201))
+- [Oda](https://oda.co/) - Live Performances in Your Home.
+- [Why do Musical Scales Have Certain Numbers of Notes? (2020)](https://www.lucaspauker.ml/articles/16)
+- [Navidrome](https://www.navidrome.org/) - Modern Music Server and Streamer compatible with Subsonic/Airsonic. ([Code](https://github.com/deluan/navidrome))
+- [Cyanite.ai](https://cyanite.ai/) - Artificial music intelligence listens to and categorizes millions of songs in minutes, helping you to deliver the right music content, no matter the use case.
+- [Download All Your Historical last.fm Data (2020)](https://mathieuhendey.com/2020/10/download-all-your-historical-last.fm-data/)
+- [Music Training](https://github.com/g-r-a-n-t/music-training) - Practical exercises in music theory and ear training.
+- [Pianojacq](https://pianojacq.com/) - Easy way to learn to play the piano. ([Article](https://jacquesmattheij.com/2020-09-20-pianojacq-learn-to-play-piano/))
+- [spotDL](https://github.com/spotDL/spotify-downloader) - Download Spotify playlists from YouTube with albumart and metadata.
+- [Stereo](https://withstereo.com/) - Completely-free and community-driven project that lets you play & listen to music in sync with friends in public or private rooms. ([Code](https://github.com/hoangvvo/stereo-web))
+- [Bongo Cat](https://bongo.cat/) - Hit the bongos like Bongo Cat. ([HN](https://news.ycombinator.com/item?id=24866896))
+- [Endel](https://endel.io/) - Personalized environments that help you focus, relax, and sleep. ([Oleg Stavitsky - CEO of Endel (2020)](https://foundation-by-true-ventures.simplecast.com/episodes/oleg-stavitsky-ceo-of-endel-YFJlLv_d))
+- [Brain.fm](https://www.brain.fm/) - Music to improve focus, meditation & sleep.
+- [spotify_dl](https://github.com/SathyaBhat/spotify-dl) - Downloads songs from any Spotify playlist, album or track.
+- [Supercreative Radio](https://www.supercreative.design/radio) - Nonstop music for creatives.
+- [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
+- [TildeRadio](https://tilderadio.org/) - Internet radio streamed by/for users of the tildeverse.
+- [Discover Quickly](https://discoverquickly.com/) - Your interface for music discovery, powered by Spotify.
+- [Ask HN: How do you find new music? (2020)](https://news.ycombinator.com/item?id=25085635)
+- [Savify](https://github.com/LaurenceRawlings/savify) - Download Spotify songs to mp3 with full metadata and cover art.
+- [Erased Tapes](https://www.erasedtapes.com/) - London-based independent record label focusing on releasing avant-garde and experimental electronic music.
+- [Rough Trade](https://www.roughtrade.com/) - Independent purveyors of great music.
+- [XLR8R](https://xlr8r.com/) - Accelerating Music and Culture.
+- [Resident Advisor](https://www.residentadvisor.net/) - Electronic music online.
+- [Stereogum](https://www.stereogum.com/) - Music blog.
+- [Bliss music analyzer](https://github.com/Polochon-street/bliss) - Open-source library that evaluates distance between songs. ([Web](https://lelele.io/bliss.html))
+- [Resonate](https://resonate.is/) - Community-owned music network.
+- [Socialfy](https://www.socialfy.app/) - Your Spotify listening, more socially. Share what you're currently listening too, your top artists, and more. ([Code](https://github.com/rdrnt/socialfy-frontend))
+- [80% of musicians earn less than £200 a year from streaming (2020)](https://www.nme.com/news/music/82-per-cent-of-musicians-earn-less-than-200-a-year-from-streaming-2833510) ([HN](https://news.ycombinator.com/item?id=25352088))
+- [TIDAL](https://tidal.com/) - High Fidelity Music Streaming.
+- [Plotting patterns in music with a fantasy record player (2020)](http://www.windytan.com/2020/12/plotting-patterns-in-music-with-fantasy.html) ([HN](https://news.ycombinator.com/item?id=25414742))
+- [JQBX](https://jqbx.fm/) - Lets you play & listen to music in sync with friends or public groups.

@@ -1,5 +1,7 @@
 # Virtual reality
 
+I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2334376869949242/) & [Pistol Whip](https://www.oculus.com/experiences/quest/2104963472963790/) on [Oculus Quest 2](https://www.oculus.com/quest-2/).
+
 ## Games
 
 - [Lambda1VR](https://github.com/DrBeef/Lambda1VR) - Port of the Xash3D-FWGS Half Life Engine to Oculus Quest.
@@ -17,3 +19,12 @@
 - [Virtual Reality DOS](https://github.com/sonictruth/vr-dos) - Experimental "PC running DOS" emulator inside a VR environment.
 - [Half-Life: Alyx's SDK walkthrough (2020)](https://twitter.com/joewintergreen/status/1262662025903128576)
 - [Mozilla Hubs](https://hubs.mozilla.com/#/) - Share a virtual room with friends. Watch videos, play with 3D objects, or just hang out. ([Code](https://github.com/mozilla/hubs))
+- [A-Frame](https://aframe.io/) - Make WebVR.
+- [Relativty](https://www.relativty.com/) - Open-source VR headset. ([HN](https://news.ycombinator.com/item?id=24431052)) ([Code](https://github.com/relativty/Relativty))
+- [Facebook Connect: John Carmack Unscripted Live (2020)](https://www.youtube.com/watch?v=sXmY26pOE-Y)
+- [Venture Reality Fund](https://www.thevrfund.com/)
+- [Oculus Quest Mixed Reality app for iOS](https://github.com/fabio914/OculusQuestMixedRealityForiOS)
+- [Sega VR Revived: Emulating an Unreleased Genesis Accessory](https://gamehistory.org/segavr/) ([HN](https://news.ycombinator.com/item?id=25161494))
+- [ALVR](https://github.com/JackD83/ALVR) - Stream VR games from your PC to your Oculus Quest via Wi-FI.
+- [Varjo](https://varjo.com/) - Advanced virtual and mixed reality devices.
+- [When will virtual reality take off? The $100 bet (2020)](https://glinden.blogspot.com/2020/12/when-will-virtual-reality-take-off-100.html) ([HN](https://news.ycombinator.com/item?id=25439490))

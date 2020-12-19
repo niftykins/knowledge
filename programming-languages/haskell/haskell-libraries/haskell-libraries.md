@@ -14,10 +14,16 @@
 
 - [PostgreSQL ORM](https://github.com/alevy/postgresql-orm) - Haskell ORM (Object Relational Mapping) and migrations DSL for PostgreSQL.
 - [Squeal](https://github.com/morphismtech/squeal) - Deep embedding of SQL in Haskell.
+- [persistent](https://github.com/yesodweb/persistent) - Persistence interface for Haskell allowing multiple storage methods.
+- [hssqlppp](https://github.com/JakeWheat/hssqlppp) - SQL parser and type checker in haskell.
 
 ## Test
 
+- [Hedgehog](https://github.com/hedgehogqa/haskell-hedgehog) - Modern property-based testing system, in the spirit of QuickCheck. ([Web](https://hedgehog.qa/))
+- [Hedgehog Classes](https://github.com/hedgehogqa/haskell-hedgehog-classes) - API for testing common typeclass laws quickly.
 - [QuickCheck](https://github.com/nick8325/quickcheck) - Library for random testing of program properties.
+- [Validity](https://github.com/NorfairKing/validity) - Validity and validity-based testing.
+- [sydtest](https://github.com/NorfairKing/sydtest) - Experimental testing framework for Haskell with great defaults advanced testing features.
 
 ## Other
 
@@ -52,9 +58,42 @@
 - [Repline](https://github.com/sdiehl/repline) - Haskeline wrapper for GHCi-like REPL interfaces.
 - [pretty-simple](https://github.com/cdepillabout/pretty-simple) - Pretty printer for Haskell data types that have a Show instance.
 - [Scalpel](https://github.com/fimad/scalpel) - High level web scraping library for Haskell.
+- [ByteString](https://github.com/haskell/bytestring) - Fast, Packed Strings of Bytes.
+- [in-other-words](https://github.com/KingoftheHomeless/in-other-words) - Higher-order effect system where the sky's the limit.
+- [prolens](https://github.com/kowainik/prolens) - Profunctor based lightweight implementation of Lenses.
+- [stm-incremental](https://github.com/SamuelSchlesinger/stm-incremental) - Exposes an interface for incremental computation using software transactional memory in Haskell.
+- [Reanimate](https://github.com/reanimate/reanimate) - Haskell library for building declarative animations based on SVG graphics.
+- [Streamly](https://github.com/composewell/streamly) - Beautiful Streaming, Concurrent and Reactive Composition.
+- [poly](https://github.com/Bodigrim/poly) - Fast polynomial arithmetic in Haskell.
+- [jsonifier](https://github.com/nikita-volkov/jsonifier) - Fast and simple JSON encoding toolkit.
+- [Path](https://github.com/commercialhaskell/path) - Support for well-typed paths in Haskell.
+- [Yaya](https://github.com/sellout/yaya) - Yet another yet another recursion scheme library in Haskell.
+- [Happy](https://github.com/simonmar/happy) - Parser generator for Haskell.
+- [massiv](https://github.com/lehins/massiv) - Efficient Haskell Arrays featuring Parallel computation.
+- [json-to-haskell](https://github.com/ChrisPenner/json-to-haskell) - In goes JSON, out comes Haskell.
+- [unliftio](https://github.com/fpco/unliftio) - MonadUnliftIO typeclass for unlifting monads to IO.
+- [json-autotype](https://github.com/migamake/json-autotype) - Takes a JSON format input, and generates automatic Haskell type declarations.
+- [domain](https://github.com/nikita-volkov/domain) - Focused domain model declaration toolkit for Haskell.
+- [Synchron](https://github.com/pkamenarsky/synchron) - Synchronous reactive concurrent programming DSL for Haskell.
+- [microlens](https://github.com/monadfix/microlens) - Tiny part of the lens library with no dependencies.
+- [Yoda](https://github.com/zenzike/yoda) - Small parser combinator library.
+- [Conduit](https://github.com/snoyberg/conduit) - Framework for dealing with streaming data.
+- [store](https://github.com/mgsloan/store) - Fast binary serialization in Haskell.
+- [Earley](https://github.com/ollef/Earley) - Parsing all context-free grammars using Earley's algorithm in Haskell.
+- [algebra](https://github.com/ekmett/algebra) - Constructive abstract algebra in Haskell.
+- [primitive](https://github.com/haskell/primitive) - Provides various primitive memory-related operations for Haskell.
+- [refined](https://github.com/nikita-volkov/refined) - Refinement types with static and runtime checking.
+- [Row-Types](https://github.com/target/row-types) - Haskell library for open records and variants using closed type families and type literals.
+- [distributed-closure](https://github.com/tweag/distributed-closure) - Serializable closures for distributed programming.
+- [hindent](https://github.com/mihaimaruseac/hindent) - Haskell pretty printer.
+- [Katip](https://github.com/Soostone/katip) - Structured logging framework for Haskell.
+- [Linear base](https://github.com/tweag/linear-base) - Standard library for linear types in Haskell.
+- [bifunctors](https://github.com/ekmett/bifunctors) - Haskell 98 bifunctors, bifoldables and bitraversables.
 
 ## Links
 
 - [Hackage](https://hackage.haskell.org/) - Haskell Package Repository. ([Code](https://github.com/haskell/hackage-server))
 - [Aelve Haskell packages search](https://codesearch.aelve.com/haskell) - Grep over package repositories.
 - [Monadoc](https://github.com/tfausak/monadoc) - Better Haskell documentation.
+- [Stackage](https://www.stackage.org/) - Distribution of compatible Haskell packages from Hackage that build together. ([Code](https://github.com/commercialhaskell/stackage))
+- [pantry](https://github.com/commercialhaskell/pantry) - Content addressable Haskell package management, providing for secure, reproducible acquisition of Haskell package contents and metadata.

@@ -16,3 +16,18 @@
 - [Mobileye](https://www.mobileye.com/) - Autonomous Driving & ADAS (Advanced Driver Assistance Systems).
 - [Einride](https://www.einride.tech/) - Making autonomous electric transport possible today.
 - [Going Driverless: How we developed a CAN library for Go (2020)](https://www.youtube.com/watch?v=IbggJHJUv0U)
+- [SelfDriving.fyi](https://selfdriving.fyi/) - Comprehensive database of companies working on autonomous vehicles and related technologies.
+- [panda](https://github.com/commaai/panda) - Universal car interface.
+- [AirSim](https://github.com/Microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research. ([Docs](https://microsoft.github.io/AirSim/))
+- [Tesla Autopilot AI](https://www.tesla.com/autopilotAI)
+- [George Hotz: Hacking the Simulation & Learning to Drive with Neural Nets (2020)](https://www.youtube.com/watch?v=_L3gNaAVjQ4)
+- [Luminar](https://www.luminartech.com/) - Making autonomous transportation safe with long-range, high resolution lidar and perception.
+- [comma.ai](https://comma.ai/) - Open source driving agent that runs on most cars.
+- [comma10k](https://github.com/commaai/comma10k) - 10k crowdsourced images for training segnets.
+- [75 Minutes of Autonomous Driving with Kyle Vogt and Sam Altman (2020)](https://www.youtube.com/watch?v=sliYTyRpRB8)
+- [Oxbotica](https://www.oxbotica.com/) - Autonomous vehicle software company located in Oxford, UK.
+- [Why Tesla's Full Self-Driving Is Such A Big Deal: 4D Data Continuity & Trajectory Projection (2020)](https://cleantechnica.com/2020/11/07/why-teslas-full-self-driving-is-such-a-big-deal-4d-data-continuity-trajectory-projection/)
+- [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
+- [Neural Network Cars and Genetic Algorithms (2020)](https://www.youtube.com/watch?v=-sg-GgoFCP0)
+- [Scalability in Autonomus Driving Workshop - Andrej Karpathy (2020)](https://www.youtube.com/watch?v=X2CpuabzRaY)
+- [Social Driving](https://github.com/fidler-lab/social-driving) - Design multi-agent environments and simple reward functions such that social driving behavior emerges.

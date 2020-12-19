@@ -25,7 +25,7 @@
 - [postgres-operator](https://github.com/CrunchyData/postgres-operator) - Controller that runs within a Kubernetes cluster that provides a means to deploy and manage PostgreSQL clusters.
 - [Fastest Way to Load Data Into PostgreSQL Using Python (2019)](https://hakibenita.com/fast-load-data-python-postgresql)
 - [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way.
-- [The Art of PostgreSQL](https://theartofpostgresql.com/) - Book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries.
+- [The Art of PostgreSQL](https://theartofpostgresql.com/) - Book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries. ([Lobsters](https://lobste.rs/s/yvhv9r/art_postgresql))
 - [PLV8](https://github.com/plv8/plv8) - V8 Engine Javascript Procedural Language add-on for PostgreSQL.
 - [HN: PostgreSQL 12 release (2019)](https://news.ycombinator.com/item?id=21146356)
 - [PostgreSQL: When it’s not your job (2017)](https://thebuild.com/presentations/not-your-job-pgconf-us-2017.pdf)
@@ -34,13 +34,13 @@
 - [PostgreSQL for Beginners book](https://postgrespro.com/education/books/introbook) - Intended for those who only start getting acquainted with the world of PostgreSQL.
 - [PostgreSQL Notes](https://github.com/poudel/notes/blob/master/notes/postgresql.org)
 - [pg_flame](https://github.com/mgartner/pg_flame) - Flamegraph generator for Postgres EXPLAIN ANALYZE output.
-- [PostgREST](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database. ([HN](https://news.ycombinator.com/item?id=21435195))
+- [PostgREST](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database. ([HN](https://news.ycombinator.com/item?id=21435195)) ([HN 2](https://news.ycombinator.com/item?id=25159097)) ([Introduction to Postgrest](https://samkhawase.com/blog/postgrest/postgrest_introduction/))
 - [Postgres Explain Visualizer (pev)](https://github.com/AlexTatiyants/pev)
 - [Dexter](https://github.com/ankane/dexter) - Automatic indexer for Postgres.
 - [Hypothetical Indexes in PostgreSQL (2019)](https://www.percona.com/blog/2019/06/21/hypothetical-indexes-in-postgresql/)
 - [System design hack: Postgres is a great pub/sub & job server (2019)](https://layerci.com/blog/postgres-is-the-answer/) ([HN](https://news.ycombinator.com/item?id=21484215))
 - [Turning PostgreSQL into a queue serving 10,000 jobs per second](https://gist.github.com/chanks/7585810) ([HN](https://news.ycombinator.com/item?id=21536698))
-- [PGLoader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command. ([HN](https://news.ycombinator.com/item?id=21628094))
+- [PGLoader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command. ([HN](https://news.ycombinator.com/item?id=21628094)) ([Web](https://pgloader.io/))
 - [PgHero](https://github.com/ankane/pghero) - Performance dashboard for Postgres.
 - [pg-structure](https://github.com/ozum/pg-structure) - Get PostgreSQL database structure as a detailed JS Object.
 - [Odyssey](https://github.com/yandex/odyssey) - Advanced multi-threaded PostgreSQL connection pooler and request router.
@@ -88,7 +88,7 @@
 - [Recursive SQL Queries with PostgreSQL (2020)](https://towardsdatascience.com/recursive-sql-queries-with-postgresql-87e2a453f1b)
 - [How one word in PostgreSQL unlocked a 9x performance improvement (2020)](https://jlongster.com/how-one-word-postgresql-performance) ([HN](https://news.ycombinator.com/item?id=23516947))
 - [pgCenter](https://github.com/lesovsky/pgcenter) - Command-line admin tool for observing and troubleshooting Postgres.
-- [Supabase](https://supabase.io/) - Adds realtime and restful APIs to Postgres without a single line of code. ([[HN](https://news.ycombinator.com/item?id=23319901)]) ([Code](https://github.com/supabase/postgres)) ([Docs](https://github.com/supabase/supabase))
+- [Supabase](https://supabase.io/) - Adds realtime and restful APIs to Postgres without a single line of code. ([[HN](https://news.ycombinator.com/item?id=23319901)]) ([Code](https://github.com/supabase/postgres)) ([Docs](https://github.com/supabase/supabase)) ([JS client](https://github.com/supabase/supabase-js))
 - [Queries to monitor your PostgreSQL database](https://github.com/nilenso/postgresql-monitoring)
 - [PostgreSQL BRIN Indexes: Big Data Performance With Minimal Storage (2019)](https://info.crunchydata.com/blog/postgresql-brin-indexes-big-data-performance-with-minimal-storage)
 - [PostgreSQL query parallelism can be like a box of chocolates (2020)](https://swarm64.com/post/increase-postgresql-parallelism/)
@@ -102,13 +102,13 @@
 - [pgsodium](https://github.com/michelp/pgsodium) - Modern cryptography for PostgreSQL using libsodium. ([HN](https://news.ycombinator.com/item?id=23476248))
 - [Serializable Snapshot Isolation in PostgreSQL](https://drkp.net/papers/ssi-vldb12.pdf)
 - [How does MVCC (Multi-Version Concurrency Control) work (2020)](https://vladmihalcea.com/how-does-mvcc-multi-version-concurrency-control-work/)
-- [Looking Back at Postgres (2019)](https://arxiv.org/abs/1901.01973) ([HN](https://news.ycombinator.com/item?id=23529954))
+- [Looking Back at Postgres (2019)](https://arxiv.org/abs/1901.01973) ([HN](https://news.ycombinator.com/item?id=23529954)) ([Notes](https://brandur.org/nanoglyphs/013-remote))
 - [The Postgres and Illustra Codelines](https://dl.acm.org/doi/pdf/10.1145/3226595.3226623)
 - [Don't Do This - PostgreSQL wiki](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
 - [Citus](https://github.com/citusdata/citus) - Distributed PostgreSQL extension for multi-tenant and real-time analytics workloads.
 - [Postgres...as an App? (2020)](https://bytes.yingw787.com/posts/2020/06/15/postgres_as_app_1/) ([Lobsters](https://lobste.rs/s/ir2uyk/postgres_as_app))
 - [PostgreSQL query JIT (2020)](https://solovyov.net/blog/2020/postgresql-query-jit/)
-- [PgBouncer](https://www.pgbouncer.org/) - Lightweight connection pooler for PostgreSQL.
+- [PgBouncer](https://www.pgbouncer.org/) - Lightweight connection pooler for PostgreSQL. ([Code](https://github.com/pgbouncer/pgbouncer))
 - [Indexing JSONB columns in PostgreSQL (2020)](https://vsevolod.net/postgresql-jsonb-index/) ([Lobsters](https://lobste.rs/s/if87cc/how_not_use_jsonb_fields_their_indexes))
 - [Splitgraph](https://www.splitgraph.com/) - Build and share data with Postgres, inspired by Docker/Git. ([HN](https://news.ycombinator.com/item?id=23627066))
 - [Running Postgres in Kubernetes](https://static.sched.com/hosted_files/ossna2020/fc/Running%20Postgres-as-a-Service%20in%20Kubernetes.pdf) ([HN](https://news.ycombinator.com/item?id=23682450))
@@ -119,3 +119,70 @@
 - [Foreign data wrappers: PostgreSQL's secret weapon? (2020)](https://www.splitgraph.com/blog/foreign-data-wrappers) ([HN](https://news.ycombinator.com/item?id=23769420))
 - [PostgreSQL Templates (2020)](https://supabase.io/blog/2020/07/09/postgresql-templates/) ([HN](https://news.ycombinator.com/item?id=23781786))
 - [pgx](https://github.com/zombodb/pgx) - Build Postgres Extensions with Rust. ([HN](https://news.ycombinator.com/item?id=23821112))
+- [PostgreSQL EXPLAIN glossary](https://www.pgmustard.com/docs/explain)
+- [Postgres Job Queues & Failure By MVCC (2020)](https://brandur.org/postgres-queues)
+- [PostgreSQL beginner guide (2020)](https://knowledgepill.it/posts/postgresql-basics-guide/) ([HN](https://news.ycombinator.com/item?id=24036132))
+- [pgxtesting](https://github.com/go-pa/pgxtesting) - Utilities for having a temporary database per test.
+- [PostgreSQL: bloat, pg_repack, and deferred constraints (2020)](https://medium.com/miro-engineering/postgresql-bloat-pg-repack-and-deferred-constraints-d0ecf33337ec)
+- [How we used Postgres extended statistics to achieve a 3000x speedup (2020)](https://build.affinity.co/how-we-used-postgres-extended-statistics-to-achieve-a-3000x-speedup-ea93d3dcdc61)
+- [Postgres Execution Plans - Field Glossary (2019)](https://www.pgmustard.com/blog/2019/9/17/postgres-execution-plans-field-glossary)
+- [Recursive queries in PostgreSQL (2020)](https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/) ([HN](https://news.ycombinator.com/item?id=24184070))
+- [Cloud-Native PostgreSQL on Kubernetes (2020)](https://www.youtube.com/watch?v=MTyY_qjOpXA) ([Slides](https://speakerdeck.com/ongres/stackgres-cloud-native-postgresql-on-kubernetes))
+- [Quickly debugging Postgres problems (2020)](https://klotzandrew.com/blog/quickly-debugging-postgres-problems)
+- [pg-jump](https://github.com/twooster/pg-jump) - Postgres jumphost with query audit-logging.
+- [WAL-E](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres.
+- [Postgres Tips And Tricks](https://pgdash.io/blog/postgres-tips-and-tricks.html)
+- [Bootstraping Postgres in your project (2020)](https://manzanit0.github.io/automation/2020/08/26/bootstraping-postgres-greenfield.html)
+- [How to use PostgreSQL's LISTEN/NOTIFY as a simple message queue with psycopg2 and asyncio](https://gist.github.com/kissgyorgy/beccba1291de962702ea9c237a900c79)
+- [PostgreSQL B-Tree index deduplication (2020)](https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup) ([HN](https://news.ycombinator.com/item?id=24395825))
+- [PostgreSQL and Machine Learning (2020)](https://mljar.com/blog/postgresql-machine-learning/)
+- [Things we learned running Postgres 13 (2020)](https://pganalyze.com/blog/postgres13-better-performance-monitoring-usability) ([HN](https://news.ycombinator.com/item?id=24544881))
+- [2ndQuadrant](https://www.2ndquadrant.com/en/) - PostgreSQL support company.
+- [Mastering PostgreSQL Administration (2020)](https://momjian.us/main/writings/pgsql/administration.pdf) ([HN](https://news.ycombinator.com/item?id=24606163))
+- [Cost savings of using managed PostgreSQL](https://news.ycombinator.com/item?id=24608538)
+- [How to Fix PostgreSQL Performance Issues with PG Extras (2020)](https://pawelurbanek.com/postgresql-fix-performance)
+- [7 Tips for PostgreSQL Bulk Data Loading (2020)](https://www.2ndquadrant.com/en/blog/7-best-practice-tips-for-postgresql-bulk-data-loading/)
+- [Zheap: Reinvented PostgreSQL storage (2020)](https://www.cybertec-postgresql.com/en/zheap-reinvented-postgresql-storage/) ([Lobsters](https://lobste.rs/s/qyd3pz/zheap_reinvented_postgresql_storage)) ([HN](https://news.ycombinator.com/item?id=24757333))
+- [EDB](https://www.enterprisedb.com/) - Supercharges PostgreSQL.
+- [PostgreSQL community impact of 2nd Quadrant purchase (2020)](https://momjian.us/main/blogs/pgblog/2020.html#October_7_2020) ([HN](https://news.ycombinator.com/item?id=24710759))
+- [PostgreSQL Contributors](https://www.postgresql.org/community/contributors/)
+- [Measuring the Memory Overhead of a Postgres Connection (2020)](https://blog.anarazel.de/2020/10/07/measuring-the-memory-overhead-of-a-postgres-connection/) ([HN](https://news.ycombinator.com/item?id=24735012))
+- [prostgles-server](https://github.com/prostgles/prostgles-server-js) - Isomorphic PostgreSQL client for node. ([Web](https://prostgles.com/))
+- [pg_squeeze: Optimizing PostgreSQL storage (2020)](https://www.cybertec-postgresql.com/en/pg_squeeze-optimizing-postgresql-storage/)
+- [CYBERTEC PostgreSQL](https://github.com/cybertec-postgresql) - Professional PostgreSQL services. ([Web](https://www.cybertec-postgresql.com/en/))
+- [Efficient Evenly Distributed Sampling of Time Series Records in PostgreSQL (2020)](https://blog.joshsoftware.com/2020/10/14/efficient-evenly-distributed-sampling-of-time-series-records-in-postgresql/)
+- [postgres-interval](https://github.com/bendrucker/postgres-interval) - Parse Postgres interval columns.
+- [The Surprising Impact of Medium-Size Texts on PostgreSQL Performance (2020)](https://hakibenita.com/sql-medium-text-performance)
+- [Run PostgreSQL by hands (2019)](https://corpix.dev/2019/02/run-postgresql-by-hands.html)
+- [PostgreSQL Monitoring for Application Developers (2020)](https://info.crunchydata.com/blog/postgresql-monitoring-for-application-developers-dba-stats)
+- [PostgreSQL Feature Matrix](https://www.postgresql.org/about/featurematrix/)
+- [Recurring Events and PostgreSQL (2020)](https://thoughtbot.com/blog/recurring-events-and-postgresql)
+- [What's so exciting about Postgres? With Craig Kerstiens (2020)](https://changelog.com/podcast/417) ([HN](https://news.ycombinator.com/item?id=24944852))
+- [Building a recommendation engine inside Postgres with Python and Pandas (2020)](https://info.crunchydata.com/blog/recommendation_engine_in_postgres_with_pandas_and_python)
+- [Protocol Buffer extension for PostgreSQL](https://github.com/mpartel/postgres-protobuf)
+- [Getting Started With Postgres 13 on Ubuntu 20.04 (2020)](https://pgdash.io/blog/postgres-13-getting-started.html?h)
+- [prettier-plugin-pg](https://github.com/benjie/prettier-plugin-pg) - Plugin for prettier to support formatting of PostgreSQL-flavour SQL.
+- [PGTune](https://pgtune.leopard.in.ua/#/) - Tuning PostgreSQL config by your hardware. ([Code](https://github.com/le0pard/pgtune))
+- [Book about PostgreSQL: tuning and scaling (Russian)](https://postgresql.leopard.in.ua/) ([Code](https://github.com/le0pard/postgresql_book))
+- [An Immutable Blog Application in PostgreSQL (2015)](https://kevinmahoney.co.uk/articles/immutable-data/) ([Lobsters](https://lobste.rs/s/0owjgi/immutable_blog_application_postgresql))
+- [Postgres Constraints (2020)](https://www.mohitkhare.com/blog/postgres-constraints/)
+- [Distributed Coordination Using Postgres (2020)](https://ffhex.xyz/posts/distributed-coordination-using-postgres/)
+- [pg_auto_failover](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
+- [Postgres Observability](https://pgstats.dev/) - Postgres views and functions that contain info you might want to know about a Postgres instance. ([HN](https://news.ycombinator.com/item?id=25058045))
+- [PostgreSQL Server Exporter](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
+- [How to Analyze a PostgreSQL Crash Dump File (2020)](https://www.highgo.ca/2020/11/07/how-to-analyze-a-postgresql-crash-dump-file/)
+- [PostgreSQL psql command line tutorial and cheat sheet](https://tomcam.github.io/postgres/) ([HN](https://news.ycombinator.com/item?id=25113440))
+- [Viva the NoSQL Postgres - Alexande Korotkov (2019)](https://www.youtube.com/watch?v=70dBszaO67A)
+- [The Basics of Views and Materialized Views in PostgreSQL](https://supabase.io/blog/2020/11/18/postgresql-views/)
+- [Writing a Postgres Foreign Data Wrapper for Clickhouse in Go (2020)](https://arunsori.me/posts/postgres-clickhouse-fdw-in-go/) ([HN](https://news.ycombinator.com/item?id=25153782))
+- [RUM access method](https://github.com/postgrespro/rum) - Provides access method to work with RUM index. It is based on the GIN access methods code. Can be used for full text search.
+- [Hypershield](https://github.com/ankane/hypershield) - Shield sensitive data in Postgres and MySQL.
+- [PostgreSQL to PostgreSQL in minutes](https://www.stitchdata.com/integrations/postgresql/postgresql/) - Stitch PostgreSQL integration enables you to ETL data from one PostgreSQL database to another PostgreSQL you'd like to use as a data warehouse.
+- [Serverless-postgres](https://github.com/MatteoGioioso/serverless-pg) - Package for managing PostgreSQL connections at serverless scale.
+- [pg-shortkey](https://github.com/turbo/pg-shortkey) - YouTube-like Short IDs as Postgres Primary Keys. ([HN](https://news.ycombinator.com/item?id=25288188))
+- [pg-mem](https://github.com/oguimbal/pg-mem) - Experimental in-memory emulation of a postgres database. Useful for unit tests.
+- [pg-listen](https://github.com/andywer/pg-listen) - Postgres LISTEN & NOTIFY that works.
+- [pgtricks](https://github.com/akaihola/pgtricks) - Handy helpers for PostgreSQL users.
+- [PGCon 2020](https://www.youtube.com/playlist?list=PLuJmmKtsV1dP8IGGH6Z_sYQKxfDqtoSLj) ([HN](https://news.ycombinator.com/item?id=25397088))
+- [Mastering Postgres indexes in 10 minutes (2020)](https://fabien.herfray.org/posts/mastering-postgres-indexes-in-10-minutes/)
+- [pgreplay-go](https://github.com/gocardless/pgreplay-go) - Postgres load testing tool.

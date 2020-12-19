@@ -17,3 +17,14 @@
 - [Avocado Audio](https://www.avocadoaudio.com/) - Platform for the world’s best audio courses.
 - [Coursera](https://www.coursera.org/) - Build Skills with Online Courses from Top Institutions.
 - [Ask HN: Did you take any fresh MOOCs as of 2020?](https://news.ycombinator.com/item?id=23722680)
+- [hyperlink.academy](https://hyperlink.academy/) - Course platform and online school built for seriously effective learning. ([Manual](https://hyperlink.academy/manual)) ([Code](https://gitlab.com/jaredpereira/hyperlink-academy)) ([v1 Retro](https://awarm.space/fast/008-hyperlinkv1-retro))
+- [Meta Course](https://hyperlink.academy/courses/the-meta-course/1) - Course for creating great courses! We learn how to create learning structures specifically for the ideas and skills most interesting to us.
+- [Course Garden](https://forum.hyperlink.academy/c/course-garden/15) - Place to propose and workshop new course ideas.
+- [Disco](https://www.heydisco.com/) - Learn on the go with audio courses.
+- [Lynda Learning Paths](https://www.lynda.com/learning-paths/)
+- [Open Culture Free Online Courses from Top Unis](https://www.openculture.com/freeonlinecourses)
+- [MIT OpenCourseWare](https://ocw.mit.edu/) - Free Online Course Materials. ([YouTube](https://www.youtube.com/c/mitocw/playlists))
+- [LinkedIn Learning](https://www.linkedin.com/learning/me) - Online Courses for Creative, Technology, Business Skills.
+- [Free online courses from Harvard University](https://www.edx.org/school/harvardx)
+- [Automation bot for free Udemy courses](https://github.com/dimakiss/Udemy_bot)
+- [Ask HN: Top Coursera Courses? (2020)](https://news.ycombinator.com/item?id=25245125)

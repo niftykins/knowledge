@@ -8,7 +8,6 @@ Order: `CMD > OPT > CTRL > SHIFT`
 
 - 5 - Start/stop ScreenFlow recording
 - 6 - Maximize window to next screen
-- 7 - Open Typinator
 - 8 - Search Clipboard History with Alfred
 - 9 - Connect/disconnect AirPods
 - 0 - Open Dropzone
@@ -37,7 +36,7 @@ Order: `CMD > OPT > CTRL > SHIFT`
 - 7 - New Kap recording
 - 8 - Show Launchpad
 - 9 - Picture of screen -> Clipboard
-- 0 - Picture of screen -> ~/Desktop
+- 0 - Picture of screen -> \~/Desktop
 
 ## OPT+CTRL+CMD
 
@@ -49,7 +48,7 @@ Order: `CMD > OPT > CTRL > SHIFT`
 - 6 - Resize to top left corner
 - 7 - Search selection on /r/askcience
 - 8 - New 2Do quick task
-- 9 - Typinator quick search
+- 0 - Search Alfred Snippets
 - u - Sip color picker
 - i - Tester
 - u - Open URL
@@ -63,12 +62,11 @@ Order: `CMD > OPT > CTRL > SHIFT`
 
 ## CMD+OPT+SHIFT
 
+- 4 - Screenshot -> CleanShot (cloud)
 - 5 - PixelSnap
 - 6 - Toggle Night Shift on/off.
 - 7 - Selection -> Google Lucky
-- 8 - Selection -> SnippetsLab snippet
-- 9 - Clipboard -> Typinator snippet
-- 0 - Selection -> Typinator snippet
+- 9 - Raycast
 - e - Selection -> YouTube
 - r - Selection -> Google Translate
 - y - Selection -> Stack Overflow
@@ -83,4 +81,5 @@ Order: `CMD > OPT > CTRL > SHIFT`
 ## CMD+OPT+CTRL+SHIFT
 
 - t - Open Trello
+- g - Loom recording
 - Space - Alfred

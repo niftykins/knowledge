@@ -98,6 +98,8 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [One of the best things about starting your career at Amazon is grooming in some fantastic values in early years of life. One of those is writing pithy, powerful documents.](https://twitter.com/nipunmehra/status/1154590521345490945)
 - [Writing is not publishing. If you conflate the two you might not write at all.](https://news.ycombinator.com/item?id=23314664)
 - [I just set aside about an hour a day, during my peak alertness time (around 11-2) during which I write. I have an outline of a book I want to write, and I just pick a section and start going (whatever I feel like that particular day). I write until the words don't flow any more. One thing that helped me a lot an idea I learned in high school of writing a shitty first draft -- almost stream of consciousness, without caring about quality, then going back to clean up later.](https://twitter.com/justinkan/status/1268270905379024896)
+- [Write like you speak. Use simple words & tenses. Use the active voice. Cut as much as possible.](http://www.paulgraham.com/writing44.html)
+- [Writing clearly is like playing Tetris. Sentences should be presented with clauses that drop down and slot together efficiently. At the earliest available opportunity you drop in a block that completes the line and points are won/made.](https://news.ycombinator.com/item?id=24268382)
 
 ## Links
 
@@ -109,7 +111,7 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [HN: What Is The Morning Writing Effect? (2018)](https://news.ycombinator.com/item?id=18369337)
 - [On self-publishing “A Programmer’s Introduction to Mathematics” (2018)](https://medium.com/@jeremyjkun/on-self-publishing-a-programmers-introduction-to-mathematics-1472b7511c99)
 - [Write.as](https://write.as/) - Minimalist, privacy-focused, writing and publishing platform.
-- [Write Freely](https://writefreely.org/) - Open source platform for building a writing space on the web. ([Code](https://github.com/writeas/writefreely))
+- [Write Freely](https://writefreely.org/) - Open source platform for building a writing space on the web. ([Code](https://github.com/writeas/writefreely)) ([SwiftUI MultiPlatform Client](https://github.com/writeas/writefreely-swiftui-multiplatform)) ([HN](https://news.ycombinator.com/item?id=24846559))
 - [Typegram](https://en.tgr.am/@recoilme/1) - [Open source](https://github.com/recoilme/tgram) publishing platform.
 - [Notes on writing well](https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md)
 - [On Writing Well Summary of 7 Principles](https://twitter.com/Madisonkanna/status/1275907061641932800)
@@ -140,7 +142,7 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Few 80/20 tips for writing (2020)](https://www.indiehackers.com/post/a-few-80-20-tips-for-writing-b08941d407)
 - [Good writing is a business advantage](https://adaged.blogspot.com/2020/04/good-writing-is-business-advantage.html) ([HN](https://news.ycombinator.com/item?id=23006106))
 - [How to Grow Your Business by Writing: Sahil Lavingia + David Perell (2020)](https://www.youtube.com/watch?v=grXrGaT7DLw)
-- [Hemingway App](http://www.hemingwayapp.com/) - Makes your writing bold and clear.
+- [Hemingway App](http://www.hemingwayapp.com/) - Makes your writing bold and clear. ([HN](https://news.ycombinator.com/item?id=25125302))
 - [Making sense of Design Unbound vs. prior theories of collaborative design work (2020)](https://www.twitch.tv/videos/611050187)
 - [Proselint](http://proselint.com/) - Linter for prose. ([Code](https://github.com/amperser/proselint))
 - [2020 Pulitzer Prize Winners](https://www.pulitzer.org/news/announcement-2020-pulitzer-prize-winners) ([HN](https://news.ycombinator.com/item?id=23072690))
@@ -162,3 +164,40 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Fluently](https://fluently.so/trybeta) - Online text editor with a multilingual translator, dictionary, and thesaurus built-in.
 - [Scott McCloud Discusses the Making of The Sculptor (2015)](https://www.youtube.com/watch?v=P46qJVKxGo8)
 - [How to Write Technical Posts (so people will read them) (2019)](https://reasonablypolymorphic.com/blog/writing-technical-posts/) ([Lobsters](https://lobste.rs/s/5xfwza/how_write_technical_posts_so_people_will))
+- [Write to a short attention span (2020)](https://matthewrocklin.com/blog/work/2020/07/13/brevity)
+- [Lobsters: What are you writing? (2020)](https://lobste.rs/s/gueost/what_are_you_writing)
+- [My Writing Setup (2020)](https://explog.in/notes/writingsetup.html) ([Lobsters](https://lobste.rs/s/2fngph/my_writing_setup))
+- [Learn Ulysses course](https://thesweetsetup.com/ulysses/)
+- [Writing Tips for Remote Workers (And Everyone Else)](https://doist.com/blog/writing-tips/)
+- [WordSafety](http://wordsafety.com/) - Check a name for unwanted meanings in foreign languages. ([HN](https://news.ycombinator.com/item?id=24006618))
+- [A Founder's Guide to Writing Well (2020)](https://firstround.com/review/a-founders-guide-to-writing-well/)
+- [The Age of the Essay (2004)](http://www.paulgraham.com/essay.html)
+- [Architecture of Writing (2020)](https://forum.hyperlink.academy/t/architecture-of-writing/141/8)
+- [Writing to Learn: How to Write--And Think--Clearly about Any Subject at All (1993)](https://www.goodreads.com/book/show/585474.Writing_to_Learn)
+- [Reading Supply](https://reading.supply/) - Writing and discussion platform.
+- [Vale](https://github.com/errata-ai/vale) - Command-line tool that brings code-like linting to prose. ([Docs](https://docs.errata.ai/))
+- [errata.ai](https://errata.ai/) - Innovative tools for collaborative writing. ([GitHub](https://github.com/errata-ai))
+- [George Orwell: Politics and the English Language](https://www.orwell.ru/library/essays/politics/english/e_polit)
+- [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html) ([HN](https://news.ycombinator.com/item?id=24268382))
+- [Andy's Note-writing stream (2020)](https://www.youtube.com/watch?v=DGcs4tyey18)
+- [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
+- [On the importance of writing for for computer-type-people](https://twitter.com/LeaKissner/status/1304419161364340737)
+- [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing)
+- [Why you should write (2020)](https://www.preetamnath.com/blog/why-you-should-write) ([HN](https://news.ycombinator.com/item?id=24743944))
+- [Google Journalist Studio](https://journaliststudio.google.com/) - Collection of tools to empower journalists to do their work more efficiently, creatively, and securely.
+- [Writing for Programmers by Paulus Esterhazy (2020)](https://www.youtube.com/watch?v=T7-2DW-KDV4) ([Slides](https://app.pitch.com/app/public/presentation/ac050780-ea9d-4a74-8b35-99366031b1fa))
+- [On Deck Writer Fellowship](https://www.beondeck.com/writers) - Where the best writers go to grow their audience and improve their craft.
+- [Asciidoctor](https://asciidoctor.org/) - Fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook, PDF, and other formats. ([Code](https://github.com/asciidoctor/asciidoctor)) ([HN](https://news.ycombinator.com/item?id=24849348))
+- [Telescopic Text](https://www.telescopictext.org/) - Experimental tool for creating expanding texts.
+- [Steps to Improve Your Writing (2020)](https://adamfaliq.wordpress.com/2020/10/28/write-well/) ([HN](https://news.ycombinator.com/item?id=24915774))
+- [The Ultimate Guide to Writing Online](https://www.perell.com/blog/the-ultimate-guide-to-writing-online)
+- [Grammarly](https://www.grammarly.com/) - Free writing app to make their online writing clear and effective.
+- [Writing for Reasons (2020)](https://blog.sulami.xyz/posts/writing-for-reasons/)
+- [The job of a writer (2020)](https://thesephist.com/posts/writer/)
+- [8 questions for writing (2020)](https://vasilishynkarenka.com/8questions/)
+- [Robert Eggers on Making The Lighthouse: Full Screenwriter's Lecture and Q&A | On Writing (2020)](https://www.youtube.com/watch?v=XrqkfWFCCIs)
+- [David Lynch: Don't fear writer's block, get a setup, and be patient (2020)](https://www.youtube.com/watch?v=uHhf76z6BkM)
+- [How do you write simple explanations without sounding condescending (2020)](https://jvns.ca/blog/2020/11/15/simple-explanations-without-sounding-condescending/) ([Lobsters](https://lobste.rs/s/qzdqit/how_do_you_write_simple_explanations))
+- [The Craft of Writing Effectively (2014)](https://www.youtube.com/watch?v=vtIzMaLkCaM)
+- [Writing well](https://www.julian.com/guide/write/intro) ([HN](https://news.ycombinator.com/item?id=25216442))
+- [Prose for Programmers Book](https://github.com/joshuacc/prose-for-programmers) - Book aimed at helping software developers write better prose.

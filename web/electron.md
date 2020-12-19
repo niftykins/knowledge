@@ -21,3 +21,9 @@
 - [Make Your Electron App Feel at Home Everywhere (2019)](https://kilianvalkhof.com/2019/electron/make-your-electron-app-feel-at-home-everywhere/)
 - [electron-builder-notarize](https://github.com/karaggeorge/electron-builder-notarize) - Notarize Electron applications using electron-builder.
 - [Collection of apps built on Electron](https://www.electronjs.org/apps) ([Code](https://github.com/electron/apps))
+- [Desktop apps with Electron course](https://desktopappswithelectron.com/)
+- [Libraries Slack Desktop Uses](https://slack.com/libs/desktop)
+- [Debugging Electron Memory Usage](http://seenaburns.com/debugging-electron-memory-usage/)
+- [Thumbnailing in Isolate: Background workers in Electron (2019)](http://seenaburns.com/2019/01/02/thumbnailing-in-isolate/)
+- [Why I chose Electron.js for my side business (2020)](https://getloaf.io/blog/why-i-chose-electronjs/) ([HN](https://news.ycombinator.com/item?id=25136406))
+- [Nuxtron](https://github.com/saltyshiomix/nuxtron) - Nuxt.js + Electron.

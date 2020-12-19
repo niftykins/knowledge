@@ -51,11 +51,37 @@
 - [action-cli](https://github.com/numtide/action-cli) - GitHub actions without JavaScript.
 - [amplify-cli-action](https://github.com/ambientlight/amplify-cli-action) - GitHub action for deploying AWS Amplify project.
 - [configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions.
+- [Safe space](https://github.com/charliegerard/safe-space) - Github action that checks the toxicity level of comments and PR reviews to help make repos safe spaces. ([Article](https://charliegerard.dev/blog/github-action-toxic-comments/))
+- [Latest Changes](https://github.com/tiangolo/latest-changes) - Automatically add the changes from each PR to the release notes in a file.
+- [Autosquash](https://github.com/tibdex/autosquash) - Automatically updates and merges your pull requests.
+- [chart-releaser](https://github.com/helm/chart-releaser-action) - GitHub Action to turn a GitHub project into a self-hosted Helm chart repo, using helm/chart-releaser CLI tool.
+- [action-waypoint](https://github.com/hashicorp/action-waypoint) - GitHub action for deploying and annotating PRs and commits with Waypoint.
+- [action-slack](https://github.com/8398a7/action-slack) - Provides the function of slack notification to GitHub Actions.
+- [readme-scribe](https://github.com/muesli/readme-scribe) - GitHub Action that automatically generates & updates markdown content (like your readme.md).
+- [Workflow Webhook Action](https://github.com/distributhor/workflow-webhook) - GitHub workflow action to call a remote webhook endpoint with a JSON or form-urlencoded payload, and support for BASIC authentication.
+- [Image Actions](https://github.com/calibreapp/image-actions) - Automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
+- [GitHub Actions](https://github.com/LouisBrunner/checks-action) - Allows you to create Check Runs directly from your GitHub Action workflow.
+- [Codecov](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov.
+- [Upload to Apple's TestFlight service](https://github.com/Apple-Actions/upload-testflight-build) - GitHub Action that Uploads a build to Apple TestFlight.
+- [Commitsar](https://github.com/aevea/commitsar) - Tool to check that commits comply with conventional commit standard.
+- [Release Please Action](https://github.com/google-github-actions/release-please-action) - Automate releases with Conventional Commit Messages.
+- [Respond to Issue Based on Label](https://github.com/hramos/respond-to-issue-based-on-label) - Bot that responds with a comment whenever a particular label is applied to an issue.
+- [Create or Update Comment](https://github.com/peter-evans/create-or-update-comment) - GitHub action to create or update an issue or pull request comment.
+- [pre-commit/action](https://github.com/pre-commit/action) - GitHub action to run pre-commit.
+- [CodeQL Action](https://github.com/github/codeql-action) - Runs GitHub's industry-leading static analysis engine, CodeQL, against a repository's source code to find security vulnerabilities.
+- [Login Action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry.
+- [Amazon ECR Login](https://github.com/aws-actions/amazon-ecr-login) - Logs into Amazon ECR with the local Docker client.
+- [PR Merge Bot](https://github.com/squalrus/merge-bot) - GitHub action that manages pull request integrations.
+- [Open Collective Bot](https://github.com/opencollective/opencollective-bot) - Will comment on issues based on whether the author is already a backer of your Open Collective.
+- [Is Sponsor Label](https://github.com/JasonEtco/is-sponsor-label-action) - GitHub Action that labels issues/PRs if the creator is a sponsor of the owner.
+- [Linkrot](https://github.com/tmcw/linkrot) - GitHub Action that helps you automatically maintain the correctness of your website's outgoing links.
+- [lychee link checking action](https://github.com/lycheeverse/lychee-action) - Quickly check links in Markdown, HTML, and text files.
 
 ## Go
 
 - [gobenchdata](https://github.com/bobheadxi/gobenchdata) - Tool for inspecting go test -bench data, and a GitHub Action for continuous benchmarking.
 - [golangci-lint](https://github.com/actions-contrib/golangci-lint) - GitHub Action for interacting with GolangCI-Lint.
+- [action-update-go](https://github.com/thepwagner/action-update-go) - GitHub Action to open PRs proposing dependency updates.
 
 ## Rust
 
@@ -66,16 +92,28 @@
 - [clippy-check](https://github.com/actions-rs/clippy-check) - GitHub Action for PR annotations with clippy warnings.
 - [Rust tarpaulin Action](https://github.com/actions-rs/tarpaulin) - GitHub Action for code coverage reporting with tarpaulin.
 - [@actions-rs example](https://github.com/actions-rs/example) - Rust application example which is using GitHub Actions for CI.
+- [Rust Cache Action](https://github.com/Swatinem/rust-cache) - GitHub Action that implements smart caching for rust/cargo projects with sensible defaults.
 
 ## Python
 
 - [Setup Miniconda](https://github.com/goanpeca/setup-miniconda) - Set up your GitHub Actions workflow with conda via miniconda.
 - [setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of python.
+- [setup-poetry](https://github.com/Gr1N/setup-poetry) - Set up your GitHub Actions workflow with a specific version of Poetry.
 
 ## JS
 
 - [npm-publish-action](https://github.com/pascalgn/npm-publish-action) - GitHub action to automatically publish packages to npm.
 - [Size Limit](https://github.com/andresz1/size-limit-action) - Compare the real cost to run your JS app or lib to keep good performance in every pull request.
+- [npm-install](https://github.com/bahmutov/npm-install) - GitHub Action to install npm dependencies with caching without any configuration.
+- [Jest Github Action](https://github.com/mattallty/jest-github-action) - Jest action adding checks with annotations to your pull requests and coverage table as comments.
+
+## TS
+
+- [ts_ci](https://github.com/garronej/ts_ci) - Continus integration setup for TypeScript projects via GitHub Actions.
+
+## Julia
+
+- [setup-julia](https://github.com/julia-actions/setup-julia) - Sets up a Julia environment for use in actions by downloading a specified version of Julia and adding it to PATH.
 
 ## Docker
 
@@ -86,6 +124,14 @@
 
 - [install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [cachix-action](https://github.com/cachix/cachix-action) - Build software only once using Nix with the help of Cachix.
+
+## Haskell
+
+- [Haskell Github Actions](https://github.com/haskell/actions) - Github actions for Haskell CI.
+
+## Java
+
+- [setup-java](https://github.com/actions/setup-java) - Set up your GitHub Actions workflow with a specific version of Java.
 
 ## Templates
 
@@ -107,6 +153,7 @@
 - [JavaScript Action Template](https://github.com/actions/javascript-template)
 - [migrate-actions tool](https://github.com/actions/migrate) - Converts GitHub Actions main.workflow files into the new .yml syntax.
 - [GitHub Actions Toolkit](https://github.com/actions/toolkit) - GitHub ToolKit for developing GitHub Actions.
+- [DevBots Toolkit](https://github.com/devbotsxyz/toolkit) - Mix of utility functions and helpers for writing GitHub Actions related to development on Apple's platforms.
 - [GitHub action to automatically rebase PRs](https://github.com/cirrus-actions/rebase)
 - [Set up your GitHub Actions workflow with a specific version of node.js](https://github.com/actions/setup-node)
 - [An Unintentionally Comprehensive Introduction to GitHub Actions CI (2019)](https://dev.to/bnb/an-unintentionally-comprehensive-introduction-to-github-actions-ci-blm)
@@ -124,3 +171,28 @@
 - [goaction](https://github.com/posener/goaction) - Write Github actions in Go.
 - [Goaction example for using Github APIs](https://github.com/posener/goaction-issues-example)
 - [github-actions-dhall](https://github.com/vmchale/github-actions-dhall) - Demonstration using Dhall to generate YAML for github actions.
+- [GitHub Actions: Manual triggers with workflow_dispatch (2020)](https://github.blog/changelog/2020-07-06-github-actions-manual-triggers-with-workflow_dispatch/)
+- [Happy-PR: Pull Request Sentiment Analysis with GitHub Actions (2020)](https://dev.to/terabytetiger/happy-pr-pull-request-sentiment-analysis-with-github-actions-i0i)
+- [Automate GitHub for more than CI/CD (2020)](https://opensource.creativecommons.org/blog/entries/automate-github-for-more-than-CI%20CD/)
+- [Self hosted Github Actions runners in Kubernetes (2020)](https://vitobotta.com/2020/09/29/self-hosted-github-actions-runners-in-kubernetes/)
+- [Running GitHub Actions for Certain Commit Messages (2020)](https://ryangjchandler.co.uk/articles/running-github-actions-for-certain-commit-messages)
+- [Actionsflow](https://github.com/actionsflow/actionsflow) - IFTTT/Zapier free alternative based on GitHub Actions. ([HN](https://news.ycombinator.com/item?id=24648960))
+- [Publish to GitHub Container Registry Using GitHub Actions (2020)](https://codesalad.dev/blog/push-to-github-container-registry-using-github-actions-7)
+- [GitHub Actions: first impressions (2020)](https://eli.thegreenplace.net/2020/github-actions-first-impressions/)
+- [Build and deploy OpenFaaS functions with GitHub Actions (2020)](https://www.openfaas.com/blog/openfaas-functions-with-github-actions/)
+- [Meercode](https://meercode.io/) - Github Actions Dashboard. Keep an eye on your latest builds.
+- [Run your GitHub Actions in AWS CodeBuild](https://github.com/glassechidna/cbactions)
+- [GitHub Actions SDK (Go)](https://github.com/sethvargo/go-githubactions)
+- [Push to GitHub Container Registry using GitHub Actions (2020)](https://codesalad.dev/blog/push-to-github-container-registry-using-github-actions-7)
+- [Create a JavaScript GitHub Action using TypeScript](https://github.com/actions/typescript-action)
+- [Docker GitHub Action Example](https://github.com/metcalfc/docker-action-examples)
+- [Tidymodels DVC Mashup (2020)](https://loppsided.blog/posts/2020-10-26-tidymodels-dvc-mashup/) - Using Github Actions and Data Version Control for ModelOps in R.
+- [GitHub Actions VS Code extension](https://marketplace.visualstudio.com/items?itemName=cschleiden.vscode-github-actions) - Simple, unofficial extension to interact with GitHub Actions from within VS Code. ([Code](https://github.com/cschleiden/vscode-github-actions))
+- [Become a GitHub Actions Hero](https://github-actions-hero.now.sh/) - Small, interactive tutorial for the GitHub Actions workflow syntax with an emulated workflow parser and runner. ([Code](https://github.com/cschleiden/github-actions-hero))
+- [Apple Github Actions (iOS & macOS)](https://github.com/Apple-Actions)
+- [Google GitHub Actions](https://github.com/google-github-actions)
+- [Custom GitHub Actions with Docker (2020)](https://sethetter.com/posts/github-actions-with-docker/)
+- [GitHub Actions Virtual Environments](https://github.com/actions/virtual-environments) - Contains the source used to create the virtual environments for GitHub Actions hosted runners, as well as the VM images of Microsoft-hosted agents used for Azure Pipelines.
+- [ghat](https://github.com/fregante/ghat) - Reuse GitHub Actions workflows across repositories.
+- [go-actions-toolkit](https://github.com/haya14busa/go-actions-toolkit) - GitHub Actions Toolkit in Go.
+- [RepoKitteh](https://www.repokitteh.io/) - Easily write and deploy functions to automate your workflow.

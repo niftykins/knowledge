@@ -14,12 +14,15 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [HashBackup](http://www.hashbackup.com/) - Unix command-line backup program to create a local backup, remote offsite backup, or both, in your own storage accounts.
 - [Kopia](https://github.com/kopia/kopia) - Simple, cross-platform tool for managing encrypted backups in the cloud.
 - [knoxite](https://github.com/knoxite/knoxite) - Data storage & backup system.
-- [Rclone](https://github.com/rclone/rclone) - Command line program to sync files and directories to and from different cloud storage providers. ([HN](https://news.ycombinator.com/item?id=22791036))
+- [Rclone](https://github.com/rclone/rclone) - Command line program to sync files and directories to and from different cloud storage providers. ([HN](https://news.ycombinator.com/item?id=22791036)) ([Web](https://rclone.org/))
 - [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication.
 - [encbup](https://github.com/skorokithakis/encbup) - Companion to bup, the backup program. encbup adds encryption to bup, while still allowing per-file deduplication.
 - [Conserve](https://github.com/sourcefrog/conserve) - Robust portable backup tool in Rust.
 - [tm](https://github.com/erica/tm) - Time Machine recovery utility for the six-or-so people who still use Time Machine for version control.
 - [Unison](https://github.com/bcpierce00/unison) - File-synchronization tool for OSX, Unix, and Windows. ([Web](https://www.cis.upenn.edu/~bcpierce/unison/))
+- [Tarsnap](https://www.tarsnap.com/) - Online backups for the truly paranoid. ([HN](https://news.ycombinator.com/item?id=24535046))
+- [Bupstash](https://bupstash.io/) - Encrypted backups made easy. ([Code](https://github.com/andrewchambers/bupstash)) ([Introducing Bupstash](https://acha.ninja/blog/introducing_bupstash/)) ([Lobsters](https://lobste.rs/s/k5opww/introducing_bupstash))
+- [BlobBackup](https://blobbackup.com/) - Simple Backups to Any Storage.
 
 ## Cloud Storage
 
@@ -43,3 +46,6 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Backblaze B2 Cloud Storage Now Has S3 Compatible APIs (2020)](https://www.backblaze.com/blog/backblaze-b2-s3-compatible-api/) ([HN](https://news.ycombinator.com/item?id=23069114))
 - [tmignore](https://github.com/samuelmeuli/tmignore) - Exclude development files from Time Machine backups.
 - [Setting up your backup service (2020)](https://www.williamjbowman.com/blog/2020/06/30/setting-up-your-backup-service/)
+- [Organizing Data Through the Lens of Deduplication (2020)](https://www.anishathalye.com/2020/08/03/periscope/) ([Lobsters](https://lobste.rs/s/udqu02/organizing_data_through_lens))
+- [Backing up data like the adult I supposedly am (2020)](https://magnusson.io/post/backups/) ([Lobsters](https://lobste.rs/s/bmqi6l/backing_up_data_like_adult_i_supposedly_am)) ([HN](https://news.ycombinator.com/item?id=24526706))
+- [Automatic restic backups using systemd services and timers](https://github.com/erikw/restic-systemd-automatic-backup)

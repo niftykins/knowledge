@@ -5,9 +5,22 @@
 - Don't try to time the market. Time in the market is better than timing the market.
 - If you want the theoretically highest return then get in immediately, because the only guaranteed way to on average increase your return is to be in the market for a longer period of time. If you're worried about volatility then accumulate your position over a week or a month at a set rate.
 - ISA investing is tax-free. Can use [Vanguard](https://www.vanguardinvestor.co.uk/investing-explained/stocks-shares-isa) for it.
+- [Welcome high-profile failures.](https://twitter.com/patio11/status/1296303522737033216)
+- [Volatility of the markets: Personally, I give it absolutely no respect at all. I do not give a shit about the world, news, politics, economy, COVID, all time highs, all time lows, V shape recovery, W shape recovery, wars, recessions, etc.](https://www.reddit.com/r/investing/comments/igz1d2/what_is_the_best_investing_tip_for_beginner/)
+  - Those things have absolutely no impact on how I invest. I am boring and I really don’t give a shit. As such, I’ll keep investing half of my pay every pay until I retire/die as my job is stable with high job security, I have a solid emergency fund that can cover 6 months worth of living expenses, I have no debt, and I have no expensive tastes/hobbies.
+  - Finally, I actually look forward to and hope for recessions and market crashes because I am a super long term investor. This allows me to buy more shit and reach my own financial goals quicker and I don’t care how greedy and/or selfish that sounds. I’m investing for me, my family, and future unborn generations.
+- [Invest in Index Funds every month and invest more when there is a market crash and recession.](https://www.reddit.com/r/investing/comments/igz1d2/what_is_the_best_investing_tip_for_beginner/)
+- Think like an investor and not a trader, one should aim to learn to think like a business man. That means thinking about customer value, customer experience, demographic changes and consumer behavior.
+  - Your portfolio as the literal portfolio of an active owner of multiple businesses. Since you can’t influence management, the point is not to kid yourself that you can do a better job than world class management. You’re just learning to spot them and attach your capital to their knowledge and skills. It also makes the hobby more fun, as you learn what good solutions to problems look like.
+- [QQQ index](https://www.investopedia.com/ask/answers/061715/what-qqq-etf.asp) has [nice returns](https://www.reddit.com/r/investing/comments/igz1d2/what_is_the_best_investing_tip_for_beginner/g2wyqab/)
+- [Don’t chase companies. Don’t move money to ride the hot company that month. Do your research, plan, and then wait. Check your evaluation and then execute.](https://www.reddit.com/r/investing/comments/igz1d2/what_is_the_best_investing_tip_for_beginner/)
+- [In a company, you have a board and you have shareholders. If you don't want the mould of a public company, you create or keep it as a private company. In a private company, you can do any of these employee stock options or buybacks or long term things, much as you can do with a public company, if you wanted to. The board and the shareholders have a similar sort of dynamic in both, but I would say the board of a private company invites less scrutiny, or at least less fully public scrutiny.](https://news.ycombinator.com/item?id=24456655)
+- [Historically accounts that trade more often do poorly. There are a variety of reasons for this, some of which might no longer apply with "zero cost" brokerage accounts. (I say zero cost, since some, like Robinhood sell their order stream). Ignoring the zero cost brokerage there are still costs with taxes. It also starts to get into market timing, which is very difficult to do. By holding onto a stock for the long term, owners are less likely to over react emotionally to good or bad news, allowing it to cloud their judgement. That having been said, if tomorrow you learn the stock has a serious, fundamental problem that effects it's core business, then selling it is a reasonable strategy. I believe this is the reason why Buffett dumped his holdings in the airline industry in March. It has since bounced back in price, but the fundamental issues of lower passengers remain, and likely will continue to remain for several years.](https://www.reddit.com/r/investing/comments/kbopcx/the_big_problem_with_this_and_other_big/)
+- [The line separating investment and speculation, which is never bright and clear, becomes blurred still further when most market participants have recently enjoyed triumphs. Nothing sedates rationality like large doses of effortless money.](https://www.reddit.com/r/investing/comments/kbgtbu/for_all_those_who_know_we_are_in_a_bubble_but/)
 
 ## Links
 
+- [Bogleheads](https://www.bogleheads.org/) - Investing Advice and Info. ([HN](https://news.ycombinator.com/item?id=24023604))
 - [Bogleheads Wiki](https://www.bogleheads.org/wiki/Main_Page) - Great resource.
 - [Lazy portfolios](https://www.bogleheads.org/wiki/Lazy_portfolios)
 - [Keith Rabois' investment criteria](https://twitter.com/rabois/status/934099022603747329)
@@ -21,7 +34,6 @@
 - [How To Invest In Startups (2020)](https://blog.samaltman.com/how-to-invest-in-startups) ([HN](https://news.ycombinator.com/item?id=22035997))
 - [Fey](https://www.feyapp.com/) - Gives you the complete picture of your portfolio, with fast data entry, always-on risk analysis and more.
 - [Top companies by market cap](https://finviz.com/screener.ashx?o=-marketcap)
-- [FINVIZ](https://finviz.com/) - Financial visualizations.
 - [How to start angel investing (2020)](https://medium.com/@juliadewahl/how-to-start-angel-investing-8f2eb779e96f)
 - [Investors Club](https://investors.club/) - Paid, members-only marketplace for serious buyers interested in proven businesses that aren't listed anywhere else.
 - [Tesla: the ’20s (2020)](https://jwmza.com/thoughts/tesla-the-20s/)
@@ -69,7 +81,7 @@
 - [Blueprint Project](https://blueprint.dormroomfund.com/) - Masterclass by Dorm Room Fund aimed at empowering diverse investors and founders.
 - [Jeff Morris Jr. (Founder & Managing Partner at Chapter One) interview (2020)](https://thetakeoff.substack.com/p/jeff-morris-jr-edition-15)
 - [Numerai](https://numer.ai/) - AI-run, crowd-sourced hedge fund.
-- [FINVIZ](https://www.finviz.com/) - Stock Screener.
+- [FINVIZ](https://www.finviz.com/) - Stock screener for investors and traders, financial visualizations.
 - [How do I get better at following lesser known stocks? (2020)](https://www.reddit.com/r/investing/comments/gyax1h/how_do_i_get_better_at_following_lesser_known/)
 - [Fortune 500 companies](https://fortune.com/fortune500/) ([Parsed as CSV](https://github.com/cmusam/fortune500))
 - [S&P 500 Companies with Financial Information](https://datahub.io/core/s-and-p-500-companies) ([Code](https://github.com/datasets/s-and-p-500-companies))
@@ -77,3 +89,41 @@
 - [How to not get ruined with Options (2020)](https://www.reddit.com/r/investing/comments/hdft5z/how_to_not_get_ruined_with_options_part_1_of_4/)
 - [Andrew Wilkinson & Tiny Capital Operating Manual (2020)](https://colinkeeley.com/blog/andrew-wilkinson-tiny-capital-operating-manual) ([HN](https://news.ycombinator.com/item?id=23739381))
 - [Charlie Songhurst – Lessons from Investing in 483 Companies (2020)](http://investorfieldguide.com/songhurst/) ([Tweet](https://twitter.com/patrick_oshag/status/1280889822404624384))
+- [Via by On Deck](https://via.beondeck.com/) - Get referred to breakout companies via top investors.
+- [Visual History Of The S&P 500](https://etfdb.com/history-of-the-s-and-p-500/)
+- [Software Stack Investing](https://softwarestackinvesting.com/)
+- [Robinhood and How to Lose Money (2020)](https://themargins.substack.com/p/robinhood-and-how-to-lose-money) ([HN](https://news.ycombinator.com/item?id=23894228))
+- [Ask HN: I have \$450K cash, what should I do to maximize my return? (2020)](https://news.ycombinator.com/item?id=24020899)
+- [Public.com](https://public.com/) - Social Investing App.
+- [Rolling funds explanation (2020)](https://github.com/cassidoo/stream-hooks-demo)
+- [Naval Ravikant on Investing](https://www.navalmanack.com/investing)
+- [Investing ft. Brianne Kimmel (worklife), Tyler Tringas (Earnest Capital), and Sunil Pai (AngelList) (2020)](https://www.youtube.com/watch?v=a6oxclPIaxs) ([Article](https://techcrunch.com/2020/08/05/gumroad-founder-sahil-lavingia-launches-new-seed-fund-in-collaboration-with-angellist/))
+- [Announcing Initialized Fund V (2020)](https://medium.com/initialized-capital/announcing-initialized-fund-v-ab34becf68c9)
+- [Advice on investing in fintech companies (2020)](https://twitter.com/arfrank/status/1297997387475099654)
+- [What is the best investing tip for beginner investors you wish you knew when you started? (2020)](https://www.reddit.com/r/investing/comments/igz1d2/what_is_the_best_investing_tip_for_beginner/)
+- [The Truth About "Trading Gurus" From a Hedge Fund Manager (2020)](https://www.youtube.com/watch?v=JfP4rVsmL_Q) ([Tweet](https://twitter.com/ossia/status/1300473889663995904))
+- [The Long-Term Stock Exchange Opens for Business (2020)](https://blog.ltse.com/the-long-term-stock-exchange-opens-for-business-38b13f51e87b) ([HN](https://news.ycombinator.com/item?id=24420177))
+- [HN: JPMorgan to trade shares of pre-IPO giants including SpaceX, Robinhood, Airbnb (2020)](https://news.ycombinator.com/item?id=24456655)
+- [Ask HN: What are your instruments for investment? (2020)](https://news.ycombinator.com/item?id=24539605)
+- [PG and Jessica (2020)](https://blog.samaltman.com/pg-and-jessica) ([HN](https://news.ycombinator.com/item?id=24590401))
+- [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
+- [Qlib](https://github.com/microsoft/qlib) - AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment.
+- [Favorite dividend stock/etf to invest in (2020)](https://www.reddit.com/r/investing/comments/j8quo5/favorite_dividend_stocketf_to_invest_in/)
+- [ARK Invest](https://ark-funds.com/) - Innovation ETFs.
+- [Reddit's Stock Threads Become a Must-Read on Wall Street (2020)](https://www.bloomberg.com/news/articles/2020-10-10/home-made-covid-vaccine-appeared-to-work-but-questions-remained) ([HN](https://news.ycombinator.com/item?id=24739458))
+- [Collection of stock market resources and tools](https://github.com/ckz8780/market-toolkit)
+- [LazyFA](https://www.lazyfa.com/) - Automated Fundamental Analysis.
+- [EliteQuant](https://github.com/EliteQuant/EliteQuant) - List of online resources for quantitative modeling, trading, portfolio management.
+- [How I failed my daughter and a simple path to wealth (2011)](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/)
+- [Investing with Vanguard for Europeans: 2020 update](https://jlcollinsnh.com/2020/04/22/investing-with-vanguard-for-europeans-2020-update/)
+- [The Swedish Investor videos](https://www.youtube.com/c/TheSwedishInvestor/videos)
+- [Robin Stocks](https://github.com/jmfernandes/robin_stocks) - Robinhood API Library. ([Docs](https://robin-stocks.readthedocs.io/en/latest/))
+- [pyrh](https://github.com/robinhood-unofficial/pyrh) - Python Framework to make trades with the unofficial Robinhood API.
+- [lbPy](https://github.com/blampe/IbPy) - Python API for the Interactive Brokers on-line trading system.
+- [How to Break into Startup Investing (2020)](https://eriktorenberg.substack.com/p/how-to-break-into-startup-investing)
+- [Awesome Investing](https://github.com/mr-karan/awesome-investing)
+- [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity.
+- [Save like a pessimist, invest like an optimist (2020)](https://www.collaborativefund.com/blog/save-like-a-pessimist-invest-like-an-optimist/) ([HN](https://news.ycombinator.com/item?id=25093308))
+- [TradingView](https://www.tradingview.com/) - Free Stock Charts, Stock Quotes and Trade Ideas.
+- [Vanguard Total World Stock ETF](https://investor.vanguard.com/etf/profile/VT) ([Reddit](https://www.reddit.com/r/IAmA/comments/k9b4g8/im_ray_daliofounder_of_bridgewater_associates_we/gf4ga79/?utm_source=reddit&utm_medium=web2x&context=3))
+- [Ark ETF tracker](https://cathiesark.com/) ([HN](https://news.ycombinator.com/item?id=25421207))

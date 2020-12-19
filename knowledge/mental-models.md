@@ -18,3 +18,8 @@
 - [Mental Models app](https://mentalmodels.edvo.com/) - Tools to help you think better and navigate life better.
 - [Running list of mental models to analyze technology, business, and product strategy](https://twitter.com/gonsanchezs/status/1270053477096587277)
 - [Measure: a mental model for decision-making (2019)](https://taimur.me/posts/measure-a-mental-model-for-decision-making/)
+- [Invert, always, invert (2020)](https://www.anup.io/2020/07/20/invert-always-invert/) ([HN](https://news.ycombinator.com/item?id=23905221))
+- [Theory of Startups: a free book on mental models for startup founders (2020)](https://invertedpassion.com/free-book-mental-models-for-startup-founders/)
+- [Mentat Wiki](http://www.ludism.org/mentat/) - Exploring ways to become a better thinker. ([HN](https://news.ycombinator.com/item?id=24568112))
+- [Convex and Concave Dispositions (2020)](https://vitalik.ca/general/2020/11/08/concave.html)
+- [Thomas Sowell, a lesson in critical thinking (1995)](https://www.youtube.com/watch?v=waEc4YbQQX0)

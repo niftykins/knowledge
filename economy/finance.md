@@ -65,3 +65,20 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Gather](https://www.usegather.com/) - Collaborative finance tool.
 - [Stripe](https://stripe.com/en-nl) - Online payment processing for internet businesses.
 - [Financial Statements: A Beginner's Guide (2020)](https://www.causal.app/blog/whats-a-financial-statement) ([HN](https://news.ycombinator.com/item?id=23825606))
+- [Awesome Foundations of Decentralized Finance (DeFi)](https://github.com/Mikerah/awesome-foundations-of-DeFi)
+- [Why Credit Card Fraud Is Still a Thing (2020)](https://krebsonsecurity.com/2020/07/heres-why-credit-card-fraud-is-still-a-thing/) ([HN](https://news.ycombinator.com/item?id=23990960))
+- [Ask HN: Do you have a daily cash stream? (2020)](https://news.ycombinator.com/item?id=24047683)
+- [Best countries for FIRE? (2020)](https://www.reddit.com/r/EuropeFIRE/comments/i5gpeh/best_countries_for_fire/)
+- [Mollie](https://www.mollie.com/en) - Effortless payments.
+- [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance)
+- [Paysend](https://paysend.com/) - Send money internationally. Nice for sending money to Russia at low (no) cost.
+- [Tax strategies for large earnings surge (2020)](https://www.reddit.com/r/fatFIRE/comments/jdrl4a/tax_strategies_for_large_earnings_surge/)
+- [Ask HN: Why isn’t finance a part of the core curriculum at schools? (2020)](https://news.ycombinator.com/item?id=24877408)
+- [TrueLayer](https://truelayer.com/) - Simple Open Banking APIs. Build applications that securely access data and initiate payments in real time. ([GitHub](https://github.com/TrueLayer))
+- [11FS](https://11fs.com/) - Creating digital financial services for banks.
+- [Interview Primer for Quantitative Finance](https://github.com/dwcoder/QuantitativePrimer) ([PDF](https://github.com/dwcoder/QuantitativePrimer/blob/master/src/QuantitativePrimer.pdf))
+- [Stripe Treasury](https://stripe.com/treasury) - Banking-as-a-service for platforms. ([Tweet](https://twitter.com/patio11/status/1334518202886328320)) ([HN](https://news.ycombinator.com/item?id=25289626))
+- [Mercury Treasury](https://mercury.com/treasury) - Automatic cash management for high-growth startups.
+- [The Games People Play with Cash Flow (2020)](https://commoncog.com/blog/cash-flow-games/) ([HN](https://news.ycombinator.com/item?id=25357669))
+- [How Payment Transaction Processing Works (2020)](https://blog.privacy.com/how-payment-transactions-work/) ([HN](https://news.ycombinator.com/item?id=25332516))
+- [Stripe’s payments APIs: the first ten years (2020)](https://stripe.com/blog/payment-api-design) ([HN](https://news.ycombinator.com/item?id=25455638))

@@ -7,6 +7,7 @@ Below is a list of plugins I use.
 - [Six](https://github.com/guillermooo/Six) - Vim emulation.
 - [JSPrettier](https://github.com/jonlabelle/SublimeJsPrettier) - Plugin for Prettier, the opinionated code formatter.
 - [AutoDark](https://github.com/jrappen/sublime-auto-dark) - Automatic dark mode, switches Sublime Text's UI according to your operating system's appearance.
+- [PackageDev](https://github.com/SublimeText/PackageDev) - Provides syntax highlighting and other helpful utility for Sublime Text resource files.
 
 ## Looks
 
@@ -28,6 +29,8 @@ Below is a list of plugins I use.
 - [WakaTime](https://wakatime.com/sublime-text) - Automatic time tracking and metrics generated from your programming activity.
 - [Terminus](https://github.com/randy3k/Terminus) - Bring a real terminal to Sublime Text.
 - [Marked](https://github.com/icio/sublime-text-marked) - Preview markdown files quickly with [Marked](http://marked2app.com) app.
+- [NeoVintageous](https://github.com/NeoVintageous/NeoVintageous) - Advanced Vim emulation layer for Sublime Text.
+- [Emmet](https://github.com/emmetio/sublime-text-plugin)
 
 ## Markdown
 

@@ -9,6 +9,7 @@
 - [Gatsby + Cosmic JS](https://github.com/DSchau/-gatsby-blog-cosmicjs-)
 - [Gatsby.js MDX Blog Starter Project](https://github.com/rwieruch/gatsby-mdx-blog-starter-project)
 - [Progression at Monzo](https://progression.monzo.com/) ([Code](https://github.com/monzo/progression-framework))
+- [Gatsby Starter: Mate](https://github.com/EmaSuriano/gatsby-starter-mate) - Accessible and fast portfolio starter for Gatsby integrated with Contentful CMS.
 
 ## Themes
 
@@ -32,6 +33,9 @@
 - [gatsby-plugin-next-seo](https://github.com/ifiokjr/gatsby-plugin-next-seo) - Plug in that makes managing your SEO easier in Gatsby projects.
 - [gatsby-plugin-prettier-build](https://github.com/jmsv/gatsby-plugin-prettier-build) - Prettify gatsby build output.
 - [gatsby-source-airtable](https://github.com/jbolda/gatsby-source-airtable) - Gatsby source plugin for sourcing data into your Gatsby application from your Airtable base tables.
+- [gatsby-remark-twitter-cards](https://github.com/alessbell/gatsby-remark-twitter-cards) - Gatsby remark plugin for generating Twitter card graphics.
+- [gatsby-plugin-s3](https://github.com/jariz/gatsby-plugin-s3) - Deploy your gatsby site to a S3 bucket.
+- [gatsby-remark-embedder](https://github.com/MichaelDeBoey/gatsby-remark-embedder) - Gatsby Remark plugin to embed well known services by their URL.
 
 ## Links
 
@@ -65,3 +69,10 @@
 - [Exploring Art Direction With Gatsby-Image (2020)](https://www.aboutmonica.com/blog/2020-06-24-exploring-art-direction-in-gatsby)
 - [Gatsby And Digital Garden](https://github.com/mathieudutour/gatsby-digital-garden) - Create a digital garden with Gatsby.
 - [Gatsby Design](https://www.gatsby.design/)
+- [Adding Search to Gatsby Blog (2020)](https://www.thomas.wang/blog/adding-search)
+- [Why did I give up using Gatsby for my blog? (2020)](https://eshlox.net/2020/08/15/why-did-i-give-up-using-gatsby-for-my-blog)
+- [An Honest Review of Gatsby (2020)](https://cra.mr/an-honest-review-of-gatsby/) ([HN](https://news.ycombinator.com/item?id=24670252))
+- [Gatsby vs. Next.js (2020)](https://jaredpalmer.com/gatsby-vs-nextjs)
+- [Gatsby Use Cases](https://www.gatsbyjs.com/use-cases/)
+- [We developed a font loader plugin for Gatsby (2020)](https://blog.prototyp.digital/we-developed-a-font-loader-plugin-for-gatsby/)
+- [Gatsby Docs](https://www.gatsbyjs.com/docs/)

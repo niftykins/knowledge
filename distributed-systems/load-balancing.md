@@ -13,3 +13,15 @@
 - [High Availability Load Balancers with Maglev (2020)](https://blog.cloudflare.com/high-availability-load-balancers-with-maglev/)
 - [Examining Load Balancing Algorithms with Envoy (2020)](https://blog.envoyproxy.io/examining-load-balancing-algorithms-with-envoy-1be643ea121c)
 - [Convey](https://github.com/bparli/convey) - Layer 4 load balancer with dynamic configuration loading.
+- [Dropbox posts on load balancing](https://twitter.com/copyconstruct/status/1293796261414371330)
+- [Awesome Load Balancing](https://github.com/cristaloleg/awesome-load-balancing)
+- [Vulcand](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd.
+- [Ask HN: What is an acceptable latency for a web load balancer? (2020)](https://news.ycombinator.com/item?id=24661903)
+- [KgLb](https://github.com/dropbox/kglb) - L4 a load balancer built on top of linux ip virtual server (ip_vs).
+- [Tyler McMullen - Load Balancing is Impossible (2016)](https://www.youtube.com/watch?v=kpvbOzHUakA)
+- [Traefik: canary deployments with weighted load balancing (2020)](https://iximiuz.com/en/posts/traefik-canary-deployments-with-weighted-load-balancing/)
+- [Weaver](https://github.com/gojek/weaver) - Layer-7 Load Balancer with Dynamic Sharding Strategies. It is a modern HTTP reverse proxy with advanced features.
+- [Making applications scalable with Load Balancing (2006)](https://wtarreau.blogspot.com/2006/11/making-applications-scalable-with-load.html)
+- [MetalLB](https://github.com/metallb/metallb) - Load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols. ([Docs](https://www.metallb.org/))
+- [One Year of Load Balancing (2020)](https://www.algolia.com/blog/one-year-load-balancing/) ([HN](https://news.ycombinator.com/item?id=25289751))
+- [Katran](https://github.com/facebookincubator/katran) - High performance layer 4 load balancer.

@@ -12,6 +12,8 @@
 - [react-imported-component](https://github.com/theKashey/react-imported-component) - Bundler-independent solution for SSR-friendly code-splitting.
 - [Configs Webpack Plugin](https://github.com/maraisr/configs-webpack-plugin) - Simplified AoT runtime config solution for your webpack builds.
 - [worker-plugin](https://github.com/GoogleChromeLabs/worker-plugin) - Automatically bundle & compile Web Workers within Webpack.
+- [Critters](https://github.com/GoogleChromeLabs/critters) - Webpack plugin to inline your critical CSS and lazy-load the rest.
+- [Optimize Plugin](https://github.com/developit/optimize-plugin) - Optimize your code for modern browsers.
 
 ## Links
 
@@ -25,9 +27,19 @@
 - [webpack autoconf](https://createapp.dev/) - Tool to create personalized and optimized webpack.config.js
 - [Web Performance Optimization with webpack](https://developers.google.com/web/fundamentals/performance/webpack/)
 - [Building a Great Developer Experience: The Road to Parcel Version 2 (2019)](https://www.youtube.com/watch?v=Osuwky6rRiA)
-- [Bundle Analyzer](https://github.com/smooth-code/bundle-analyzer) - Keep your webpack bundle optimized over time.
+- [Webpack Bundle Analyzer](https://github.com/smooth-code/bundle-analyzer) - Keep your webpack bundle optimized over time.
+- [Webpack Bundle Analyzer 2](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 - [@mixer/webpack-bundle-compare](https://github.com/mixer/webpack-bundle-compare) - Tool for comparing webpack bundle stats.
 - [Tobias Koppers's presentations](https://github.com/sokra/slides)
 - [Webpack Module Federation Examples](https://github.com/module-federation/module-federation-examples)
 - [Webpack and yarn magic against duplicates in bundles (2020)](https://medium.com/@adevnadia/webpack-and-yarn-magic-against-duplicates-in-bundles-52b5e1a5e2e2)
 - [Webpack CLI](https://github.com/webpack/webpack-cli)
+- [Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/) ([HN](https://news.ycombinator.com/item?id=24741529))
+- [How to Set Up webpack 5 from Scratch (2020)](https://www.taniarascia.com/how-to-use-webpack/)
+- [webpack-merge](https://github.com/survivejs/webpack-merge) - Provides a merge function that concatenates arrays and merges objects creating a new object.
+- [esbuild-loader](https://github.com/privatenumber/esbuild-loader) - Speed up your Webpack build with esbuild.
+- [ESLint plugin for webpack](https://github.com/webpack-contrib/eslint-webpack-plugin)
+- [webpack-chain](https://github.com/neutrinojs/webpack-chain) - Chaining API to generate and simplify the modification of Webpack configurations.
+- [Webpack site code](https://github.com/webpack/webpack.js.org)
+- [Advanced React and Webpack configuration (2020)](https://marlom.dev/advanced-react-and-webpack-configuration)
+- [Tips to Optimize Webpack (2020)](https://www.ginkonote.com/users/flo/articles/tips-for-wepack-optimizations@javascript)

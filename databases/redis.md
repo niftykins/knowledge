@@ -29,3 +29,17 @@
 - [The end of the Redis adventure (2020)](http://antirez.com/news/133) ([HN](https://news.ycombinator.com/item?id=23689549))
 - [Redis code](https://github.com/redis-io/redis)
 - [RediSearch](https://github.com/RediSearch/RediSearch/) - Fulltext Search and Secondary Index module for Redis. ([Docs](https://oss.redislabs.com/redisearch/)) ([HN](https://news.ycombinator.com/item?id=23777460))
+- [Little Redis Book](https://github.com/karlseguin/the-little-redis-book/blob/master/en/redis.md)
+- [Introducing RediSearch 2.0 (2020)](https://redislabs.com/blog/introducing-redisearch-2-0/)
+- [RediSQL](https://redisql.com/) - Fastest, simplest, in-memory SQL database server.
+- [Redis Cluster: Architecture, Replication, Sharding and Failover (2019)](https://medium.com/opstree-technology/redis-cluster-architecture-replication-sharding-and-failover-86871e783ac0)
+- [ioredis-mock](https://github.com/stipsan/ioredis-mock) - Emulates ioredis by performing all operations in-memory.
+- [redismodule-rs](https://github.com/RedisLabsModules/redismodule-rs) - Idiomatic Rust API for the Redis Modules API. It allows writing Redis modules in Rust, without needing to use raw pointers or unsafe code.
+- [handy-redis](https://github.com/mmkal/handy-redis) - Wrapper around node_redis with Promise and TypeScript support.
+- [Pydis](https://github.com/boramalper/pydis) - Redis clone in 250 lines of Python, for performance comparison. ([HN](https://news.ycombinator.com/item?id=25100218))
+- [Building a Scalable ML Feature Store with Redis (2020)](https://doordash.engineering/2020/11/19/building-a-gigascale-ml-feature-store-with-redis/)
+- [Redis Website Code](https://github.com/redis/redis-io)
+- [RedisJSON](https://github.com/RedisJSON/RedisJSON) - JSON data type for Redis. ([Docs](https://oss.redislabs.com/redisjson/))
+- [Redis Docs](https://redis.io/documentation) ([Code](https://github.com/redis/redis-doc))
+- [Titan](https://github.com/distributedio/titan) - Distributed implementation of Redis compatible layer based on TiKV.
+- [fakeredis](https://github.com/jamesls/fakeredis) - Fake implementation of redis API (redis-py) for testing purposes.

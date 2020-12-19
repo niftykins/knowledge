@@ -15,7 +15,6 @@ I especially like the distinction of distributing content over distributing link
 - [Share files via IPFS](https://github.com/ipfs-shipyard/ipfs-share-files)
 - [IPFS Collaborative Notebook for Research](https://github.com/ipfs/notes)
 - [gx](https://github.com/whyrusleeping/gx) - Packaging tool built around the distributed, content addressed filesystem IPFS.
-- [Radicle](http://www.radicle.xyz/) - Peer-to-peer stack for code collaboration.
 - [Textile](https://textile.io/) - Set of open source tools that provide a decentralized database, IPFS-based storage, content hosting, and more over Libp2p, IPFS, and Filecoin.
 - [Textile's Threads protocol & database (js-threads)](https://github.com/textileio/js-threads)
 - [go-textile](https://github.com/textileio/go-textile) - Textile implementation in Go.
@@ -35,3 +34,14 @@ I especially like the distinction of distributing content over distributing link
 - [Deploying This Site with IPFS and Scheme (2020)](https://elais.codes/deploying-this-site-with-ipfs-and-scheme.html) ([Lobsters](https://lobste.rs/s/fitmtb/deploying_this_site_with_ipfs_scheme))
 - [I built an IPFS crawler with libp2p (2020)](https://adlrocha.substack.com/p/adlrocha-how-i-built-an-ipfs-crawler) ([HN](https://news.ycombinator.com/item?id=23515997))
 - [Blog Restructure and IPFS (2020)](https://deedlefake.com/blog-restructure-and-ipfs.html)
+- [IPSE](https://www.ipse.io/) - IPFS Search Engine. Distributed Search.
+- [Nix × IPFS – Milestone 1 (2020)](https://blog.ipfs.io/2020-09-08-nix-ipfs-milestone-1/) ([HN](https://news.ycombinator.com/item?id=24621276))
+- [go-orbit-db](https://github.com/berty/go-orbit-db) - P2P Database on IPFS.
+- [Sci-Hub and Library Genesis on IPFS (2020)](https://www.reddit.com/r/DataHoarder/comments/jb1hkn/p2p_free_library_help_build_humanitys_free/)
+- [DKV (Decentralized Key-Value Store) built on IPFS](https://github.com/mikeal/dkv)
+- [js-ipfs-fetch](https://github.com/RangerMauve/js-ipfs-fetch) - Use the same fetch() API browsers provide for HTTP, but for IPFS.
+- [IPFS Live Streaming](https://github.com/tomeshnet/ipfs-live-streaming)
+- [IPFS Companion](https://github.com/ipfs-shipyard/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web.
+- [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - Gives you all the power of IPFS in a convenient desktop app.
+- [Offchain IPFS](https://rs-ipfs.github.io/offchain-ipfs-manual/) - IPFS node embedded within Substrate.
+- [galacteek](https://galacteek.github.io/) - Multi-platform Qt5-based browser/toolbox for the IPFS peer-to-peer network.

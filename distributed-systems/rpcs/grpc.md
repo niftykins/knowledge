@@ -17,6 +17,7 @@
 - [gRPCurl](https://github.com/fullstorydev/grpcurl) - Command-line tool that lets you interact with gRPC servers.
 - [Evans](https://github.com/ktr0731/evans) - More expressive universal gRPC client.
 - [ttrpc](https://github.com/containerd/ttrpc) - GRPC for low-memory environments.
+- [ttrpc-rust](https://github.com/containerd/ttrpc-rust) - Rust implementation of ttrpc (GRPC for low-memory environments).
 - [ygot](https://github.com/openconfig/ygot) - YANG-centric Go toolkit - Go/Protobuf Code Generation; Validation; Marshaling/Unmarshaling.
 - [grpc-graphql-gateway](https://github.com/ysugimoto/grpc-graphql-gateway) - Protoc plugin that generates graphql execution code from Protocol Buffers.
 - [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec.
@@ -26,3 +27,13 @@
 - [protoreflect](https://github.com/jhump/protoreflect) - Reflection (Rich Descriptors) for Go Protocol Buffers.
 - [gRPC Proxy](https://github.com/mwitkow/grpc-proxy) - Go reverse proxy that allows for rich routing of gRPC calls with minimum overhead.
 - [gNMI](https://github.com/openconfig/gnmi) - gRPC Network Management Interface.
+- [Ditching REST with gRPC-web and Envoy (2020)](https://medium.com/swlh/ditching-rest-with-grpc-web-and-envoy-bfaa89a39b32)
+- [Road to gRPC (2020)](https://blog.cloudflare.com/road-to-grpc/)
+- [grpclib](https://github.com/vmagamedov/grpclib) - Pure-Python gRPC implementation for asyncio.
+- [BloomRPC-Mock](https://github.com/uw-labs/bloomrpc-mock) - Toolset library for working with GRPC mocks.
+- [Wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client.
+- [Mortar](https://github.com/go-masonry/mortar) - Go framework/library for building gRPC (and REST) web services.
+- [gRPC microservice for dealing with users and its CLI client + Helm chart](https://github.com/maelvls/users-grpc)
+- [ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
+- [python-betterproto](https://github.com/danielgtaylor/python-betterproto) - Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async gRPC.
+- [grpcbin](https://github.com/moul/grpcbin) - httpbin like for gRPC.

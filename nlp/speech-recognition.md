@@ -16,3 +16,12 @@
 - [Porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [Eesen](https://github.com/srvk/eesen) - End-to-End Speech Recognition using Deep RNN Models and WFST-based Decoding.
 - [Ask HN: Is there any work being done in speech-to-code with deep learning? (2020)](https://news.ycombinator.com/item?id=23497756)
+- [Silero Models](https://github.com/snakers4/silero-models) - Pre-trained STT models and benchmarks made embarrassingly simple.
+- [High-quality pre-trained speech-to-text models now available on Torch Hub](https://pytorch.org/hub/snakers4_silero-models_stt/) ([HN](https://news.ycombinator.com/item?id=24565831))
+- [Wavenet For Speech Denoising](https://github.com/drethage/speech-denoising-wavenet) - Neural network for end-to-end speech denoising, as described in: "A Wavenet For Speech Denoising".
+- [Vosk](https://github.com/wzhd/vosk-rs) - Speech recognition toolkit with state-of-the-art accuracy and low latency in Rust.
+- [Voicegain](https://www.voicegain.ai/) - Speech-to-text Platform and APIs. Speech Recognition.
+- [LibreASR](https://github.com/iceychris/LibreASR) - On-Premises, Streaming Speech Recognition System. ([HN](https://news.ycombinator.com/item?id=25099847))
+- [WORLD](https://github.com/mmorise/World) - High-quality speech analysis, manipulation and synthesis system. ([Web](http://www.isc.meiji.ac.jp/~mmorise/world/english/))
+- [ESPnet](https://github.com/espnet/espnet) - End-to-end speech processing toolkit. ([Docs](https://espnet.github.io/espnet/))
+- [Speaker Diarization](https://github.com/sehgal-simran/Spk-Dzn) - Process to answer the question of 'who spoke when?' in an audio file.

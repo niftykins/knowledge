@@ -8,11 +8,12 @@
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - Software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.
 - [Binary Analysis Next Generation (BANG)](https://github.com/armijnhemel/binaryanalysis-ng) - Framework for unpacking files (like firmware) recursively and running checks on the unpacked files.
 - [radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset.
+- [Rizin](https://github.com/rizinorg/rizin) - Fork of the radare2 reverse engineering framework with a focus on usability, working features and code cleanliness. ([Web](https://rizin.re/)) ([HN](https://news.ycombinator.com/item?id=25402690))
 - [Cutter](https://github.com/radareorg/cutter) - Free and open-source reverse engineering framework powered by radare2.
 - [Reverse Engineering For Beginners (2019)](https://www.youtube.com/playlist?list=PLMB3ddm5Yvh3gf_iev78YP5EPzkA3nPdL)
 - [Reverse engineering course (Focuses on x64 Windows)](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) ([HN](https://news.ycombinator.com/item?id=22061842))
 - [Great reverse engineering courses list](https://news.ycombinator.com/item?id=22063610)
-- [Open Security Training Info](http://opensecuritytraining.info/)
+- [Open Security Training Info](http://opensecuritytraining.info/) ([HN](https://news.ycombinator.com/item?id=25369208))
 - [RPISEC RE/VR Courses](https://github.com/JeremyBlackthorne/RPISEC-Courses)
 - [pixd](https://github.com/FireyFly/pixd) - Colourful visualization tool for binary files.
 - [Datalog Disassembly](https://github.com/GrammaTech/ddisasm) - Fast disassembler which is accurate enough for the resulting assembly code to be reassembled.
@@ -43,3 +44,28 @@
 - [Reverse Engineering Snapchat: Obfuscation Techniques (2020)](https://hot3eed.github.io/snap_part1_obfuscations.html) ([HN](https://news.ycombinator.com/item?id=23557998))
 - [Reverse-engineering and comparing two Game Boy audio amplifier chips (2020)](http://www.righto.com/2020/06/reverse-engineering-and-comparing-two.html)
 - [Reverse Engineering the Comtech AHA363 PCIe Gzip Accelerator Board (2020)](https://tomverbeure.github.io/2020/06/14/AHA363-Reverse-Engineering.html) ([HN](https://news.ycombinator.com/item?id=23596070))
+- [Why can't decompilers perfectly reconstruct source code? (2020)](https://www.reddit.com/r/AskComputerScience/comments/hx8ecu/why_cant_decompilers_perfectly_reconstruct_source/)
+- [Reverse Engineering Starling Bank (Part I): Obfuscation Techniques (2020)](https://hot3eed.github.io/2020/07/30/starling_p1_obfuscations.html)
+- [Reverse-engineering the adder inside the Intel 8086](http://www.righto.com/2020/08/reverse-engineering-adder-inside-intel.html) ([HN](https://news.ycombinator.com/item?id=24021415))
+- [A reverse engineering challenge: an intricate visual pattern in 39 bytes](https://yurichev.com/news/20200731_visual_RE_challenge/) ([Lobsters](https://lobste.rs/s/nisyhu/reverse_engineering_challenge))
+- [Hiding messages in x86 binaries using semantic duals (2020)](https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals) ([Lobsters](https://lobste.rs/s/pd6xcy/hiding_messages_x86_binaries_using))
+- [Reverse Engineering GTA V's Stunt Jump System (2020)](https://hackery.site/writing/gta-v-stunt-jumps/)
+- [ARM Exploitation Book](https://arm-exploitation.com/)
+- [Super Mario Bros. 3 in 3 Minutes – World Record Speedrun Explained (2020)](https://www.youtube.com/watch?v=WWbZFj-cLvk) ([HN](https://news.ycombinator.com/item?id=24456247))
+- [Reverse engineering the Logitech Harmony (2020)](https://twitter.com/foone/status/1251395931351609347) ([Lobsters](https://lobste.rs/s/5wwalu/reverse_engineering_logitech_harmony))
+- [Reverse engineering my cable modem and turning it into an SDR (2020)](https://stdw.github.io/cm-sdr/)
+- [ReSilicon](https://www.reddit.com/r/ReSilicon/) - Place to discuss reverse engineering of integrated circuits, silicon die, methods of decapsulating epoxy and delayering polysilicon.
+- [Reverse-Engineering YouTube (2017)](https://tyrrrz.me/blog/reverse-engineering-youtube)
+- [Spedi](https://github.com/abenkhadra/spedi) - Speculative disassembly, CFG recovery, and call-graph recovery from stripped binaries.
+- [bcov](https://github.com/abenkhadra/bcov) - Static instrumentation tool for efficient binary-level coverage analysis.
+- [Decompetition](https://decompetition.io/) - Reverse Engineering Competition.
+- [Learning Binary Analysis for Debugging and More (2020)](https://h313.info/blog/cpp/security/binary-analysis/2020/11/06/learning-binary-analysis-for-debugging-and-more.html)
+- [Improve Software Debugging with Binary Analysis (2020)](https://h313.info/blog/cpp/security/binary-analysis/2020/11/06/improve-software-debugging-with-binary-analysis.html)
+- [PCB Reverse Engineering: Eric Schlaepfer (2020)](https://www.youtube.com/watch?v=BsftxTbs7MA)
+- [Chris Domas - Repsych: Psychological Warfare in Reverse Engineering (2015)](https://www.youtube.com/watch?v=HlUe0TUHOIc)
+- [Reverse Engineering 101 in 20 min](https://github.com/SynapticRewrite/RE101in20min)
+- [Visualizing binaries with space-filling curves](https://corte.si/posts/visualisation/binvis/index.html) ([Lobsters](https://lobste.rs/s/tlzkk4/visualizing_binaries_with_space_filling))
+- [Reverse Engineering Bumble’s API (2020)](https://blog.securityevaluators.com/reverse-engineering-bumbles-api-a2a0d39b3a87)
+- [Reverse Engineering Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial) - Comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+- [ImHex](https://github.com/WerWolv/ImHex) - Hex Editor for Reverse Engineers. ([HN](https://news.ycombinator.com/item?id=25353965))
+- [Triton](https://github.com/JonathanSalwan/Triton) - Dynamic Binary Analysis (DBA) framework.

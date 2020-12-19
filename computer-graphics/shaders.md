@@ -15,3 +15,15 @@
 - [Software Renderer](https://github.com/zauonlok/renderer) - Shader-based software renderer written from scratch in C89.
 - [MatCaps](https://github.com/nidorx/matcaps) - Huge library of MatCap textures in PNG and ZMT.
 - [Shader Doodle](https://github.com/halvves/shader-doodle) - Friendly web-component for writing and rendering shaders.
+- [Collection of shaders to draw color maps](https://github.com/kbinani/colormap-shaders)
+- [ShaderConductor](https://github.com/microsoft/ShaderConductor) - Tool designed for cross-compiling HLSL to other shading languages.
+- [The RTX Shader Binding Table Three Ways (2019)](https://www.willusher.io/graphics/2019/11/20/the-sbt-three-ways)
+- [ShaderTutorials](https://github.com/Xibanya/ShaderTutorials) - Shaders For People Who Don't Know How To Shader, a tutorial series for beginners.
+- [The future of RLSL (2020)](https://maikklein.github.io/rlsl-update3/)
+- [A Note on Branching Within a Shader (2020)](https://www.peterstefek.me/shader-branch.html)
+- [Tiny Shading Language](https://github.com/JiayinCao/Tiny-Shading-Language)
+- [Slang](https://github.com/shader-slang/slang) - Shading language that extends HLSL with new capabilities for building modular, extensible, and high-performance real-time shading systems.
+- [Shadershop](https://github.com/cdglabs/Shadershop) - Interface for programming GPU shaders in the mode of a direct manipulation image editor like Photoshop.
+- [Circle C++ shaders](https://github.com/seanbaxter/shaders)
+- [Shading techniques and GLSL snippets](https://github.com/Rabbid76/graphics-snippets)
+- [Rasen](https://github.com/leops/rasen) - Generate SPIR-V bytecode from an operation graph.

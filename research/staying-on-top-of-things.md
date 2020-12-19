@@ -77,10 +77,10 @@ And these Discord servers:
 - [Stratechery](https://stratechery.com/)
 - [Nature](https://www.nature.com/)
 - [Atlas Obscura](https://www.atlasobscura.com/)
-- [Logic Magazine](https://logicmag.io/)
+- [Logic Magazine](https://logicmag.io/) - Print magazine about technology that publishes three times per year.
+- [Parametric Press](https://parametric.press/about/) ([Code](https://github.com/parametricpress/))
 - [Glimmer](https://glitch.com/glimmer/)
 - [Physics Today](https://physicstoday.scitation.org/journal/pto) ([HN](https://news.ycombinator.com/item?id=23043525))
-- [Logic](https://logicmag.io/) - Print magazine about technology that publishes three times per year.
 - [Psyche](https://psyche.co/) - On the human condition.
 - [Nautilus](http://nautil.us/) - Science Connected.
 - [De Programmatica Ipsum](https://deprogrammaticaipsum.com/)
@@ -92,6 +92,21 @@ And these Discord servers:
 - [Outside Magazine](https://www.outsideonline.com/)
 - [Machine Learning: Science and Technology journal](https://iopscience.iop.org/journal/2632-2153)
 - [Letters of Note](https://lettersofnote.com/) - Correspondence Deserving of a Wider Audience.
+- [NOWNESS](https://www.nowness.com/)
+- [InputMag](https://www.inputmag.com/)
+- [Axios](https://www.axios.com/)
+- [Financial Times](https://www.ft.com/)
+- [MIT Technology Review](https://www.technologyreview.com/)
+- [Rest of World](https://restofworld.org/) - Reporting Global Tech Stories. ([Why I started Rest of World](https://restofworld.org/2020/letter-from-the-founder/))
+- [The Straight Dope](https://www.straightdope.com/)
+- [Future Crunch](https://futurecrun.ch/)
+- [The Gradient](https://thegradient.pub/)
+- [The Atlantic](https://www.theatlantic.com/world/)
+- [The MIT Press](https://mitpress.mit.edu/)
+- [Nature Research Analysis](https://www.nature.com/research-analysis)
+- [Branch](https://branch.climateaction.tech/) - Online magazine written by and for people who dream of a sustainable and just internet. ([Lobsters](https://lobste.rs/s/ws6usl/branch_online_magazine_written_by_for))
+- [BESIDE](https://beside.media/) - Bridging the gap between humans and nature.
+- [Aeon](https://aeon.co/) - Magazine of ideas and culture.
 
 ### Other
 
@@ -102,7 +117,6 @@ And these Discord servers:
 - [Original contents on HN](http://hn.luap.info/) ([HN](https://news.ycombinator.com/item?id=23093990))
 - [Ness Labs](https://nesslabs.com/) - Provides content, coaching, courses and community to help makers put their minds at work.
 - [LessWrong](https://www.lesswrong.com/) - Community dedicated to improving our reasoning and decision-making.
-- [Rest of World](https://restofworld.org/) - International nonprofit journalism organization. We document what happens when technology, culture and the human experience collide.
 - [Wikipedia Random](https://en.wikipedia.org/wiki/Special:Random) - Open a random wikipedia page.
 - [Personal RSS feed](https://news.routley.io/)
 - [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/) - Solar-powered, self-hosted version of Low-tech Magazine.
@@ -111,10 +125,12 @@ And these Discord servers:
 - [DataTau](https://datatau.net/) - Data Science Newsboard.
 - [HN Deck](https://hndeck.sagunshrestha.com/) - View multiple HN feeds at once. ([HN](https://news.ycombinator.com/item?id=23626167))
 - [Tools and Toys](http://toolsandtoys.net/) - Hand-Picked for Work and Play.
-
-## Notes
-
-- Best time to post links (HN especially) is somewhere around 16:30 CEST so it falls nicely in both EU & NA timezones
+- [Old News is Ripe Knowledge](https://oldnews.dev/)
+- [Morning Brew](https://www.morningbrew.com/)
+- [dev.to](https://dev.to/) ([dev.to is now open source](https://dev.to/ben/devto-is-now-open-source-5n1)) ([Code](https://github.com/forem/forem))
+- [NPR](https://www.npr.org/)
+- [HackerDaily](https://hackerdaily.io/) - More informative and less addictive Hacker News. ([HN](https://news.ycombinator.com/item?id=25046037))
+- [Skimfeed](https://skimfeed.com/)
 
 ## Links
 
@@ -130,3 +146,8 @@ And these Discord servers:
 - [Datum](http://datum.alwaysdata.net/) - Browse hacker news comments with links about data.
 - [HN with Dark Mode](https://brianlovin.com/hn)
 - [Take control over your feeds to regain mindfulness (2020)](https://solmaz.io/thoughts/digital-hygiene-feeds/) ([HN](https://news.ycombinator.com/item?id=23662874))
+- [Ask HN: Is it just me? why is “news” so addictive? (2020)](https://news.ycombinator.com/item?id=23938007)
+- [An underrated way to keep up with web development (2020)](https://kitze.io/posts/keeping-up-with-webdev)
+- [The Fear Of Missing Out (2020)](https://christine.website/blog/gemini-web-fear-missing-out-2020-08-02) ([Lobsters](https://lobste.rs/s/evwukk/fear_missing_out))
+- [Ask HN: What are some of your favorite journals or magazines? (2020)](https://news.ycombinator.com/item?id=25159931)
+- [Ask HN: Alternatives to HN for non-Hacker News? (2020)](https://news.ycombinator.com/item?id=25318880)

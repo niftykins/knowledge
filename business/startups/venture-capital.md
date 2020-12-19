@@ -41,7 +41,7 @@
 - [HeavyBit](https://www.heavybit.com/) - 9-month accelerator and fund helps seed and Series A developer and enterprise companies scale their go-to-market.
 - [Uncork Capital](https://uncorkcapital.com/) - Seed-stage venture firm that commits early, helps with the hard stuff, and sticks around.
 - [dtc.capital](https://www.dtc.capital/) - Fundamentals-Focused Investment Fund.
-- [Indie.vc](https://www.indie.vc/) - Program designed to fund and support founders on a path to profitability.
+- [Indie.vc](https://www.indie.vc/) - Program designed to fund and support founders on a path to profitability. ([Indie.vc Term sheet](https://github.com/indievc/terms))
 - [IA Ventures](http://www.iaventures.com/) - Early-stage venture capital firm.
 - [Cherry VC](https://www.cherry.vc/)
 - [Venture Capital - Silicon Valley Ponzi Scheme - Chamath Palihapitiya (2019)](https://www.youtube.com/watch?v=NVVsdlHslfI)
@@ -51,7 +51,7 @@
 - [How VC works - A Beginner's Guide (2020)](https://simplanations.substack.com/p/2-how-vc-works-a-beginners-guide) ([HN](https://news.ycombinator.com/item?id=23306572))
 - [A.Capital Ventures](https://acapital.com/)
 - [Founder Collective](https://www.foundercollective.com/)
-- [AirTree Ventures](https://www.airtree.vc/) - For Game-Changing Founders, First Round, Multiple Rounds.
+- [AirTree Ventures](https://www.airtree.vc/) - For Game-Changing Founders, First Round, Multiple Rounds. ([Links](https://linktr.ee/airtreevc))
 - [Examples of cold emails to VCs](https://twitter.com/paulbz/status/1271416616455192584)
 - [Cantos Ventures](http://cantos.vc/)
 - [Raising Money in Today's World (2020)](https://www.youtube.com/watch?v=SPpDJAo0n8g)
@@ -65,3 +65,25 @@
 - [Weekend Fund](https://weekend.fund/) - Early stage fund, backing your next favorite thing.
 - [Flybridge](https://www.flybridge.com/)
 - [Chapter One](https://chapterone.vc/) - Invest in early-stage startups who are passionate about the future of work, developer tools, and subscription businesses.
+- [Sahil Lavingia Rolling Fund](https://shl.vc/)
+- [Find a VC Job](http://vcjobs.kgbase.com/) ([HN](https://news.ycombinator.com/item?id=24072949))
+- [Raise less money (2020)](https://www.aaronkharris.com/raise-less-money) ([HN](https://news.ycombinator.com/item?id=24133146))
+- [Ludlow Ventures](https://www.ludlowventures.com/)
+- [Gelt VC](https://www.gelt.vc/)
+- [Babel Ventures](https://www.babel.ventures/)
+- [Pace Capital](https://www.pacecapital.com/)
+- [NEA](https://www.nea.com/)
+- [VC Guide](https://www.vcguide.co/) - Anonymous fund & investor partner reviews by founders for founders. ([HN](https://news.ycombinator.com/item?id=24491199))
+- [Atomico](https://www.atomico.com/) - European Venture Capital Firm.
+- [Alpha Bridge](https://www.alphabridge.vc/)
+- [Runa Capital](https://runacap.com/) - Global venture capital firm built by serial entrepreneurs that invests in early stage software startups.
+- [Mythos Capital](https://mythos.capital/) - Invest in crypto networks.
+- [Breaking into VC](https://breakinto.vc/)
+- [Pear VC](https://www.pear.vc/) - 0 to 1 Venture Capital partner.
+- [True Ventures](https://trueventures.com/)
+- [ARK Invest](https://ark-invest.com/)
+- [Placeholder](https://www.placeholder.vc/) - Venture capital firm that invests in open blockchain networks and Web3 services.
+- [Greylock Partners](https://greylock.com/) - Early partners of remarkable teams building companies that matter.
+- [Outlander Labs](https://www.outlanderlabs.com/) - Earliest investors in the best startups across the Southeast.
+- [Vista Equity Partners](https://www.vistaequitypartners.com/) - Market-Leading Investment Firm.
+- [Third Point](https://www.thirdpoint.com/)

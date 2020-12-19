@@ -1,5 +1,11 @@
 # E-commerce
 
+## Nice shops
+
+- [Joycraft Handmade](https://joycrafthandmade.com/) - Polymer Clay Earrings. ([IG](https://www.instagram.com/joycrafthandmade/?igshid=ohv58u0xnoxk)) ([Tweet](https://twitter.com/coreyhainesco/status/1294721370589245440))
+- [Recess](https://takearecess.com/)
+- [Magic Mind](https://magicmind.co/)
+
 ## Links
 
 - [Stripe Elements examples](https://stripe.dev/elements-examples/) - Pre-built rich UI components that help you build your own pixel-perfect checkout flows across desktop and mobile.
@@ -17,3 +23,39 @@
 - [CommerceJS](https://commercejs.com/) - Headless eCommerce platform for developers & designers.
 - [How I grew my Shopify micro-SaaS (2020)](https://www.preetamnath.com/blog/grow-shopify-micro-saas-to-25k-mrr-in-14-months) ([HN](https://news.ycombinator.com/item?id=23734539))
 - [Fast](https://www.fast.co/) - 1-click checkout and login.
+- [Jika](https://jika.ai/) - Price A/B Testing for Shopify. ([HN](https://news.ycombinator.com/item?id=23861435))
+- [Democratizing Commerce (2020)](https://www.bolt.com/blog/democratizing-commerce/)
+- [Taproom Agency](https://thetaproom.com/) - Shopify Design, Migration, & Marketing.
+- [Otis](https://withotis.com/) - Culture Is A New Asset.
+- [Commerce Tea](https://commercetea.com/) - Podcast about succeeding on Shopify.
+- [Shop](https://shop.app/) - Online shopping assistant that makes every part of your experience better.
+- [Interactive e-commerce](https://www.dropbox.com/s/dkkv5b3ru06ty4v/Interactive%20Ecommerce%20Whitepaper%202020.08.10.pdf)
+- [Drive more traffic to your Shopify store and increase your sales - Interlayer](https://interlayer.io/traffic-exchange/shopify/)
+- [Interlayer](https://interlayer.io/) - Increase your Ecommerce, Website and Blog traffic in minutes. ([Shopify plugin](https://interlayer.io/traffic-exchange/shopify/))
+- [Guide: Make money building Shopify micro-SaaS apps (2020)](https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify) ([HN](https://news.ycombinator.com/item?id=24261192))
+- [Shopify App CLI Tool: Build Apps Faster (2020)](https://www.shopify.com/partners/blog/cli-tool)
+- [Tens Sunglasses](https://tens.co/)
+- [Stripe Checkout](https://stripe.com/en-nl/payments/checkout)
+- [Next Storefront](https://github.com/RobertBroersma/next-storefront) - Dazzlingly fast E-Commerce solution built with Typescript and NextJS.
+- [Etsy](https://www.etsy.com/) - Shop for handmade, vintage, custom, and unique gifts.
+- [Build static commerce sites with Gatsby (2020)](https://commercejs.com/blog/build-static-commerce-sites-with-gatsby/)
+- [Amazon Price-Tracker with Alerts](https://camelcamelcamel.com/) ([HN](https://news.ycombinator.com/item?id=24783727))
+- [Elliot](https://github.com/helloiamelliot/elliot-serverless-ecommerce) - Serverless eCommerce Storefront. 100% headless & serverless. Built with Next.js & one-click deployable on Vercel.
+- [How a tiny peanut butter company grew to \$500k per month in sales (2020)](https://thehustle.co/how-a-tiny-peanut-butter-company-grew-to-500k-per-month-in-sales/)
+- [branchbob](https://www.branchbob.com/en) - Create a 100% free ecommerce store without restrictions.
+- [Next.js Commerce](https://nextjs.org/commerce) - All-in-one starter kit for high-performance ecommerce sites. ([Code](https://github.com/vercel/commerce)) ([HN](https://news.ycombinator.com/item?id=24908788))
+- [Shop Local Online](https://shoplocalonline.ie/) - Find and support businesses near you.
+- [Faceted Search For Ecommerce: Best Practices (2020)](https://searchnode.com/blog/faceted-search-for-ecommerce-best-practices/)
+- [Front-Commerce](https://www.front-commerce.com/en/) - PWA frontend for headless eCommerce.
+- [Gatsby Shopify Starter](https://github.com/AlexanderProd/gatsby-shopify-starter)
+- [Checkout Page](https://checkoutpage.co/) - Checkout pages and forms to sell your products and services.
+- [How to Become a Shopify Developer (2020)](https://iliashaddad.com/blog/how-to-become-shopify-developer) ([HN](https://news.ycombinator.com/item?id=25067407))
+- [Zora](https://ourzora.com/) - Everything Exchange: Buy, Sell and Trade Limited Edition Goods and Art.
+- [Store theme powered by VTEX and Gatsby](https://github.com/vtex-sites/storecomponents.store)
+- [Next.js SY Store Commerce](https://github.com/rangigo/systore-commerce)
+- [Build an E-commerce Website with Webiny Serverless Headless CMS, Next.js, and Stripe (2020)](https://www.webiny.com/blog/tutorial-e-commerce-nextjs-stripe)
+- [Building a scalable e-commerce data model (2020)](https://resources.fabric.inc/blog/ecommerce-data-model) ([HN](https://news.ycombinator.com/item?id=25353148))
+- [Shopify Storefront API](https://shopify.dev/docs/storefront-api) - Allows you to build custom ecommerce experiences. ([Examples](https://github.com/Shopify/storefront-api-examples))
+- [Sanity.io and Next.js Ecommerce Starter](https://github.com/kmelve/next-js-e-commerce)
+- [Spree Commerce](https://github.com/spree/spree) - Open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL. ([Web](https://spreecommerce.org/))
+- [Ecommerce Site Search Best Practices for 2021](https://searchnode.com/blog/ecommerce-site-search-best-practices/)

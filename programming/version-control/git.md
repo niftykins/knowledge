@@ -11,6 +11,7 @@ I love Git and version control. And I use version control over any project I do.
 - A Git branch is just a pointer to a commit. Git commits, however, also contain the hash of the parent commit(s), so by referring to that commit you also refer too all ancestors.
 - Squash + rebase (for feature branches) are good for PRs. No one cares that it took you 20 tries to get the feature right, what matters is what went into the pull request, which is usually one commit.
 - [To me the beauty of git stems from the fact that it is an implementation of a functional data structure. It‘s a tree index that is read-only, and updating it involves creating a complete copy of the tree and giving it a new name. Then the only challenge is to make that copy as cheap as possible - for which the tree lends itself, as only the nodes on the path to the root need to get updated. As a result, you get lock-free transactions (branches) and minimal overhead. It is so beautiful in fact that when I think about systems that need to maintain long-running state in concurrent environments, my first reaction is ”split up the state into files, and maintain it through git“.](https://news.ycombinator.com/item?id=21418033)
+- [PRs with mandatory review within a company are a bit of an antipattern/red flag IMO. Cycle time automatically gets long. Even when pairing, changes can be put up for review if the authors want more feedback, so it's not a binary choice.](https://twitter.com/sanityinc/status/1313206571606978560)
 
 ## Links
 
@@ -18,9 +19,9 @@ I love Git and version control. And I use version control over any project I do.
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 - [Great Git workflow instructions](https://github.com/rvolosatovs/turtlitto/blob/master/CONTRIBUTING.md)
 - [GIT Conventions](https://medium.com/@tjholowaychuk/git-conventions-a940ee20862d)
-- [Learn Git branching](https://learngitbranching.js.org/) ([Code](https://github.com/pcottle/learnGitBranching))
+- [Learn Git branching](https://learngitbranching.js.org/) ([Code](https://github.com/pcottle/learnGitBranching)) ([HN](https://news.ycombinator.com/item?id=24586436))
 - [Gitbase](https://github.com/src-d/gitbase) - SQL interface to Git repositories.
-- [Gitea](https://github.com/go-gitea/gitea) - Easiest, fastest, and most painless way of setting up a self-hosted Git service.
+- [Gitea](https://github.com/go-gitea/gitea) - Easiest, fastest, and most painless way of setting up a self-hosted Git service. ([Web](https://gitea.io/en-us/))
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [How I Use Git](https://hugogiraudel.com/2018/02/17/how-i-use-git/)
 - [clog-cli](https://github.com/clog-tool/clog-cli) - Generate beautiful changelogs from your Git commit history.
@@ -71,9 +72,10 @@ I love Git and version control. And I use version control over any project I do.
 - [Delta](https://github.com/dandavison/delta) - Syntax-highlighting pager for git.
 - [Building Git](https://shop.jcoglan.com/building-git/) - Deep dive into the internals of the Git version control system.
 - [gitrs](https://github.com/haltode/gitrs) - Re-implementation of the git version control system in Rust.
-- [sourcehut](https://sourcehut.org/) - Suite of open source tools for managing git projects.
+- [sourcehut](https://sourcehut.org/) - Suite of open source tools for managing git projects. ([sr.ht](https://sr.ht/))
 - [Sourcehut's year in alpha (2019)](https://sourcehut.org/blog/2019-11-15-sourcehut-1-year-alpha/) ([HN](https://news.ycombinator.com/item?id=21545145))
 - [Sourcehut Project Hub](https://sourcehut.org/blog/2020-04-30-the-sourcehut-hub-is-live/) ([HN](https://news.ycombinator.com/item?id=23030489)) ([Lobsters](https://lobste.rs/s/y4zfxk/announcing_sourcehut_project_hub))
+- [SourceHut's second year in alpha (2020)](https://sourcehut.org/blog/2020-11-15-sourcehut-2-year-alpha/) ([HN](https://news.ycombinator.com/item?id=25101359))
 - [Awesome Monorepo](https://github.com/korfuri/awesome-monorepo) - Curated list of awesome Monorepo tools, software and architectures.
 - [rug](https://github.com/samrat/rug) - Stripped-down version of Git, implemented in Rust.
 - [Git from Beginner to Advanced](https://www.madebymike.com.au/writing/how-to-git/)
@@ -135,10 +137,70 @@ I love Git and version control. And I use version control over any project I do.
 - [How to write good Git commit messages (2020)](https://altcampus.io/blog/how-to-write-good-git-commit-message) ([HN](https://news.ycombinator.com/item?id=23479465))
 - [gitignore.io](https://www.toptal.com/developers/gitignore) - Create Useful .gitignore Files For Your Project. ([Code](https://github.com/toptal/gitignore.io))
 - [Speeding up a Git monorepo at Dropbox with <200 lines of code (2020)](https://dropbox.tech/application/speeding-up-a-git-monorepo-at-dropbox-with--200-lines-of-code) ([HN](https://news.ycombinator.com/item?id=23480198))
-- [Oh Shit, Git!?!](https://ohshitgit.com/)
+- [Oh Shit, Git!?!](https://ohshitgit.com/) ([HN](https://news.ycombinator.com/item?id=24173238))
 - [Using Rust to Delete Gitignored Cruft (2020)](https://www.forrestthewoods.com/blog/using-rust-to-delete-gitignored-cruft/)
 - [The Problem with Git Flow (2020)](https://about.gitlab.com/blog/2020/03/05/what-is-gitlab-flow/) ([HN](https://news.ycombinator.com/item?id=23622071))
 - [Ask HN: Git alternatives that aren't so complicated? (2020)](https://news.ycombinator.com/item?id=23670757)
 - [Git Concepts I Wish I Knew Years Ago (2020)](https://dev.to/g_abud/advanced-git-reference-1o9j)
 - [gitqlite](https://github.com/augmentable-dev/gitqlite) - Query git repositories with SQL. Uses SQLite virtual tables and go-git.
 - [Git commit accepts several message flags (-m) to allow multiline commits](https://www.stefanjudis.com/today-i-learned/git-commit-accepts-several-message-flags-m-to-allow-multiline-commits/) ([HN](https://news.ycombinator.com/item?id=23767866))
+- [A Better Way to Git Log to Understand Changes in a Big Codebase (2020)](https://pspdfkit.com/blog/2020/a-better-way-to-git-log/)
+- [Write good commit messages (2020)](https://letterstoanewdeveloper.com/2020/07/27/write-good-commit-messages/) ([Lobsters](https://lobste.rs/s/z2vjet/write_good_commit_messages))
+- [Just One Single History](https://github.com/esrlabs/josh) - Aimed at supporting trunk based development in a Git monorepo.
+- [gix](https://github.com/Byron/gitoxide) - Idiomatic, modern, lean, fast, safe & pure rust implementation of git.
+- [git-delete-merged-branches](https://github.com/hartwork/git-delete-merged-branches) - Convenient command-line tool helping you keep repositories clean. ([HN](https://news.ycombinator.com/item?id=24135860))
+- [Using Askgit – A SQL interface to your Git repository (2020)](https://willschenk.com/articles/2020/using_askgit/) ([HN](https://news.ycombinator.com/item?id=24166489))
+- [Trunk-based development (2020)](https://nelis.boucke.be/post/trunk-based-development/)
+- [Good Commit Messages (2020)](https://lazau.com/articles/good_commit_messages.html) ([Lobsters](https://lobste.rs/s/0lwjby/good_commit_messages))
+- [Ignoring mass reformatting commits with git blame](https://akrabat.com/ignoring-revisions-with-git-blame/)
+- [cgit](https://git.zx2c4.com/cgit/about/) - Hyperfast web frontend for git repositories written in C.
+- [Fork and Pull Request Workflow](https://github.com/susam/gitpr)
+- [Git Internals - Learn by Building Your Own Git](https://www.leshenko.net/p/ugit/)
+- [Stacked pull requests: Make code reviews faster, easier, and more effective](https://www.michaelagreiler.com/stacked-pull-requests/)
+- [Create a global gitignore (2020)](https://mike.place/2020/global-gitignore/)
+- [Fortunately, I don't squash my commits (2020)](https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/) ([HN](https://news.ycombinator.com/item?id=24686527)) ([Reddit](https://www.reddit.com/r/coding/comments/j5l9wb/fortunately_i_dont_squash_my_commits/))
+- [Git QuickFix](https://github.com/siedentop/git-quickfix) - Allows you to commit changes in your git repository to a new branch without leaving the current branch.
+- [Gerrit is Awesome (2016)](https://techspot.zzzeek.org/2016/04/21/gerrit-is-awesome/)
+- [Gerrit Code Review](https://www.gerritcodereview.com/)
+- [Dulwich](https://github.com/dulwich/dulwich) - Pure-Python Git implementation. ([Web](https://www.dulwich.io/))
+- [Ask HN: What are the pros / cons of using monorepos? (2020)](https://news.ycombinator.com/item?id=24719525)
+- [bit](https://github.com/chriswalz/bit) - Modern Git CLI. ([HN](https://news.ycombinator.com/item?id=24751212)) ([Interview With Chris Walz of bit](https://chriswalz.com/posts/an-interview-with-chris-walz-of-bit/))
+- [Copybara Action](https://github.com/olivr/copybara-action) - Transform and move code between repositories. Start with ZERO config and 100% customizable.
+- [Git scraping: track changes over time by scraping to a Git repository (2020)](https://simonwillison.net/2020/Oct/9/git-scraping/) ([HN](https://news.ycombinator.com/item?id=24732943))
+- [Branch Agnostic Git Aliases (2020)](https://aj.codes/post/branch-agnostic-git-aliases/) ([Lobsters](https://lobste.rs/s/z0spf3/branch_agnostic_git_aliases))
+- [Beyond the Basics: 5 Powerful Advanced Tools in Git (2020)](https://codeburst.io/beyond-the-basics-5-powerful-advanced-tools-in-git-2180faf0ee29)
+- [meta](https://github.com/mateodelnorte/meta) - Tool for managing multi-project systems and libraries. It answers the conundrum of choosing between a mono repo or many repos by saying "both", with a meta repo.
+- [Self-hosting Git with cgit (2020)](https://peppe.rs/posts/self-hosting_git/) ([Lobsters](https://lobste.rs/s/mezxcr/self_hosting_git_with_cgit))
+- [Embrace the monolith](https://www.monolithic.dev/) - Embrace a simpler way of building applications.
+- [Better Git diff output for Ruby, Python, Elixir, Go and more (2020)](https://tekin.co.uk/2020/10/better-git-diff-output-for-ruby-python-elixir-and-more)
+- [The Git Commit Hash (2020)](https://www.mikestreety.co.uk/blog/the-git-commit-hash)
+- [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories.
+- [Narrated Diffs](https://narrated-diffs.thomasbroadley.com/) - Tool to enable PR authors to tell a story with their changes. ([Code](https://github.com/tbroadley/narrated-diffs))
+- [gitjacker](https://github.com/liamg/gitjacker) - Leak git repositories from misconfigured websites.
+- [Git Magic](https://crypto.stanford.edu/~blynn/gitmagic/) - Guide to using Git. ([Code](https://github.com/blynn/gitmagic))
+- [Git Crash Course (2020)](https://neros.dev/blog/git-crash-course-part-1/)
+- [chglog](https://github.com/goreleaser/chglog) - Changelog management library and tool.
+- [fzf powered git fixups (2017)](http://blog.railscoder.net/git/zsh/fzf/tmux/2017/10/24/fzf-powered-git-fixups.html)
+- [Explain Git with D3](https://onlywei.github.io/explain-git-with-d3/) - Use D3 to visualize simple git branching operations. ([Code](https://github.com/onlywei/explain-git-with-d3)) ([HN](https://news.ycombinator.com/item?id=24957280))
+- [My Thoughts On Monorepo (2020)](https://shekhargulati.com/2020/11/02/my-thoughts-on-monorepo/) ([HN](https://news.ycombinator.com/item?id=24971288))
+- [Signed git pushes (2020)](https://people.kernel.org/monsieuricon/signed-git-pushes)
+- [Towards an automated changelog workflow (2020)](https://blog.yossarian.net/2020/11/05/Towards-an-automated-changelog-workflow)
+- [commit-autosuggestions](https://github.com/graykode/commit-autosuggestions) - Tool that AI automatically recommends commit messages.
+- [GOMP](https://github.com/MarkForged/GOMP) - Tool for comparing branches.
+- [This is how I git (2020)](https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git/) ([Lobsters](https://lobste.rs/s/0k1crw/this_is_how_i_git)) ([HN](https://news.ycombinator.com/item?id=25043731))
+- [Trello Android's Git Branching Strategy (2020)](https://blog.danlew.net/2020/11/11/trello-androids-git-branching-strategy/)
+- [Why Git blame sucks for understanding WTF code (and what you should use instead) (2020)](https://tekin.co.uk/2020/11/patterns-for-searching-git-revision-histories) ([Lobsters](https://lobste.rs/s/in8vp4/why_git_blame_sucks_for_understanding_wtf))
+- [Git is simply too hard (2020)](https://changelog.com/posts/git-is-simply-too-hard) ([HN](https://news.ycombinator.com/item?id=25121416))
+- [gfold](https://github.com/nickgerace/gfold) - CLI application that helps you keep track of multiple Git repositories.
+- [git-ignore](https://github.com/janniks/git-ignore) - Interactive CLI to generate .gitignore files.
+- [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of git for node and browsers. ([Web](https://isomorphic-git.org/))
+- [git-machete](https://github.com/VirtusLab/git-machete) - Makes merges/rebases/push/pulls hassle-free even when multiple branches are present in the repository.
+- [Smithy](https://github.com/honza/smithy) - Tiny git forge written in Go.
+- [Git Commands You Should Never Use (2020)](https://mquettan.medium.com/3-git-commands-you-should-never-use-99f6ec910989) ([HN](https://news.ycombinator.com/item?id=25217812))
+- [Gitsight](https://www.gitsight.com/) - Derive insights from open source repositories and their contributors.
+- [Gitopia](https://gitopia.org/#/) - Decentralized Source Code Collaboration Platform.
+- [git wip: What the heck was I just doing? (2020)](https://carolynvanslyck.com/blog/2020/12/git-wip/) ([Lobsters](https://lobste.rs/s/mv8301/git_wip_what_heck_was_i_just_doing))
+- [GitLab](https://gitlab.com/) - Open source end-to-end software development platform. ([Code](https://gitlab.com/gitlab-org/gitlab)) ([GitHub Mirror](https://github.com/gitlabhq/gitlabhq))
+- [mob](https://github.com/remotemobprogramming/mob) - Tool for swift git handover. ([Web](https://mob.sh/))
+- [uncommitted](https://github.com/brandon-rhodes/uncommitted) - Command-line tool to find projects whose changes have not been committed to version control.
+- [Organise your commits (2020)](https://www.ncameron.org/blog/organise-your-commits/)

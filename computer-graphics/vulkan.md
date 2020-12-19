@@ -23,3 +23,14 @@
 - [Yave](https://github.com/gan74/Yave) - Yet Another Vulkan Engine.
 - [RPi-VK-Driver](https://github.com/Yours3lf/rpi-vk-driver) - Low level GPU driver for the Broadcom Videocore IV GPU that implements a subset of the Vulkan standard. ([HN](https://news.ycombinator.com/item?id=23584415))
 - [Amber](https://github.com/google/amber) - Multi-API shader test framework.
+- [MoltenVK](https://github.com/KhronosGroup/MoltenVK) - Vulkan Portability implementation.
+- [Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - C++ Bindings for Vulkan.
+- [Writing an efficient Vulkan renderer (2020)](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/) ([HN](https://news.ycombinator.com/item?id=24368353))
+- [vkbind](https://github.com/mackron/vkbind) - Single file Vulkan API loader.
+- [Vulkan Ecosystem Components](https://github.com/KhronosGroup/Vulkan-Tools) - Provides Khronos official Vulkan Tools and Utilities for Windows, Linux, Android, and MacOS.
+- [Vulkan Kompute](https://github.com/EthicalML/vulkan-kompute) - Blazing fast, mobile-enabled, asynchronous and optimized for advanced GPU data processing usecases.
+- [renderer_prototype](https://github.com/aclysma/renderer_prototype) - Vulkan renderer built on top of atelier-assets. The objective of this repo is to build a scalable, flexible, data driven renderer.
+- [Vulkan Diagrams](https://github.com/David-DiGioia/vulkan-diagrams) - Diagrams showing relationships between Vulkan objects and how they're used.
+- [TAA-STAR](https://github.com/cg-tuwien/TAA-STAR) - C++/Vulkan Implementations of State of the Art Temporal Anti-Aliasing Techniques.
+- [vkvg](https://github.com/jpbruyere/vkvg) - Vulkan 2D graphics library.
+- [Practical guide to graphics programming with Vulkan](https://vkguide.dev/)

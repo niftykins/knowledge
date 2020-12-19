@@ -1,19 +1,17 @@
 # Supplements
 
-Supplements I take are inspired by [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/).
-
-### Take
+Supplements I sometimes take are inspired by [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/).
 
 - [Magnesium](https://www.amazon.co.uk/Thorne-Research-Magnesium-Citramate-Vegetarian/dp/B0797SJ88Y) (1 capsule)
 - [Vitamin D3](https://www.amazon.co.uk/Supplement-Absorption-Cholecalciferol-Nu-Nutrition/dp/B01NC3DJK7) (1 capsule)
 - [Vegan Omega 3 DHA & EPA](https://www.amazon.com/VEGAN-OMEGA-Supplement-Cardiovascular-Supplements/dp/B01MYE95BQ) (1 capsule)
 - [Lions Mane](https://oriveda.co.uk/lions-mane.php) (1 capsule)
 
-From these, Magnesium & Vitamin D3 are the more important supplements. I take all with breaks.
+From these, Magnesium & Vitamin D3 are the more important supplements.
 
-As I try get everything I need from eating [whole food plant based food](foods.md) naturally.
+I try to minimize the number of things my body has to process to bare essentials so more often than not I don't take any supplements. I maximize the quality of food I eat by eating [natural whole food plant based food](foods.md). I also fast but not routinely.
 
-I try to minimize the number of things my body has to process and maximize the quality of food I eat (natural, whole food). I also fast but not routinely.
+And I enjoy taking [psychedelics](../../drugs/psychedelics/psychedelics.md) once in few months. Tryptamines being my favorite.
 
 ## Interesting
 
@@ -37,3 +35,10 @@ Some maybe interesting supplements I don't take routinely but tried.
 - [Paul Stamets: Psilocybin Mushrooms & The Mycology of Consciousness (2017)](https://www.youtube.com/watch?v=vFWxWq0Fv0U)
 - [Jed Fahey, Sc.D. on Isothiocyanates, the Nrf2 Pathway, Moringa & Sulforaphane Supplementation (2017)](https://www.youtube.com/watch?v=Q0lBVCpq8jc)
 - [HN: Vitamin D Insufficiency is Prevalent in Severe Covid-19 (2020)](https://news.ycombinator.com/item?id=23023703) ([HN 2](https://news.ycombinator.com/item?id=23119949))
+- [Vitamin D supplements do not reduce the risk of depression](https://sciencebasedmedicine.org/vitamin-d-supplements-do-not-reduce-the-risk-of-depression/)
+- [Vitamin D, part 1: back to basics](https://www.devaboone.com/post/vitamin-d-part-1-back-to-basics) ([HN](https://news.ycombinator.com/item?id=24138590))
+- [Vitamin D, part 2: Shannon's story (2020)](https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe) ([HN](https://news.ycombinator.com/item?id=24261948))
+- [The Big Vitamin D Mistake (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541280/) ([HN](https://news.ycombinator.com/item?id=24768721))
+- [Do you need to take multivitamins? (2019)](https://examine.com/nutrition/do-you-need-a-multivitamin/)
+- [HN: Multivitamins' 'benefits' are all in your head: study (2020)](https://news.ycombinator.com/item?id=25053134)
+- [Vitamin D Supplementation Improves Cognitive Function: 12-month RCT (2020)](https://pubmed.ncbi.nlm.nih.gov/33164936/) ([HN](https://news.ycombinator.com/item?id=25077519))

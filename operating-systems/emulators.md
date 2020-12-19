@@ -2,9 +2,8 @@
 
 ## Links
 
-- [QEMU](https://www.qemu.org/) - Generic and open source machine emulator and virtualizer. ([Docs](https://qemu.weilnetz.de/doc/qemu-doc.html))
+- [QEMU](https://www.qemu.org/) - Generic and open source machine emulator and virtualizer. ([Docs](https://qemu.weilnetz.de/doc/qemu-doc.html)) ([Qemu 680x0 support](https://www.youtube.com/watch?v=s_ve0bCC9q4)) ([HN](https://news.ycombinator.com/item?id=25027213)) ([Code](https://github.com/qemu/qemu))
 - [byuu](https://github.com/byuu/byuu) - Multi-system emulator focused on performance, features, and ease of use.
-- [QEMU](https://github.com/qemu/qemu) - Generic and open source machine & userspace emulator and virtualizer.
 - [Quickemu](https://github.com/wimpysworld/quickemu) - Simple script to "manage" Qemu virtual machines.
 - [Lisa Emulator](https://github.com/rayarachelian/lisaem)
 - [Shoebill](https://github.com/pruten/shoebill) - Macintosh II emulator that runs A/UX (and A/UX only).
@@ -26,3 +25,12 @@
 - [JSLinux](https://bellard.org/jslinux/) - Run Linux or other Operating Systems in your browser.
 - [Windows98 Running in the Browser](https://copy.sh/v86/?profile=windows98) ([HN](https://news.ycombinator.com/item?id=23674012))
 - [8-bit CPU simulator in C](https://github.com/reutiteuti/logic) ([HN](https://news.ycombinator.com/item?id=23672470))
+- [GBEmu](https://github.com/BlueBlazin/gbemu) - WebAssembly based Gameboy Emulator. ([Web](https://gbemu.netlify.app/))
+- [Playstation Emulation Guide: implementation of an emulator from scratch (2016)](https://svkt.org/~simias/guide.pdf)
+- [Emu68](https://github.com/michalsc/Emu68) - M68K emulation for ARM.
+- [yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator. ([Web](https://yuzu-emu.org/))
+- [We made our own x86 shellcode emulator and how it works (2020)](https://hvmi.github.io/blog/2020/11/11/bdshemu.html) ([HN](https://news.ycombinator.com/item?id=25057062))
+- [Hypervisor Memory Introspection](https://github.com/hvmi/hvmi)
+- [vAmiga](https://github.com/dirkwhoffmann/vAmiga) - Emulates a Commodore Amiga 500, 1000, or 2000 on your Mac.
+- [Butano](https://github.com/GValiente/butano) - Modern C++ high level GBA engine.
+- [Awesome Open Source Emulators](https://github.com/alnacle/awesome-emulators)

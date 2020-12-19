@@ -19,3 +19,12 @@
 - [Squeak by Example (2009)](https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1112&context=compsci_fac)
 - [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html)
 - [Resources to learn smalltalk? (2020)](https://www.reddit.com/r/smalltalk/comments/frxp1f/resources_to_learn_smalltalk/)
+- [Crosstalk](https://github.com/michaelengel/crosstalk) - Bare metal Smalltalk-80 port to the Raspberry Pi. ([HN](https://news.ycombinator.com/item?id=23874206))
+- [TruffleSqueak](https://github.com/hpi-swa/trufflesqueak) - Squeak/Smalltalk VM and Polyglot Programming Environment for the GraalVM.
+- [Why Smalltalk Has Failed](https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html?m=1) ([HN](https://news.ycombinator.com/item?id=24329485))
+- [The Early History Of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)
+- [Issue #25: Smalltalk (2020)](https://deprogrammaticaipsum.com/issue-25-smalltalk/)
+- [Design patterns, Smalltalk, and the lost art of reading code (2020)](https://medium.com/swlh/design-patterns-smalltalk-and-the-lost-art-of-reading-code-1727d93fd7fa) ([HN](https://news.ycombinator.com/item?id=24842298))
+- [Squeak/Smalltalk Website code](https://github.com/squeak-smalltalk/squeak.org)
+- [Domains](https://github.com/len/Domains) - Computational algebra system in Smalltalk.
+- [The Smalltalk Zoo (2020)](https://computerhistory.org/blog/introducing-the-smalltalk-zoo-48-years-of-smalltalk-history-at-chm/) ([HN](https://news.ycombinator.com/item?id=25461760))

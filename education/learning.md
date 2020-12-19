@@ -4,6 +4,8 @@
 
 - [The internet provides access to an education that the aristocracy of old couldn't have imagined. It also provides the perfect attack vector for marketers to exploit cognitive vulnerabilities and dominate your attention. A world-class education is free for the undistractable.](https://twitter.com/TheStoicEmperor/status/1086118829661376512)
 - [I can't imagine building intuition without the experience of writing your own stuff, reading a book isn't going to give you that, especially when it comes to just structuring code in general, if you really want to know how something works you have to write it](https://twitter.com/tjholowaychuk/status/1256189125134336005)
+- [Learning in public creates unpredictable but exceptional outcomes. Best way to LIP is to choose a creative container: a constrained format for sharing one’s learnings, released on a consistent schedule.](https://twitter.com/patrick_oshag/status/1292259847711477761)
+- [Learning is not linear. You can “start anywhere” and branch out. It is much more important to be learning effectively (e.g. learn to recognize when you have a gap instead of trying random guesses until it works, and learn to ask the right questions).](https://twitter.com/dan_abramov/status/1295669401765720064)
 
 ## Links
 
@@ -11,11 +13,9 @@
 - [Looking For Syllabus 2.0 (2018)](https://www.usv.com/blog/looking-for-syllabus-20)
 - [Gwendolyn's birthday and some thoughts about learning (2018)](https://revanthrameshkumar.github.io/gwurdblog/thoughts/about/learning/2018/12/21/first_post_thoughts_about_learning.html)
 - [Ask HN: What are your best learning methods/hacks/tips? (2019)](https://news.ycombinator.com/item?id=19521129)
-- [Awesome learning resources organized by topics, formats and difficulty](https://github.com/learn-awesome/learn-awesome)
 - [Learning to Learn (2019)](https://css-tricks.com/learning-to-learn/)
 - [Ask HN: How to learn best practices when you have no one to teach you? (2019)](https://news.ycombinator.com/item?id=19423228)
 - [P2PU](https://www.p2pu.org/en/) - Learning circles are free study groups for people who want to take online classes together and in-person.
-- [LearnAwesome](https://learnawesome.org/) - Humanity's universal skills graph. ([HN](https://news.ycombinator.com/item?id=23795779))
 - [Ask HN: How do you personally learn? (2019)](https://news.ycombinator.com/item?id=20433926)
 - [Stop Treading Water: Learning to Learn by Edward Kmett (2014)](https://www.youtube.com/watch?v=j0XmixCsWjs)
 - [Michael E. Karpeles's mission](https://mek.fyi/mission)
@@ -23,7 +23,7 @@
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [HandWiki](https://handwiki.org/wiki/Start) - Online wiki-style encyclopedia dedicated to applications of computers, software programs and programming in different areas of science, finance and engineering.
 - [Quanta Magazine](https://www.quantamagazine.org/)
-- [Collection of GitHub repos, blogs and websites to learn cool things](https://github.com/rsapkf/goodies)
+- [42: Collection of over 3000+ sites and resources](https://links.rsapkf.xyz/) ([Code](https://github.com/rsapkf/42))
 - [Imperial Exam Papers](https://xav.ai/exam_papers/)
 - [Ask HN: What's the most valuable thing you can learn in an hour? (2019)](https://news.ycombinator.com/item?id=21581361)
 - [Learning at work is work, and we must make space for it](https://sloanreview.mit.edu/article/learning-for-a-living/) ([HN](https://news.ycombinator.com/item?id=21762640))
@@ -58,3 +58,35 @@
 - [Ask HN: What are some skills you have that are worth learning? (2020)](https://news.ycombinator.com/item?id=23758188)
 - [How Developers Stop Learning: Rise of the Expert Beginner (2012)](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/) ([HN](https://news.ycombinator.com/item?id=23767438))
 - [What the fuck is ...?](https://whatthefuck.is/) ([Code](https://github.com/gaearon/whatthefuck.is))
+- [The Polymath Playbook](https://salman.io/posts/polymath-playbook/) ([HN](https://news.ycombinator.com/item?id=23796035))
+- [A Better Cheatsheet](https://www.hillelwayne.com/post/cheatsheets/) ([Lobsters](https://lobste.rs/s/baxiv1/better_cheatsheet))
+- [Fathom](https://fathom.network/) - Open and empowering system for learning.
+- [My Younger Self](https://myyoungerself.co/) - Curated curriculum on topics of timeless human importance.
+- [Trickle](https://trickle.app/) - Make lifelong learning effortless.
+- [Ask HN: How does your organisation train programmers? (2020)](https://news.ycombinator.com/item?id=24097348)
+- [masterWiki](https://masterwiki.how/) - MasterClass course summaries.
+- [The shape of learning](https://twitter.com/azlenelza/status/1294344958992777216) - Playing with visualizing different ways of structuring classes/learning groups.
+- [A Guide to Autodidactism (2020)](https://www.jackkinsella.ie/articles/autodidactism)
+- [Learning Library](https://www.notion.so/Learning-Library-2ecb646b5e1e4d5c8274c73c3fbb2541) - Library with links to resources about various topics.
+- [LearnAwesome](https://learnawesome.org/) - Humanity's universal skills graph. ([HN](https://news.ycombinator.com/item?id=23795779)) ([Code](https://github.com/learn-awesome/learn)) ([Reddit](https://www.reddit.com/r/slatestarcodex/comments/jc1mee/building_a_goodreadsequivalent_for_lifelong/))
+- [How to remember what you learn (2020)](https://vasilishynkarenka.com/learning/)
+- [Golden](https://golden.com/explore) - Explore and Contribute to Knowledge. ([HN](https://news.ycombinator.com/item?id=24642566))
+- [How to remember what you learn (2020)](https://vasilishynkarenka.com/learning/) ([HN](https://news.ycombinator.com/item?id=24700647))
+- [Fractal Learning (2020)](https://reisub0.github.io/fractal-learning.html) ([HN](https://news.ycombinator.com/item?id=24738137))
+- [SuperMemo Guru wiki](https://supermemo.guru/wiki/SuperMemo_Guru) - Texts on memory, learning, creativity, and education.
+- [Pyxium](https://pyxium.co/) - Earning Through Learning.
+- [Awesome learning](https://github.com/curlpipe/awesome-learning) - Teach yourself a new technology from this list.
+- [Lectures London](https://lectures.london/) - Academic lectures hosted by London universities.
+- [Opinionated Guides](https://opinionatedguide.github.io/#/) - Collection of educational un-textbooked, actually digestible pages on various topics. ([Code](https://github.com/opinionatedguide/opinionatedguide.github.io))
+- [Wikimedia](https://www.wikimedia.org/) - Global ‪movement‬ whose mission is to bring free educational content to the world. ([Phabricator](https://phabricator.wikimedia.org/))
+- [A Theory of Universal Learning (2020)](https://web.math.princeton.edu/~rvan/tri201106.pdf) ([HN](https://news.ycombinator.com/item?id=25038485))
+- [Richard Feynman and How to Learn Anything Well](https://www.butwhatfor.com/feynman-technique/)
+- [Principles for Better Teaching (2020)](https://reflexio.debec.eu/principles-for-better-teaching)
+- [MyW3schools](http://www.myw3schools.com/) - Find resources for topics.
+- [Logic School](https://school.logicmag.io/) - Online, experimental school for tech workers produced by Logic Magazine.
+- [Ask HN: Have you picked any new skill from scratch, in your 40s or later? (2020)](https://news.ycombinator.com/item?id=25169621)
+- [Evergreen Skills for Software Developers](https://github.com/romenrg/evergreen-skills-developers)
+- [Chet](https://chet.social/) - Share, discover, and discuss meaningful content tailored to your profession, interests, and aspirations.
+- [Learn Difficult Concepts with the ADEPT Method (2014)](https://betterexplained.com/articles/adept-method/)
+- [Preserve Knowledge YouTube](https://www.youtube.com/c/PreserveKnowledge/featured) - Canada higher education media organization that focuses on advances in mathematics, computer science, and artificial intelligence.
+- [Learning Theory from First Principles (2020)](https://www.di.ens.fr/~fbach/learning_theory_class/)

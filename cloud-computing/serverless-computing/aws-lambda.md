@@ -1,5 +1,9 @@
 # [AWS Lambda](https://aws.amazon.com/lambda/)
 
+## Notes
+
+- [I just reduced latency by \~ 10x by bumping memory from default to \~1GB. w/ provisioned concurrency brought the request time down to around 30ms w DDB](https://twitter.com/dabit3/status/1299846109448282112)
+
 ## Links
 
 - [Writing AWS Lambda Functions in Rust](https://github.com/SilentByte/rust-lambda) ([Article](https://silentbyte.com/writing-aws-lambda-functions-in-rust))
@@ -24,3 +28,23 @@
 - [Chaos Lambda](https://github.com/artilleryio/chaos-lambda) - Serverless chaos monkey for AWS (runs on AWS Lambda).
 - [AWS CDK Made Simple: Run a Lambda function locally (2020)](https://tlakomy.com/run-cdk-lambda-function-locally)
 - [Building Your First Serverless Service With AWS Lambda Functions (2020)](https://css-tricks.com/building-your-first-serverless-service-with-aws-lambda-functions/)
+- [Introducing Direct Lambda Resolvers: AWS AppSync GraphQL APIs without VTL](https://aws.amazon.com/blogs/mobile/appsync-direct-lambda/)
+- [Cache AWS Lambda responses with Cloudflare (2020)](https://kylebarron.dev/blog/caching-lambda-functions-cloudflare)
+- [Debugging AWS Lambda Timeouts (2020)](https://lumigo.io/blog/debugging-aws-lambda-timeouts/)
+- [Show HN: AWS Lambda TypeScript Middleware](https://github.com/dbartholomae/lambda-middleware) ([Docs](https://dbartholomae.github.io/lambda-middleware/)) ([HN](https://news.ycombinator.com/item?id=24280237))
+- [Serverless ML Inference with AWS Lambda + Amazon EFS (2020)](https://medium.com/faun/setup-serverless-ml-inference-with-aws-lambda-efs-738546fa2e03)
+- [Lambda calculus and Graham’s number (2012)](https://mindsarentmagic.org/2012/11/22/lambda-graham/)
+- [Rust on AWS Lambda Using AWS CDK for Deployment](https://github.com/codetalkio/patterns-serverless-rust-minimal)
+- [The Complete AWS Lambda Handbook for Beginners (2020)](https://dashbird.io/blog/complete-aws-lambda-handbook-beginners-part-1/)
+- [AWS Lambda Extensions – In preview (2020)](https://aws.amazon.com/blogs/compute/introducing-aws-lambda-extensions-in-preview/) ([Tweet](https://twitter.com/dhruvsood/status/1314236371570024449))
+- [Building Bad Lambda (2020)](https://kohidave.dev/posts/building-bad-lambda/)
+- [golambda](https://github.com/rakyll/golambda) - AWS Lambda Go functions made easy.
+- [Determine prominent colors in a picture, your first AWS Lambda in Go (2020)](https://buddy.works/tutorials/determine-prominent-colors-in-a-picture-your-first-aws-lambda-in-go)
+- [Using AWS Lambda to sync an Elastic Load Balancer's Target Groups (2020)](https://emilenijssen.nl/6-aws-lambda-sync-elastic-load-balancer-target-groups/)
+- [AWS Lambda Runtime Interface Emulator](https://github.com/aws/aws-lambda-runtime-interface-emulator)
+- [Integration testing for AWS Lambda in Go with Docker-compose (2020)](https://buddy.works/tutorials/integration-testing-for-aws-lambda-in-go-with-docker-compose)
+- [Optimizing Lambda Cost with Multi-Threading (2020)](https://www.sentiatechblog.com/aws-re-invent-2020-day-3-optimizing-lambda-cost-with-multi-threading)
+- [AWS Lambda Extensions](https://github.com/aws-samples/aws-lambda-extensions) - Collection of sample extensions to help you get started with AWS Lambda Extensions.
+- [AWS Lambda Python Runtime Interface Client](https://github.com/aws/aws-lambda-python-runtime-interface-client)
+- [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) - AWS CDK Construct to build Node.js AWS lambdas using esbuild.
+- [aws-lambda-deploy](https://github.com/aws-samples/aws-lambda-deploy) - Collection of sample tools to enable canary deployments of AWS Lambda functions.

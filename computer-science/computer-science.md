@@ -2,12 +2,12 @@
 
 ## Notes
 
-- Turing machines however are not the only theoretical model that can be used to define computation.
+- Turing machines are not the only theoretical model that can be used to define computation.
 
 ## Links
 
 - [The Church-Turing Thesis: Story and Recent Progress](https://www.youtube.com/watch?v=QlYJz1B5XLU)
-- [Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/#org71f231a)
+- [Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 - [Learn CS in 5 months](https://github.com/llSourcell/Learn_Computer_Science_in_5_Months)
 - [Making a computer Turing complete](https://www.youtube.com/watch?v=AqNDk_UJW4k)
 - [What Is Abstraction in Computer Science](https://www.youtube.com/watch?v=_y-5nZAbgt4)
@@ -17,13 +17,13 @@
 - [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/) ([HN](https://news.ycombinator.com/item?id=22286340)) ([HN 2](https://news.ycombinator.com/item?id=23588896))
 - [Programming and Computer Science Courses](https://www.dabeaz.com/courses.html)
-- [Structure and Interpretation of Computer Programs](https://opendocs.github.io/sicp/sicp.pdf) ([HN](https://news.ycombinator.com/item?id=21299546))
+- [Structure and Interpretation of Computer Programs](https://opendocs.github.io/sicp/sicp.pdf) ([HN](https://news.ycombinator.com/item?id=21299546)) ([Video Lectures](http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/))
 - [Ask HN: What are the most fundamental books on computer science? (2019)](https://news.ycombinator.com/item?id=21311302)
 - [Code by Charles Petzold (1999)](https://www.goodreads.com/book/show/44882.Code)
 - [CS/ML notes](https://tlienart.github.io/pub/csml.html)
 - [Computer Science Roadmap (AI Track)](https://github.com/yngz/cs-roadmap)
 - [Computer Science for The Busy Developer](https://learn.codexpanse.com/courses/computer-science-for-the-busy-developer) - High speed overview of fundamental areas and concepts of computer science.
-- [CSRankings: Computer Science Rankings](http://csrankings.org/#/index?all)
+- [CSRankings: Computer Science Rankings](http://csrankings.org/#/index?all) ([Reason to reject the ranking](https://twitter.com/yy/status/1317934065144782853)) ([Code](https://github.com/emeryberger/CSrankings))
 - [Computer Science Resources](https://github.com/the-akira/Computer-Science-Resources)
 - [Our Thoughts on P=NP (2020)](https://rjlipton.wordpress.com/2020/01/12/our-thoughts-on-pnp/)
 - [List of Cornell Computer Science Course Offerings](https://www.cs.cornell.edu/courseinfo/listofcscourses)
@@ -31,10 +31,10 @@
 - [BaseCS](https://medium.com/basecs) - Exploring the basics of computer science, every Monday, for a year.
 - [Falsehoods CS Students (Still) Believe Upon Graduating (2019)](https://www.netmeister.org/blog/cs-falsehoods.html)
 - [Simple, quick cheat sheets on CS concepts](https://github.com/aspittel/coding-cheat-sheets)
-- [Missing Semester of Your CS Education](https://missing.csail.mit.edu/) ([Code](https://github.com/missing-semester/missing-semester)) ([Lobsters](https://lobste.rs/s/ti1k98/missing_semester_your_cs_education_mit)) ([HN](https://news.ycombinator.com/item?id=22226380))
+- [Missing Semester of Your CS Education](https://missing.csail.mit.edu/) ([Code](https://github.com/missing-semester/missing-semester)) ([Lobsters](https://lobste.rs/s/ti1k98/missing_semester_your_cs_education_mit)) ([HN](https://news.ycombinator.com/item?id=22226380)) ([In Russian](https://github.com/danlark1/hse_missing_cs_education)) ([Videos Code](https://github.com/missing-semester/videos))
 - [How These Things Work - A book about CS from first principles (2016)](https://reasonablypolymorphic.com/book/preface) ([HN](https://news.ycombinator.com/item?id=22346349))
 - [Philosophy of Computer Science](https://cse.buffalo.edu/~rapaport/Papers/phics.pdf)
-- [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
+- [Computer Science from the Bottom Up](https://www.bottomupcs.com/) ([Code](https://github.com/ianw/bottomupcs))
 - [Foundational knowledge for programmers](https://github.com/err0r500/foundational-knowledge-for-programmers)
 - [Computer Science Ontology (CSO)](http://cso.kmi.open.ac.uk/home) - Large-scale ontology of research areas that was automatically generated using the Klink-2 algorithm.
 - [Surprisingly Turing-Complete (2012)](https://www.gwern.net/Turing-complete) ([HN](https://news.ycombinator.com/item?id=22839035))
@@ -59,3 +59,40 @@
 - [Code: The Hidden Language of Computer Hardware and Software (1999)](https://www.goodreads.com/book/show/44882.Code)
 - [Is This a Turing Machine?](http://lambdaway.free.fr/lambdawalks/?view=meta4) ([HN](https://news.ycombinator.com/item?id=23711343))
 - [Professor solves 240 computer science exam problems in 4 hours (2020)](https://www.youtube.com/watch?v=g_ZdcHSFGv0&t=10s) ([HN](https://news.ycombinator.com/item?id=23759673))
+- [Entropy: An Introduction](https://homes.cs.washington.edu/~ewein/blog/2020/07/14/entropy/) ([HN](https://news.ycombinator.com/item?id=23873752))
+- [Corecursion and coinduction: what they are and how they relate to recursion and induction](https://www.cl.cam.ac.uk/archive/mjcg/plans/Coinduction.pdf) ([Lobsters](https://lobste.rs/s/eenrfz/corecursion_coinduction_what_they_are))
+- [Turing-Completeness Totally Free](https://link.springer.com/chapter/10.1007/978-3-319-19797-5_13) ([Paper](https://personal.cis.strath.ac.uk/conor.mcbride/TotallyFree.pdf))
+- [Essential Coding Theory (2019)](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf) ([HN](https://news.ycombinator.com/item?id=24194543))
+- [Codexpanse](https://codexpanse.com/) - Programming and CS courses for humans.
+- [Cambridge Department of Computer Science](https://www.cl.cam.ac.uk/)
+- [Abstracting Abstract Machines (2010)](http://matt.might.net/papers/vanhorn2010abstract.pdf) ([HN](https://news.ycombinator.com/item?id=24286666))
+- [Free Online Programming & Computer Science Courses (2020)](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)
+- [CS Notes](https://csnotes.me/) - University CS notes. ([Code](https://github.com/samrobbins85/notes-site))
+- [Differential Synchronization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35605.pdf) - Describes the Differential Synchronization (DS) method for keeping documents synchronized.
+- [Foundations of Computer Science notebook](https://github.com/ocamllabs/focs-notebooks/blob/main/1A%20Foundations%20of%20Computer%20Science.ipynb)
+- [Richard Feynman and Computation (1999)](https://cds.cern.ch/record/411350/files/p101.pdf)
+- [Computer Science Awards, Scholarships, & Fellowships](https://github.com/chinasaokolo/csGraduateFellowships)
+- [HazyResearch](https://cs.stanford.edu/people/chrismre/) - CS research group led by Prof. Chris Re.
+- [Computer Science Textbooks](https://open.umn.edu/opentextbooks/subjects/computer-science-information-systems)
+- [Fun with Combinators (2020)](https://doisinkidney.com/posts/2020-10-17-ski.html) ([HN](https://news.ycombinator.com/item?id=24815859))
+- [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
+- [Princeton University CS](https://www.cs.princeton.edu/) ([GitHub](https://github.com/princeton-sns))
+- [E. Dijkstra – The Man Who Carried Computer Science on His Shoulders (2020)](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders) ([HN](https://news.ycombinator.com/item?id=24942671))
+- [The FUNARG Problem Explained (1968)](http://www.softwarepreservation.net/projects/LISP/MIT/Weizenbaum-FUNARG_Problem_Explained-1968.pdf)
+- [Weekly CS Paper](https://simon-frey.com/weeklycspaper/) - Get a computer science paper every Friday.
+- [Foundations of Computer Science (1992)](http://infolab.stanford.edu/~ullman/focs.html)
+- [Program and Data Representation course](https://aaronbloomfield.github.io/pdr/readme.html) ([Code](https://github.com/uva-cs/pdr))
+- [Foundations of Computer Science annual conference (2020)](https://focs2020.cs.duke.edu/program/)
+- [Exploring How Computers Work (2020)](https://www.youtube.com/watch?v=QZwneRb-zqA) ([Reddit](https://www.reddit.com/r/programming/comments/jybwv0/exploring_how_computers_work/))
+- [Destroy All Software](https://www.destroyallsoftware.com/screencasts) - Computation explained with screencasts.
+- [Map of Computer Science (2017)](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+- [Ask HN: What are the best advanced computer science courses online? (2020)](https://news.ycombinator.com/item?id=25271676)
+- [Lobsters: Advice on advanced degrees in computer science? (2020)](https://lobste.rs/s/6ucycu/advice_on_advanced_degrees_computer)
+- [Combinators and the Story of Computation (2020)](https://writings.stephenwolfram.com/2020/12/combinators-and-the-story-of-computation/)
+- [NandGame](http://nandgame.com/) - Build a computer from scratch.
+- [Theory of Computation in 4 Videos](https://www.youtube.com/playlist?list=PLylTVsqZiRXPU09ULWGfXYsEtw-Qtq0Yn) ([HN](https://news.ycombinator.com/item?id=25338641))
+- [Easy Theory](https://www.easytheory.org/) - YouTube lectures on computer science theory.
+- [CS 61A: Structure and Interpretation of Computer Programs (2020)](https://cs61a.org/)
+- [Dijkstra: On the cruelty of teaching computing science](https://www.psy.gla.ac.uk/~steve/educ/dijk/EWD1036.v4.pdf) ([HN](https://news.ycombinator.com/item?id=25442016))
+- [Curated list of articles, resources and links on programming, math and computer science (2020)](https://www.reddit.com/r/compsci/comments/kczkk1/my_2020_curated_list_of_articles_resources_and/)
+- [Statecharts: A Visual Formalism for Complex Systems (1987)](http://www.inf.ed.ac.uk/teaching/courses/seoc/2005_2006/resources/statecharts.pdf)

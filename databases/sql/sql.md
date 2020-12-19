@@ -15,8 +15,8 @@
 - [Learn Modern SQL with PostgreSQL](https://www.masterywithsql.com/) ([HN](https://news.ycombinator.com/item?id=20260292))
 - [PartiQL](https://partiql.org/) - SQL-compatible access to relational, semi-structured, and nested data.
 - [BlazingSQL](https://github.com/BlazingDB/pyBlazing) - Lightweight, GPU accelerated, SQL engine built on RAPIDS.
-- [10 Ways to Tweak Slow SQL Queries](http://www.helenanderson.co.nz/sql-query-tweaks/) ([HN](https://news.ycombinator.com/item?id=20855441))
-- [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+- [Ways to Tweak Slow SQL Queries](https://www.databasestar.com/slow-sql) ([HN](https://news.ycombinator.com/item?id=20855441))
+- [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics. ([Web](https://osquery.io/)) ([osquery launcher](https://github.com/kolide/launcher))
 - [SQL queries don't start with SELECT (2019)](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)
 - [OctoSQL](https://github.com/cube2222/octosql) - Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries) - Designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime. ([HN](https://news.ycombinator.com/item?id=21799988))
@@ -25,7 +25,7 @@
 - [How a SQL database works (2019)](http://calpaterson.com/how-a-sql-database-works.html) ([HN](https://news.ycombinator.com/item?id=21838531))
 - [When an SQL database makes a great Pub/Sub (2019)](https://threedots.tech/post/when-sql-database-makes-great-pub-sub/) ([HN](https://news.ycombinator.com/item?id=21834152))
 - [Cosette](https://github.com/uwdb/Cosette) - Automated SQL solver.
-- [BlazingSQL](https://github.com/BlazingDB/blazingsql) - GPU accelerated SQL engine built on top of the RAPIDS ecosystem.
+- [BlazingSQL](https://github.com/BlazingDB/blazingsql) - GPU accelerated SQL engine built on top of the RAPIDS ecosystem. ([Web](https://blazingsql.com/))
 - [libinjection](https://github.com/client9/libinjection) - SQL / SQLI tokenizer parser analyzer.
 - [SQL Tutorial for Beginners (2020)](https://www.youtube.com/watch?v=tp_5c6jaNQE)
 - [SQL Koans](https://sqlkoans.com/) - Set of koans to introduce you to SQL. ([Code](https://github.com/phillipjohnson/sql-koans))
@@ -55,3 +55,31 @@
 - [querycafe](https://www.query.cafe/) - Import, query, and share any dataset.
 - [AlaSQL](https://github.com/agershun/alasql) - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL).
 - [RAT-SQL: Relation-Aware Schema Encoding and Linking for Text-to-SQL Parsers (2020)](https://arxiv.org/abs/1911.04942) ([Code](https://github.com/microsoft/rat-sql))
+- [Some SQL Tricks of an Application DBA (2020)](https://hakibenita.com/sql-tricks-application-dba) ([Lobsters](https://lobste.rs/s/yqd6bi/some_sql_tricks_application_dba))
+- [Scaling relational SQL databases (2020)](https://stribny.name/blog/2020/07/scaling-relational-sql-databases)
+- [The Troublesome Active Record Pattern (2020)](http://calpaterson.com/activerecord.html) ([HN](https://news.ycombinator.com/item?id=22615414))
+- [Implementing subqueries in go-mysql-server (2020)](https://www.dolthub.com/blog/2020-08-05-implementing-subqueries/)
+- [We Can Do Better Than SQL (2019)](https://edgedb.com/blog/we-can-do-better-than-sql/) ([Lobsters](https://lobste.rs/s/uwefle/we_can_do_better_than_sql)) ([HN](https://news.ycombinator.com/item?id=24106608))
+- [How to level up your SQL skills (2019)](https://clubhouse.io/developer-how-to/how-to-level-up-your-sql-skills/) ([Lobsters](https://lobste.rs/s/fddvpn/how_level_up_your_sql_skills))
+- [Lateral Joins and Demand-Driven Queries (2020)](https://materialize.io/lateral-joins-and-demand-driven-queries/)
+- [SQL Templates](https://popsql.com/sql-templates)
+- [PopSQL](https://popsql.com/) - Collaborative SQL editor for teams.
+- [Nested SQL Queries](https://leontrolski.github.io/nested-sql.html)
+- [GlueSQL](https://github.com/gluesql/gluesql) - SQL Database Engine as a Library.
+- [TS SQL](https://github.com/codemix/ts-sql) - SQL database implemented purely in TypeScript type annotations. ([Tweet](https://twitter.com/c_pick/status/1307433762914009090)) ([HN](https://news.ycombinator.com/item?id=24615185))
+- [Simple Anomaly Detection Using Plain SQL (2020)](https://hakibenita.com/sql-anomaly-detection) ([Lobsters](https://lobste.rs/s/q1hh1g/simple_anomaly_detection_using_plain_sql))
+- [A Short Story About SQL’s Biggest Rival (2020)](https://www.holistics.io/blog/quel-vs-sql/?) ([HN](https://news.ycombinator.com/item?id=24730713))
+- [What ORMs Have Taught Me: Just Learn SQL (2014)](https://wozniak.ca/blog/2014/08/03/1/) ([HN](https://news.ycombinator.com/item?id=24845300))
+- [SQL Formatter](https://zeroturnaround.github.io/sql-formatter/) - JavaScript library for pretty-printing SQL queries. ([Code](https://github.com/zeroturnaround/sql-formatter))
+- [SQL Joins Visualizer](https://sql-joins.leopard.in.ua/) - Help to you build SQL JOIN between two tables by using of Venn diagrams. ([Code](https://github.com/le0pard/sql-joins-app))
+- [Top 10 Most Important SQL Commands to Know (2020)](https://blog.arctype.com/sql-cheat-sheet-top-10-most-important-sql-commands-to-know/)
+- [Automate Business Logic With Logic Bank](https://dzone.com/articles/automate-business-logic-with-logic-bank) - Rule engine automates SQLAlchemy update logic for remarkable agility - 40X more concise. Scalable. Extensible and manageable using Python. ([Tweet](https://twitter.com/zzzeek/status/1328041618931408898))
+- [SQL overview](http://jakewheat.github.io/sql-overview/) ([Code](https://github.com/JakeWheat/sql-overview))
+- [cloudquery](https://cloudquery.run/) - Transform your cloud config and metadata to SQL. ([Code](https://github.com/cloudquery/cloudquery))
+- [mfsqlchecker](https://github.com/MedFlyt/mfsqlchecker) - Statically validate correctness of all your SQL queries. TypeScript, PostgreSQL.
+- [SQLiterally](https://github.com/terkelg/sqliterally) - Lightweight SQL query builder.
+- [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool. ([Web](http://sqlmap.org/))
+- [SQL Conventions](https://github.com/FGRibreau/sql-convention)
+- [SQLFlow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together. ([Web](https://sql-machine-learning.github.io/))
+- [Practical SQL (2018)](https://nostarch.com/practicalSQL) - Beginner’s Guide to Storytelling with Data.
+- [Recursion in SQL Explained Visually (2020)](https://medium.com/swlh/recursion-in-sql-explained-graphically-679f6a0f143b)

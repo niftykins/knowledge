@@ -1,15 +1,12 @@
 # API
 
-## Nice API docs
-
-- [Monzo](https://docs.monzo.com/#introduction)
-
 ## Other
 
 - [Google Drive](https://github.com/prasmussen/gdrive)
 - [GitHub](https://developer.github.com/v3/)
 - [GitHub Go](https://github.com/shurcooL/githubv4) - Client library for accessing GitHub GraphQL API.
 - [GitHub JS](https://github.com/octokit/core.js) - Extendable client for GitHub's REST & GraphQL APIs.
+- [GitHub JS 2](https://github.com/jviotti/ghrequest) - GitHub API HTTP client with cache support to get the most of your rate limit.
 - [GitHub Rust](https://github.com/softprops/hubcaps)
 - [GitHub Rust 2](https://github.com/XAMPPRocky/octocrab)
 - [GitHub Swift](https://github.com/mdiep/Tentacle) - Swift framework for the GitHub API.
@@ -20,11 +17,17 @@
 - [Hacker News](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
 - [Dropbox](https://github.com/dropbox/dbxcli) - Command line client for Dropbox built using the Go SDK.
 - [Dropbox JS](https://github.com/dropbox/dropbox-sdk-js) - Dropbox JavaScript SDK.
+- [Twitter Swift](https://github.com/mattdonnelly/Swifter)
 - [Twitter Python](https://github.com/ryanmcgrath/twython) - Actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs.
+- [Twitter Python 2](https://github.com/tweepy/tweepy)
+- [Twitter Python 3](https://github.com/geduldig/TwitterAPI)
+- [Twitter Rust](https://github.com/egg-mode-rs/egg-mode)
 - [Twitter Node](https://github.com/ttezel/twit) - Twitter API Client for node (REST & Streaming API).
+- [Twitter JS](https://github.com/yarnaimo/twimo-v2) - Twitter API v2 client for TypeScript auto-generated from official OpenAPI specification.
 - [Twitter Lite JS](https://github.com/draftbit/twitter-lite) - Tiny, full-featured, flexible client / server library for the Twitter API.
 - [Twitter Go](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [Twitter Go 2](https://github.com/bloveless/tweetgo)
+- [Twitter API proxy server using gRPC](https://github.com/Pantonshire/goldcrest)
 - [Twitter profile dumper (downloader) with authorization swapping](https://github.com/snovvcrash/tweetlord)
 - [Twitter Post Fetcher](https://github.com/jasonmayes/Twitter-Post-Fetcher) - Fetch your twitter posts without using the new Twitter.
 - [arxiv-graphql](https://github.com/prabhuomkar/arxiv-graphql) - GraphQL API for arXiv: e-print service by Cornell University.
@@ -35,20 +38,28 @@
 - [Notion Go](https://github.com/kjk/notionapi)
 - [Notion Python](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so.
 - [Google Cloud](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python.
-- [Reddit Go](https://github.com/turnage/graw)
-- [Reddit Go 2](https://github.com/jzelinskie/geddit)
+- [Reddit Go](https://github.com/vartanbeno/go-reddit)
+- [Reddit Go 2](https://github.com/turnage/graw)
+- [Reddit Go 3](https://github.com/jzelinskie/geddit)
 - [Reddit JS](https://github.com/feross/reddit) - Simple Reddit API client in JS.
 - [Goodreads API Go](https://github.com/KyleBanks/goodreads)
 - [SendGrid Go](https://github.com/sendgrid/sendgrid-go)
 - [Fastly Go](https://github.com/fastly/cli) - CLI for interacting with the Fastly platform.
 - [Discord Rust](https://github.com/twilight-rs/twilight)
 - [Discord Rust 2](https://github.com/serenity-rs/serenity)
-- [Discord Go](https://github.com/bwmarrin/discordgo) - Go bindings for Discord.
-- [Slack Go](https://github.com/nlopes/slack)
+- [Discord Rust 3](https://github.com/passcod/accord)
+- [Discord Rust 4](https://github.com/AregevDev/rustcord) - Safe wrapper around the Discord Rich Presence API.
+- [Discord Go](https://github.com/bwmarrin/discordgo)
+- [Discord Go 2](https://github.com/diamondburned/arikawa)
+- [Discord Go 3](https://github.com/andersfylling/disgord) - Go module for interacting with the documented Discord's bot interface; Gateway, REST requests and voice.
+- [Discord C++](https://github.com/yourWaifu/sleepy-discord)
+- [Discord JS](https://github.com/discordjs/discord.js)
+- [Discord Swift](https://github.com/Azoy/Sword)
 - [Slack Go 2](https://github.com/slack-go/slack)
 - [Slack Go 3](https://github.com/lestrrat-go/slack) - Slack client for go.
 - [Slash Go 4](https://github.com/htdvisser/slash) - Router for Slack's slash commands.
 - [Slack Go 5](https://github.com/shomali11/slacker) - Slack Bot Framework in Go.
+- [Stripe Go](https://github.com/stripe/stripe-go)
 - [Star Wars API](https://swapi.co/) - Nice for testing.
 - [Google Spreadsheet NodeJS](https://github.com/theoephraim/node-google-spreadsheet) - Most popular Google Sheets API wrapper for JavaScript.
 - [Airtable JS](https://github.com/Airtable/airtable.js)
@@ -72,26 +83,38 @@
 - [WhatsApp Go](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API.
 - [Facebook Graph API SDK Go](https://github.com/huandu/facebook)
 - [Trello Go](https://github.com/adlio/trello) - Trello API wrapper for Go.
+- [LinkedIn Node](https://github.com/eilonmore/linkedin-private-api)
 - [Gophercloud Go](https://github.com/gophercloud/gophercloud) - OpenStack Go SDK.
 - [AWS SDK Rust](https://github.com/rusoto/rusoto)
 - [Spotify Rust](https://github.com/librespot-org/librespot) - Open Source Spotify client library.
 - [Spotify Rust 2](https://github.com/plietar/librespot)
+- [Spotiy iOS SDK](https://github.com/spotify/ios-sdk)
 - [Apple Music Go](https://github.com/minchao/go-apple-music)
 - [Google News Python](https://github.com/kotartemiy/pygooglenews)
 - [TensorFlow Rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow.
 - [libgit2 Rust](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust.
 - [LLVM Rust](https://github.com/zshipko/llama) - Friendly LLVM library for Rust.
+- [SwiftyInsta](https://github.com/TheM4hd1/SwiftyInsta) - Instagram Private API Swift.
 - [Instagram Private API in Python](https://github.com/ping/instagram_private_api)
 - [Instagram Scraper Python](https://github.com/realsirjoe/instagram-scraper) - Scrapes medias, likes, followers, tags and all metadata.
+- [InstaLooter](https://github.com/althonos/InstaLooter) - API-less Instagram pictures and videos downloader.
 - [Fastly Go](https://github.com/fastly/go-fastly)
 - [Linear GraphQL API](https://github.com/linearapp/linear/blob/master/docs/API.md)
 - [SpaceX API](https://github.com/r-spacex/SpaceX-API) - Open Source REST API for rocket, core, capsule, pad, and launch data.
 - [GitLab Go](https://github.com/xanzy/go-gitlab)
+- [GitLab Go 2](https://github.com/profclems/glab)
+- [GCP Haskell](https://github.com/brendanhay/gogol) - Comprehensive Google Services SDK for Haskell.
 - [Robintrack](https://github.com/Ameobea/robintrack) - Scrapes the Robinhood API to retrieve + store popularity and price data. ([Web](http://robintrack.net/))
 - [OpenAI API](https://beta.openai.com/) ([HN](https://news.ycombinator.com/item?id=23489653))
 - [Tesla Swift](https://github.com/jonasman/TeslaSwift)
+- [Medium API](https://github.com/Medium/medium-api-docs)
 - [Azure Python](https://github.com/Azure/azure-rest-api-specs)
+- [Twitch GraphQL](https://github.com/ColeWalker/twitch-graphql)
+- [Finage](https://docs.finage.co.uk/#/) - Stock,Currency and Crypto Real-Time API.
+- [Vonage API](https://developer.nexmo.com/) - Everything you need to build connected applications. ([Code](https://github.com/Nexmo/nexmo-developer))
+- [Bing Web Search API](https://azure.microsoft.com/en-us/services/cognitive-services/bing-web-search-api/)
 - [TalkJS](https://talkjs.com/) - Chat API and Javascript SDK for websites and apps.
+- [Exchangerate.host](https://exchangerate.host/#/) - Free API service for crypto and foreign exchange rates. ([HN](https://news.ycombinator.com/item?id=23917210))
 
 ## Links
 
@@ -107,7 +130,7 @@
 - [Stoplight Studio](https://stoplight.io/studio) - Design APIs 10x faster with our free OpenAPI editor. Prototype and share your API within minutes. ([Code](https://github.com/stoplightio/studio))
 - [WorkOS](https://workos.com/) - APIs for enterprise features like SSO/SAML. ([HN](https://news.ycombinator.com/item?id=22607402))
 - [NoCodeAPI](https://nocodeapi.com/) - Quickly set-up third party application APIs.
-- [Pipedream](https://pipedream.com/) - Develop any workflow, based on any trigger. Workflows are code, which you can run for free.
+- [Pipedream](https://pipedream.com/) - Develop any workflow, based on any trigger. Workflows are code, which you can run for free. ([Code](https://github.com/PipedreamHQ/pipedream))
 - [An Introduction to APIs](https://zapier.com/learn/apis/)
 - [Paragon](https://www.useparagon.com/) - Visually create production-ready API workflows. ([HN](https://news.ycombinator.com/item?id=22813834))
 - [Saasify](https://saasify.sh/) - Handles all of the SaaS boilerplate, including user accounts, subscription billing, developer docs, and a polished marketing site.
@@ -125,3 +148,37 @@
 - [Standard Library](https://stdlib.com/) - Design with APIs, prototype, and release integrations faster with Autocode.
 - [APIs are about Policy (2019)](https://acko.net/blog/apis-are-about-policy/)
 - [APIs with GitHub](https://github.com/mddanishyusuf/json-apis-with-github) - Simple tool to make JSON APIs for quick use for your basic projects. Your APIs are hosted on GitHub as JSON file that's simple.
+- [Akita Software](https://www.akitasoftware.com/) - Helping people get visibility into their software through their APIs.
+- [A personal API (2019)](https://blog.webb.page/2019/a-personal-api)
+- [The API Economy](https://a16z.com/tag/the-api-economy/)
+- [Mock Service Worker (MSW)](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node. ([Web](https://mswjs.io/))
+- [Rusty's API Design Manifesto](http://sweng.the-davies.net/Home/rustys-api-design-manifesto)
+- [Top 10 Social Media APIs for Developers (2020)](https://www.ayrshare.com/top-10-social-media-apis-for-developers/)
+- [Slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API. ([HN](https://news.ycombinator.com/item?id=24196121))
+- [The land before modern APIs (2020)](https://increment.com/apis/land-before-modern-apis/)
+- [How should we build the APIs of tomorrow? (2020)](https://increment.com/apis/how-we-should-build-apis-tomorrow/) ([HN](https://news.ycombinator.com/item?id=24332418))
+- [Top Tools to Make Debugging APIs Easier (2020)](https://blog.bearer.sh/api-debugging-tools/)
+- [Bearer.sh](https://www.bearer.sh/) - Monitor, track performance, detect anomalies, and fix issues on your critical API usage.
+- [APIs You Won't Hate](https://apisyouwonthate.com/) - Community that cares about API design and development.
+- [Ask HN: Suggestions for books about API design? (2020)](https://news.ycombinator.com/item?id=24383180)
+- [How To Design A Good API and Why it Matters (2007)](https://www.youtube.com/watch?v=aAb7hSCtvGw)
+- [Regarding Semantic Versioning (2020)](https://www.danielmoch.com/posts/2020/09/regarding-semantic-versioning/) ([Lobsters](https://lobste.rs/s/i8bcst/regarding_semantic_versioning))
+- [Swagger UI](https://github.com/swagger-api/swagger-ui) - Collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+- [Swagger Codegen](https://github.com/swagger-api/swagger-codegen) - Contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
+- [Catch Breaking Changes by Diffing API Traffic (2020)](https://www.akitasoftware.com/blog/2020/9/22/faster-better-earlier-catch-breaking-changes-by-diffing-api-behavior) ([HN](https://news.ycombinator.com/item?id=24561119))
+- [Cloudflare API Shield (2020)](https://blog.cloudflare.com/introducing-api-shield/)
+- [Abstract API](https://www.abstractapi.com/) - Suite of fast, accurate, & robust APIs.
+- [Stargate](https://github.com/stargate/stargate) - Open source API framework for data. Data gateway deployed between client applications and a database. ([Web](https://stargate.io/)) ([Hello GraphQL; meet Cassandra](https://stargate.io/2020/10/05/hello-graphql.html))
+- [API pagination design (2020)](https://solovyov.net/blog/2020/api-pagination-design/) ([Lobsters](https://lobste.rs/s/isysq1/api_pagination_design))
+- [Insomnia](https://insomnia.rest/) - API Design Platform and REST Client. ([Code](https://github.com/Kong/insomnia))
+- [Apiary](https://apiary.io/) - Platform for API Design, Development & Documentation. ([How Apiary Works](https://apiary.io/how-apiary-works))
+- [Customizing API Documentation with Next.JS, Tailwind CSS, and ReadMe (2020)](https://scale.com/blog/quick-start-guide-to-customized-api-documentation)
+- [OpenAPI 3 Generator](https://github.com/egorsmkv/openapi3-generator) - Faster way to prototype your APIs using OpenAPI 3 and Swagger UI. ([HN](https://news.ycombinator.com/item?id=24867853))
+- [Hoppscotch](https://hoppscotch.io/) - Free, fast and beautiful API request builder. ([Code](https://github.com/hoppscotch/hoppscotch))
+- [Optic](https://useoptic.com/) - APIs that Document and Test Themselves. ([Code](https://github.com/opticdev/optic))
+- [Pizzly](https://github.com/Bearer/Pizzly/) - Simplest, fastest way to integrate your app with OAuth APIs. ([Web](https://www.bearer.sh/pizzly-oauth-integration))
+- [Swell](https://github.com/open-source-labs/Swell) - API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL and gRPC. ([Web](https://www.getswell.io/))
+- [API design is stuck in the past (2020)](https://buf.build/blog/api-design-is-stuck-in-the-past) ([HN](https://news.ycombinator.com/item?id=25085276))
+- [APISprout](https://github.com/danielgtaylor/apisprout) - Lightweight, blazing fast, cross-platform OpenAPI 3 mock server with validation.
+- [List of Great Product API Docs (2020)](https://twitter.com/steipete/status/1335135761197375491)
+- [Bitmasks for nicer APIs (2020)](https://www.arp242.net/bitmask.html)

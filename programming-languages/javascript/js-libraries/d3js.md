@@ -22,3 +22,12 @@
 - [WebCola](https://ialab.it.monash.edu/webcola/) - JavaScript constraint based layout for high-quality graph visualization and exploration using D3.js and other web-based graphics libraries.
 - [Rendering One Million Datapoints with D3 and WebGL (2020)](https://blog.scottlogic.com/2020/05/01/rendering-one-million-points-with-d3.html)
 - [D3 Render](https://github.com/unkleho/d3-render) - Declarative and reusable D3. Replace select, append, data, join, enter, exit, transition and more with one function.
+- [HN: D3 6.0 (2020)](https://news.ycombinator.com/item?id=24288497)
+- [visx](https://github.com/airbnb/visx) - Collection of reusable low-level visualization components. ([Web](https://airbnb.io/visx/))
+- [D3 Discovery](https://d3-discovery.net/) - Find D3 plugins with ease.
+- [How D3 Selections Work (2013)](https://bost.ocks.org/mike/selection/)
+- [Plottable](https://github.com/palantir/plottable) - Library of modular chart components built on D3. ([Web](http://plottablejs.org/))
+- [d3-force](https://github.com/d3/d3-force) - Force-directed graph layout using velocity Verlet integration. ([How to use](https://wattenberger.com/blog/d3-force))
+- [React D3 Tree](https://github.com/bkrem/react-d3-tree) - React component to create interactive D3 tree graphs.
+- [Statosio](https://github.com/a6b8/statosio.js) - Add-on function for d3 to generate simple charts, in a fast and reliable way. ([Docs](https://d3.statosio.com/))
+- [force-graph](https://github.com/vasturiano/force-graph) - Force-directed graph rendered on HTML5 canvas.

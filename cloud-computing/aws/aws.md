@@ -17,7 +17,7 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 
 - [AWS in plain English](https://www.expeditedssl.com/aws-in-plain-english) - Great reference.
 - [AWS practical guide](https://github.com/open-guides/og-aws)
-- [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk) - Framework for defining cloud infrastructure in code.
+- [AWS CDK (Cloud Development Kit)](https://github.com/aws/aws-cdk) - Framework for defining cloud infrastructure in code. ([Web](https://aws.amazon.com/cdk/)) ([AWS CDK Examples](https://github.com/aws-samples/aws-cdk-examples))
 - [AWS Fargate Action](https://github.com/jessfraz/aws-fargate-action) - GitHub action to deploy to AWS Fargate on push to the master branch.
 - [AWS Serverless Application Model](https://github.com/awslabs/serverless-application-model) - Contains the SAM specification, the code that translates SAM templates into AWS CloudFormation stacks, general information about the model, and examples of common applications.
 - [Kubernetes on AWS with Terraform](https://github.com/xuwang/kube-aws-terraform) - Kubernetes implementation using CoreOS on AWS platform.
@@ -90,3 +90,41 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Usage](https://www.usage.ai/) - Reduce your AWS spend. With no risk. 44% average savings. ([HN](https://news.ycombinator.com/item?id=23776894))
 - [Top 5 Things to Learn First with AWS and How to Get Started with Amazon Web Services (2020)](https://www.colbyfayock.com/2020/07/top-5-things-to-learn-first-with-aws-and-how-to-get-started-with-amazon-web-services)
 - [Ask HN: How can I quickly trim my AWS bill? (2020)](https://news.ycombinator.com/item?id=23798347)
+- [Designing a scalable API on AWS spot instances (2020)](https://blog.adapty.io/designing-scalable-api-on-aws-stop-instance/) ([HN](https://news.ycombinator.com/item?id=23925783))
+- [AWS Tagging Best Practices](https://www.cloudforecast.io/blog/aws-tagging-best-practices/) ([HN](https://news.ycombinator.com/item?id=24132528))
+- [Using ProxyCannon-NG to Create Unlimited Rotating Proxies (2020)](https://iamstoxe.com/posts/using-proxycannon-ng-to-create-unlimited-rotating-proxies/)
+- [AWS Stash](https://awsstash.com/?) - Collection of AWS related videos, podcasts, code repositories, whitepapers, and feature releases, all in a single, easy to search interface.
+- [AWS Boilerplate](https://github.com/apptension/aws-boilerplate) - Opinionated full stack web app's boilerplate, ready to be deployed to AWS platform.
+- [AWS CDK Intro Workshop](https://cdkworkshop.com/) ([Code](https://github.com/aws-samples/aws-cdk-intro-workshop))
+- [Tips and Gotchas for managing your AWS Costs (2020)](https://www.taggun.io/tips-and-gotchas-for-managing-your-aws-cloud-costs)
+- [AWS Video Catalog](https://awsvideocatalog.com/)
+- [AWS Perspective](https://aws.amazon.com/solutions/implementations/aws-perspective/) - Quickly visualizes AWS Cloud workloads as architecture diagrams. ([HN](https://news.ycombinator.com/item?id=24552779)) ([Code](https://github.com/awslabs/aws-perspective))
+- [Open AWS Catalogue](https://aws.dendron.so/) - Reference of all things AWS. ([Code](https://github.com/dendronhq/catalogue-open-aws))
+- [AWS for the rest of us (2020)](https://technically.dev/posts/aws-for-the-rest-of-us)
+- [Bucket Stream](https://github.com/eth0izzle/bucket-stream) - Find interesting Amazon S3 Buckets by watching certificate transparency logs.
+- [Granularity levels in AWS IAM policies (2020)](https://advancedweb.hu/granularity-levels-in-aws-iam-policies/)
+- [AWS Toolkit for Visual Studio Code](https://github.com/aws/aws-toolkit-vscode) - Extension for working with AWS services such as AWS Lambda.
+- [AWS Copilot CLI](https://github.com/aws/copilot-cli) - Tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.
+- [Top 5 AWS EC2 Performance Problems (2020)](https://www.datadoghq.com/pdf/top_5_aws_ec2_performance_problems_ebook.pdf) - How to detect them, why they occur and how to resolve them.
+- [Awesome CDK](https://github.com/kolomied/awesome-cdk)
+- [Where to Start with AWS as a Developer (2020)](https://www.samjulien.com/where-to-start-with-aws-as-a-developer)
+- [AWS Cost Comparison Tool](https://github.com/rocketmiles/aws-cct)
+- [My AWS toolbox - tools, plugins and applications (2020)](https://betterdev.blog/my-aws-toolbox/)
+- [Amazon ECR Docker Credential Helper](https://github.com/awslabs/amazon-ecr-credential-helper)
+- [Amazon EKS Helm charts](https://github.com/aws/eks-charts)
+- [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/) - Program offers technical resources, mentorship, and networking opportunities.
+- [AWS Secure Environment Accelerator](https://github.com/aws-samples/aws-secure-environment-accelerator) - Tool designed to help deploy and operate secure multi-account AWS environments on an ongoing basis.
+- [AWS Serverless Workshops](https://github.com/aws-samples/aws-serverless-workshops)
+- [Cachenator](https://github.com/adrianchifor/cachenator) - Distributed, sharded in-memory cache and proxy for S3.
+- [Digger](https://alpha.digger.dev/Digger-7f299819b6f2415fbe67b87a0e7ca97c) - CLI to set up container environments in AWS.
+- [Grafana dashboards for AWS CloudWatch](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards)
+- [7777](https://port7777.com/) - Your remote AWS database on your local port 7777. ([Docs](https://github.com/whilenull/7777-support))
+- [Learn AWS Blog](https://www.learnaws.org/)
+- [CloudNews](https://www.cloudnews.dev/) - Never miss important AWS news. Newsletter.
+- [AWS List All](https://github.com/JohannesEbke/aws_list_all) - List all your AWS resources, all regions, all services.
+- [AWS Perspective](https://github.com/awslabs/aws-perspective) - Tool that quickly visualizes AWS Cloud workloads as architecture diagrams. ([Web](https://aws.amazon.com/solutions/implementations/aws-perspective/))
+- [AWS Proton sample templates](https://github.com/aws-samples/aws-proton-sample-templates)
+- [ConsoleMe](https://github.com/Netflix/consoleme) - Consolidates the management of multiple AWS accounts into a single interface.
+- [CDK Patterns](https://github.com/cdk-patterns/serverless) - AWS Serverless architecture patterns built with CDK for developers to use. ([Web](https://cdkpatterns.com/))
+- [AWS Deployment Framework](https://github.com/awslabs/aws-deployment-framework) - Extensive and flexible framework to manage and deploy resources across multiple AWS accounts and regions within an AWS Organization.
+- [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services.

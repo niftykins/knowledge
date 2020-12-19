@@ -34,7 +34,7 @@
 - [On the Relationship Between Static Analysis and Type Theory (2019)](https://semantic-domain.blogspot.com/2019/08/on-relationship-between-static-analysis.html) ([Lobsters](https://lobste.rs/s/irow0u/on_relationship_between_static_analysis))
 - [Timeline for Logic, λ-Calculus, and Programming Language Theory (2012)(http://fm.csl.sri.com/SSFT15/Timeline.pages.pdf) ([HN](https://news.ycombinator.com/item?id=20860888))
 - [Types and Programming Languages book](https://www.cis.upenn.edu/~bcpierce/tapl/)
-- [Type Theory and Formal Proof book](https://www.goodreads.com/book/show/21442441-type-theory-and-formal-proof)
+- [Type Theory and Formal Proof book](https://www.cambridge.org/core/books/type-theory-and-formal-proof/0472640AAD34E045C7F140B46A57A67C)
 - [qtt](https://github.com/LightAndLight/qtt) - Quantitative Type Theory implementation.
 - [Normalization by evaluation for Martin-Löf Type Theory with dependent records](https://github.com/brendanzab/rust-nbe-for-mltt)
 - [Introduction to Type Theory (2019)](https://jadon.io/blog/type-theory/)
@@ -85,3 +85,24 @@
 - [Peter LeFanu Lumsdaine, What are we thinking when we present a type theory? (2020)](https://www.youtube.com/watch?v=kQe0knDuZqg)
 - [Mathematics in type theory (2020)](https://xenaproject.wordpress.com/2020/06/20/mathematics-in-type-theory/) ([HN](https://news.ycombinator.com/item?id=23612856))
 - [Division by zero in type theory: a FAQ (2020)](https://xenaproject.wordpress.com/2020/07/05/division-by-zero-in-type-theory-a-faq/) ([HN](https://xenaproject.wordpress.com/2020/07/05/division-by-zero-in-type-theory-a-faq/))
+- [Programming in Martin-L ̈of’s Type Theory: An Introduction (1990)](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
+- [Type Theory and Functional Programming book (1991)](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
+- [Intro To Type Theory](https://danielbmarkham.locals.com/post/88422/technical-tuesdays-intro-to-type-theory) ([Lobsters](https://lobste.rs/s/tvqpbu/intro_type_theory))
+- [Towards Observational Type Theory](http://strictlypositive.org/ott.pdf)
+- [Typing is Hard](https://typing-is-hard.ch/) ([Lobsters](https://lobste.rs/s/t7utm7/typing_is_hard))
+- [Types as axioms, or: playing god with static types (2020)](https://lexi-lambda.github.io/blog/2020/08/13/types-as-axioms-or-playing-god-with-static-types/) ([Lobsters](https://lobste.rs/s/zl3eha/types_as_axioms_playing_god_with_static))
+- [The Cartesian Product Algorithm (Type Inference) (1995)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.30.8177&rep=rep1&type=pdf)
+- [Martin Hofmann’s contributions to Type Theory: Groupoids and Univalence (2020)](http://www.cs.nott.ac.uk/~psztxa/martin-19.pdf)
+- [Demystifying Type Systems (2020)](https://medium.com/wix-engineering/demystifying-type-systems-3a16fafbd92e)
+- [Incremental Type Migration Using Type Algebra (2020)](https://research.google/pubs/pub49386/)
+- [Things I Was Wrong About: Types](https://v5.chriskrycho.com/journal/things-i-was-wrong-about/1-types/) ([HN](https://news.ycombinator.com/item?id=24604943))
+- [Luca Cardelli: Typeful Programming](http://www.lucacardelli.name/Papers/TypefulProg.pdf)
+- [Alg](https://github.com/andrejbauer/alg) - Program that generates all finite models of a first-order theory. It is optimized for equational theories.
+- [Corpse Reviver: Sound and Efficient Gradual Typing via Contract Verification (2020)](https://arxiv.org/abs/2007.12630) ([Tweet](https://twitter.com/yminsky/status/1315983813965742081))
+- [Propositions as types: some missing links (2019)](https://k-bx.github.io/articles/propositions-as-types-missing-links.html)
+- [SPRITE](https://github.com/ranjitjhala/sprite-lang) - Tutorial-style implementation of liquid/refinement types for a subset of Ocaml/Reason.
+- [Refinement Types: A Tutorial (2020)](https://arxiv.org/abs/2010.07763)
+- [Names are not type safety (2020)](https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/) ([HN](https://news.ycombinator.com/item?id=24963821))
+- [A Conversation on FRP, Databases, and Types (2020)](https://blog.wesleyac.com/posts/frp-databases-types)
+- [An extended type system with lambda-typed lambda-expressions (2020)](https://arxiv.org/abs/1803.10143)
+- [lambda-dti](https://github.com/ymyzk/lambda-dti) - Interpreter of the ITGL with dynamic type inference.

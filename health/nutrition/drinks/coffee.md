@@ -21,3 +21,10 @@
 - [Health Effects of Coffee (2020)](https://www.mdpi.com/2072-6643/12/6/1842) ([HN](https://news.ycombinator.com/item?id=23599221))
 - [No More Coffee](https://jayriverlong.github.io/2020/06/30/coffee.html) ([HN](https://news.ycombinator.com/item?id=23708204))
 - [Caffenol: Developing Photos with Coffee and Vitamin C (2020)](https://www.youtube.com/watch?v=9bhOtTUtPhg) ([HN](https://news.ycombinator.com/item?id=23761554))
+- [Engineering Exploration in Building a Coffee Machine (2020)](https://medium.com/@smithxlabs/breaking-new-grounds-an-engineering-exploration-in-building-a-coffee-machine-part-i-b24e42b3c480)
+- [AeroPress](https://aeropress.com/) - Device for brewing coffee.
+- [Low-tech “mild coffee” with Aeropress (2020)](https://blog.project-insanity.org/2020/10/09/low-tech-mild-coffee-with-aeropress/)
+- [How to enjoy coffee](https://psyche.co/guides/good-coffee-is-like-a-fine-wine-start-with-high-quality-beans)
+- [HashiCafe Coffee Art (2020)](https://www.youtube.com/watch?v=dWNv_XDR0zg)
+- [Economics of Coffee in One Chart (2020)](https://www.visualcapitalist.com/the-economics-of-coffee-in-one-chart/)
+- [How do you decaffeinate coffee? (2018)](https://www.bbc.com/future/article/20180917-how-do-you-decaffeinate-coffee) ([HN](https://news.ycombinator.com/item?id=24941070))

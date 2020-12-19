@@ -15,3 +15,8 @@
 - [Zinc framework](https://github.com/matter-labs/zinc) - Goal of Zinc is to make writing safe zero-knowledge programs and ZKP-based smart contracts easy.
 - [A Field Guide to zkSNARKs (2020)](https://write.as/knowledgeprover/zero-knowledge-proof-systems-a-primer)
 - [Circom](https://github.com/iden3/circom) - Language designed to write arithmetic circuits that can be used in zero knowledge proofs.
+- [Zero-Knowledge Proofs for Engineers: Introduction (2020)](https://blog.zkga.me/intro-to-zksnarks)
+- [Why and How zk-Snark Works (2019)](https://arxiv.org/abs/1906.07221) ([HN](https://news.ycombinator.com/item?id=24815649))
+- [SCIPR Lab](http://www.scipr-lab.org/) - Succinct Computational Integrity and Privacy Research. ([GitHub](https://github.com/scipr-lab))
+- [gnark](https://github.com/ConsenSys/gnark) - Fast, open-source library for zero-knowledge proof protocols written in Go.
+- [Reverie: An optimized zero-knowledge proof system (2020)](https://blog.trailofbits.com/2020/12/14/reverie-an-optimized-zero-knowledge-proof-system/)

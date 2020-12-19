@@ -10,7 +10,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [EVOlution](https://github.com/Evolution-App/iOS) - Unofficial app for Swift Evolution.
 - [Telegram](https://github.com/TelegramMessenger/Telegram-iOS)
 - [Mast 2](https://github.com/ShihabMe/Mast2) - Mastodon client.
-- [AltStore](https://github.com/rileytestut/AltStore) - Alternative app store for non-jailbroken iOS devices.
+- [AltStore](https://altstore.io/) - Alternative app store for non-jailbroken iOS devices. ([Code](https://github.com/rileytestut/AltStore)) ([History](https://www.inputmag.com/culture/this-app-could-end-apples-monopoly-and-steve-jobs-would-love-it)) ([HN](https://news.ycombinator.com/item?id=25028786))
 - [mChat](https://github.com/realpaliy/mChat) - Real-time messaging app written in Swift for iOS devices.
 - [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker) - Coronavirus tracker app for iOS & macOS with map & charts.
 - [ProtonMail](https://github.com/ProtonMail/ios-mail)
@@ -49,11 +49,26 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Upcoming TV](https://github.com/dkhamsing/upcomingtv) - Swift iOS app to track when your favorite tv show airs next.
 - [Corona Warn App](https://github.com/corona-warn-app/cwa-app-ios) - Native iOS app using the exposure notification framework from Apple.
 - [Clip](https://github.com/rileytestut/Clip) - Clipboard manager for iOS that can monitor your clipboard indefinitely in the background.
+- [Loose Leaf](https://github.com/adamwulf/loose-leaf) - Intuitive note taking app for iPad.
+- [Swift Chess](https://github.com/nicklockwood/Chess) - Simple chess game for iPhone and iPad, designed for novice players.
+- [Shinkansen 3D Seat Booking Prototype](https://github.com/virakri/shinkansen-3d-seat-booking-prototype) - Example app in iOS utilizing SceneKit.
+- [Air Quality Reader](https://github.com/finiteloop/air-quality)
+- [Unsplash Photo Picker for iOS](https://github.com/unsplash/unsplash-photopicker-ios)
+- [VJ](https://github.com/hexagons/VJ) - Minimal iPad app with interactive visuals.
+- [iOS 11 App Store clone](https://github.com/phillfarrugia/appstore-clone)
+- [Travelpayouts](https://github.com/travelpayouts/travel-app-ios) - App template for flights and hotels search.
+- [iSH](https://ish.app/) - Linux shell on iOS. ([Code](https://github.com/ish-app/ish)) ([HN](https://news.ycombinator.com/item?id=24861923)) ([HN 2](https://news.ycombinator.com/item?id=25028252))
+- [MediaBrowser](https://github.com/younatics/MediaBrowser) - Simple iOS photo and video browser with optional grid view, captions and selections written in Swift.
+- [DEV iOS](https://github.com/forem/DEV-ios) - DEV Community iOS App.
+- [LibTerm](https://libterm.app/) - iOS sandboxed terminal with Python, Lua and Clang. ([Code](https://github.com/ColdGrub1384/LibTerm))
+- [Lichess Mobile](https://github.com/veloce/lichobile/)
+- [Mixin iOS messenger](https://github.com/MixinNetwork/ios-app)
 
 ## Other
 
 - [Supercharge](https://www.supercharge.app/) - Offers an innovative tweak editor with dozens of tools to build tweaks without writing a single line of code.
 - [play.js](https://playdotjs.com/) - Node.js and React Native IDE for iPhone and iPad.
+- [CocoaHub](https://cocoahub.app/) - Events, news and articles related to Apple's programming ecosystem in the palm of your hand.
 
 ## Notes
 
@@ -68,6 +83,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - It’s useful to setup apps to open links in Safari and not in-browser where possible (i.e. Tweetbot)
 - [To share purchased content, all family members must be on the same country or region.](https://support.apple.com/en-us/HT201454)
 - [iOS app dev tip: If you wanted an app name but it's not available, change the primary language on App Store Connect. Apps are region specific, and you may end up finding that it's still available in most languages (English US is usually taken).](https://twitter.com/JPEGuin/status/1269915954424791041)
+- [Texture is great library for iOS if you need top performance.](https://twitter.com/JordanMorgan10/status/1296774307218169856)
 
 ## Links
 
@@ -98,7 +114,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Nailing Your iOS Interview in Silicon Valley (2019)](https://medium.com/@bayareabelletrist/how-to-prepare-for-an-ios-interview-in-silicon-valley-85a009cf8a4)
 - [KIF iOS Integration Testing Framework](https://github.com/kif-framework/KIF) - iOS integration test framework.
 - [Collection of tools that an iOS developer should know](https://github.com/LeoMobileDeveloper/ios-developer-tools)
-- [isign](https://github.com/saucelabs/isign) - Code sign iOS applications, without proprietary Apple software or hardware.
+- [isign](https://github.com/isignpy/isign) - Code sign iOS applications, without proprietary Apple software or hardware.
 - [Rome](https://github.com/blender/Rome) - Cache tool for Carthage.
 - [iOSSnapshotTestCase](https://github.com/uber/ios-snapshot-test-case) - Snapshot view unit tests for iOS.
 - [iOS Project Template](https://github.com/pgorzelany/iOS-project-template) - Template to jumpstart your next iOS project integrating best practices and tools.
@@ -123,7 +139,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Babylon iOS Playbook](https://github.com/Babylonpartners/ios-playbook)
 - [Open-source jailbreaking tool for many iOS devices](https://github.com/axi0mX/ipwndfu)
 - [Texture](https://github.com/TextureGroup/Texture) - Smooth asynchronous user interfaces for iOS apps.
-- [iOS Goodies weekly newsletter](https://ios-goodies.com/) ([Source](https://github.com/iOS-Goodies/iOS-Goodies))
+- [iOS Goodies weekly newsletter](https://ios-goodies.com/) ([Code](https://github.com/iOS-Goodies/iOS-Goodies))
 - [Who You Gonna Syscall? by Grant Douglas (2019)](https://www.youtube.com/watch?v=qFLJjByneA4)
 - [Every iOS security guide](https://github.com/0xmachos/iOS-Security-Guides)
 - [Behind the scenes of iOS and Mac Security (2019)](https://www.youtube.com/watch?v=3byNNUReyvE)
@@ -141,9 +157,8 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [idb](https://github.com/facebook/idb) - Flexible command line interface for automating iOS simulators and devices.
 - [iOS Performance tips you probably didn't know (from an ex-Apple engineer) (2020)](https://www.fadel.io/blog/posts/ios-performance-tips-you-probably-didnt-know/)
 - [iOS 13 Design Guidelines, Templates, and Downloads (2020)](https://learnui.design/blog/ios-design-guidelines-templates.html)
-- [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS. ([HN](https://news.ycombinator.com/item?id=22385370))
+- [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS. ([HN](https://news.ycombinator.com/item?id=22385370)) ([Web](https://getutm.app/))
 - [XCTestHTMLReport](https://github.com/TitouanVanBelle/XCTestHTMLReport) - Xcode-like HTML report for Unit and UI Tests.
-- [iSH](https://ish.app/) - Linux shell on iOS. ([Code](https://github.com/tbodt/ish))
 - [Concurrency & Multithreading in iOS](https://www.viget.com/articles/concurrency-multithreading-in-ios/)
 - [Core Data Lab](https://betamagic.nl/products/coredatalab.html) - View, analyze and track your Core Data app’s data.
 - [iOS bits and pieces that you can include in your project to make your life a bit easier](https://github.com/infinum/iOS-Nuts-And-Bolts)
@@ -215,5 +230,43 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Explore Apple's new Swift logging API for iOS 14 (2020)](https://www.tanaschita.com/posts/20200705-explore-apples-recommended-swift-logging-api-wwdc-2020/)
 - [WWDC By Topics](https://airtable.com/shrBnfnUp4DpC6ktO/tblG1cvawBxvA6wUS)
 - [checkra1n](https://checkra.in/) - Jailbreak for iPhone 5s though iPhone X, iOS 12.3 and up.
-- [CALayer Tutorial for iOS](https://www.raywenderlich.com/10317653-calayer-tutorial-for-ios-getting-started?utm_content=buffer27a4b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [CALayer Tutorial for iOS](https://www.raywenderlich.com/10317653-calayer-tutorial-for-ios-getting-started)
 - [WWDC20: What’s New in Unit Testing](https://qualitycoding.org/wwdc20-unit-testing/)
+- [A Multithreading Saga (2020)](https://cashapp.github.io/2020-07-07/a-multithreading-saga-part-1) - Three part series discussing recent performance improvements we made in our iOS app.
+- [Apple Security Research Device Program](https://developer.apple.com/programs/security-research-device/) ([HN](https://news.ycombinator.com/item?id=23919175))
+- [RocketSimApp](https://github.com/AvdLee/RocketSimApp) - Enhancing the iOS simulator for productivity. ([Web](https://www.rocketsim.app/))
+- [Introducing CryptoKit (2020)](https://www.raywenderlich.com/10846296-introducing-cryptokit)
+- [SMT Solving on an iPhone (2018)](https://www.cs.utexas.edu/~bornholt/post/z3-iphone.html) ([HN](https://news.ycombinator.com/item?id=24099968))
+- [OpenJailbreak](https://github.com/GeoSn0w/OpenJailbreak) - GeoSn0w's OpenJailbreak Project, an open-source iOS 11 to iOS 13 Jailbreak project & vault.
+- [Quick Trick to Make Your App Snappier (2019)](https://eisel.me/jekyll/update/2019/02/13/snappy.html)
+- [Bite-sized Screencasts for iOS Development](https://nsscreencast.com/series/18-working-with-modern-collection-views)
+- [iOS 13 Entitlements](https://gist.github.com/jankais3r/1f839820f83be90d419140a6b8325795) ([Tweet](https://twitter.com/steipete/status/1297876380244496385))
+- [iOS Ref](http://iosref.com/) - One-stop quick reference spot for iOS developers.
+- [Auto Linking on iOS & macOS (2020)](https://milen.me/writings/auto-linking-on-ios-and-macos/)
+- [Open Radar](https://openradar.appspot.com/page/1) - Community bug reports. ([Code](https://github.com/timburks/openradar))
+- [Open Feedback Assistant](https://github.com/feedback-assistant/reports) - Open collection of Apple Feedback Assistant reports.
+- [iOS 14 Monochrome Icon Set](https://icons.tr.af/)
+- [Babylon iOS Playbook](https://github.com/babylonhealth/ios-playbook)
+- [Formatting Notes and Gotchas (2020)](https://www.andyibanez.com/posts/formatting-notes-and-gotchas/) ([Tweet](https://twitter.com/steipete/status/1314113507529568256))
+- [KSCrash](https://github.com/kstenerud/KSCrash) - Ultimate iOS Crash Reporter.
+- [Buglife](https://github.com/Buglife/Buglife-iOS) - Awesome bug reporting for iOS apps.
+- [AlternateIcons](https://github.com/alexaubry/alternate-icons) - Swift script that automates adding alternate app icons to your iOS app.
+- [iOS and iPadOS 14: The MacStories Review](https://www.macstories.net/stories/ios-and-ipados-14-the-macstories-review/)
+- [Thoughts on the App Store from developer of AltStore (2020)](http://rileytestut.com/blog/2020/10/14/thoughts-on-app-store/)
+- [Human Interface Guidelines Extras](https://github.com/sindresorhus/human-interface-guidelines-extras) - Community additions to Apple's Human Interface Guidelines.
+- [Building a Realtime Widget (2020)](https://nathantornquist.com/blog/2020/10/building-a-realtime-widget/)
+- [KTRW](https://github.com/googleprojectzero/ktrw) - iOS kernel debugger based on a KTRR bypass for A11 iPhones; works with LLDB and IDA Pro.
+- [My App Review Experiences (2020)](https://tbodt.com/2020/11/08/app-review-experiences.html)
+- [SuccessionRestore](https://github.com/Samgisaninja/SuccessionRestore) - Restore iOS devices without updating via rootfilesystem DMG.
+- [kernel exploit for Apple iOS 13.X](https://github.com/0x36/oob_events)
+- [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - Find retain cycles / memory leaks sooner.
+- [Basics of App Store Optimization](https://quality-wolves.com/what-is-aso)
+- [Emcee](https://github.com/avito-tech/Emcee) - Tool that runs iOS tests in parallel using multiple simulators across many Macs.
+- [GraphifySwiftCMD](https://github.com/kristiinara/GraphifySwift) - Command line tool that makes it possible to analyze a lot of iOS applications at once.
+- [Building a smooth Stories experience on iOS (2020)](https://engineering.linkedin.com/blog/2020/building-stories-on-ios)
+- [Project Zero: An iOS zero-click radio proximity exploit odyssey (2020)](https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html) ([HN](https://news.ycombinator.com/item?id=25270184))
+- [App Launch Time: 7 tips to increase performance](https://www.avanderlee.com/optimization/launch-time-performance-optimization/)
+- [iOS Learning Materials](https://github.com/jVirus/ios-learning-materials)
+- [A former Uber engineer's disaster story (2020)](https://twitter.com/stantwinb/status/1336890442768547845) ([HN](https://news.ycombinator.com/item?id=25373462)) ([Lobsters](https://lobste.rs/s/fzvd1v/former_uber_engineer_s_disaster_story))
+- [iOS App Signer](https://github.com/DanTheMan827/ios-app-signer) - App for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
+- [iOS Rules for Bazel](https://github.com/bazel-ios/rules_ios)

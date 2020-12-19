@@ -16,3 +16,8 @@
 - [goquic](https://github.com/devsisters/goquic) - QUIC support for Go.
 - [MsQuic](https://github.com/Microsoft/msquic) - Cross platform C implementation of the IETF QUIC protocol. ([HN](https://news.ycombinator.com/item?id=23014068))
 - [Working Group Last Call: QUIC protocol drafts (2020)](https://mailarchive.ietf.org/arch/msg/quic/F7wvKGnA1FJasmaE35XIxsc2Tno/) ([HN](https://news.ycombinator.com/item?id=23476462))
+- [Experimenting with QUIC and WebTransport in Go](https://centrifugal.github.io/centrifugo/blog/quic_web_transport/)
+- [ngtcp2](https://github.com/ngtcp2/ngtcp2) - Effort to implement IETF QUIC protocol.
+- [Quicly](https://github.com/h2o/quicly) - QUIC implementation, written from the ground up to be used within the H2O HTTP server.
+- [qp2p](https://github.com/maidsafe/qp2p) - Peer-to-peer communications library for Rust based on QUIC protocol.
+- [Quant](https://github.com/NTAP/quant) - QUIC implementation for POSIX and IoT platforms.

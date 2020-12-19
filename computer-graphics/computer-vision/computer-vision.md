@@ -90,3 +90,100 @@
 - [Fourier Feature Networks in TensorFlow 2](https://github.com/noahtren/Fourier-Feature-Networks-TensorFlow-2)
 - [Computer Vision Lab | ETH Zurich](https://vision.ee.ethz.ch/)
 - [PyTorch Computer Vision Library for Experts and Beginners (2020)](https://medium.com/pytorch/pytorch-computer-vision-library-for-experts-and-beginners-84b9157584e5)
+- [Computer Vision Pretrained Models](https://github.com/balavenkatesh3322/CV-pretrained-model)
+- [Fawkes: Image “Cloaking” for Personal Privacy](http://sandlab.cs.uchicago.edu/fawkes/) ([HN](https://news.ycombinator.com/item?id=23917337))
+- [Motion](https://github.com/Motion-Project/motion) - Software motion detector.
+- [Supervised 3D Mesh Reconstruction (2020)](https://nextjournal.com/nirmal-suthar/supervised-3d-mesh-reconstruction)
+- [NeRF in the Wild](https://nerf-w.github.io/) - Neural Radiance Fields for Unconstrained Photo Collections.
+- [NASA: Neural Articulated Shape Approximation (2020)](https://arxiv.org/abs/1912.03207)
+- [An Overview of Deep Learning Architectures in Few-Shot Learning Domain (2020)](https://arxiv.org/abs/2008.06365v2)
+- [FutureMapping: The Computational Structure of Spatial AI Systems (2018)](https://arxiv.org/abs/1803.11288) ([Tweet](https://twitter.com/AjdDavison/status/1045617261925543937))
+- [Optimal Peanut Butter and Banana Sandwiches (2020)](https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/) ([Twitter](https://twitter.com/eprosenthal/status/1298290961294950401))
+- [Gesture Recognition with Line Integrals](https://justinmeiners.github.io/gesture-recognition/) ([Code](https://github.com/justinmeiners/gesture-recognition))
+- [Computer Vision: Looking Back to Look Forward (2020)](http://slazebni.cs.illinois.edu/spring20/)
+- [DAIN (Depth-Aware Video Frame Interpolation)](https://github.com/baowenbo/DAIN)
+- [Picsellia](https://picsellia.com/) - Development platform dedicated to Computer Vision.
+- [Official implementation of "PifPaf: Composite Fields for Human Pose Estimation" in PyTorch](https://github.com/vita-epfl/openpifpaf)
+- [Object Recognition with Gradient-Based Learning (1999)](https://link.springer.com/chapter/10.1007/3-540-46805-6_19)
+- [Imaginaire](https://github.com/NVlabs/imaginaire) - NVIDIA PyTorch GAN library with distributed and mixed precision support. ([Docs](http://imaginaire.cc/))
+- [DeepBackSub](https://github.com/floe/deepbacksub) - Virtual Video Device for Background Replacement with Deep Semantic Segmentation.
+- [Awesome Tiny Object Detection](https://github.com/kuanhungchen/awesome-tiny-object-detection)
+- [Flow-edge Guided Video Completion](https://github.com/vt-vl-lab/FGVC)
+- [5 Things to look for in a Computer Vision startup job (2020)](https://insights.ai-jobs.net/5-things-to-look-for-in-a-computer-vision-startup-job/)
+- [Transformers for Image Recognition at Scale (2020)](https://www.youtube.com/watch?v=Gl48KciWZp0) ([HN](https://news.ycombinator.com/item?id=24754538))
+- [nnU-Net](https://github.com/MIC-DKFZ/nnUNet) - Segmentation method that is designed to deal with the dataset diversity.
+- [batchgenerators](https://github.com/MIC-DKFZ/batchgenerators) - Framework for data augmentation for 2D and 3D image classification and segmentation.
+- [Lookuq](https://www.lookuq.com/create-your-own-app) - App to create object detection projects without coding. ([HN](https://news.ycombinator.com/item?id=24784680))
+- [InsightFace](https://github.com/deepinsight/insightface) - Face Analysis Project on MXNet. ([Web](http://insightface.ai/))
+- [PyTorch implementation of SwAV (Swapping Assignments between Views)](https://github.com/facebookresearch/swav)
+- [Asymmetric Loss For Multi-Label Classification in PyTorch](https://github.com/Alibaba-MIIL/ASL)
+- [Antialiased CNNs](https://github.com/adobe/antialiased-cnns) - Making Convolutional Networks Shift-Invariant Again.
+- [Perceptual Similarity Metric and Dataset](https://github.com/richzhang/PerceptualSimilarity) - Unreasonable Effectiveness of Deep Features as a Perceptual Metric.
+- [Deep Learning Anime Papers](https://github.com/deeppomf/DeepLearningAnimePapers)
+- [Vision Transformer](https://github.com/google-research/vision_transformer) - Models from the paper An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.
+- [Handsfree.js](https://github.com/MIDIBlocks/handsfree) - Wrapper library around computer vision models for working with face pointers, assistive tech, and creative expression. ([Web](https://handsfreejs.glitch.me/))
+- [ZeroQ: A Novel Zero Shot Quantization Framework](https://github.com/amirgholami/ZeroQ)
+- [SqueezeNext](https://github.com/amirgholami/SqueezeNext) - Contains the Caffe implementation of SqueezeNext.
+- [ANODE: Adjoint Based Neural ODEs](https://github.com/amirgholami/anode)
+- [Python Video Stabilization using OpenCV](https://github.com/AdamSpannbauer/python_video_stab)
+- [Recent Advances in Vision and Language PreTrained Models (VL-PTMs)](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
+- [TorchCV](https://github.com/kuangliu/torchcv) - PyTorch vision library mimics ChainerCV.
+- [Vision Transformer in PyTorch](https://github.com/jeonsworld/ViT-pytorch)
+- [MedicalTorch](https://github.com/perone/medicaltorch) - Medical imaging framework for PyTorch. ([Docs](https://medicaltorch.readthedocs.io/en/stable/))
+- [imagecluster](https://github.com/elcorto/imagecluster) - Cluster images based on image content using a pre-trained deep neural network, optional time distance scaling and hierarchical clustering.
+- [Detecto](https://github.com/alankbi/detecto) - Build fully-functioning computer vision models with PyTorch. ([Docs](https://detecto.readthedocs.io/en/latest/))
+- [EmoPy](https://github.com/thoughtworksarts/EmoPy) - Deep neural net toolkit for emotion analysis via Facial Expression Recognition (FER).
+- [PyTorch Implementation of "NVAE: A Deep Hierarchical Variational Autoencoder"](https://github.com/NVlabs/NVAE)
+- [Label Decoupling Framework for Salient Object Detection](https://github.com/weijun88/LDF)
+- [MONAI](https://github.com/Project-MONAI/MONAI) - PyTorch-based, open-source framework for deep learning in healthcare imaging, part of PyTorch Ecosystem. ([Web](https://monai.io/))
+- [Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection](https://github.com/implus/GFocal)
+- [Faster R-CNN Explained for Object Detection Tasks (2020)](https://blog.paperspace.com/faster-r-cnn-explained-object-detection/)
+- [How to Install OpenCV on a Raspberry Pi (2020)](https://www.jeremymorgan.com/tutorials/raspberry-pi/how-to-install-opencv-raspberry-pi/)
+- [Contextual Encoder-Decoder Network for Visual Saliency Prediction](https://github.com/alexanderkroner/saliency)
+- [PyImageSearch](https://www.pyimagesearch.com/) - Master Computer Vision, Deep Learning, and OpenCV.
+- [Natural Adversarial Examples](https://github.com/hendrycks/natural-adv-examples) - Harder ImageNet Test Set.
+- [How to upload 50 OpenCV frames into cloud storage within 1 second (2020)](https://medium.com/@venkateshpnk22/how-to-upload-50-opencv-frames-into-cloud-storage-within-1-second-653ee73d7711)
+- [Egocentric Videoconferencing (2020)](http://gvv.mpi-inf.mpg.de/projects/EgoChat/) - Method for egocentric videoconferencing that enables handsfree video calls, for instance by people wearing smart glasses or other mixedreality devices. ([Video overview](https://www.youtube.com/watch?v=atzPvW95ahQ))
+- [gradslam](https://github.com/gradslam/gradslam) - Open source differentiable dense SLAM library for PyTorch.
+- [High-Resolution Daytime Translation Without Domain Labels](https://github.com/saic-mdal/HiDT)
+- [Holistically-Nested Edge Detection](https://github.com/s9xie/hed)
+- [pycls](https://github.com/facebookresearch/pycls) - Image classification codebase, written in PyTorch.
+- [PyTorch implementation of High-Fidelity Generative Image Compression + Routines for neural image compression](https://github.com/Justin-Tan/high-fidelity-generative-compression)
+- [How Useful is Self-Supervised Pretraining for Visual Tasks?](https://github.com/princeton-vl/selfstudy)
+- [PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models](https://github.com/adamian98/pulse)
+- [InterHand2.6M: A Dataset and Baseline for 3D Interacting Hand Pose Estimation from a Single RGB Image](https://github.com/facebookresearch/InterHand2.6M)
+- [Multi-object trackers in Python](https://github.com/adipandas/multi-object-tracker) - Easy to use implementation of various multi-object tracking algorithms.
+- [Stanford Vision and Learning Lab](http://svl.stanford.edu/) ([GitHub](https://github.com/StanfordVL))
+- [Learning computer vision. Overview of methods and software (2018)](https://towardsdatascience.com/learning-computer-vision-41398ad9941f)
+- [Image embeddings. Image similarity and building (2020)](https://medium.com/@rom1504/image-embeddings-ed1b194d113e) ([Code](https://github.com/rom1504/image_embeddings))
+- [All You Need to Know About Object Detection Systems (2020)](https://lionbridge.ai/articles/everything-you-need-to-know-about-object-detection-systems/)
+- [Lightly](https://github.com/lightly-ai/lightly) - Computer vision framework for self-supervised learning.
+- [DISK: Learning local features with policy gradient (2020)](https://arxiv.org/abs/2006.13566) ([Code](https://github.com/cvlab-epfl/disk))
+- [Caer](https://github.com/jasmcaus/caer) - Lightweight Computer Vision library for high-performance AI research. ([Intro](https://towardsdatascience.com/introducing-caer-modern-computer-vision-on-the-fly-1619d7155c15))
+- [Awesome Image to Image Translation Papers](https://github.com/weihaox/awesome-image-translation)
+- [EfficientDet: Scalable and Efficient Object Detection, in PyTorch](https://github.com/toandaominh1997/EfficientDet.Pytorch)
+- [UNet: semantic segmentation with PyTorch](https://github.com/milesial/Pytorch-UNet)
+- [Exploring Simple Siamese Representation Learning (2020)](https://arxiv.org/abs/2011.10566) ([Code](https://github.com/PatrickHua/SimSiam))
+- [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://github.com/aimagelab/show-control-and-tell)
+- [Deformable Neural Radiance Fields](https://nerfies.github.io/)
+- [Timeception for Complex Action Recognition (2019)](https://arxiv.org/abs/1812.01289) ([Code](https://github.com/noureldien/timeception))
+- [Programming Computer Vision with Python (2014)](http://programmingcomputervision.com/) ([Code](https://github.com/jesolem/PCV)) ([Notes](https://github.com/nico/cvbook))
+- [Fast and Accurate One-Stage Space-Time Video Super-Resolution (2020)](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020)
+- [pixelNeRF: Neural Radiance Fields from One or Few Images (2020)](https://alexyu.net/pixelnerf/) ([Code](https://github.com/sxyu/pixel-nerf))
+- [vedadet](https://github.com/Media-Smart/vedadet) - Single stage object detector toolbox based on PyTorch.
+- [OneNet: End-to-End One-Stage Object Detection by Classification Cost](https://github.com/PeizeSun/OneNet)
+- [Consistent Video Depth Estimation](https://github.com/facebookresearch/consistent_depth) - Estimate dense, flicker-free, geometrically consistent depth from monocular video, for example hand-held cell phone video.
+- [Implicit Neural Representations with Periodic Activation Functions](https://github.com/vsitzmann/siren)
+- [Computational Imaging Stanford Lab](http://www.computationalimaging.org/)
+- [Trimap-Free Solution for Portrait Matting in Real Time](https://github.com/ZHKKKe/MODNet)
+- [Local Light Field Fusion](https://github.com/Fyusion/LLFF)
+- [Awesome Crowd Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)
+- [Neural Sparse Voxel Fields (NSVF)](https://github.com/facebookresearch/NSVF)
+- [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing (2020)](https://arxiv.org/abs/2011.15126) ([Tweet](https://twitter.com/goodfellow_ian/status/1333845997697388544))
+- [SharpAI DeepCamera](https://github.com/SharpAI/DeepCamera) - Source stack for machine learning engineering with private deployment and AutoML for edge computing. ([HN](https://news.ycombinator.com/item?id=25368272))
+- [Contrastive learning of global and local features for medical image segmentation with limited annotations](https://github.com/krishnabits001/domain_specific_cl)
+- [Real-Time High-Resolution Background Matting (2020)](https://arxiv.org/abs/2012.07810) ([Code](https://github.com/PeterL1n/BackgroundMattingV2))
+- [Torchreid](https://github.com/KaiyangZhou/deep-person-reid) - Deep learning person re-identification in PyTorch.
+- [Unsupervised Embedding Learning via Invariant and Spreading Instance Feature](https://github.com/mangye16/Unsupervised_Embedding_Learning)
+- [img2pose: Face Alignment and Detection via 6DoF, Face Pose Estimation](https://github.com/vitoralbiero/img2pose)
+- [SSD: Single Shot MultiBox Detector | a PyTorch Tutorial to Object Detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection)

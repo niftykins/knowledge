@@ -24,7 +24,7 @@ I share songs I like in [form of playlists](../music/music-playlists.md). I also
 
 I also share [YouTube playlists](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists) I made.
 
-## Ideas in [Trello](https://trello.com/b/alB1ryRP)
+## Ideas in [Trello/Notion](../ideas/ideas.md)
 
 My time is limited and I can't often do everything I wish. But I have many ideas so I put all of them [in the open](https://www.notion.so/Ideas-0b5a4e8a88f34fe29a1f33dad02e5332).
 
@@ -36,13 +36,23 @@ I [love macOS](https://github.com/nikitavoloboev/my-mac-os) and automation so I 
 
 I try to make my workflow in doing things be as _transparent_ as possible.
 
+## [My goals](../focusing/goals.md)
+
+I share my goals openly. The will to live in a [better future](../future/future.md) drives me to complete them.
+
 ## [Things I track](tracking.md)
 
 I love tracking various things for my own reference.
 
+## What I am [doing now](https://nikitavoloboev.xyz/now/)
+
+Lists my current location & [events](https://calendar.google.com/calendar/embed?src=vb3ao4euc3saeoj2qambtlr5vg%40group.calendar.google.com&ctz=Europe%2FAmsterdam&mode=AGENDA) I plan to attend.
+
 ## [Looking back on life](../looking-back/looking-back.md)
 
 I share and reflect on my life in this wiki. Acts as a little personal journal I love to look back on.
+
+I also write a [monthly newsletter](https://buttondown.email/nikitavoloboev) with updates on things I built & thought about.
 
 ## Everything else
 

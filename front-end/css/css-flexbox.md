@@ -12,7 +12,7 @@
 - [Flex Cheat Sheet](https://yoksel.github.io/flex-cheatsheet/) ([Code](https://github.com/yoksel/flex-cheatsheet))
 - [Coping with flexbox (2019)](https://kgrz.io/coping-with-flexbox.html)
 - [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Flexbox Froggy](http://flexboxfroggy.com/)
+- [Flexbox Froggy](http://flexboxfroggy.com/) ([Code](https://github.com/thomaspark/flexboxfroggy))
 - [FLEX](http://flexbox.malven.co/) - Simple visual cheat sheet on Flexbox.
 - [Flexy Boxes](https://the-echoplex.net/flexyboxes/) - Flexbox playground and code generator.
 - [PostCSS Flexbugs Fixes](https://github.com/luisrudge/postcss-flexbugs-fixes) - PostCSS plugin that tries to fix all of flexbug's issues.
@@ -20,3 +20,5 @@
 - [Chromium lands Flexbox gap (2020)](https://web.dev/flexbox-gap/)
 - [Safe/unsafe alignment in CSS flexbox (2020)](https://www.stefanjudis.com/today-i-learned/safe-unsafe-alignment-in-css-flexbox/)
 - [Mental model of Flexbox's main axis](https://twitter.com/pomber/status/1281339741682753542)
+- [Flexbox Defense](http://www.flexboxdefense.com/) - Tower Defense with a twist: all towers must be positioned with CSS Flexbox. ([HN](https://news.ycombinator.com/item?id=24319989))
+- [Building Website Headers with CSS Flexbox (2020)](https://ishadeed.com/article/website-headers-flexbox/)

@@ -25,7 +25,17 @@
 - [Graph BLAS](http://graphblas.org/index.php?title=Graph_BLAS_Forum) - Graph algorithms in the language of linear algebra. ([HN](https://news.ycombinator.com/item?id=23285845))
 - [Cotila](https://github.com/calebzulawski/cotila) - Compile-time linear algebra system for C++.
 - [BLIS](https://github.com/flame/blis) - Portable software framework for instantiating high-performance BLAS-like dense linear algebra libraries.
-- [MIT Linear Algebra course](https://mitmath.github.io/1806/)
+- [MIT Linear Algebra course](https://mitmath.github.io/1806/) ([Code](https://github.com/mitmath/1806))
 - [Catalog of algebra books for self learning](https://github.com/prathyvsh/algebra-books)
 - [Is NonLinear Algebra a thing? (2020)](https://www.reddit.com/r/math/comments/hac0bt/is_nonlinear_algebra_a_thing/)
 - [Why is it important for a matrix to be square? (2018)](https://math.stackexchange.com/questions/2811951/why-is-it-important-for-a-matrix-to-be-square/2811960#2811960) ([HN](https://news.ycombinator.com/item?id=23591553))
+- [Interactive Visualization of Why Eigenvectors Matter (2020)](https://www.dhruvonmath.com/2020/07/26/who-cares-about-eigenvectors/)
+- [Graphical Linear Algebra](https://graphicallinearalgebra.net/) ([HN](https://news.ycombinator.com/item?id=24196080))
+- [Vector Matrix Vector Queries for Solving Linear Algebra, Statistics, and Graph Problems (2020)](https://www.youtube.com/watch?v=NVOE1KFNZDo)
+- [Computability in linear algebra](https://www.sciencedirect.com/science/article/pii/S0304397504004086)
+- [Algebra of Programming](https://themattchan.com/docs/algprog.pdf)
+- [A Programmer’s Intuition for Matrix Multiplication](https://betterexplained.com/articles/matrix-multiplication/) ([HN](https://news.ycombinator.com/item?id=24860688))
+- [Linear Algebra book by Jim Hefferon](https://hefferon.net/linearalgebra/) ([HN](https://news.ycombinator.com/item?id=24892907))
+- [Introduction to Linear Algebra for Applied Machine Learning with Python (2020)](https://pabloinsente.github.io/intro-linear-algebra) ([HN](https://news.ycombinator.com/item?id=25058619))
+- [How to Visualize a Matrix](https://www.nsa.gov/Portals/70/documents/news-features/declassified-documents/tech-journals/how-to-visualize.pdf)
+- [David’s Super Quick Logic Cheat Sheet](http://davidjaz.com/Teaching/DJM_LogicCheat_LinAlg.pdf)

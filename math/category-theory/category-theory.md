@@ -29,7 +29,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Category Theory nLab](https://ncatlab.org/nlab/show/category+theory)
 - [Applied Category Theory – Online Course](https://johncarlosbaez.wordpress.com/2018/03/26/seven-sketches-in-compositionality/)
 - [Functional Programming and Category Theory [Part 1] - Categories and Functors](http://nikgrozev.com/2016/03/14/functional-programming-and-category-theory-part-1-categories-and-functors/)
-- [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/)
+- [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/) ([PDF](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf))
 - [Category Theory for Programmers PDF](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 - [Learn You Some Category Theory](https://jozefg.bitbucket.io/posts/2013-10-22-category-theory-in-haskell.html)
@@ -72,7 +72,37 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Statebox Category Theory Course](https://training.statebox.org/)
 - [Category Theory -- The math behind hyper-convergence automation (2019)](https://multix.sfo2.cdn.digitaloceanspaces.com/Category%20Theory%20TechBBQ.pdf)
 - [Pittsburgh Functional Programming Book Club featuring Category Theory for Programmers](https://github.com/chiroptical/ctfp-book-club) -
-- [Applied Category Theory 2020](https://act2020.mit.edu/)
+- [Applied Category Theory 2020](https://act2020.mit.edu/) ([2020 Recordings](https://www.youtube.com/playlist?list=PLCOXjXDLt3pYot9VNdLlZqGajHyZUywdI)) ([2020 Tutorials](https://www.youtube.com/playlist?list=PLCOXjXDLt3pYPE63bVbsVfA41_wa3sZOh))
+- [MIT Categories Seminar - Eugenia Cheng: Distributive laws for Lawvere theories (2020)](https://www.youtube.com/watch?v=YCJAzV1g6Xo)
+- [AlgebraicJulia: Applied Category Theory in Julia | James Fairbanks (2020)](https://www.youtube.com/watch?v=7zr2qnud4XM)
+- [Why does the "working mathematician" need category theory? (2020)](https://www.reddit.com/r/math/comments/i7erja/why_does_the_working_mathematician_need_category/)
+- [F-Algebras (2017)](https://bartoszmilewski.com/2017/02/28/f-algebras/)
+- [Topology: A Categorical Approach (2020)](https://topology.pubpub.org/) - Graduate-level textbook that presents basic topology from the perspective of category theory. ([Lobsters](https://lobste.rs/s/cq30tt/topology_categorical_approach))
+- [MIT: Programming with Categories (2020)](http://brendanfong.com/programmingcats.html) ([HN](https://news.ycombinator.com/item?id=24353976)) ([Draft](http://brendanfong.com/programmingcats_files/cats4progs-DRAFT.pdf))
+- [n-Category Cafe category theory posts](https://golem.ph.utexas.edu/category/)
+- [Category Theory for the Sciences (2014)](https://mitpress.mit.edu/books/category-theory-sciences)
+- [Categorical Probability and Statistics (2020)](http://perimeterinstitute.ca/personal/tfritz/2019/cps_workshop/) ([Videos](https://www.youtube.com/playlist?list=PLaILTSnVfqtIebAXFOcee9MvAyBwhIMyr))
+- [Charity](http://pll.cpsc.ucalgary.ca/charity1/www/home.html) - Categorical programming language. ([Code](https://github.com/mietek/charity-lang))
+- [A monoid is a category with just one object. so what's the problem? (2019)](https://k-bx.github.io/articles/boring-monoid-category.html)
+- [Epidemiological Modeling With Structured Cospans (2020)](https://johncarlosbaez.wordpress.com/2020/10/19/epidemiological-modeling-with-structured-cospans/)
+- [Garlandus blog](https://garlandus.co/) - Essays on some of the mathematics behind computing, from classical logic to the monads of category theory, by way of Goettingen.
+- [Logical Relations as Types: Proof-Relevant Parametricity for Program Modules (2020)](http://www.jonmsterling.com/pdfs/lrat.pdf)
+- [Category Theory Resources](https://github.com/prathyvsh/category-theory-resources)
+- [Applied Category Theory: Notes on generative effects](https://github.com/joshvera/generative-effects)
+- [Executing Categories (2020)](https://www.philipzucker.com/i-gave-a-talk-on-executing-categories/)
+- [App for interactive category theory diagrams and notebooks](https://github.com/AviCraimer/category-theory-diagrams)
+- [Yoneda lemma](https://ncatlab.org/nlab/show/Yoneda+lemma)
+- [Category Theory introduction lectures](https://www.youtube.com/playlist?list=PLRadJIh6Wu9m60eT0tXjngv7nebUgraaA)
+- [The significance of the Curry-Howard isomorphism (2019)](https://richardzach.org/2019/11/01/the-significance-of-the-curry-howard-isomorphism/)
+- [Basic Category Theory for Computer Scientists](https://mitpress.mit.edu/books/basic-category-theory-computer-scientists)
+- [Categorical Systems Theory Book (2020)](https://github.com/DavidJaz/DynamicalSystemsBook/blob/master/book/DynamicalBook.pdf)
+- [Emily Riehl Research](http://www.math.jhu.edu/~eriehl/) - Associate professor in the department of mathematics at Johns Hopkins University working on a variety of topics in category theory related to homotopy theory.
+- [David Jaz Myers](http://davidjaz.com/) - Interested in (higher) category theory, homotopy type theory, and cohesion.
+- [P-Func: Math for the Mothership (2020)](https://github.com/dspivak/poly/blob/main/Book-Poly.pdf)
+- [David Jaz Myers: Paradigms of composition (2020)](https://www.youtube.com/watch?v=50s62D5Ah-M)
+- [ACT 2020 Recordings](https://www.youtube.com/playlist?list=PLCOXjXDLt3pYot9VNdLlZqGajHyZUywdI)
+- [David Jaz Myers: Open dynamical systems, trajectories and hierarchical planning (2020)](https://www.youtube.com/watch?v=3FxeY5DbPn0)
+- [Quiver](https://q.uiver.app/) - Modern commutative diagram editor. ([Code](https://github.com/varkor/quiver)) ([HN](https://news.ycombinator.com/item?id=25213201))
 
 ## Images
 

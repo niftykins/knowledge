@@ -31,3 +31,17 @@
 - [Formal Specification and Taming Other People's Tech - Marianne Bellotti (2019)](https://www.youtube.com/watch?v=oMSmkRGzQ64)
 - [Verified Programming with Project Everest (2020)](https://www.youtube.com/watch?v=5B7iI2onu8s)
 - [Proving Algebraic Datatypes are “Algebraic” (2020)](https://soap.coffee/~lthms/posts/AlgebraicDatatypes.html)
+- [SPLV – Scottish Programming Languages and Verification Summer School](http://www.macs.hw.ac.uk/splv/)
+- [backspace.ai](https://backspace.ai/) - Fun resource to start playing with formal programming languages.
+- [Formulog: ML + Datalog + SMT (2020)](http://www.weaselhat.com/2020/08/07/formulog-ml-datalog-smt/)
+- [An introduction to Formal Verification for Software Systems (2020)](https://www.moritz.systems/blog/an-introduction-to-formal-verification/)
+- [Proof Engineering](https://proofengineering.org/) - Specifying, building, verifying, and maintaining software systems using proof assistants such as Coq, Isabelle/HOL, and HOL4.
+- [Software Engineering and Formal Methods 2020](https://event.cwi.nl/sefm2020/)
+- [The Assembly Language of Satisfiability (2020)](https://jix.one/the-assembly-language-of-satisfiability/)
+- [Continuous compliance with lightweight verification tools (2020)](https://homes.cs.washington.edu/~mernst/pubs/continuous-compliance-ase2020.pdf)
+- [Runtime Verification](https://runtimeverification.com/) - Startup company aimed at using runtime verification-based techniques to improve the safety, reliability, and correctness of software systems.
+- [Crucible](https://github.com/GaloisInc/crucible) - Language-agnostic library for performing forward symbolic execution of imperative programs. It provides a collection of data-structures and APIs for expressing programs as control-flow graphs. ([Web](https://crux.galois.com/)) ([Intro](https://galois.com/blog/2020/10/crux-introducing-our-new-open-source-tool-for-software-verification/))
+- [snarky](https://github.com/o1-labs/snarky) - OCaml DSL for verifiable computation.
+- [Proofs Should Repair Themselves (2020)](https://galois.com/blog/2020/12/proofs-should-repair-themselves/) ([Lobsters](https://lobste.rs/s/vh1edq/proofs_should_repair_themselves))
+- [Use polling for resiliency (2020)](https://blog.gchinis.com/posts/use-polling-for-resiliency/) ([Lobsters](https://lobste.rs/s/7vpobg/use_polling_for_resiliency))
+- [The 2020 Expert Survey on Formal Methods](http://www.fmeurope.org/documents/Garavel-terBeek-vandePol-20.pdf)

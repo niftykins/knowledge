@@ -15,3 +15,8 @@
 - [Deep Learning for Guitar Effect Emulation (2020)](https://teddykoker.com/2020/05/deep-learning-for-guitar-effect-emulation/) ([HN](https://news.ycombinator.com/item?id=23141191))
 - [Guitar Decomposed](https://bartoszmilewski.com/2020/05/24/guitar-decomposed-1-weird-logic-behind-tuning/)
 - [SVGuitar](https://github.com/omnibrain/svguitar) - JavaScript Guitar Chord Renderer.
+- [React Guitar](https://react-guitar.com/) - Guitar component for React. ([HN](https://news.ycombinator.com/item?id=23921478))
+- [SmartGuitarAmp](https://github.com/keyth72/SmartGuitarAmp) - Guitar plugin made with deep learning. ([HN](https://news.ycombinator.com/item?id=24740266))
+- [PedalNetRT](https://github.com/keyth72/PedalNetRT) - Deep Learning Networks for Real Time Guitar Effect Emulation.
+- [Fretboard Trainer](https://fretboard-trainer.netlify.app/) - Memorize the guitar fretboard quickly.
+- [GuitarLSTM](https://github.com/GuitarML/GuitarLSTM) - Deep learning models for guitar amp/pedal emulation using LSTM with Keras. ([Web](https://guitarml.com/))

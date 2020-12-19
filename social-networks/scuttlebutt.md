@@ -8,3 +8,6 @@
 - [P2P Messaging & Scuttlebutt with Dominic Tarr (2019)](https://overcast.fm/+LQLz4kXZQ)
 - [Oasis](https://github.com/fraction/oasis) - Free, open-source, peer-to-peer social application that helps you follow friends and discover new ones on Secure Scuttlebutt.
 - [HN: Scuttlebot: Peer-to-peer database, identity provider, and messaging system (2020)](https://news.ycombinator.com/item?id=22909984)
+- [European Scuttlebutt Collective](https://scuttlebutt.eu/)
+- [Go-SSB](https://github.com/cryptoscope/ssb) - Full-stack implementation of secure-scuttlebutt using the Go programming language.
+- [kuska-ssb](https://github.com/Kuska-ssb/ssb) - Secure Scuttlebutt Rust library.

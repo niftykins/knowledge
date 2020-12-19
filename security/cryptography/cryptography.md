@@ -70,3 +70,32 @@
 - [A Gentle Introduction to Verifiable Delay Functions](https://adlrocha.substack.com/p/adlrocha-a-gentle-introduction-to) ([HN](https://news.ycombinator.com/item?id=23667575))
 - [Keyoxide](https://keyoxide.org/) - Lightweight and FOSS solution to make basic cryptography operations accessible to regular humans. ([Article](https://yarmo.eu/post/keyoxide)) ([Lobsters](https://lobste.rs/s/2ab63g/launching_keyoxide_org))
 - [Low latency multipliers and cryptographic puzzles (2020)](https://blog.janestreet.com/really-low-latency-multipliers-and-cryptographic-puzzles/) ([HN](https://news.ycombinator.com/item?id=23725921))
+- [Cryptography is not Magic (2020)](http://loup-vaillant.fr/articles/crypto-is-not-magic) ([Lobsters](https://lobste.rs/s/huvle5/cryptography_is_not_magic))
+- [Cryptography Dispatches: Registries Considered Harmful (2020)](https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-registries-considered/) ([Lobsters](https://lobste.rs/s/4eku7g/cryptography_dispatches_registries))
+- [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/) ([HN](https://news.ycombinator.com/item?id=24310842))
+- [A history of elliptic curves in tweets (2020)](https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html)
+- [Learning fast elliptic-curve cryptography in JS (2020)](https://paulmillr.com/posts/noble-secp256k1-fast-ecc/)
+- [Absolute Minimum Every Engineer Must Know About Authentication and Encryption](https://www.ldelossa.is/blog/absolute-minimum-cryptography/)
+- [Cute Cryptography Stories (2020)](https://www.cryptologie.net/article/506/cute-cryptography-stories/)
+- [Cryptography Dispatches](https://buttondown.email/cryptography-dispatches/archive) - Longer form discussion of the cryptography engineering topics.
+- [Small portable Elliptic-Curve Diffie-Hellman in C](https://github.com/kokke/tiny-ECDH-c)
+- [Branca](https://github.com/tuupola/branca-spec) - Authenticated and encrypted API tokens using modern crypto. ([Web](https://branca.io/))
+- [jsHashes](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
+- [The EMV Standard: Break, Fix, Verify (2020)](https://arxiv.org/abs/2006.08249)
+- [CRISP & CHIP implementation in C++](https://github.com/shapaz/CRISP)
+- [Arithmetic Statistics for Elliptic Curves](https://github.com/Multramate/ArithmeticStatistics)
+- [Quantum Hardening Cryptographic Protocols](https://cupdev.net/blog/014_quantumhardening.html)
+- [Pairing-Based Cryptography Notes](https://crypto.stanford.edu/pbc/)
+- [Pairing-Based Cryptography - Ben Lynn’s PhD Dissertation](https://crypto.stanford.edu/pbc/thesis.html)
+- [MIRACL Core](https://github.com/miracl/core) - Multi-lingual and architecturally agnostic Cryptographic library that supports elliptic curve cryptography, pairing-friendly curve cryptography, RSA, AES symmetric encryption and hash functions.
+- [SCIPR Lab](http://www.scipr-lab.org/) - Multi-institutional academic collaboration of researchers seeking to bring to practice cryptographic proof systems that provide succinct integrity and privacy.
+- [Preventing impossible game levels using cryptography (2020)](https://robertheaton.com/preventing-impossible-game-levels-using-cryptography/)
+- [Indistinguishability Obfuscation from Well-Founded Assumptions (2020)](https://www.quantamagazine.org/computer-scientists-achieve-crown-jewel-of-cryptography-20201110/) ([HN](https://news.ycombinator.com/item?id=25046738))
+- [Useful Crypto-related Resources](https://github.com/claucece/useful-crypto-resources)
+- [Cryptol](https://github.com/GaloisInc/cryptol) - Language of Cryptography. Was designed by Galois for the NSA Laboratory for Advanced Cybersecurity Research as a public standard for specifying cryptographic algorithms. ([Web](https://cryptol.net/index.html))
+- [Courses on distributed systems and elliptic curve cryptography (2020)](https://martin.kleppmann.com/2020/11/18/distributed-systems-and-elliptic-curves.html)
+- [Implementing Curve25519/X25519: A Tutorial on Elliptic Curve Cryptography](https://martin.kleppmann.com/papers/curve25519.pdf)
+- [wasm-crypto](https://github.com/jedisct1/wasm-crypto) - WebAssembly (via AssemblyScript) set of cryptographic primitives for building authentication and key exchange protocols.
+- [Everything Crypto](https://github.com/zademn/EverythingCrypto) - Collection of notebooks covering different algorithms and concepts from cryptography.
+- [How Rainbow Tables work](http://kestas.kuliukas.com/RainbowTables/)
+- [Cryptography in Layman's Terms (2020)](https://portabella.io/blog/2020-11-16-crypto-in-laymans-terms/)

@@ -21,3 +21,22 @@
 - [Palmer Archipelago (Antarctica) Penguins data package](https://github.com/allisonhorst/penguins)
 - [Plumber](https://github.com/rstudio/plumber) - Turn your R code into a web API.
 - [R-bloggers](https://www.r-bloggers.com/) - R news and tutorials contributed by hundreds of R bloggers.
+- [R for Everyone](https://www.jaredlander.com/r-for-everyone/)
+- [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - Weekly social data project in R.
+- [Teaching Statistics and Data Science Online](https://mine-cetinkaya-rundel.github.io/teach-r-online/) ([Code](https://github.com/mine-cetinkaya-rundel/teach-r-online))
+- [R & stats illustrations](https://github.com/allisonhorst/stats-illustrations)
+- [Tidy Modeling with R](https://www.tmwr.org/)
+- [Torch](https://github.com/mlverse/torch) - PyTorch port using LibTorch for R. ([Intro](https://blogs.rstudio.com/ai/posts/2020-09-29-introducing-torch-for-r/))
+- [coro](https://github.com/r-lib/coro) - Coroutines for R.
+- [purrr](https://github.com/tidyverse/purrr) - Functional programming toolkit for R. ([Web](https://purrr.tidyverse.org/))
+- [ggplot2](https://github.com/tidyverse/ggplot2) - Implementation of the Grammar of Graphics in R.
+- [Tidyverse](https://www.tidyverse.org/) - Opinionated collection of R packages designed for data science. ([GitHub](https://github.com/tidyverse))
+- [Programming R at native speed using Haskell (2020)](https://www.tweag.io/blog/2015-09-08-programming-r-at-native-speed-in-haskell/) ([HN](https://news.ycombinator.com/item?id=24981356))
+- [jqr](https://github.com/ropensci/jqr) - R interface to jq, a JSON processor.
+- [Plotly](https://github.com/ropensci/plotly) - Interactive graphing library for R.
+- [remotes](https://github.com/r-lib/remotes) - Install R Packages from remote or local repositories.
+- [Shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R. ([Web](https://shiny.rstudio.com/))
+- [Mastering Shiny book](https://mastering-shiny.org/) ([Code](https://github.com/hadley/mastering-shiny))
+- [insight](https://github.com/easystats/insight) - Easy access to model information for various model objects.
+- [Awesome R Learning Resources](https://github.com/iamericfletcher/awesome-r-learning-resources)
+- [reticulate](https://github.com/rstudio/reticulate) - R Interface to Python.

@@ -33,3 +33,14 @@ Is logical theory of computable functions.
 - [The Awesome Power of Theory: Explorations in the untyped lambda calculus (2014)](http://www.flownet.com/ron/lambda-calculus.html)
 - [Lambda Calculus Visualizations](https://github.com/prathyvsh/lambda-calculus-visualizations)
 - [History of Lambda Calculus](https://github.com/prathyvsh/history-of-lambda-calculus)
+- [Finite Vector Spaces as Model of Simply-Typed Lambda-Calculi](https://www.cis.upenn.edu/~stevez/papers/VZ14.pdf)
+- [A circuit-like notation for lambda calculus (2015)](https://csvoss.com/circuit-notation-lambda-calculus) ([HN](https://news.ycombinator.com/item?id=24193313))
+- [Lambda Zoo](https://github.com/ak3n/abt-zoo) - Implementations of different lambda calculi with abstract binding trees.
+- [All you need is λ, part one: booleans (2020)](https://antitypical.com/posts/2020-03-29-all-you-need-is-lambda-1-booleans/) ([HN](https://news.ycombinator.com/item?id=24601981))
+- [lambda-mu-mu-calculus](https://github.com/fizruk/lambda-mu-mu-calculus) - Interpreter for λ̅μμ̃-calculus of Herbelin and Curien.
+- [Notes on lambda calculus and type theory](https://github.com/blynn/lambda)
+- [Fun with Lambda Calculus](https://stopa.io/post/263)
+- [Binary Lambda Calculus](https://tromp.github.io/cl/Binary_lambda_calculus.html)
+- [Algorithmic Information Theory, using Binary Lambda Calculus](https://github.com/tromp/AIT)
+- [Lambda calculus Notes](https://crypto.stanford.edu/~blynn/lambda/)
+- [Lamcal](https://github.com/haraldmaida/lamcal) - Lambda Calculus parser and evaluator and a separate command line REPL application to play around with lambda expressions interactively.

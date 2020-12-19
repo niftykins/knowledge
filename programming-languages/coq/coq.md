@@ -3,7 +3,7 @@
 ## Links
 
 - [UniMath](https://github.com/UniMath/UniMath) - Coq library aims to formalize a substantial body of mathematics using the univalent point of view.
-- [Mathematical Components](https://math-comp.github.io/) - Libraries of formalized mathematics developed using the Coq proof assistant.
+- [Mathematical Components](https://math-comp.github.io/) - Libraries of formalized mathematics developed using the Coq proof assistant. ([GitHub](https://github.com/math-comp))
 - [Mathematical Components book](https://math-comp.github.io/mcb/)
 - [Mathematical Components compliant Analysis Library](https://github.com/math-comp/analysis)
 - [QuickChick](https://github.com/QuickChick/QuickChick) - Randomized Property-Based Testing Plugin for Coq.
@@ -13,7 +13,7 @@
 - [MetaCoq](https://github.com/MetaCoq/metacoq) - Metaprogramming in Coq.
 - [Convert Haskell source code to Coq source code](https://github.com/antalsz/hs-to-coq)
 - [Fiat](https://github.com/mit-plv/fiat) - Deductive Synthesis of Abstract Data Types in a Proof Assistant.
-- [Advent of Code 2018 in Coq](https://news.ycombinator.com/item?id=19194497) ([HN](https://news.ycombinator.com/item?id=19194497))
+- [Advent of Code 2018 in Coq](https://github.com/Lysxia/advent-of-coq-2018) ([HN](https://news.ycombinator.com/item?id=19194497))
 - [Equations](https://github.com/mattam82/Coq-Equations) - Function definition package for Coq.
 - [Proofs](https://github.com/stepchowfun/proofs) - Selection of formal developments in Coq.
 - [My hobby: proof engineering (2017)](https://www.stephanboyer.com/post/134/my-hobby-proof-engineering)
@@ -34,3 +34,18 @@
 - [Formalizing text editors in Coq (2020)](https://arxiv.org/abs/2006.03525) ([HN](https://news.ycombinator.com/item?id=23454629))
 - [Monadic equational reasoning in Coq](https://github.com/affeldt-aist/monae)
 - [Coq Enhancement Proposals](https://github.com/coq/ceps)
+- [A Study of Clight and its Semantics](https://soap.coffee/~lthms/posts/ClightIntroduction.html)
+- [Implementing and Certifying a Web Server in Coq (2020)](https://soap.coffee/~lthms/posts/MiniHTTPServer.html)
+- [Rewriting in Coq](https://soap.coffee/~lthms/posts/RewritingInCoq.html)
+- [FreeSpec](https://github.com/ANSSI-FR/FreeSpec) - Framework for implementing, certifying, and executing impure computations in Coq.
+- [How hard can you believe in your logic? (2020)](http://c9x.me/articles/trust/)
+- [CoqPrime](https://github.com/thery/coqprime) - Prime numbers for Coq.
+- [coqffi](https://github.com/coq-community/coqffi) - Automatically generates Coq FFI bindings to OCaml libraries.
+- [Coqtail](https://github.com/coq-community/coqtail-math) - Library of mathematical theorems and tools proved inside the Coq proof assistant.
+- [Interaction Trees](https://github.com/DeepSpec/InteractionTrees) - Library for Representing Recursive and Impure Programs in Coq.
+- [Coq/SSReflect Library for Elliptic Curves](https://github.com/strub/elliptic-curves-ssr)
+- [Alectryon](https://github.com/cpitclaudel/alectryon) - Library to process Coq snippets embedded in documents, showing goals and messages for each Coq sentence.
+- [Cerise](https://github.com/logsem/cerise) - Formalisation of a capability machine and principles for reasoning about security properties.
+- [coq-procrastination](https://github.com/Armael/coq-procrastination) - Small Coq library for collecting side conditions and deferring their proof.
+- [Finite maps](https://github.com/math-comp/finmap) - Finite sets, finite maps, multisets and generic sets.
+- [Alectryon](https://github.com/cpitclaudel/alectryon) - Collection of tools for writing technical documents that mix Coq code and prose.

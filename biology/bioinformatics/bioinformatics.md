@@ -31,7 +31,7 @@
 - [BiGG Models](http://bigg.ucsd.edu/) - Search the database by model, reaction, metabolite, or gene. ([Code](https://github.com/sbrg/bigg_models))
 - [Systems Biology and Biotechnology Specialization course](https://www.coursera.org/specializations/systems-biology)
 - [Path to a free self-taught education in Bioinformatics](https://github.com/ossu/bioinformatics)
-- [How to Build a Biotech](https://www.celinehh.com/biotech)
+- [How to Build a Biotech](https://www.celinehh.com/how-to-build-a-biotech) ([HN](https://news.ycombinator.com/item?id=23816390))
 - [Unified rational protein engineering with sequence-based deep representation learning (2019)](https://www.nature.com/articles/s41592-019-0598-1)
 - [Deep Molecular Programming: A Natural Implementation of Binary-Weight ReLU Neural Networks (2020)](https://arxiv.org/abs/2003.13720) ([HN](https://news.ycombinator.com/item?id=22768143))
 - [Computationally Comparing Biological Networks and Reconstructing Their Evolution (2012)](http://www.robpatro.com/newsite/documents/dissertation.pdf)
@@ -51,3 +51,37 @@
 - [CReM](https://github.com/DrrDom/crem) - Open-source Python framework to generate chemical structures using a fragment-based approach.
 - [QSAR modeling software and virtual screening](http://qsar4u.com/)
 - [Axial - Founder-driven life sciences companies (2020)](https://axial.substack.com/p/axial-founder-driven-life-sciences)
+- [Manolis Kellis research](http://web.mit.edu/manoli/)
+- [Pumas AI](https://pumas.ai/) - Platform for pharmaceutical modeling and simulation. ([HN](https://news.ycombinator.com/item?id=24126754))
+- [Mitochondrial dynamics in postmitotic cells regulate neurogenesis (2020)](https://science.sciencemag.org/content/369/6505/858.full) ([Tweet](https://twitter.com/VanderhaeghenP2/status/1294168825735319553))
+- [PVDH Lab](https://pvdhlab.org/) - Stem cell and Developmental neurobiology.
+- [Applying tech frameworks to biotech: key differences](https://www.celinehh.com/tech-vs-biotech) ([HN](https://news.ycombinator.com/item?id=24262336))
+- [Europe’s biotech renaissance (2020)](https://www.nature.com/articles/s41587-020-0483-6)
+- [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio)
+- [Coming up with ideas for biotech startups (2020)](https://www.youtube.com/watch?v=MTA5LajqdIc)
+- [Analyzing toehold sequences for synthetic biology (2020)](https://news.harvard.edu/gazette/story/2020/10/analyzing-toehold-sequences-for-synthetic-biology/)
+- [R, Data Science, & Computational Biology (2020)](https://changelog.com/practicalai/107)
+- [Bioinformatics Algorithms book](https://www.bioinformaticsalgorithms.org/read-the-book)
+- [ASAP](https://github.com/BingqingCheng/ASAP) - Automatic Selection And Prediction tools for materials and molecules.
+- [The second decade of synthetic biology: 2010–2020](https://www.nature.com/articles/s41467-020-19092-2) ([HN](https://news.ycombinator.com/item?id=24786151))
+- [BioDesign Research Conference](https://www.biodesign-conference.com/index.php)
+- [Cryo–electron microscopy breaks the atomic resolution barrier at last (2020)](https://www.sciencemag.org/news/2020/10/cryo-electron-microscopy-breaks-atomic-resolution-barrier-last) ([HN](https://news.ycombinator.com/item?id=24869727))
+- [Deep Learning for Graphs in Chemistry and Biology](https://github.com/mufeili/DL4MolecularGraph)
+- [Amorphous computing](https://en.wikipedia.org/wiki/Amorphous_computing) - Refers to computational systems that use very large numbers of identical, parallel processors each having limited computational ability and local interactions.
+- [Awesome Single Cell](https://github.com/seandavi/awesome-single-cell) - Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.
+- [MacLean Lab](http://macleanlab.usc.edu/) - Stem Cell Systems Biology Research.
+- [Cahan Lab](http://www.cahanlab.org/) - Stem cell engineering, developmental biology, and cancer biology research.
+- [Tufts Uni: Levin Biology Lab](https://ase.tufts.edu/biology/labs/levin/Default.htm) - Investigating information storage and processing in biological systems.
+- [Nextflow](https://github.com/nextflow-io/nextflow) - Bioinformatics workflow manager that enables the development of portable and reproducible workflows. ([Web](https://nf-co.re/)) ([GitHub](https://github.com/nf-core))
+- [Quantum deep field for molecule](https://github.com/masashitsubaki/QuantumDeepField_molecule)
+- [AlQuraishi Lab at Columbia University](https://www.aqlab.io/) - Machine Learning, Molecules, Systems Biology research.
+- [AlphaFold: a solution to a 50-year-old grand challenge in biology, protein folding (2020)](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology) ([HN](https://news.ycombinator.com/item?id=25253488)) ([Explained](https://twitter.com/AdamRutherford/status/1333449928316743683)) ([Lex explains](https://www.youtube.com/watch?v=W7wJDJ56c88))
+- [AlphaFold2 @ CASP14: “It feels like one’s child has left home.” (2020)](https://moalquraishi.wordpress.com/2020/12/08/alphafold2-casp14-it-feels-like-ones-child-has-left-home/) ([Tweet](https://twitter.com/MoAlQuraishi/status/1336351187369603088)) ([HN](https://news.ycombinator.com/item?id=25396736))
+- [ProSPr: Protein Structure Prediction](https://github.com/dellacortelab/prospr)
+- [MiniFold](https://github.com/EricAlcaide/MiniFold) - Deep Learning for Protein Structure Prediction inspired by DeepMind AlphaFold algorithm.
+- [What is protein folding? A brief explanation (2020)](https://rootsofprogress.org/alphafold-protein-folding-explainer) ([HN](https://news.ycombinator.com/item?id=25261591))
+- [HH-suite3 for sensitive sequence searching](https://github.com/soedinglab/hh-suite) - Software package for sensitive protein sequence searching based on the pairwise alignment of hidden Markov models (HMMs).
+- [Soding Lab](https://www.mpibpc.mpg.de/soeding) - Quantitative and Computational Biology Research. ([GitHub](https://github.com/soedinglab))
+- [Protein folding explained (2020)](https://www.youtube.com/watch?v=KpedmJdrTpY)
+- [sfaira](https://github.com/theislab/sfaira) - Data and model repository for single-cell data.
+- [Theis Lab](https://www.helmholtz-muenchen.de/icb/) - Institute of Computational Biology. ([GitHub](https://github.com/theislab))

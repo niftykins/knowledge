@@ -2,6 +2,8 @@
 
 ## Links
 
+- [Scrapy](https://github.com/scrapy/scrapy) - Fast high-level web crawling & scraping framework for Python. ([Web](https://scrapy.org/)) ([Docs](https://docs.scrapy.org/en/latest/)) ([Awesome Scrapy](https://github.com/AccordBox/awesome-scrapy))
+- [ScrapingBee](https://www.scrapingbee.com/) - Web Scraping API.
 - [Easy web scraping with Scrapy (2019)](https://www.scrapingbee.com/blog/web-scraping-with-scrapy/)
 - [A guide to Web Scraping without getting blocked in 2020](https://www.scrapingbee.com/blog/web-scraping-without-getting-blocked/)
 - [Crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
@@ -26,3 +28,46 @@
 - [yarl](https://github.com/aio-libs/yarl) - Yet another URL library.
 - [Apify](https://apify.com/) - Web Scraping, Data Extraction and Automation.
 - [Gumbo](https://github.com/google/gumbo-parser) - Pure-C HTML5 parser.
+- [What is a present-day web scraping in 2020?](https://dataflowkit.com/blog/what-is-a-present-day-web-scraper/)
+- [Dataflow Kit](https://dataflowkit.com/) - Web scraping. Data extraction tools
+- [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)
+- [Common Crawl](http://commoncrawl.org/) - Build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone.
+- [Cognito Common Crawl](https://github.com/andresriancho/cc-lambda) - Search the common crawl using lambda functions.
+- [Awesome Open Source Javascript Projects for Web Scraping (2020)](https://scrapingant.com/awesome-open-source-javascript-projects-for-web-scraping/)
+- [ScrapingAnt](https://scrapingant.com/) - All in One Scraping API. Rotating Proxies. Headless Chrome.
+- [Django Dynamic Scraper](https://github.com/holgerd77/django-dynamic-scraper) - Creating Scrapy scrapers via the Django admin interface.
+- [AutoScraper](https://github.com/alirezamika/autoscraper) - Smart, Automatic, Fast and Lightweight Web Scraper for Python.
+- [Spidey](https://github.com/Manzanit0/spidey) - Dead-simple crawler which focuses on ease of use and speed. Return a list of all URls of a web page.
+- [Scraping News and Articles From Public APIs with Python (2020)](https://martinheinz.dev/blog/31)
+- [LinkedIn Scraper](https://github.com/linkedtales/scrapedin)
+- [ScrapeOwl](https://scrapeowl.com/) - Simple and affordable web scraping API.
+- [Pholcidae](https://github.com/bbrodriges/pholcidae) - Tiny python web crawler.
+- [Booking site web scraper](https://github.com/ZoranPandovski/BookingScraper) - Downloads all of the accommodations for the chosen country and saves them in a file.
+- [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader) - Scrapes Reddit to download media of your choice.
+- [Web scraping with JS (2020)](https://qoob.cc/web-scraping/) ([HN](https://news.ycombinator.com/item?id=24898016))
+- [Web scraping that just works with OpenFaaS with Puppeteer (2020)](https://www.openfaas.com/blog/puppeteer-scraping/)
+- [What Happened to XPath? (2020)](https://webreflection.medium.com/what-happened-to-xpath-1409aa3dbd57) ([HN](https://news.ycombinator.com/item?id=24940676))
+- [ScrapingHub](https://www.scrapinghub.com/) - Turn web content into useful data. ([GitHub](https://github.com/scrapinghub))
+- [extruct](https://github.com/scrapinghub/extruct) - Library for extracting embedded metadata from HTML markup.
+- [Introduction to Scraping in Python (2020)](https://itnext.io/introduction-to-scraping-in-python-with-beautifulsoup-and-requests-ab7b1c9bc113)
+- [Test driving a HackerNews scraper with Node.js (2020)](https://cri.dev/posts/2020-11-06-Test-driving-a-HackerNews-scraper-with-Nodejs/)
+- [SecretAgent](https://github.com/ulixee/secret-agent) - Web browser that's built for scraping. ([Web](https://secretagent.dev/))
+- [Ulixee](https://ulixee.org/) - Turns every website into an open API. Access any dataset on the world wide web. ([GitHub](https://github.com/ulixee))
+- [Floki](https://github.com/philss/floki) - Simple HTML parser that enables search for nodes using CSS selectors.
+- [NYT Vote Scraper](https://github.com/alex/nyt-2020-election-scraper) - Scrapes the NYT Votes Remaining Page JSON and commits it back to this repo. Nice use of GitHub actions for git scraping.
+- [Instagram Scraper](https://github.com/arc298/instagram-scraper) - Scrapes an instagram user's photos and videos.
+- [Inventory Hunter](https://github.com/EricJMarti/inventory-hunter) - Get notified as soon as your next CPU, GPU, or game console is in stock.
+- [Guide on preventing Website Scraping](https://github.com/JonasCz/How-To-Prevent-Scraping)
+- [Bibliographies of the Bibliometric-enhanced Information Retrieval workshops and related other workshops](https://github.com/PhilippMayr/Bibliometric-enhanced-IR_Bibliography)
+- [news-please](https://github.com/fhamborg/news-please) - Open source, easy-to-use news crawler that extracts structured information from almost any news website.
+- [Web crawling with Python (2020)](https://www.scrapingbee.com/blog/crawling-python/)
+- [Metascraper](https://github.com/microlinkhq/metascraper) - Scrape data from websites using Open Graph, HTML metadata & fallbacks. ([Docs](https://metascraper.js.org/#/))
+- [Instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram. ([Docs](https://instaloader.github.io/))
+- [trafilatura](https://github.com/adbar/trafilatura) - Manage URLs and scrape main text and metadata.
+- [htmldate](https://github.com/adbar/htmldate) - Find the publication date of web pages.
+- [Filtering links to gather texts on the web (2020)](http://adrien.barbaresi.eu/blog/link-filtering-courlan-python.html)
+- [Evaluating scraping and text extraction tools for Python (2020)](http://adrien.barbaresi.eu/blog/evaluating-text-extraction-python.html)
+- [Using sitemaps to crawl websites (2019)](http://adrien.barbaresi.eu/blog/using-sitemaps-crawl-websites.html)
+- [Evaluation of date extraction tools for Python (2020)](http://adrien.barbaresi.eu/blog/evaluation-date-extraction-python.html)
+- [jusText](https://github.com/miso-belica/jusText) - Tool for removing boilerplate content, such as navigation links, headers, and footers from HTML pages.
+- [sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.

@@ -33,3 +33,9 @@
 - [React vs Vue: Compare and Contrast (2020)](https://dev.to/ben/react-vs-vue-compare-and-contrast-13jp)
 - [Why frontend build tools are getting an overhaul (2020)](https://www.youtube.com/watch?v=5F_k9q9HbAc)
 - [Responsively](https://responsively.app/) - Web developer's browser.
+- [What are the most difficult UI patterns you've coded? (2020)](https://twitter.com/TatianaTMac/status/1295833772600958976)
+- [Asayer](https://asayer.io/) - Frontend Application Monitoring.
+- [Omatsuri](https://omatsuri.app/) - Open source frontend focused browser tools for everyday use. ([Code](https://github.com/rtivital/omatsuri))
+- [Front End Developer Resources](https://github.com/developer-resources/frontend-development)
+- [Frontend Unicorn](https://www.frontendunicorn.com/) - Learn Front End Development.
+- [Awesome Front End Security](https://github.com/rustcohlnikov/awesome-frontend-security)

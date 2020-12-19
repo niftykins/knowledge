@@ -4,10 +4,10 @@
 
 - [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. ([HN](https://news.ycombinator.com/item?id=22512196))
 - [fn](https://github.com/fnproject/fn) - Container native, cloud agnostic serverless platform.
-- [Architect](https://github.com/arc-repos/architect) - The simplest, most powerful way to build serverless applications.
+- [Architect](https://github.com/architect/architect) - The simplest, most powerful way to build serverless applications. ([Docs](https://arc.codes/))
 - [serverless-chrome](https://github.com/adieuadieu/serverless-chrome) - Run headless Chrome/Chromium on AWS Lambda (maybe Azure, & GCP later).
 - [Space Cloud](https://github.com/spaceuptech/space-cloud) - Open source, web server that provides instant Realtime APIs on any database of your choice.
-- [ƒun](https://github.com/zeit/fun) - Local serverless function λ development runtime.
+- [ƒun](https://github.com/vercel/fun) - Local serverless function λ development runtime.
 - [faast.js](https://faastjs.org/) - Serverless batch computing made simple.
 - [Introducing Serverless Pre-Rendering (SPR) (2019)](https://zeit.co/blog/serverless-pre-rendering)
 - [Netlify Functions](https://www.netlify.com/products/functions/) - Modern, scalable backend built into every Netlify account. No setup, servers, or ops required.
@@ -56,3 +56,21 @@
 - [Serverless Visually Explained](https://serverless-visually-explained.com/)
 - [firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - Enables containerd to manage containers as Firecracker microVMs.
 - [firecracker-go-sdk](https://github.com/firecracker-microvm/firecracker-go-sdk) - SDK in Go for the Firecracker microVM API.
+- [The Edge Computing Opportunity: It’s Not What You Think (2020)](https://blog.cloudflare.com/cloudflare-workers-serverless-week/)
+- [twilio-run](https://github.com/twilio-labs/twilio-run) - CLI tool to develop, debug and deploy Twilio Functions.
+- [Building a serverless hosting platform (2020)](https://blog.vtemian.com/post/serverless-hosting-platform/)
+- [Cloud Foundry CLI](https://github.com/cloudfoundry/cli)
+- [Building a Modern-Day Hit Counter (2020)](https://joshwcomeau.com/react/serverless-hit-counter/) - Shows how I use FaunaDB and serverless functions to use dynamic user-generated data in my static Gatsby site. ([HN](https://news.ycombinator.com/item?id=24617086))
+- [Serverless for data scientists (2019)](https://mike.place/2019/serverless-for-data-scientists/)
+- [Strategies Scalable Web Architecture](https://gist.github.com/erwindev/a6b28231f3c7798180925b82772f63df)
+- [Netlify Edge Handlers](https://www.netlify.com/products/edge/edge-handlers) - Run custom code right from the network edge with incredible performance.
+- [The Serverless Revolution Has Stalled (2020)](https://www.infoq.com/articles/serverless-stalled/) ([HN](https://news.ycombinator.com/item?id=24758772))
+- [Datadog Serverless Plugin](https://github.com/DataDog/serverless-plugin-datadog) - Serverless plugin to automagically instrument your Lambda functions with Datadog.
+- [Fly](https://fly.io/) - Deploy app servers close to your users. ([flyctl - command-line interface for fly.io](https://github.com/superfly/flyctl))
+- [Booster](https://github.com/boostercloud/booster) - High-level framework for TypeScript to build Serverless applications with built-in business-logic-level abstractions. ([Web](https://booster.cloud/))
+- [OpenWhisk](https://github.com/apache/openwhisk) - Serverless functions platform for building cloud applications. ([Web](https://openwhisk.apache.org/))
+- [faasd](https://github.com/openfaas/faasd) - OpenFaaS reimagined, but without the cost and complexity of Kubernetes. It runs on a single host with very modest requirements, making it fast and easy to manage.
+- [Announcing Netlify Background Functions (2020)](https://www.netlify.com/blog/2020/10/29/announcing-background-functions/)
+- [How to build a tool like Zapier using Lambda, SQS & DynamoDB (2020)](https://www.learnaws.org/2020/11/19/build-zapier-alternative/)
+- [Serverless-artillery](https://github.com/Nordstrom/serverless-artillery) - Combine serverless with artillery and you get serverless-artillery for instant, cheap, and easy performance testing at scale.
+- [Cloudash](https://github.com/cloudashdev/cloudash) - Monitoring and troubleshooting app for serverless architectures.

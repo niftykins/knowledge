@@ -12,6 +12,7 @@
 
 ## Nice rewards
 
+- [Veronika Romashkina](https://github.com/sponsors/vrom911)
 - [TheLatestKate](https://www.patreon.com/thelatestkate)
 - [Max Howell](https://www.patreon.com/mxcl)
 - [TJ Holowaychuk](https://github.com/sponsors/tj)
@@ -22,6 +23,8 @@
 - [Tuist org](https://github.com/sponsors/tuist)
 - [Deno](https://github.com/sponsors/denoland)
 - [Alex Ellis](https://github.com/sponsors/alexellis/) - Get newsletter as reward.
+- [uberdosis](https://github.com/sponsors/ueberdosis)
+- [Dmitrii Kovanikov](https://github.com/sponsors/chshersh)
 
 ## Thanks pages
 
@@ -31,6 +34,10 @@
 ## Angel Investors
 
 - [Auston Bunsen](https://www.bitsorbricks.com/angel-investing)
+
+## Pitches
+
+- [Dylan Field pitches seed-stage Figma to Daniel Gross (2020)](https://www.youtube.com/watch?v=C1UUVdN3kdQ)
 
 ## Notes
 
@@ -64,3 +71,20 @@
 - [The perfect investor deck for raising a seed round (2015)](https://www.startuphacks.vc/blog/2015/12/31/the-perfect-investor-deck-for-seed-round)
 - [Fundraising? Don’t Say These Things to Investors (2020)](https://entrepreneurshandbook.co/fundraising-dont-say-these-things-to-investors-a285e6b59230)
 - [Sales Pitches For Startup Founders (2020)](https://www.holloway.com/g/founding-sales/sections/sales-pitches-for-startup-founders)
+- [Understand Seed Round(s) Dynamics in Silicon Valley (2020)](https://thevalley.substack.com/p/understand-seed-rounds-dynamics-in) ([HN](https://news.ycombinator.com/item?id=23914179))
+- [Steward Ownership Resources](https://memex.social/c/oiLz5UIXw9JXermqZmXW)
+- [Unlocking the Commons](https://hyperlink.academy/courses/unlocking-the-commons/15) - Practical introduction to funding models for open creative work.
+- [The ideal round](https://www.notion.so/The-ideal-round-738cd31fa26b461281e2258a7cac3f24)
+- [How to Build a Fund Custodian (2020)](https://www.moderntreasury.com/journal/how-to-build-a-fund-custodian)
+- [How to Raise a Rolling Fund (2020)](https://www.notion.so/How-to-Raise-a-Rolling-Fund-99220e692e5e40598c2230e5c7e8dce7)
+- [Tips for generating an elevator pitch (2020)](https://twitter.com/lpolovets/status/1309646003021123584)
+- [EU funding options (2020)](https://news.ycombinator.com/item?id=24601457)
+- [OpenDeck](https://opendeck.app/) - 1,200 startup slide decks by category – Team, Market, Funding. ([HN](https://news.ycombinator.com/item?id=24745542))
+- [How to Build a Great Series A Pitch and Deck (2020)](https://www.ycombinator.com/library/8d-how-to-build-a-great-series-a-pitch-and-deck) ([HN](https://news.ycombinator.com/item?id=24780152))
+- [How founders are finding new ways to grab investor attention (2020)](https://www.protocol.com/pitch-deck-not-yet-dead)
+- [Ulule](https://www.ulule.com/) - Crowdfunding platform empowering thousands of creators, entrepreneurs and makers all over the world.
+- [How to Pitch to Investors: Preparation & Execution](https://altar.io/how-to-pitch-to-investors/)
+- [Notion Fundraising Template for Startups](https://www.basetemplates.com/notion-fundraising-template)
+- [VenturesList](https://ventureslist.com/) - Startup Investment Library.
+- [Leave Design](https://leave.design/) - Get your Pitch Deck updated instantly by a professional designer.
+- [Floodgate](https://floodgate.com/) - Backs the top .1% founders.

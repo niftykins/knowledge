@@ -1,9 +1,15 @@
 # [Roam Research](https://roamresearch.com/)
 
+## Notes
+
+- [Always grow your systems iteratively. I think part of what “true” Roamanship is is to reduce any and all sources of friction when adding new things, including the need to keep things neat and tidy.](https://www.reddit.com/r/RoamResearch/comments/ie8la8/how_do_you_deal_with_a_chaotic_database/)
+- [I use Roam as a journal. A book review place. Where I learn. My Daily Notes is a template, so that it helps me choose what to write, then its a daily logbook](https://www.reddit.com/r/RoamResearch/comments/igfnkv/roam_workflow/)
+
 ## Links
 
+- [Roam White Paper](https://roamresearch.com/#/app/help/page/Vu1MmjinS)
 - [Roam Research MVP Review: Pages + Bullets = Cool New Product Category (2020)](https://medium.com/bloated-mvp/roam-research-mvp-review-pages-bullets-cool-new-product-category-28baf5dd0a3)
-- [Roam: Why I Love It and How I Use It (2020)](https://www.nateliason.com/blog/roam)
+- [Roam: Why I Love It and How I Use It (2020)](https://www.nateliason.com/blog/roam) ([Tweet](https://twitter.com/patrickc/status/1301380574095929344)) ([HN](https://news.ycombinator.com/item?id=22104366))
 - [Roam for Zettlekasting](https://roamresearch.com/#/v8/help/page/VURQiVZQR)
 - [Debate: Roam Research vs. Notion (2020)](https://capiche.com/q/debate-roam-research-vs-notion)
 - [Nat reveals the Roam setup that he uses to run his life (2020)](https://superorganizers.substack.com/p/nat-eliason-is-living-in-the-matrix) ([Tweet](https://twitter.com/nbashaw/status/1255554080837005312))
@@ -13,7 +19,7 @@
 - [Incubator for a Zettlekasten Tool](https://github.com/krimlabs/z)
 - [How to use Roam Research: a tool for metacognition](https://nesslabs.com/roam-research)
 - [Obsidian](https://obsidian.md/) - Note taking with backlinks based off markdown. ([HN](https://news.ycombinator.com/item?id=23324598)) ([Awesome](https://github.com/kmaasrud/awesome-obsidian))
-- [Open source alternatives to Roam Research](https://www.reddit.com/r/selfhosted/comments/f0z6yd/open_source_alternatives_to_roam_research/)
+- [Open source alternatives to Roam Research](https://www.reddit.com/r/selfhosted/comments/f0z6yd/open_source_alternatives_to_roam_research/) ([Web](https://nesslabs.com/roam-research-alternatives))
 - [Notebag](https://notebag.app/) - Fully keyboard-compatible note taking app that links all your knowledge and gets out of your way.
 - [Roam Research, a chat with Conor White-Sullivan (2020)](https://www.youtube.com/watch?v=kweL6tRfzUY)
 - [Eloquent](https://eloquent.works/) - Chrome Extension for quickly capturing notes and highlights anywhere on the web. Send them to Roam Research, or wherever you store your knowledge.
@@ -35,3 +41,24 @@
 - [Own Your Second Brain: Set Up org-roam on Your Own Machine (2020)](https://www.ianjones.us/2020-05-05-doom-emacs)
 - [Cal Robert's Roam Themes](https://github.com/calrobertlee/roam-css-styles) ([Reddit](https://www.reddit.com/r/RoamResearch/comments/hijomu/roam_darkmode/))
 - [From Beginner to Superuser: A Complete Roam Research Tutorial Course (2020)](https://www.youtube.com/playlist?list=PLwXSqDdn_CpE934BjXMgmzHnlwXMy41TC)
+- [RoamPublic](https://www.roampublic.com/)
+- [RoamStack](https://www.roamstack.com/)
+- [A Thorough Beginner's Guide to Roam Research (2020)](https://thesweetsetup.com/a-thorough-beginners-guide-to-roam-research/)
+- [Roam Research Design Challenges](https://roamresearch.com/#/app/help/page/Aawl35tD9)
+- [RoamThemes](https://roamthemes.io/) - Style your Roam with Custom Themes.
+- [Effortless Output in Roam](https://www.effortlessoutput.com/)
+- [Roam private API](https://github.com/artpi/roam-research-private-api/) - Helper to automate your Roam Research adventures.
+- [Roam Research Forum](https://forum.roamresearch.com/latest)
+- [Let the kids Roam (2020)](https://www.roambrain.com/let-the-kids-roam/)
+- [Library of Roam](https://roamlibrary.com/library)
+- [Roam42](https://roamresearch.com/#/app/roamhacker/page/UeoxCm8rm)
+- [Roam’s road ahead (2020)](https://divinations.substack.com/p/roams-road-ahead)
+- [How Roam knows how pages and blocks are related to each other](https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/ueY7f9Adm)
+- [Academic roaming](https://www.academicroaming.com/)
+- [Roam Digest](https://roamdigest.com/) - Fresh dose of #roamcult from around the web.
+- [Recovering Lost Roam Notes (2020)](https://jeffchen.dev/posts/Recovering-Lost-Roam-Notes/) ([HN](https://news.ycombinator.com/item?id=24944574))
+- [Building a roam-like, networked, heavily-customized realtime editor (2020)](https://namiwang.github.io/2020/11/12/building-a-roam-like-networked-heavily-customized-realtime-editor-part-1.html) ([HN](https://news.ycombinator.com/item?id=25177290))
+- [Automatic RoamResearch backup](https://github.com/MatthieuBizien/roam-to-git)
+- [RoamNERd](https://roamnerd.com/) - Automatically tag named entities in text for direct entry into Roam Research.
+- [Roam Research Plugins list (2020)](https://twitter.com/wirtzdan/status/1334976199253237762)
+- [Application of Graph Theory to Roam link network (2020)](https://org-roam.discourse.group/t/application-of-graph-theory-to-roam-link-network/61)

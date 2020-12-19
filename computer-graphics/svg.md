@@ -35,5 +35,27 @@
 - [Shape Divider App](https://www.shapedivider.app/) - Export a beautiful SVG shape divider.
 - [URL-encoder for SVG](https://yoksel.github.io/url-encoder/) ([Code](https://github.com/yoksel/url-encoder))
 - [SVG Filters Playground](https://yoksel.github.io/svg-filters/#/) ([Code](https://github.com/yoksel/svg-filters))
-- [Textures.js](https://github.com/riccardoscalco/textures) - JavaScript library for creating SVG patterns. ([Web](https://riccardoscalco.it/textures/)) ([HN](https://news.ycombinator.com/item?id=23673534))
+- [Textures.js](https://github.com/riccardoscalco/textures) - JavaScript library for creating SVG patterns. ([Web](https://riccardoscalco.it/textures/)) ([HN](https://news.ycombinator.com/item?id=23673534)) ([Example](https://observablehq.com/@bradydowling/textures))
 - [SVG Caching with <use> (2020)](https://paco.im/blog/svg-caching-with-use)
+- [Benefits of SVG (2020)](https://dev.to/alexi_be3/benefits-of-svg-10mn)
+- [Free Vector Illustrations](https://www.pixeltrue.com/free-illustrations) ([HN](https://news.ycombinator.com/item?id=24048508))
+- [svg2jsx](https://github.com/balajmarius/svg2jsx) - Transform SVG into valid JSX.
+- [Graphical UI's with SVG and React (2020)](https://datalanguage.com/blog/graphical-uis-with-svg-and-react-part-1-declarative-graphics)
+- [SVGO](https://github.com/svg/svgo) - Node.js tool for optimizing SVG files.
+- [Lean-SVG](https://lean-svg.netlify.app/) - Optimize SVG and Flatten transforms and shapes. ([Code](https://github.com/upendra-web/lean-svg))
+- [flatten-svg](https://github.com/nornagon/flatten-svg) - Flatten SVGs into points.
+- [Squircley](https://squircley.app/) - SVG Squircle Maker. ([Code](https://github.com/georgedoescode/squircle)) ([Squircles with Vue](https://codepen.io/simeydotme/pen/oOGmYe))
+- [Fabric.js](https://github.com/fabricjs/fabric.js) - JavaScript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser. ([Web](http://fabricjs.com/))
+- [SVG Path Editor](https://yqnn.github.io/svg-path-editor/) - Online editor to create and manipulate SVG paths. ([Code](https://github.com/Yqnn/svg-path-editor)) ([HN](https://news.ycombinator.com/item?id=24998532))
+- [SVG Diff](https://svgdiff.now.sh/) - See the visual difference between two SVGs. ([Code](https://github.com/stipsan/svgdiff))
+- [diffvg](https://people.csail.mit.edu/tzumao/diffvg/) - Differentiable Rasterizer for Vector Graphics. ([Paper](https://people.csail.mit.edu/tzumao/diffvg/))
+- [Using SVGs in asset catalogs](https://bjango.com/articles/svgassetcatalogs/)
+- [uhtml](https://github.com/WebReflection/uhtml) - Micro HTML/SVG render.
+- [Simple Image Vectorization](https://wordsandbuttons.online/simple_image_vectorization.html) ([HN](https://news.ycombinator.com/item?id=24957120))
+- [Svglib](https://github.com/deeplook/svglib) - Pure-Python library for reading and converting SVG.
+- [IconPark](https://github.com/bytedance/IconPark) - Transform an SVG icon into multiple themes, and generate React icons，Vue icons, SVG icons.
+- [PSVG](https://github.com/LingDong-/psvg) - Programmable SVG. Introduces programming language features like functions, control flows, and variables.
+- [Loaf](https://getloaf.io/) - Animated SVG icon library.
+- [vpype](https://github.com/abey79/vpype) - Swiss-Army-knife command-line tool for plotter vector graphics.
+- [svg-path-properties](https://github.com/rveciana/svg-path-properties) - JavaScript alternative to getPointAtLength(t) and getTotalLength() functions. Works with Canvas objects and when Node.
+- [Learn SVG through 24 examples (2020)](https://www.youtube.com/watch?v=kBT90nwUb_o)

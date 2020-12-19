@@ -27,7 +27,7 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Puffer](https://github.com/StanfordSNR/puffer) - Stanford University research study about using machine learning to improve video-streaming algorithms.
 - [Alfalfa](https://github.com/excamera/alfalfa) - Purely functional video codec, used for ExCamera and Salsify. ([Web](https://snr.stanford.edu/salsify/))
 - [Facebook Open-Sources PySlowFast Codebase for Video Understanding (2020)](https://medium.com/syncedreview/facebook-open-sources-pyslowfast-codebase-for-video-understanding-89200ff35267)
-- [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata. ([Cheat sheet](https://github.com/yuanqing/ffmpeg-cheatsheet)) ([Rust FFmpeg](https://github.com/zmwangx/rust-ffmpeg))
 - [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg.
 - [IPTV](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world.
 - [Olive](https://github.com/olive-editor/olive) - Free non-linear video editor for Windows, macOS, and Linux.
@@ -81,7 +81,7 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [How I Record Educational Videos (2020)](https://kentcdodds.com/blog/how-i-record-educational-videos)
 - [Icebreaker](https://icebreaker.video/) - Online events that build community.
 - [What's In A GIF - Bit by Byte](http://matthewflickinger.com/lab/whatsinagif/bits_and_bytes.asp)
-- [Scrimba](https://scrimba.com/) - Learn to Code with Interactive Tutorials.
+- [Scrimba](https://scrimba.com/) - Learn to Code with Interactive Tutorials. ([HN](https://news.ycombinator.com/item?id=24579699))
 - [room.sh](https://room.sh/) - Online meeting rooms with powerful collaboration tools.
 - [mmhmm](https://www.mmhmm.app/) - Clear, compelling communication for everyone.
 - [Building Cloudflare TV from scratch (2020)](https://blog.cloudflare.com/building-cloudflare-tv-from-scratch/) ([HN](https://news.ycombinator.com/item?id=23764596))
@@ -92,3 +92,83 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Rewatch](https://rewatch.tv/) - Private & secure video channel for your team. Rewatch transcribes your videos and unlocks your team’s spoken knowledge, making it searchable and organized—all in one place.
 - [Video that keeps your team connected and inspired (2020)](https://blog.rewatch.tv/post/2020/07/08/connected-and-inspired/)
 - [ZmURL](https://zmurl.com/) - Host Delightful Zoom Events.
+- [DIY Video Hosting (2020)](https://tyler.io/diy-video-hosting/) ([HN](https://news.ycombinator.com/item?id=23894827))
+- [Unscreen](https://www.unscreen.com/) - Automatically remove video backgrounds with ML. ([HN](https://news.ycombinator.com/item?id=24058341))
+- [YouTube Storytelling: How To Make Videos that People Share (2020)](https://www.shopmoment.com/lessons/youtube-storytelling-how-to-make-videos-people-share-colin-and-samir)
+- [ESPFLIX](https://github.com/rossumur/espflix) - Free video streaming service that runs on a ESP32. ([HN](https://news.ycombinator.com/item?id=24150029))
+- [Tella](https://www.tella.tv/) - Collaborative online video editor. ([HN](https://news.ycombinator.com/item?id=24158509))
+- [Moving from YouTube to PeerTube (2020)](https://battlepenguin.com/tech/moving-from-youtube-to-peertube/) ([HN](https://news.ycombinator.com/item?id=24222661))
+- [RedditVids](https://redditvids.com/) - Discover shared videos and live broadcasts from Reddit.
+- [FFmpeg: Step-by-Step Retro Video Filter (2020)](https://www.gariany.com/2020/08/ffmpeg-step-by-step-retro-video-filter/)
+- [YouTube Transcript](https://youtubetranscript.com/) - Read YouTube videos.
+- [Got Your Back](https://www.gotyourback.space/) - Collection of virtual backdrops for use in video call apps.
+- [Eulerian Video Magnification](https://people.csail.mit.edu/mrub/evm/) ([HN](https://news.ycombinator.com/item?id=24362525))
+- [Create a Golang Video Streaming Server Using HLS (2020)](https://qvault.io/2020/09/04/golang-video-stream-server/)
+- [Clipchamp](https://clipchamp.com/en/) - Convert videos to MP4. Compress and edit videos. Record with your webcam and collect videos from others.
+- [Airmeet](https://www.airmeet.com/) - Virtual Events Platform for Communities & Enterprises.
+- [Tube Explorer](https://observablehq.com/@tomlarkworthy/random-place-on-youtube) - Technology that helps me find strange things on YouTube outside my filter bubble.
+- [How to Make an Actually Good Tutorial (2020)](https://www.youtube.com/watch?v=IrrdC_pkmGM)
+- [Tips for immersive video calls (2020)](https://www.benkuhn.net/vc/) ([HN](https://news.ycombinator.com/item?id=24610166))
+- [m4vga-rs](https://github.com/cbiffle/m4vga-rs) - VGA-style video output for STM32F4 processors, in Rust.
+- [Tips for Running an Effective Virtual Offsite (2020)](https://blog.bearer.sh/tips-for-virtual-offsite/)
+- [Interactive Video Stylization Using Few-Shot Patch-Based Training](https://github.com/OndrejTexler/Few-Shot-Patch-Based-Training)
+- [Bitmovin](https://bitmovin.com/) - Adaptive streaming video infrastructure encoding and HTML5 player.
+- [screego/server](https://github.com/screego/server) - Screen sharing for developers. ([Web](https://app.screego.net/)) ([Docs](https://screego.net/#/))
+- [Whereby](https://whereby.com/) - Video Meetings, Video Conferencing and Screen Sharing. Same meeting link every time.
+- [Calla](https://github.com/capnmidnight/Calla) - Virtual Meetups through Jitsi. ([Web](https://www.calla.chat/)) ([HN](https://news.ycombinator.com/item?id=24710948))
+- [Livestorm](https://livestorm.co/) - Video Conferencing Software for Webinars and Online Meetings.
+- [FreeTube](https://freetubeapp.io/) - Private YouTube Client. ([Code](https://github.com/FreeTubeApp/FreeTube))
+- [Vito Community](https://vi.to/) - Flexible, private, online spaces for groups.
+- [Things You Should Consider When Trying to Grow a YouTube Channel in 2020](https://blog.papercup.com/posts/things-you-should-consider-when-trying-to-grow-a-youtube-channel-in-2020/)
+- [Circles for Zoom](https://www.circlesforzoom.com/) - Get rid of the big Zoom window and turn each participant into a circle on your screen.
+- [Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers) - Awesome YouTubers that teach about technology.
+- [Tools to create persistent room for team meetings (2020)](https://twitter.com/karrisaarinen/status/1317005954462920705)
+- [VideoAsk](https://www.videoask.com/) - Interact face-to-face with your audience & build stronger business relationships.
+- [Stream](https://www.stream.club/) - Virtual Class Platform.
+- [BigMarker](https://www.bigmarker.com/) - Modern, No-Download Webinar Software.
+- [Vowel](https://www.vowel.com/) - Plan, host, transcribe, search, and share your meetings.
+- [PeerTube](https://joinpeertube.org/) - Free and open-source, decentralized, federated video platform powered by ActivityPub and WebTorrent. ([Code](https://github.com/Chocobozzz/PeerTube)) ([Roadmap](https://joinpeertube.org/roadmap/)) ([HN](https://news.ycombinator.com/item?id=24856243))
+- [FFmpeg Drawtext Filter for Overlays, Scrolling Text, Timestamps on Videos](https://ottverse.com/ffmpeg-drawtext-filter-dynamic-overlays-timecode-scrolling-text-credits/) ([HN](https://news.ycombinator.com/item?id=24865755))
+- [vdx](https://github.com/yuanqing/vdx) - Intuitive CLI for processing video, powered by FFmpeg. ([HN](https://news.ycombinator.com/item?id=24866455))
+- [LosslessCut](https://github.com/mifi/lossless-cut) - Swiss army knife of lossless video/audio editing. ([HN](https://news.ycombinator.com/item?id=24883030))
+- [youtube-dl](https://youtube-dl.org/) - Command-line program to download videos from YouTube.com and a few more sites. ([Code](https://github.com/ytdl-org/youtube-dl)) ([Download YouTube Video in Go](https://github.com/kkdai/youtube)) ([Origins of the youtube-dl project](https://rg3.name/202011071352.html)) ([HN](https://news.ycombinator.com/item?id=25047818))
+- [LiveGo](https://github.com/gwuhaolin/livego) - Simple and efficient live broadcast server in Go.
+- [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in JavaScript.
+- [FFmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly.
+- [Frame.io](https://frame.io/) - Video Review and Collaboration Software.
+- [stream.new](https://stream.new/) - Add a video. Get a shareable link to stream it. ([Code](https://github.com/muxinc/stream.new))
+- [Video.js](https://github.com/videojs/video.js) - HTML5 Video Player.
+- [Bubbles](https://www.usebubbles.com/) - Video and Screenshot Collaboration.
+- [Livepeer](https://livepeer.org/) - Decentralized video transcoding network built on the Ethereum blockchain. ([GitHub](https://github.com/livepeer))
+- [go-livepeer](https://github.com/livepeer/go-livepeer) - Go implementation of the Livepeer protocol.
+- [Luma](https://lu.ma/) - Host Delightful Zoom Events.
+- [Stack Videos Horizontally, Vertically, in a Grid With FFmpeg (2020)](https://ottverse.com/stack-videos-horizontally-vertically-grid-with-ffmpeg/) ([HN](https://news.ycombinator.com/item?id=25022665))
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Color correction and non-linear video editing application.
+- [YouTube Downloader](https://youtubedld.com/) - Free and efficient YouTube downloader. ([HN](https://news.ycombinator.com/item?id=25024849))
+- [Gather.Town](https://gather.town/) - Spatial video chat for remote teams. ([HN](https://news.ycombinator.com/item?id=25039370))
+- [Video Renderer](https://github.com/ThreadsStyling/video-renderer) - Unified interface for expressing rendering streams for ffmpeg and canvas.
+- [Vidar](https://github.com/clabe45/vidar) - Extendable video-editing framework for the browser.
+- [Milk Video](https://milk.video/) - Turn webinars into engaging highlights.
+- [RemoteWorkly](https://www.remoteworkly.co/) - Async Video Messaging.
+- [Calculate PSNR, VMAF, SSIM using FFmpeg (2020)](https://ottverse.com/calculate-psnr-vmaf-ssim-using-ffmpeg/)
+- [OTTVerse](https://ottverse.com/) - OTT Tech-focused publication.
+- [Create Vintage Videos Using FFmpeg in 4 Simple Steps (2020)](https://ottverse.com/create-vintage-videos-using-ffmpeg/) ([HN](https://news.ycombinator.com/item?id=25102401))
+- [Auto-Editor](https://github.com/WyattBlue/auto-editor) - Command line application for automatically editing video and audio by analyzing where sections are silent and cutting them up.
+- [RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation](https://github.com/hzwer/arXiv2020-RIFE)
+- [FastoTV](https://github.com/fastogt/fastotv) - Open source IPTV player.
+- [libheif](https://github.com/strukturag/libheif) - HEIF and AVIF file format decoder and encoder. ([Web](https://www.libde265.org/))
+- [FFsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
+- [TSDuck](https://github.com/tsduck/tsduck) - MPEG Transport Stream Toolkit. ([Web](https://tsduck.io/))
+- [Superpeer](https://superpeer.com/) - Gives you the tools you need to have paid 1:1 video calls and livestreams with your audience and paid subscribers.
+- [Clappr](https://github.com/clappr/clappr) - Extensible media player for the web. ([Web](http://clappr.io/))
+- [minih264](https://github.com/lieff/minih264) - Minimalistic H264/SVC encoder single header library.
+- [Cast All The Things](https://github.com/skorokithakis/catt) - Allows you to send videos from many, many online sources to your Chromecast.
+- [Boltstream](https://github.com/benwilber/boltstream) - Self-hosted full end-to-end live video streaming platform. ([HN](https://news.ycombinator.com/item?id=25328622))
+- [AviSynth](https://avs-plus.net/) - Powerful tool for video post-production. It provides ways of editing and processing videos. ([Code](https://github.com/AviSynth/AviSynthPlus))
+- [VEED](https://www.veed.io/) - Create, Edit & Share Videos Online for free. ([API](https://www.veed.io/api))
+- [Along](https://along.video/) - Lets you make your best videos ever - with superpowers.
+- [DTube](https://d.tube/) - Full-featured video sharing website, decentralized. ([Code](https://github.com/dtube/dtube))
+- [How Video Works](https://howvideo.works/) ([HN](https://news.ycombinator.com/item?id=25422003))
+- [Life of a Pixel (2020)](https://www.youtube.com/watch?v=PwYxv-43iM4)
+- [JustWatch](https://www.justwatch.com/) - All your streaming services in one app.
+- [Overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem.

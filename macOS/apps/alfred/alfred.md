@@ -34,6 +34,12 @@ I use [Mono theme](https://www.alfredapp.com/extras/theme/xzcLtcIIDe/) with macO
 
 ![](https://i.imgur.com/Y4oKBoT.png)
 
+## Snippets
+
+I use Alfred together with [Keyboard Maestro](../keyboard-maestro/keyboard-maestro.md) to automate text expansions. Alfred for simple expansions, KM for complex or per app expansions.
+
+![](https://i.imgur.com/vWP4lkz.png)
+
 ### Symlink workflows
 
 It is a great idea to symlink workflows you are working on so you can work on them in the comfort of your file system and not inside Alfred UUID named directories.
@@ -56,6 +62,8 @@ I can also then use [this script](https://gist.github.com/deanishe/b16f018119ef3
 ![](https://i.imgur.com/D0NP2s3.png)
 
 - Adding `alfred:ignore` tag to files/folders will have Alfred ignore the file/folder in its searches.
+- [If you copy the selected text, then open Alfred's clipboard manager, you can use cmd+s on the selected clipboard entry, and this will open Alfred's preferences and pre-fill a snippet for you to save.](https://www.alfredforum.com/topic/15852-how-to-save-selected-text-as-alfred-snippet/)
+- File note found? Go to Alfred's preferences > Help > Troubleshooting and run the File Search Troubleshooting, dragging in some of the files you are expecting to see in your File Filter. Check the `Content Type:` field. It could be something like `com.unknown.md` instead of `net.daringfireball.markdown` you might expect.
 
 ## Links
 
@@ -66,3 +74,6 @@ I can also then use [this script](https://gist.github.com/deanishe/b16f018119ef3
 - [Deanishe's approach in building Go workflows](https://github.com/deanishe/awgo/commit/5f0051950af39371385f2dfda96483eb1423e565#r29572675)
 - [Pacmax](https://pacmax.org/) - Explore & Share Great Packages for Alfred.
 - [Fix for running compiled workflows in Catalina](https://github.com/deanishe/alfred-sublime-text/issues/20#issuecomment-539578934)
+- [Alfred Workflows Store](https://www.alfredworkflows.store/)
+- [AlfredExtraPane](https://github.com/mr-pennyworth/alfred-extra-pane) - Spotight-like rich previews for Alfred workflows. ([Forum post](https://www.alfredforum.com/topic/16111-wip-poc-spotlight-like-rich-preview-pane-for-alfred-workflows/))
+- [Workflow Icon Generator](https://icons.deanishe.net/)

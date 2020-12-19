@@ -3,8 +3,8 @@
 ## Links
 
 - [We're Reddit's Infrastructure team, ask us anything! (2018)](https://www.reddit.com/r/sysadmin/comments/9x577m/were_reddits_infrastructure_team_ask_us_anything/)
-- [Vercel](https://github.com/zeit/now) - Develop. Preview. Ship. ([Web](https://vercel.com/dashboard))
-- [Now Examples](https://github.com/zeit/now-examples) - Examples of Now deployments you can use.
+- [Vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship. ([Web](https://vercel.com/dashboard))
+- [Now Examples](https://github.com/vercel/now-examples) - Examples of Now deployments you can use.
 - [I forgot how to manage a server (2019)](https://ma.ttias.be/i-forgot-how-to-manage-a-server/) ([HN](https://news.ycombinator.com/item?id=19796127))
 - [Applikatoni](https://github.com/applikatoni/applikatoni) - Self-hosted deployment server for your team.
 - [Lobsters: What’s your container-less deployment process? (2019)](https://lobste.rs/s/xov7nz/what_s_your_container_less_deployment)
@@ -28,3 +28,24 @@
 - [Building an online community around learning from incidents (2019)](https://www.learningfromincidents.io/blog/learning-from-incidents-in-software) ([HN](https://news.ycombinator.com/item?id=23584094))
 - [The Rise of Platform Engineering (2020)](https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/) ([HN](https://news.ycombinator.com/item?id=23591569))
 - [How we monitor our services at SourceHut (2020)](https://sourcehut.org/blog/2020-07-03-how-we-monitor-our-services/)
+- [Reference checklist for going to production](https://github.com/mtdvio/going-to-production)
+- [Revolv](https://getrevolv.com/) - Create a complete cloud architecture on your Amazon Web Services, Google Cloud Platform or Microsoft Azure account. ([HN](https://news.ycombinator.com/item?id=23997444))
+- [Clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management. ([Announcement](https://eng.lyft.com/announcing-clutch-the-open-source-platform-for-infrastructure-tooling-143d00de9713))
+- [What is DevOps? (2020)](https://cloud.google.com/devops)
+- [Sysdig](https://sysdig.com/) - Security, Compliance & Performance for your Devops Workflows.
+- [A List of Skills and PracticesWe Use to Train Our DevOps Internally (2020)](https://blog.maddevs.io/devops-engineers-in-mad-devs-449ded5221b6)
+- [Bridgecrew](https://bridgecrew.io/) - Codified cloud security for DevOps.
+- [You Reap What You Code (2020)](https://ferd.ca/you-reap-what-you-code.html)
+- [How we use HashiCorp Nomad (2020)](https://blog.cloudflare.com/how-we-use-hashicorp-nomad/) ([HN](https://news.ycombinator.com/item?id=23439788))
+- [Ask HN: Has anyone moved from Kubernetes to Nomad? (2020)](https://news.ycombinator.com/item?id=24865707)
+- [Qovery](https://github.com/Qovery/engine) - Deploy your apps on any Cloud providers in just a few seconds. ([Web](https://www.qovery.com/))
+- [packagecloud](https://packagecloud.io/) - Private NPM registry and Maven, RPM, DEB, PyPi and RubyGem Repository.
+- [Gravitational](https://gravitational.com/) - Remote Access and Secure Deployments.
+- [DeployHQ](https://www.deployhq.com/) - Automatically build and deploy code from your repositories.
+- [Cooking Infrastructure by Chef](http://chef.leopard.in.ua/) ([Code](https://github.com/le0pard/chef_book))
+- [Unleash](https://github.com/Unleash/unleash) - Open source feature toggle service. ([Web](https://unleash.github.io/))
+- [The golden age of configuration languages (2020)](https://cosminilie.ro/posts/evolution-of-configuration-languages/) ([HN](https://news.ycombinator.com/item?id=25160461))
+- [School of SRE](https://linkedin.github.io/school-of-sre/) ([Code](https://github.com/linkedin/school-of-sre))
+- [Christine Dodrill: ex-SRE, Lightspeed (2020)](https://reliability.substack.com/p/software-at-scale-002-christine-dodrill)
+- [driftctl](https://driftctl.com/) - Detect, track and alert on infrastructure drift. ([Code](https://github.com/cloudskiff/driftctl))
+- [Shipyard](https://github.com/shipyard-run/shipyard) - Modern cloud native development environments. ([Web](https://shipyard.run/))

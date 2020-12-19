@@ -1,5 +1,9 @@
 # Product Management
 
+## Notes
+
+- [Toyota's decision-making principle: Instead of depending on hierarchy, the people who are closest to what’s happening make decisions](https://twitter.com/david_perell/status/1298436779725320192)
+
 ## Links
 
 - [15 Things You Should Know About Product Managers (2019)](https://medium.com/@johnpcutler/15-things-you-should-know-about-product-managers-f488513d246)
@@ -20,3 +24,19 @@
 - [50 Short Product Lessons (2020)](https://cutle.fish/blog/50-product-lessons)
 - [Product Channel Fit Will Make or Break Your Growth Strategy (2017)](https://brianbalfour.com/essays/product-channel-fit-for-growth)
 - [Jumping into Product Management (2019)](https://www.martzoukos.com/posts/jumping-into-product-management)
+- ["Product surface area" problem explained (2020)](https://twitter.com/amontalenti/status/1281940587843813376)
+- [Overcoming impostor syndrome, introducing growth to an org, and how to partner with your Data Scientist (2019)](https://www.lennyrachitsky.com/p/this-week-overcoming-impostor-syndrome)
+- [Best active technology product managers (2020)](https://twitter.com/patrick_oshag/status/1294319157148889089)
+- [Five things I believe now about product work (2020)](https://twitter.com/shreyas/status/1296306987886505985)
+- [Awesome Product Management](https://github.com/dend/awesome-product-management)
+- [15 principles for product work (2020)](https://twitter.com/shreyas/status/1313539331563298817)
+- [Resources for Learning Product Management (2020)](https://informedpm.com/posts/product-manager-resources)
+- [Cloudflare Product Management Assignment](https://github.com/cloudflare-hiring/cloudflare-2020-product-management-assignment)
+- [Personal knowledge management for product managers](https://twitter.com/osamakhn/status/1317968591279411200)
+- [ProdPad](https://www.prodpad.com/) - Product Management Software.
+- [Zest](https://hellozest.io/) - Give your users an easy way to leave instant visual feedback.
+- [Secrets of the best product teams (2020)](https://st.im/secrets-of-the-best-product-teams/)
+- [Products should be “slick”, not just viable (2020)](https://herman.bearblog.dev/mvp-vs-slc/)
+- [Productboard](https://www.productboard.com/) - Customer-driven product management tool. ([API](https://developer.productboard.com/))
+- [Understand users, have a strategy, take the time to build an amazing & delightful product VS Just build, ship quick & often, experiment, assess user reactions, learn, repeat (2020)](https://twitter.com/shreyas/status/1337852929101815808)
+- [Giving design or product feedback advice (2020)](https://twitter.com/joulee/status/1338575853609861121)

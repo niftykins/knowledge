@@ -18,3 +18,24 @@
 - [Fast 2D rendering on GPU (2020)](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html) ([HN](https://news.ycombinator.com/item?id=23512897))
 - [Nyuzi Processor](https://github.com/jbush001/NyuziProcessor) - Experimental GPGPU processor hardware design focused on compute intensive tasks. It is optimized for use cases like deep learning and image processing.
 - [Reyes Rendering on the GPU (2015)](https://markussteinberger.net/papers/GPUReyes.pdf) ([HN](https://news.ycombinator.com/item?id=23572626))
+- [Compressed GPU texture formats – a review and compute shader decoders (2020)](https://themaister.net/blog/2020/08/12/compressed-gpu-texture-formats-a-review-and-compute-shader-decoders-part-1/)
+- [GPU Compute Basic Algorithms - MLIR](https://llvm.discourse.group/t/gpu-compute-basic-algorithms/1281)
+- [Which GPUs to get for deep learning (2020)](https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/) ([HN](https://news.ycombinator.com/item?id=24400603))
+- [KodeLife](https://hexler.net/products/kodelife) - Real-time GPU shader editor.
+- [Getting Started with GPU Computing in Anaconda (2017)](https://www.anaconda.com/blog/getting-started-with-gpu-computing-in-anaconda)
+- [gpu-distance-field](https://github.com/ryankaplan/gpu-distance-field) - TypeScript library for generating distance fields from 2d images on the GPU.
+- [Gradient Free Cloud GPUs](https://gradient.paperspace.com/free-gpu)
+- [Object Detection from 9 FPS to 650 FPS in 6 Steps (2020)](https://paulbridger.com/posts/video_analytics_pipeline_tuning/) ([HN](https://news.ycombinator.com/item?id=24738835))
+- [Object Detection at 1840 FPS with TorchScript, TensorRT and DeepStream (2020)](https://paulbridger.com/posts/video-analytics-deepstream-pipeline/) ([HN](https://news.ycombinator.com/item?id=24817173))
+- [GPU-Accelerated ODE Solving in R with Julia, the Language of Libraries (2020)](http://www.stochasticlifestyle.com/gpu-accelerated-ode-solving-in-r-with-julia-the-language-of-libraries/)
+- [Detect GPU](https://github.com/TimvanScherpenzeel/detect-gpu) - Classify GPU's based on their benchmark score in order to provide an adaptive experience.
+- [Moana Motunui Renderer on GPU (2020)](https://www.render-blog.com/2020/10/03/gpu-motunui/) ([HN](https://news.ycombinator.com/item?id=24833218)) ([Code](https://github.com/chellmuth/gpu-motunui))
+- [GPUs on a Raspberry Pi Compute Module 4 (2020)](https://www.youtube.com/watch?v=ikpgZu6kLKE)
+- [Installing the world’s worst video card (2020)](https://www.youtube.com/watch?v=2iURr3NBprc) ([Lobsters](https://lobste.rs/s/n45htv/installing_world_s_worst_video_card))
+- [Let’s build a video card](https://eater.net/vga) - Video series on how VGA signals work and building a circuit that provides the correct timing of sync signals so that a monitor recognizes the signal and displays an image stored on an EEPROM.
+- [NVIDIA Research](https://www.nvidia.com/en-us/research/) ([GitHub](https://github.com/NVlabs))
+- [Umpire](https://github.com/LLNL/Umpire) - Application-focused API for memory management on NUMA & GPU architectures.
+- [GPUVis](https://github.com/mikesart/gpuvis) - GPU Trace Visualizer.
+- [Cloud GPU Vendors](https://github.com/binga/cloud-gpus) - Compares on-demand GPU vendors to help Machine Learning practitioners pick their preferred platform.
+- [GPGPU-Sim](https://github.com/gpgpu-sim/gpgpu-sim_distribution) - Provides a detailed simulation model of contemporary NVIDIA GPUs running CUDA and/or OpenCL workloads.
+- [ArrayFire](https://github.com/arrayfire/arrayfire) - General purpose GPU library. ([Web](https://arrayfire.com/))

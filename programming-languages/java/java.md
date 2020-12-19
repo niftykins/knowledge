@@ -27,3 +27,17 @@
 - [Writing Java With a Dash of Functional Programming (2018)](https://jiahao.codes/blog/writing-java-with-a-dash-of-functional-programming/)
 - [Write Once, Build Anywhere (2020)](https://dave.autonoma.ca/blog/2020/06/29/write-once-build-anywhere/) - Cross-compiling self-contained Java desktop application launchers.
 - [Greatest Java apps (2020)](https://blogs.oracle.com/javamagazine/the-top-25-greatest-java-apps-ever-written) ([HN](https://news.ycombinator.com/item?id=23676723))
+- [How to learn idiomatic Java in 2020?](https://lobste.rs/s/y2nnwd/how_learn_idiomatic_java_2020)
+- [Circumventing the JVM's bytecode verifier (2019)](https://anthony.som.codes/blog/2019-12-30-jvm-hackery-noverify/) ([HN](https://news.ycombinator.com/item?id=21921922))
+- [Java Turns 25 – Whats Next? (2020)](https://www.oracle.com/a/ocom/docs/corporate/analystrelations/omdia-java-turns-25.pdf) ([HN](https://news.ycombinator.com/item?id=24534629))
+- [Please Test Your Memory](https://shipilev.net/jvm/test-your-memory/) - My JVM keeps crashing in GC, must be a GC bug. ([Lobsters](https://lobste.rs/s/jaezro/please_test_your_memory))
+- [Modern Java/JVM Build Practices](https://github.com/binkley/modern-java-practices)
+- [A Complete Introduction to Java EE (2020)](https://www.jessym.com/articles/a-complete-introduction-to-java-ee)
+- [JDConf](https://jdconf.splashthat.com/) - Connecting Java Developers.
+- [Java Concurrency - Basics of Threads (2020)](https://turkogluc.com/java-concurrency-basics-of-threads/) ([HN](https://news.ycombinator.com/item?id=24940545))
+- [Graphics for JVM (2020)](https://tonsky.me/blog/skija/) ([HN](https://news.ycombinator.com/item?id=25121705))
+- [Useful Java links](https://github.com/Vedenin/useful-java-links)
+- [Java is better than C++ for high speed trading systems (2020)](https://news.efinancialcareers.com/uk-en/3004875/low-latency-java-trading-systems) ([HN](https://news.ycombinator.com/item?id=25217270))
+- [sbt-assembly](https://github.com/sbt/sbt-assembly) - sbt plugin to deploy fat JARs with all of its dependencies. Restart processes.
+- [Jib](https://github.com/GoogleContainerTools/jib/) - Build container images for your Java applications. ([Article](https://www.infoq.com/news/2020/08/containerize-java-app-with-jib/))
+- [Live Programming with the GraalVM, the LSP, and VS Code (2020)](https://www.javaadvent.com/2020/12/live-programming-with-the-graalvm-the-lsp-and-vs-code.html)

@@ -3,11 +3,13 @@
 ## Interesting Engines
 
 - [Godot](https://github.com/godotengine/godot)
+- [Ebiten](https://github.com/hajimehoshi/ebiten) - Dead simple 2D game library in Go. ([Web](https://ebiten.org/)) ([Ebiten in 2020](https://ebiten.org/blog/2020.html)) ([HN](https://news.ycombinator.com/item?id=25429375))
+- [Bevy](https://github.com/bevyengine/bevy) - Refreshingly simple data-driven game engine built in Rust. ([Introduction](https://bevyengine.org/news/introducing-bevy/)) ([HN](https://news.ycombinator.com/item?id=24123283)) ([HN 2](https://news.ycombinator.com/item?id=24983956)) ([WebGL2 renderer plugin for Bevy game engine](https://github.com/mrk-its/bevy_webgl2)) ([Awesome Bevy](https://github.com/bevyengine/awesome-bevy))
 - [Love](https://love2d.org) ([Code](https://github.com/love2d/love))
 - [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) - Awesome 3d engine for LÖVE.
 - [ggez](https://github.com/ggez/ggez)
 - [Amethyst](https://github.com/amethyst/amethyst)
-- [Open Source Game Engine for Turn-Based Games](https://github.com/nicolodavis/boardgame.io)
+- [boardgame.io](https://boardgame.io/) - State Management for Turn-Based Games. ([Code](https://github.com/boardgameio/boardgame.io))
 - [Xash3D FWGS Engine](https://github.com/FWGS/xash3d) - Custom Gold Source engine rewritten from scratch.
 - [Newton](https://github.com/hunterloftis/newton) - Playful, particle-based physics engine designed from the ground up for JavaScript.
 - [Noa](https://github.com/andyhall/noa) - Experimental voxel game engine.
@@ -15,7 +17,7 @@
 - [Piston](https://github.com/PistonDevelopers/piston) - Modular game engine written in Rust.
 - [GDevelop](https://github.com/4ian/GDevelop) - Open-source, cross-platform game engine designed to be used by everyone.
 - [Corona](https://github.com/coronalabs/corona) - Simple to learn and use 2D game engine developed by Corona Labs.
-- [VCMI](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III.
+- [VCMI](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III. ([Reddit](https://www.reddit.com/r/programming/comments/i5oyqz/heroes_of_might_and_magic_iii_engine_written_from/))
 - [Hex Engine](https://github.com/suchipi/hex-engine) - Modern 2D game engine for the browser.
 - [RaZ](https://github.com/Razakhel/RaZ) - Modern & multiplatform 3D engine in C++17.
 - [Flex Engine](https://github.com/ajweeks/FlexEngine) - Personal game engine.
@@ -31,7 +33,7 @@
 - [qu3e](https://github.com/RandyGaul/qu3e) - Lightweight and Simple 3D Open Source Physics Engine in C++.
 - [Falltergeist](https://github.com/falltergeist/falltergeist) - Open source cross platform Fallout 2™ game engine written in C++ and SDL.
 - [Vault13](https://github.com/pingw33n/vault13) - Reimplementation of Fallout 2 engine in Rust.
-- [Minetest](https://github.com/minetest/minetest) - Free open-source voxel game engine with easy modding and game creation.
+- [Minetest](https://github.com/minetest/minetest) - Free open-source voxel game engine with easy modding and game creation. ([Web](https://www.minetest.net/))
 - [Crow](https://github.com/lcnr/crow) - Simple pixel perfect 2D rendering engine in Rust. ([Akari - game built with Crow](https://github.com/lcnr/akari))
 - [Defold](https://defold.com/) - Ultimate game engine for web and mobile. ([Code](https://github.com/defold/defold)) ([HN](https://news.ycombinator.com/item?id=23232648))
 - [Grid](https://github.com/Planimeter/grid-sdk) - Game engine for Lua. Designed for multiplayer-first game experiences. ([Web](https://www.planimeter.org/grid-sdk/)) ([HN](https://news.ycombinator.com/item?id=23449224))
@@ -41,6 +43,24 @@
 - [CRYENGINE](https://github.com/CRYTEK/CRYENGINE/) - Powerful real-time game development platform created by Crytek. ([HN](https://news.ycombinator.com/item?id=23660099))
 - [24a2](https://github.com/jamesroutley/24a2) - Ultra-minimalist game engine. ([HN](https://news.ycombinator.com/item?id=23664814)) ([Web](https://24a2.routley.io/))
 - [OpenRA](https://www.openra.net/) - Libre/Free Real Time Strategy game engine supporting early Westwood classics. ([Web](https://www.openra.net/))
+- [Richter](https://github.com/cormac-obrien/richter) - Modern implementation of the Quake engine in Rust. ([Web](http://c-obrien.org/richter/))
+- [PlayCanvas](https://playcanvas.com/) - Fast and lightweight JavaScript game engine built on WebGL and glTF. ([Code](https://github.com/playcanvas/engine)) ([HN](https://news.ycombinator.com/item?id=24018097))
+- [Excalibur](https://github.com/excaliburjs/Excalibur) - Simple 2D HTML5 game engine written in TypeScript.
+- [pygame](https://github.com/pygame/pygame) - Free and Open Source cross-platform library for the development of multimedia applications like video games on Python. ([Web](https://www.pygame.org/news)) ([HN](https://news.ycombinator.com/item?id=24930615))
+- [GtkRadiant](https://github.com/TTimo/GtkRadiant) - Open-source, cross-platform level editor for id Tech based games. It comes with some map compilers and data authoring tools.
+- [Rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance. In Rust. ([Web](https://rapier.rs/))
+- [jMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine) - Complete 3D game development suite written purely in Java. ([Web](https://jmonkeyengine.org/))
+- [Dotrix](https://github.com/lowenware/dotrix) - 3D Game Engine written in Rust.
+- [Physics3D](https://github.com/ThePhysicsGuys/Physics3D) - 3D physics engine, written in C++.
+- [macroquad](https://github.com/not-fl3/macroquad) - Simple and easy to use game library for Rust programming language, heavily inspired by raylib.
+- [Skynet](https://github.com/cloudwu/skynet) - Lightweight online game framework which can be used in many other fields.
+- [Nazara Engine](https://github.com/DigitalPulseSoftware/NazaraEngine) - Fast, complete, cross-platform, object-oriented API which can help you in your daily developer life.
+- [Edyn](https://github.com/xissburg/edyn) - Real-time physics engine organized as an ECS.
+- [Frostbite Engine](https://www.ea.com/frostbite) - Most adopted platform for game development by EA.
+- [Halley](https://github.com/amzeratul/halley) - Lightweight game engine written in modern C++.
+- [Goodluck](https://github.com/piesku/goodluck) - Hackable template for creating small and fast browser games. ([Web](https://gdlck.com/))
+- [SuperTux](https://www.supertux.org/) - Open-source classic 2D jump'n run sidescroller game in a style similar to the original Super Mario games. ([Code](https://github.com/SuperTux/supertux))
+- [Flax Engine](https://github.com/FlaxEngine/FlaxEngine) - Multi-platform 3D game engine. ([Web](https://flaxengine.com/))
 
 ## Physics engines
 
@@ -56,3 +76,6 @@
 - [Custom Game Engines: A Small Study (2020)](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74) ([HN](https://news.ycombinator.com/item?id=22965078))
 - [Making game engines is a waste of time - I probably won’t stop making them (2020)](https://benwiser.com/blog/Making-game-engines-is-a-waste-of-time---I-probably-won%E2%80%99t-stop-making-them.html) ([HN](https://news.ycombinator.com/item?id=23214621))
 - [Foundations of Game Engine Development](https://foundationsofgameenginedev.com/)
+- [Designing a Physics Engine (2020)](https://blog.winter.dev/2020/designing-a-physics-engine/) ([HN](https://news.ycombinator.com/item?id=24016718))
+- [Game engines used for urban planning, architecture, automotive engineering firms, live music and events, filmmaking, etc. (2020)](https://twitter.com/aaronzlewis/status/1291889682788253696)
+- [Porting a c++ game engine to the web with emscripten (2020)](https://www.polymonster.co.uk/blog/porting-to-wasm-with-emscripten)

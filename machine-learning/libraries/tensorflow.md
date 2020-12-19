@@ -50,3 +50,22 @@
 - [pix2pix implementation using Swift for TensorFlow](https://github.com/s1ddok/pix2pix-s4tf)
 - [Learning to Cartoonize Using White-box Cartoon Representations](https://github.com/SystemErrorWang/White-box-Cartoonization)
 - [Deep Xi](https://github.com/anicolson/DeepXi) - Deep Learning Approach to A Priori SNR Estimation for speech enhancement.
+- [TF-Coder, a tool that writes tricky TensorFlow expressions (2020)](https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html) ([HN](https://news.ycombinator.com/item?id=24285910))
+- [TensorBoard](https://github.com/tensorflow/tensorboard) - Suite of web applications for inspecting and understanding your TensorFlow runs and graphs.
+- [Awesome TensorFlowJS](https://github.com/aaronhma/awesome-tensorflow-js)
+- [Tensorflow vs Scikit-learn (2020)](https://mljar.com/blog/tensorflow-vs-scikit-learn/)
+- [TensorFlow Scala](https://github.com/eaplatanios/tensorflow_scala) - TensorFlow API for the Scala Programming Language.
+- [TensorFlow Federated](https://github.com/tensorflow/federated) - Framework for implementing federated learning.
+- [Pipcook](https://github.com/alibaba/pipcook) - Front-End Algorithm Engineering Platform based on Tensorflow.js.
+- [TensorFlow Compression](https://github.com/tensorflow/compression) - Build your own ML models with end-to-end optimized data compression built in.
+- [Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading (2020)](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
+- [NSFW detection on the client-side via TensorFlow.js](https://github.com/infinitered/nsfwjs) ([Web](https://nsfwjs.com/))
+- [Trieste](https://github.com/secondmind-labs/trieste) - Bayesian optimization toolbox built on TensorFlow.
+- [Introduction to Swift for TensorFlow (2020)](https://www.youtube.com/watch?v=YSUFcX2dTjk) ([Slides](https://brettkoonce.com/talks/introduction-to-swift-tensorflow-2020/))
+- [Convolutional Neural Networks with Swift for TensorFlow](https://convolutionalneuralnetworkswithswift.com/)
+- [Swift for TensorFlow Models](https://github.com/tensorflow/swift-models)
+- [TensorFlow Model Garden](https://github.com/tensorflow/models) - Repository with a number of different implementations of state-of-the-art (SOTA) models and modeling solutions for TensorFlow users.
+- [Mac-optimized TensorFlow and TensorFlow Addons](https://github.com/apple/tensorflow_macos)
+- [TensorFlow binaries supporting AVX, FMA, SSE](https://github.com/lakshayg/tensorflow-build)
+- [Swift4TF](https://github.com/zaidalyafeai/Swift4TF) - Set of notebooks explaining swift for tensorflow optimized to run in Google Collaboratory.
+- [Siamese networks with Keras, TensorFlow, and Deep Learning (2020)](https://www.pyimagesearch.com/2020/11/30/siamese-networks-with-keras-tensorflow-and-deep-learning/)

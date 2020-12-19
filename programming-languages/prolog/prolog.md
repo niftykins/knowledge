@@ -19,3 +19,7 @@
 - [The Art of Prolog (1994)](https://mitpress.mit.edu/books/art-prolog-second-edition) ([HN](https://news.ycombinator.com/item?id=23582903))
 - [Prolog Web Applications (2016)](https://www.metalevel.at/prolog/web) ([HN](https://news.ycombinator.com/item?id=23597688))
 - [Real World Programming in SWI-Prolog](http://www.pathwayslms.com/swipltuts/) ([HN](https://news.ycombinator.com/item?id=23818901))
+- [pylo](https://github.com/sebdumancic/pylo2) - Python front-end for several Prolog engines.
+- [Implementation of Prolog in TypeScript](https://github.com/kkty/prolog)
+- [Mycroft](https://github.com/enkiv2/mycroft) - Prolog-like language with compound truth value logic.
+- [Simple Prolog implementation in Rust](https://github.com/mb64/prolog)

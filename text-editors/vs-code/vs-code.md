@@ -22,6 +22,7 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - `Developer: Show Running Extensions` command -> Shows currently running extensions. Is good for profiling.
 - [VS Code has excellent integrated node debugging. It integrates seamlessly with the entire tool ecosystem (eg I use ts-node-dev for autoreloading + typescript support, and the VS Code debugger Just Works). And because it's inside the editor, ndb features like the ability to put breakpoints in a file before it is required are irrelevant. It's all at your fingertips, just put a breakpoint right where you're coding, hit F5 to attach the debugger to your devserver and step through the code.](https://news.ycombinator.com/item?id=17581521)
 - To hide non useful `Outline` section in sidebar, just open the context menu on the outline section's header and select the "Hide" action.
+- [Can use "\*" in the advanced search options in @code to search for similar subfolders across multiple parent folders.](https://twitter.com/SteveGodderidge/status/1285978384049348609)
 
 ## Links
 
@@ -39,3 +40,13 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [sshcode](https://github.com/cdr/sshcode) - CLI to automatically install and run code-server over SSH.
 - [sail](https://github.com/cdr/sail) - Instant, pre-configured VS Code development environments.
 - [StackBlitz](https://stackblitz.com/) - Online IDE powered by Visual Studio Code. ([Code](https://github.com/stackblitz/core))
+- [The best Parts of Visual Studio Code are proprietary (2020)](https://underjord.io/the-best-parts-of-visual-studio-code-are-proprietary.html) ([HN](https://news.ycombinator.com/item?id=24047638))
+- [VS Code Rocks](https://vscode.rocks/) - Weekly news on the newest features and updates to VSCode.
+- [VSCode to Prism Themes](https://prism.dotenv.dev/)
+- [The Era of Visual Studio Code (2020)](https://blog.robenkleene.com/2020/09/21/the-era-of-visual-studio-code/) ([HN](https://news.ycombinator.com/item?id=24558788)) ([Lobsters](https://lobste.rs/s/d2uhbm/era_visual_studio_code))
+- [My new coding workflow: VS Code + Remote-SSH extension (2020)](https://jlelse.blog/dev/code-using-vps/) ([Lobsters](https://lobste.rs/s/mqclc7/my_new_coding_workflow_vs_code_remote_ssh))
+- [Cloud Code for Visual Studio Code](https://github.com/GoogleCloudPlatform/cloud-code-vscode) - Brings the power and convenience of IDEs to developing cloud-native Kubernetes and Cloud Run applications.
+- [GitHub and VS Code](https://vscode.github.com/)
+- [VS Code Tips](https://twitter.com/vscodetips)
+- [VS Code Wiki](https://github.com/Microsoft/vscode/wiki) ([Code](https://github.com/microsoft/vscode-wiki))
+- [Learning all VSCode shortcuts evolved my developing habits (2020)](https://tkainrad.dev/posts/learning-all-vscode-shortcuts-evolved-my-developing-habits/)

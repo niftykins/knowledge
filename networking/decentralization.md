@@ -21,12 +21,26 @@
 - [Protocols, Not Platforms: A Technological Approach to Free Speech (2019)](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech)
 - [The ecosystem is moving - Moxie (2019)](https://www.youtube.com/watch?v=Nj3YFprqAr8)
 - [Misskey](https://github.com/syuilo/misskey) - Federated blogging platform.
-- [GUN](https://github.com/amark/gun) - Realtime, decentralized, offline-first, graph protocol to sync the web.
+- [GUN](https://github.com/amark/gun) - Realtime, decentralized, offline-first, graph protocol to sync the web. ([Web](https://gun.eco/))
 - [Towards decentralized code collaboration](https://radicle.xyz/towards-decentralized-code-collaboration.html)
 - [SAFE Network Primer](https://primer.safenetwork.org/) - Introductory guide to the world's first fully autonomous data and communications network.
 - [cjdns](https://github.com/cjdelisle/cjdns) - Encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
-- [Yggdrasil](https://yggdrasil-network.github.io/) - Early-stage implementation of a fully end-to-end encrypted IPv6 network.
+- [Yggdrasil](https://yggdrasil-network.github.io/) - Early-stage implementation of a fully end-to-end encrypted IPv6 network. ([Code](https://github.com/yggdrasil-network/yggdrasil-go))
 - [AutoDapp](https://github.com/autodapp/autodapp) - Instantly decentralize your web app.
-- [Everest](https://everest.link/) - Universally shared projects registry.
+- [Everest](https://everest.link/) - Universally shared projects registry. ([Projects](https://everest.link/projects/))
 - [Infura](https://infura.io/) - Ethereum & IPFS APIs. Develop now on Web 3.0.
 - [Aragon](https://aragon.org/) - Gives internet communities unprecedented power to organize around shared values and resources.
+- [73 and Web3](https://github.com/sagmom3/73-and-web3)
+- [Crypto Anarchy Wiki](https://cryptoanarchy.wiki/)
+- [IPLD](https://ipld.io/) - Data model of the content-addressable web.
+- [Resources about the general concepts around decentralization (2020)](https://merveilles.town/@jrc03c/104823469834829652)
+- [Our Networks](https://ournetworks.ca/) - Conference about the past, present, and future of building our own network infrastructures.
+- [Coordination, Good and Bad (2020)](https://vitalik.ca/general/2020/09/11/coordination.html) ([HN](https://news.ycombinator.com/item?id=24449629))
+- [The unrealized potential of federation (2020)](https://drewdevault.com/2020/09/20/The-potential-of-federation.html) ([HN](https://news.ycombinator.com/item?id=24534148))
+- [Spritely](https://spritelyproject.org/) - Project to level up the federated social web. ([Lobsters](https://lobste.rs/s/whaf2t/spritely))
+- [Filecoin](https://filecoin.io/) - Decentralized storage network for humanity's most important information. ([Tweet](https://twitter.com/smdiehl/status/1318143467613192194)) ([What Information Should we be Preserving in Filecoin?](https://blog.archive.org/2020/10/22/what-information-should-we-be-preserving-in-filecoin/))
+- [witnet-rust](https://github.com/witnet/witnet-rust) - Open source implementation of the Witnet Decentralized Oracle Network protocol written in Rust.
+- [Awesome distributed, decentralized, p2p apps or tools](https://github.com/croqaz/awesome-decentralized)
+- [Maybe we shouldn't want a fully decentralized web (2020)](https://withblue.ink/2020/11/12/maybe-we-shouldnt-want-a-fully-decentralized-web.html) ([HN](https://news.ycombinator.com/item?id=25312854))
+- [Thinking About Decentralized Communities (2020)](https://gurlic.com/root/thinking-about-decentralized-communities) ([HN](https://news.ycombinator.com/item?id=25409715))
+- [Awesome anti-censorship](https://github.com/danoctavian/awesome-anti-censorship)

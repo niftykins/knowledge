@@ -37,7 +37,7 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Differential Privacy by Google](https://github.com/google/differential-privacy) - Contains a C++ library of ε-differentially private algorithms, which can be used to produce aggregate statistics over numeric data sets containing private or sensitive information.
 - [Privatar](https://www.privitar.com/) - Unlock the advantage of data-driven insights while ensuring data privacy.
 - [How China Tracks Everyone | VICE on HBO (2019)](https://www.youtube.com/watch?v=CLo3e1Pak-Y)
-- [Cutting Google out of your life](https://github.com/tycrek/degoogle)
+- [Cutting Google out of your life](https://github.com/tycrek/degoogle) - Huge list of alternatives to Google products. Privacy tips, tricks, and links. ([HN](https://news.ycombinator.com/item?id=24245817))
 - [Local-first software](https://www.inkandswitch.com/local-first.html) - You own your data, in spite of the cloud.
 - [The Secretive Company That Might End Privacy as We Know It (2020)](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html) ([Tweet](https://twitter.com/kevinakwok/status/1218621849971507200))
 - [Am I Unique?](https://amiunique.org/) - Aims at studying the diversity of browser fingerprints and providing developers with data to help them design good defenses. ([HN](https://news.ycombinator.com/item?id=22148512))
@@ -51,3 +51,23 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [We Chat, They Watch (2020)](https://citizenlab.ca/2020/05/we-chat-they-watch/) - How International Users Unwittingly Build up WeChat’s Chinese Censorship Apparatus. ([HN](https://news.ycombinator.com/item?id=23109997))
 - [EFF](https://www.eff.org/) - Leading nonprofit organization defending civil liberties in the digital world.
 - [Metomic](https://metomic.io/) - Privacy Tools for Developers.
+- [How Facebook and Other Sites Manipulate Your Privacy Choices (2020)](https://www.wired.com/story/facebook-social-media-privacy-dark-patterns/)
+- [Why Privacy Matters (2020)](https://thistooshallgrow.com/blog/privacy-security-roundup) ([HN](https://news.ycombinator.com/item?id=24341079))
+- [Nym](https://nymtech.net/) - Developing the infrastructure to prevent this data leakage and provide people with strong internet privacy.
+- [Your Phone Is Your Castle](https://puri.sm/posts/your-phone-is-your-castle/) ([HN](https://news.ycombinator.com/item?id=24463347))
+- [Threat Models for Differential Privacy (2020)](https://www.nist.gov/blogs/cybersecurity-insights/threat-models-differential-privacy)
+- [Sekreta](https://gitlab.com/sekreta/sekreta/) - Universal internet-anonymity API with privacy-enhancing subsystem.
+- [Kovri](https://gitlab.com/kovri-project/kovri/) - Free, decentralized, anonymity technology based on I2P's open specifications.
+- [Mute](https://mute.one/) - Privacy enhancing communication system.
+- [HN: Stop the Earn IT Bill Before It Breaks Encryption (2020)](https://news.ycombinator.com/item?id=24695373)
+- [Purism](https://puri.sm/) - Beautiful, Secure, Privacy-Respecting Laptops & Phones.
+- [Purism – Fund Your App](https://puri.sm/fund-your-app/) ([HN](https://news.ycombinator.com/item?id=24721913))
+- [Steps For Better Online Privacy (2020)](https://www.npr.org/2020/10/09/922262686/your-technology-is-tracking-you-take-these-steps-for-better-online-privacy) ([HN](https://news.ycombinator.com/item?id=24807980))
+- [No More Google](https://nomoregoogle.com/) - Privacy-friendly alternatives to Google that don't track you. ([HN](https://news.ycombinator.com/item?id=24972669))
+- [Productivity vs. Privacy (2020)](https://jessems.com/productivity-vs-privacy)
+- [Your Computer Isn't Yours (2020)](https://sneak.berlin/20201112/your-computer-isnt-yours/) ([HN](https://news.ycombinator.com/item?id=25078034))
+- [Electronic Frontier Foundation](https://www.eff.org/) - Defending your rights in the digital world.
+- [The magic of Gaussian noise (2020)](https://desfontain.es/privacy/gaussian-noise.html) - Part of a series on differential privacy.
+- [Amnesia](https://amnesia.openaire.eu/) - Data anonymization made easy.
+- [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.github.io/thgtoa/guide.html) ([Code](https://github.com/AnonymousPlanet/thgtoa))
+- [Awesome Privacy](https://github.com/pluja/awesome-privacy) - List of free, open source and privacy respecting services.

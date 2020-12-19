@@ -10,7 +10,7 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 ## Links
 
 - [Do schools kill creativity](https://www.youtube.com/watch?v=iG9CE55wbtY)
-- [Abstraction, intuition, and the “monad tutorial fallacy"](https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/) ([HN comments](https://news.ycombinator.com/item?id=17015661))
+- [Abstraction, intuition, and the “monad tutorial fallacy"](https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/) ([HN](https://news.ycombinator.com/item?id=17015661))
 - [Steve Jobs on Education and Conspiracy Theories....](https://www.youtube.com/watch?v=dULN8WbMb3M)
 - [A Survival Guide to a PhD (2016)](http://karpathy.github.io/2016/09/07/phd/)
 - [Solvio](http://solvio.org) - Decentralized education system. Our mission is to build a P2P education system that will be equivalent to a formal education.
@@ -48,3 +48,14 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [The state of online learning (2020)](https://twitter.com/david_perell/status/1274127231241949184)
 - [Homeschooled: Laura Deming, Scientist & Founder of The Longevity Fund (2020)](https://blog.withprimer.com/laura-deming/) ([HN](https://news.ycombinator.com/item?id=23644762))
 - [The future of education looks like Y Combinator. Here are 10 things schools can learn from the program. (2020)](https://twitter.com/david_perell/status/1277387185633689600)
+- [Ask HN: Something like Khan Academy but full curriculum for grade schoolers? (2020)](https://news.ycombinator.com/item?id=23793216)
+- [Consider getting a “DIY” degree online instead of a traditional CS major](https://www.pashabitz.com/posts/undergrad-altenative/) ([HN](https://news.ycombinator.com/item?id=23919579))
+- [Harvard CS professor David Malan built a distance-learning empire](https://www.newyorker.com/news/our-local-correspondents/how-harvards-star-computer-science-professor-built-a-distance-learning-empire) ([HN](https://news.ycombinator.com/item?id=23905985))
+- [A College Degree Is No Guarantee of a Good Life (2020)](https://www.theatlantic.com/family/archive/2020/07/will-going-college-make-you-happier/613729/) ([HN](https://news.ycombinator.com/item?id=24007278))
+- [Epihub](https://epihub.com/) - Shopify for teaching online. ([HN](https://news.ycombinator.com/item?id=24215376))
+- [MLH Fellowship](https://fellowship.mlh.io/) - Spend 12-weeks remotely leveling up your skills & building out your portfolio under the guidance of an expert mentor. ([Experience of doing the program](https://dev.to/jessie_anh_nguyen/growing-as-a-developer-through-the-mlh-fellowship-eb2))
+- [Syllabus for Eric's PhD Students (2020)](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/preview?pru=AAABdEtovic*vkWoyIJP-56-mWWnA923aA) ([HN](https://news.ycombinator.com/item?id=24274699))
+- [How to Pick Your Grad School (2020)](https://timdettmers.com/2020/03/10/how-to-pick-your-grad-school/)
+- [EdTech trends (2020)](https://twitter.com/meaganloyst/status/1310966914248736773)
+- [Why I Left My Tenured Academic Job (2020)](https://reyammer.io/blog/2020/10/03/the-good-the-bad-and-the-bye-bye-why-i-left-my-tenured-academic-job/) ([HN](https://news.ycombinator.com/item?id=24677171))
+- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)

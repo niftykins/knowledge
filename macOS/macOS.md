@@ -20,6 +20,8 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - `/usr/local/bin` is a good place to put raw binaries available in the path, that are not installed with Nix.
 - [`defaults write NSGlobalDomain KeyRepeat -int 1` setup keyboard repeat.](https://twitter.com/jordwalke/status/1230582824224165888)
 - [Can select text from middle of link's text by holding down alt while you drag and select with the mouse](https://twitter.com/MBoffin/status/1218668903586394112)
+- [plutil tool support the generation of Swift or Objective-C code directly from plists. For example: plutil -convert swift.](https://twitter.com/dmartincy/status/1295029196503351298)
+- [To code sign binaries ad hoc, run `codesign -s - <path_to_binary>`.](https://github.com/golang/go/issues/42684) This will give users a gatekeeper warning but they could still run the binary. To sign so users can run binary without warning, you need Apple developer account.
 
 ## Links
 
@@ -86,3 +88,35 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Extract the system libraries on macOS Big Sur (2020)](https://lapcatsoftware.com/articles/bigsur.html)
 - [Apple Technologies Search](https://developer.apple.com/documentation/technologies)
 - [AquaticPrime](https://github.com/bdrister/AquaticPrime) - Mac software licensing code using cryptographically signed license files.
+- [SimpleVM](https://github.com/KhaosT/SimpleVM) - Sample code for Virtualization framework.
+- [macOS 11 Big Sur UI Kit](https://products.ls.graphics/macos/)
+- [The Art Of Mac Malware](https://taomm.org/)
+- [Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities](https://github.com/sslab-gatech/pwn2own2020)
+- [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236) ([HN](https://news.ycombinator.com/item?id=24080378))
+- [Ask HN: What feature did you find after years of using macOS? (2020)](https://news.ycombinator.com/item?id=24091707)
+- [Sinter](https://github.com/trailofbits/sinter) - User-mode application authorization system for MacOS written in Swift. ([Article](https://blog.trailofbits.com/2020/08/12/sinter-new-user-mode-security-enforcement-for-macos/))
+- [MacPorts package manager](https://www.macports.org/) ([Code](https://github.com/macports/macports-ports))
+- [macOS icon pack](https://macosicons.com/) - Beautiful open source icons for Big Sur. ([Code](https://github.com/elrumo/macOS_Big_Sur_icons_replacements))
+- [Thoughts on macOS Package Managers (2019)](https://saagarjha.com/blog/2019/04/26/thoughts-on-macos-package-managers/)
+- [Sparkle](https://github.com/sparkle-project/Sparkle) - Software update framework for macOS. ([Web](https://sparkle-project.org/))
+- [Hard to discover tips and apps for macOS (2020)](https://thume.ca/2020/09/04/macos-tips/) ([HN](https://news.ycombinator.com/item?id=24391899)) ([Lobsters](https://lobste.rs/s/kpar4v/hard_discover_tips_apps_for_making_macos))
+- [fastmac](https://github.com/fastai/fastmac/) - MacOS instance or Linux shell. ([HN](https://news.ycombinator.com/item?id=24452384))
+- [What should I do after getting my (first) own new Macbook? (2020)](https://lobste.rs/s/uzdehw/what_should_i_do_after_getting_my_first_own)
+- [macOS Simple KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+- [HN: Apple’s T2 security chip jailbreak (2020)](https://news.ycombinator.com/item?id=24636166)
+- [Apple's macOS SDKs](https://github.com/alexey-lysiuk/macos-sdk)
+- [macOS11 Big Sur UI Kit](https://applypixels.com/resource/big-sur-ui)
+- [Apple Platform Versions](https://github.com/phatblat/ApplePlatformVersions) - Recent history of platforms developed by Apple, including Apple-managed build tools for these platforms.
+- [Sketch — Part of your world: Why we’re proud to build a truly native Mac app (2020)](https://www.sketch.com/blog/2020/10/26/part-of-your-world-why-we-re-proud-to-build-a-truly-native-mac-app/) ([HN](https://news.ycombinator.com/item?id=24899391)) ([HN 2](https://news.ycombinator.com/item?id=24912325)) ([Tweet](https://twitter.com/amix3k/status/1321404287566680064?s=21))
+- [macOS 11 boot volume layout (2020)](https://eclecticlight.co/2020/09/16/boot-volume-layout/) ([HN](https://news.ycombinator.com/item?id=24957783))
+- [Booting a macOS Apple Silicon Kernel in QEMU (2020)](https://worthdoingbadly.com/xnuqemu3/) ([HN](https://news.ycombinator.com/item?id=25064593))
+- [macOS defaults](https://macos-defaults.com/) - List of macOS defaults commands with demos. ([Code](https://github.com/yannbertrand/macos-defaults))
+- [Does Apple really log every app you run? A technical look (2020)](https://blog.jacopo.io/en/post/apple-ocsp/) ([HN](https://news.ycombinator.com/item?id=25095438)) ([Reddit](https://www.reddit.com/r/apple/comments/juajrb/does_apple_really_log_every_app_you_run_a/))
+- [Does it ARM](https://doesitarm.com/) - Apps that are reported to support Apple Silicon. ([Code](https://github.com/ThatGuySam/doesitarm))
+- [Black Friday Deals macOS/iOS dev](https://github.com/mRs-/Black-Friday-Deals)
+- [create-dmg](https://github.com/create-dmg/create-dmg) - Shell script to build fancy DMGs.
+- [Mach-O learning tool](https://github.com/nico/lssym) - Toy program to learn more about the mach-o file format.
+- [Popover](https://github.com/iSapozhnik/Popover) - Custom macOS Popover.
+- [Reverse Engineering on macOS](https://github.com/steven-michaud/reverse-engineering-on-osx)
+- [Virtualization.framework tool (vftool)](https://github.com/evansm7/vftool) - Runs Linux virtual machines in macOS. ([HN](https://news.ycombinator.com/item?id=25382529))
+- [macOS Setup Guide](https://sourabhbajaj.com/mac-setup/) ([Code](https://github.com/sb2nov/mac-setup))

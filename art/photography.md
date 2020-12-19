@@ -4,9 +4,11 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 
 ## Interesting cameras
 
+- [Leica Q2](https://us.leica-camera.com/Photography/Leica-Q/Leica-Q2)
+- [Leica M10P](https://www.nivo-schweitzer.nl/leica-20021-m10-p-body-black-chrome-finish/p23608)
 - [Canon EOS 5D Mark IV](https://www.canon.com.cy/cameras/eos-5d-mark-iv/)
 - [Sony Alpha a7 III Mirrorless](https://www.bhphotovideo.com/c/product/1394217-REG/sony_ilce_7m3_alpha_a7_iii_mirrorless.html)
-- [Leica M10P](https://www.nivo-schweitzer.nl/leica-20021-m10-p-body-black-chrome-finish/p23608)
+- [Pentax 67](https://www.reddit.com/search?q=Pentax%2067&sort=relevance&t=all)
 
 ## Presets
 
@@ -19,6 +21,7 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Top 25 Landscape Photographers of 2017](https://www.capturelandscapes.com/top-25-landscape-photographers-of-2017/)
 - [Abstract Iceland From Above By Zack Seckler](https://www.ignant.com/2016/02/01/abstract-iceland-from-above-by-zack-seckler/)
 - [Unsplash](https://unsplash.com) - Beautiful, free photos.
+- [Pexels](https://www.pexels.com/) - Free stock photos.
 - [Skuawk](http://skuawk.com) - Public domain photos.
 - [Beautiful images of Mars](https://www.uahirise.org/catalog/index.php?page=1)
 - [Artsy: Photography](https://www.artsy.net/gene/photography)
@@ -36,7 +39,7 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Inside the iPhone 11 Camera, Part 1: A Completely New Camera (2019)](https://blog.halide.cam/inside-the-iphone-11-camera-part-1-a-completely-new-camera-28ea5d091071)
 - [Leica Q2 Review](https://www.needoptic.com/leica-q2-review-2019)
 - [Death to Stock](https://deathtothestockphoto.com/) - Artist Owned Co-op that provides you with the most authentic stock photos and videos.
-- [2019 Photomicrography Competition](https://www.nikonsmallworld.com/galleries/2019-photomicrography-competition)
+- [Nikon Small World Competition](https://www.nikonsmallworld.com/galleries/photomicrography-competition) ([HN](https://news.ycombinator.com/item?id=24796570))
 - [Beautiful buildings in architecture photography prize – in pictures (2020)](https://www.theguardian.com/artanddesign/gallery/2020/jan/28/beautiful-buildings-in-architecture-photography-prize-in-pictures)
 - [PhotoPrism](https://github.com/photoprism/photoprism) - Server-based application for browsing, organizing and sharing your personal photo collection.
 - [Reddit multi part photography class](https://www.reddit.com/r/photoclass/)
@@ -49,7 +52,7 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Scenius Gallery](https://www.sceniusgallery.com/)
 - [Using SQL to find my best photo of a pelican according to Apple Photos (2020)](https://simonwillison.net/2020/May/21/dogsheep-photos/) ([Tweet](https://twitter.com/simonw/status/1263550178134376448)) ([HN](https://news.ycombinator.com/item?id=23271053))
 - [OSXPhotos](https://github.com/RhetTbull/osxphotos) - Provides the ability to interact with and query Apple's Photos.app library database on MacOS.
-- [Photopea](https://www.photopea.com/) - Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures.
+- [Photopea](https://www.photopea.com/) - Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures. ([Manual](https://www.photopea.com/learn/)) ([AMA with creator](https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is/))
 - [Photograph what makes you Happy (Ignore the Labelmakers and Gatekeepers) (2020)](https://www.youtube.com/watch?v=ZJGZxzH_ZpU)
 - [Sean Tucker's photography learning playlists](https://www.youtube.com/user/seantuckermerge/playlists)
 - [Lobsters: How do you organize your photos? (2020)](https://lobste.rs/s/dmsavh/how_do_you_organize_your_photos)
@@ -63,3 +66,28 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [HN: Olympus quits camera business after 84 years (2020)](https://news.ycombinator.com/item?id=23644253)
 - [Photography Workflow (2020)](https://simonsarris.substack.com/p/photography-workflow)
 - [Reverse engineering a camera protocol for fun and profit (2020)](https://www.thirtythreeforty.net/posts/2020/05/hacking-reolink-cameras-for-fun-and-profit/) ([HN](https://news.ycombinator.com/item?id=23855884))
+- [What makes a picture good?](https://phillipreeve.net/blog/what-makes-a-picture-good/) ([HN](https://news.ycombinator.com/item?id=23861090))
+- [Manual Photographers Series](https://phillipreeve.net/blog/photography/)
+- [Whats the best photography related advice you have or heard from someone? (2020)](https://www.reddit.com/r/photography/comments/hsufjj/whats_the_best_photography_related_advice_you/)
+- [ReidReviews](https://www.reidreviews.com/)
+- [The surreal art of ‘unnatural lighting’ (2020)](https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/)
+- [Thoughts on cameras in the age of excellent cell phone photos (2020)](https://whatever.scalzi.com/2020/05/05/thoughts-on-cameras-in-the-age-of-excellent-cell-phone-photos/) ([HN](https://news.ycombinator.com/item?id=23389437))
+- [Accidental Cameras](http://people.csail.mit.edu/torralba/research/accidentalcameras/) ([HN](https://news.ycombinator.com/item?id=24352783))
+- [Working with film](https://royniang.com/exposing_film.html)
+- [Wabi-sabi: When BAD PHOTOS are BETTER (2019)](https://www.youtube.com/watch?v=gyCumQ78ZoI)
+- [Jamie Windsor YouTube](https://www.youtube.com/jamiewindsor)
+- [What storage platforms do you use to for pictures or storing family stuff (2020)](https://lobste.rs/s/aa7mkn/what_storage_platforms_do_you_use_for)
+- [Notes on Exposure](https://bismuth.garden/exposure)
+- [Pixelfed](https://pixelfed.social/) - Image sharing platform, an ethical alternative to centralized platforms.
+- [Computational Photography course](https://www.udacity.com/course/computational-photography--ud955)
+- [ImageNet](http://www.image-net.org/) - Image database organized according to the WordNet hierarchy.
+- [Bibliogram](https://bibliogram.art/) - Website that takes data from Instagram's public profile views and puts it into a friendlier page that loads faster, gives downloadable images, eliminates ads, generates RSS feeds, and doesn't urge you to sign up. ([Code](https://sr.ht/~cadence/bibliogram/))
+- [Close-up Photographer of the Year](https://www.cupoty.com/) ([2020 Winners](https://www.cupoty.com/winners-02)) ([HN](https://news.ycombinator.com/item?id=25061678))
+- [InstantSave](https://instantsave.app/) - Instagram photo, video, IGTV, and Reels downloader online.
+- [Letterbox](https://github.com/tj/letterbox) - Tiny Go program to batch-process letter-boxing of photographs.
+- [Isolate](https://github.com/seenaburns/isolate) - Lightweight tool for viewing and organizing your art reference and inspiration with ease.
+- [Cameras and Lenses (2020)](https://ciechanow.ski/cameras-and-lenses/) ([HN](https://news.ycombinator.com/item?id=25357315))
+- [Дима Малей про фотографию, веру и искушение творческих натур (2020)](https://www.youtube.com/watch?v=fDeq422sXJc)
+- [Understanding ProRAW (2020)](https://blog.halide.cam/understanding-proraw-4eed556d4c54) ([HN](https://news.ycombinator.com/item?id=25433047))
+- [Ultra High Resolution Photos of Snowflakes](https://smosa.com/cool-ultra-high-resolution-photos-of-snowflakes-because-science/) ([HN](https://news.ycombinator.com/item?id=25414579))
+- [The best science images of 2020](https://www.nature.com/immersive/d41586-020-03436-5/index.html)

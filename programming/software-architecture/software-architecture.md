@@ -4,12 +4,20 @@
 
 ### Other
 
-- [Keybase](https://github.com/keybase/client) - Go Library, Client, Service, OS X, iOS, Android, Electron.
 - [Things Network Stack for LoRaWAN V3](https://github.com/TheThingsNetwork/lorawan-stack) - Lovely contribution + github & git flow + good docs.
+- [Deno Website](https://github.com/denoland/deno_website2)
+- [gh CLI](https://github.com/cli/cli)
 
 ## Notes
 
 - [Two traits of a good architecture: 1. It should nudge you to do things in a scalable way by default. You should only pay for what you use. 2. When something gets slow, there should be a straightforward way to fix it.](https://twitter.com/dan_abramov/status/1251864460526006273)
+- [Tips to build a better software system](https://news.ycombinator.com/item?id=24388753)
+  1. Incremental improvement - implement a small version that works in a basic use case, then extend. Don't build it all in once.
+  2. Reuse code. Don't reinvent the wheel
+  3. Five whys - get to the root cause of why something should be done by asking yourself why many times. Understand the problem well before acting.
+  4. Keep the solution as simple as possible. Minimization.
+  5. Perfection can't be reached, so don't aim there. Be as good as necessary.
+  6. Postpone complexity and introduce it only when really needed.
 
 ## Links
 
@@ -32,7 +40,7 @@
 - [The Cloud (2019)](https://txt.black/~jack/cloud.txt) ([HN](https://news.ycombinator.com/item?id=20639359))
 - [Ask HN: Which are the best resources to learn software architecture? (2020)](https://news.ycombinator.com/item?id=22202769)
 - [Cosmic Python](https://www.cosmicpython.com/) - Simple patterns for building complex applications. ([Code](https://github.com/cosmicpython/book))
-- [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
+- [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/) ([Lab Assignments](http://csapp.cs.cmu.edu/3e/labs.html))
 - [Introduction to Computer Systems course (2019)](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f19/www/schedule.html)
 - [Diagrams](https://diagrams.mingrammer.com/) - Lets you draw the cloud system architecture in Python code. ([Code](https://github.com/mingrammer/diagrams)) ([HN](https://news.ycombinator.com/item?id=23154846))
 - [Scaling to 100k Users (2020)](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
@@ -45,12 +53,12 @@
 - [Colloquium on Computer Systems videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
 - [Data-Oriented Architecture (2020)](https://blog.eyas.sh/2020/03/data-oriented-architecture/) ([HN](https://news.ycombinator.com/item?id=22519974))
 - [Ready for changes with Hexagonal Architecture (2020)](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749) ([HN](https://news.ycombinator.com/item?id=22540610))
-- [List of Post-mortems](https://github.com/danluu/post-mortems)
+- [List of Post-mortems](https://github.com/danluu/post-mortems) ([HN](https://news.ycombinator.com/item?id=24743965))
 - [Simplify Full-Stack Development with a Unified Architecture (2019)](https://liaison.dev/blog/articles/Simplify-Full-Stack-Development-with-a-Unified-Architecture-187fr1)
 - [System Design Interview Questions – Concepts You Should Know (2020)](https://www.freecodecamp.org/news/systems-design-for-interviews/)
 - [The Twitter stack (2013)](https://blog.oskarsson.nu/post/40196324612/the-twitter-stack)
 - [Data Oriented Design Resources](https://github.com/dbartolini/data-oriented-design)
-- [Building Secure and Reliable Systems (2020)](https://landing.google.com/sre/books/) - Best practices for designing, implementing & maintaining systems. ([HN](https://news.ycombinator.com/item?id=22815453))
+- [Building Secure and Reliable Systems (2020)](https://landing.google.com/sre/books/) - Best practices for designing, implementing & maintaining systems. ([HN](https://news.ycombinator.com/item?id=22815453)) ([PDF](https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf))
 - [Systems that defy detailed understanding (2020)](https://blog.nelhage.com/post/systems-that-defy-understanding/) ([HN](https://news.ycombinator.com/item?id=22833601))
 - [Functional Design Patterns - Scott Wlaschin (2017)](https://www.youtube.com/watch?v=srQt1NAHYC0)
 - [Combining event sourcing and stateful systems (2020)](https://stitcher.io/blog/combining-event-sourcing-and-stateful-systems)
@@ -58,8 +66,8 @@
 - [Increment](https://increment.com/) - Print and digital magazine about how teams build and operate software systems at scale..
 - [Ask HN: I've been promoted to Architect. What do I need to learn/do to excel? (2020)](https://news.ycombinator.com/item?id=23152092)
 - [Drawing good architecture diagrams (2020)](https://www.ncsc.gov.uk/blog-post/drawing-good-architecture-diagrams)
-- [Hints and Principles for Computer System Design (2019)](https://www.microsoft.com/en-us/research/publication/hints-and-principles-for-computer-system-design-3/)
-- [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
+- [Hints and Principles for Computer System Design (2019)](https://www.microsoft.com/en-us/research/publication/hints-and-principles-for-computer-system-design-3/) ([Updated](https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf))
+- [The Architecture of Open Source Applications](https://aosabook.org/en/index.html) ([HN](https://news.ycombinator.com/item?id=24332485))
 - [What your developers are using: the application stack](https://technically.dev/posts/what-your-developers-are-using.html)
 - [Ladders and Tar Pits](https://yak.sh/ladders/) - Using concepts from the papers “Out of the Tar Pit” and “Ladder of Abstraction”, we’ll examine what it means to build robust abstractions.
 - [3factor app](https://3factor.app/) - Architecture pattern for modern full stack apps. ([Code](https://github.com/hasura/3factor))
@@ -73,3 +81,33 @@
 - [A terrible, horrible, no-good, bad day at Slack (2020)](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82) ([HN](https://news.ycombinator.com/item?id=23755843))
 - [LOOPY](https://ncase.me/loopy/) - Tool for thinking in systems. ([HN](https://news.ycombinator.com/item?id=23765297))
 - [Systems Performance: Enterprise and the Cloud book (2020)](http://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
+- [People of Systems & Architecture: James Mickens (2020)](https://www.sigops.org/2020/people-of-systems-architecture-james-mickens/)
+- [Systems design for advanced beginners (2020)](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/) ([HN](https://news.ycombinator.com/item?id=23904000))
+- [Awesome System Design](https://github.com/madd86/awesome-system-design)
+- [The System Design Manual](https://systemdesignmanual.com/) - Learn how to design, build and operate large scale distributed systems.
+- [Organizing architectural katas (2020)](https://nelis.boucke.be/post/architectural-katas/)
+- [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/introduction.html) - Use it to create better and faster (IT)Architectures. OSS Tools, templates and more for solving IT problems using real open architecture tools that work. ([Code](https://github.com/nocomplexity/ArchitecturePlaybook))
+- [Multi-tenant Architectures (2020)](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html) ([HN](https://news.ycombinator.com/item?id=24324142))
+- [Principles for better design](https://reflexio.debec.eu/principles-for-better-design) ([HN](https://news.ycombinator.com/item?id=24388753))
+- [Clouddraw](https://clouddraw.app/) - Create cloud architecture diagrams in minutes.
+- [Introduction to the Modeling and Analysis of Complex Systems (2015)](https://textbooks.opensuny.org/introduction-to-the-modeling-and-analysis-of-complex-systems/)
+- [Performance Engineering of Software Systems MIT course (2018)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-videos/index.htm)
+- [SRE Classroom: exercises for non-abstract large systems design](https://cloud.google.com/blog/products/devops-sre/join-sre-classroom-nalsd-workshops)
+- [SRE Classroom: Distributed PubSub](https://landing.google.com/sre/resources/practicesandprocesses/sre-classroom/)
+- [Monolith -> Services: A Sketchy Approach (2020)](https://medium.com/@kentbeck_7670/monolith-services-theory-practice-617e4546a879) ([HN](https://news.ycombinator.com/item?id=24690947))
+- [Testing Hexagonal Architecture (2020)](https://blog.sulami.xyz/posts/testing-hexagonal-architecture/)
+- [Ask HN: What are good resources to learn system design? (2020)](https://news.ycombinator.com/item?id=24762734)
+- [Modern-Day Architecture Design Patterns for Software Professionals (2020)](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977) ([HN](https://news.ycombinator.com/item?id=24762637))
+- [A Modern Reddit Frontend (2016)](http://thejacklawson.com/2016/09/reddit-frontend/index.html)
+- [What's your tech stack? (2020)](https://twitter.com/IndieHackers/status/1318199727146622977)
+- [The Importance of End-to-End Thinking in System Design (2020)](https://www.sigarch.org/the-importance-of-end-to-end-thinking-in-system-design/) ([HN](https://news.ycombinator.com/item?id=24849216))
+- [System design for Twitter (2018)](https://medium.com/@narengowda/system-design-for-twitter-e737284afc95)
+- [Unikernel and Immutable Infrastructures](https://github.com/cetic/unikernels)
+- [Backend development best practices](https://github.com/futurice/backend-best-practices)
+- [Systems and failure reading list](https://github.com/lorin/systems-reading)
+- [Real-world SRE: What not FAANG companies are doing (2020)](https://sreteams.substack.com/p/hash) ([HN](https://news.ycombinator.com/item?id=24929710))
+- [Make Your Back End Layer as Thin as Possible (2020)](https://kartick.substack.com/p/make-your-backend-layer-as-thin-as) ([HN](https://news.ycombinator.com/item?id=25101820))
+- [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+- [Solutions Architecture Patterns](https://github.com/chanakaudaya/solutions-architecture-patterns) - Contains solution architecture patterns which can be reused to build enterprise software systems. ([Web](https://chanakaudaya.github.io/solutions-architecture-patterns/))
+- [Scaling Cache Infrastructure at Pinterest (2020)](https://medium.com/pinterest-engineering/scaling-cache-infrastructure-at-pinterest-422d6d294ece)
+- [Clean architecture: Domain-driven design (2020)](https://ddimitrov.dev/2020/12/13/domain-driven-design-and-clean-architecture/)

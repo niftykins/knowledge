@@ -4,6 +4,7 @@
 
 - [Store](https://github.com/fabiospampinato/store) - Beautifully-simple framework-agnostic modern state management library.
 - [React Tracked](https://github.com/dai-shi/react-tracked) - Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle.
+- [Jotai](https://github.com/react-spring/jotai) - Primitive, flexible state management for React.
 
 ## Other
 
@@ -22,15 +23,15 @@
 - [React Navigation Hooks](https://github.com/react-navigation/hooks) - React hooks for convenient react-navigation use.
 - [react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [Hooks.Guide](https://github.com/Raathigesh/hooks.guide) - Collection of React hooks curated by the community.
-- [SWR](https://github.com/zeit/swr) - React Hooks library for remote data fetching. ([Docs](https://swr.now.sh/)) ([Preview](https://codehike.org/demo/swr))
+- [SWR](https://github.com/vercel/swr) - React Hooks library for remote data fetching. ([Docs](https://swr.now.sh/)) ([Preview](https://codehike.org/demo/swr))
 - [react-zen](https://github.com/jamesknelson/react-zen) - React utilities for working with APIs.
-- [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
+- [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React. ([Essentials course](https://learn.tanstack.com/p/react-query-essentials))
 - [react-hooks-fetch](https://github.com/dai-shi/react-hooks-fetch) - React custom hook for data fetching with Suspense. ([Article](https://blog.axlight.com/posts/developing-a-react-library-for-suspense-for-data-fetching-in-concurrent-mode/))
 - [react-suspense-fetch](https://github.com/dai-shi/react-suspense-fetch) - React Suspense Render-as-You-Fetch pattern for REST APIs.
 - [useDebounce](https://github.com/xnimorz/use-debounce) - Debounce hook for react.
 - [use-methods](https://github.com/pelotom/use-methods) - Simpler way to useReducers.
 - [@umijs/hooks](https://github.com/umijs/hooks) - React Hooks Library.
-- [Collection of beautiful (and hopefully useful) React hooks to speed-up your components and hooks development](https://github.com/antonioru/beautiful-react-hooks)
+- [Beautiful React Hooks](https://github.com/beautifulinteractions/beautiful-react-hooks) - React hooks to speed-up your components and hooks development.
 - [Collection of React Hooks](https://nikgraf.github.io/react-hooks/) ([Code](https://github.com/nikgraf/react-hooks))
 - [use-what-changed](https://github.com/simbathesailor/use-what-changed) - Simple hook to debug major Reactjs hooks and custom hooks.
 - [use-immer](https://github.com/immerjs/use-immer) - Use immer to drive state with a React hooks.
@@ -54,6 +55,24 @@
 - [Little State Machine](https://github.com/bluebill1049/little-state-machine) - React custom hook for persist state management.
 - [react-layout-effect](https://github.com/alloc/react-layout-effect) - useLayoutEffect with SSR fallback and React Native support.
 - [use-resize-observer](https://github.com/ZeeCoder/use-resize-observer) - React hook that allows you to use a ResizeObserver to measure an element's size.
+- [Focus Layers](https://github.com/discord/focus-layers) - Tiny React hooks for isolating focus within subsections of the DOM.
+- [React-async-hook](https://github.com/slorber/react-async-hook) - React hook to handle any async operation in React components.
+- [use-constant](https://github.com/Andarist/use-constant) - React hook for creating a value exactly once. useMemo doesn't give this guarantee unfortunately.
+- [use-asset](https://github.com/pmndrs/use-asset) - Data fetching strategy for React Suspense. ([Tweet](https://twitter.com/0xca0a/status/1315574053307133952))
+- [use-state-with-deps](https://github.com/peterjuras/use-state-with-deps) - React hook to use state and reset with dependencies.
+- [react-time-sync](https://github.com/peterjuras/react-time-sync) - React library to synchronize timers across an application.
+- [react-adaptive-hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks) - Deliver experiences best suited to a user's device and network constraints.
+- [React UseGesture](https://github.com/pmndrs/react-use-gesture) - Hook that lets you bind richer mouse and touch events to any component or view.
+- [react-hook](https://github.com/jaredLunde/react-hook) - Strongly typed React hooks for function components.
+- [Hoofd](https://github.com/JoviDeCroock/hoofd) - Hooks to populate the HTML head.
+- [useQueryString](https://github.com/trevorblades/use-query-string) - React hook that serializes state into the URL query string.
+- [history-reducer](https://github.com/marcolink/history-reducer) - Simple react hook to create state history based on react useReducer.
+- [Object Hooks](https://github.com/shiftyp/objects) - React Hooks for Mutable State.
+- [useDebouncy](https://github.com/eavam/use-debouncy) - Small (180 bytes) debounce effect hook for React with TypeScript support.
+- [useComments](https://github.com/beerose/use-comments) - React hook to effortlessly add a comment section to your website, and start the discussion on your content.
+- [react-delta](https://github.com/malerba118/react-delta) - Experimental effects API for react.
+- [Compose react refs](https://github.com/seznam/compose-react-refs) - Small utility that composes two or more react refs into a ref callback.
+- [react-laag](https://github.com/everweij/react-laag) - Hooks to build things like tooltips, dropdown menu's and popovers in React. ([Web](https://www.react-laag.com/))
 
 ## Notes
 
@@ -84,3 +103,10 @@
 - [A Critique of React Hooks (2020)](https://dillonshook.com/a-critique-of-react-hooks/) ([HN](https://news.ycombinator.com/item?id=22995928))
 - [Shared Hook State with SWR (2020)](https://paco.im/blog/shared-hook-state-with-swr)
 - [Death by a thousand useCallbacks (2020)](https://royi-codes.now.sh/thousand-usecallbacks/)
+- [React with Hooks](https://reactwithhooks.netlify.app/) - React documentation with Hooks-based explanations and examples.
+- [React Hooks - EpicReact workshop](https://github.com/kentcdodds/react-hooks)
+- [proper useState use](https://twitter.com/0xca0a/status/1314326386555924480)
+- [A Simple Explanation of React.useEffect() (2020)](https://dmitripavlutin.com/react-useeffect-explanation/)
+- [Polling in React using the useInterval Custom Hook (2020)](https://blog.asayer.io/polling-in-react-using-the-useinterval-custom-hook)
+- [Deep dive: How do React hooks really work? (2019)](https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/)
+- [React's UseRef Deep Dive](https://www.giovannibenussi.com/blog/a-complete-guide-to-useref/) ([HN](https://news.ycombinator.com/item?id=25452146))

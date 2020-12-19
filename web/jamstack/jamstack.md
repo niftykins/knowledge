@@ -12,3 +12,8 @@
 - [JAMStack Virtual Conf](https://jamstackconf.com/virtual/)
 - [Build a Jamstack Merch Store course](https://piccalil.li/course/build-a-jamstack-merch-store/)
 - [Do I Need a CDN for My Personal Website? (2020)](https://blr.design/blog/cdn-for-fast-static-website/)
+- [Netlify, JAMStack, and Next.js - a true Gatsby alternative? (2020)](https://www.youtube.com/watch?list=PLn5EpEMtxTCmLsbLgaN3djvEkRdp-YmlE&v=mUF7-lkTI4Q)
+- [Coding the Jamstack missing parts: databases, crons & background jobs (2020)](https://dev.to/vvo/coding-the-jamstack-missing-parts-databases-crons-background-jobs-1bpj)
+- [Jamstack Handbook](https://jamstackhandbook.com/)
+- [On Mullenweg and the Jamstack - Regression or Future? (2020)](https://www.netlify.com/blog/2020/09/15/on-mullenweg-and-the-jamstack-regression-or-future/)
+- [JAMstack website code](https://github.com/jamstack/jamstack.org)

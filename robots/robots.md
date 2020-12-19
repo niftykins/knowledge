@@ -22,3 +22,38 @@
 - [Open Robotics](https://www.openrobotics.org/) - Offer robotics R&D, consulting, custom engineering, and application development services to industry and government.
 - [Investing in Robotics with YC Founder Trevor Blackwell (2020)](https://www.youtube.com/watch?v=fdxQ_tSBjMY) ([HN](https://news.ycombinator.com/item?id=23760671))
 - [A beginner’s guide to robot programming with Python (2020)](https://thenextweb.com/syndication/2020/07/11/a-beginners-guide-to-robot-programming-with-python/)
+- [Sergey Levine's research](http://people.eecs.berkeley.edu/~svlevine/)
+- [S-RL Toolbox](https://github.com/araffin/robotics-rl-srl) - Reinforcement Learning (RL) and State Representation Learning (SRL) for Robotics.
+- [Open problems in Robotics (2020)](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/) ([HN](https://news.ycombinator.com/item?id=24207424))
+- [Robots I Love (2020)](https://www.charlieharrington.com/robots-i-love)
+- [Multiply Labs](https://multiplylabs.com/) - Personalized medicine. Enabled by robotics.
+- [Guided Curriculum Learning for Walking Over Complex Terrain (2020)](https://arxiv.org/abs/2010.03848)
+- [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms. ([Web](https://atsushisakai.github.io/PythonRobotics/))
+- [Obstacle avoiding robot made with the avr-hal crate, all in Rust](https://github.com/Dajamante/avr-car)
+- [Agility Robotics](https://www.agilityrobotics.com/) ([The Next Steps (2020)](https://www.youtube.com/watch?v=e0AhxwAKL7s))
+- [Vicarious](https://www.vicarious.com/) - Intelligent Robotics for the Next Age of Manufacturing.
+- [How do you Architect your Robots? State of the Practice and Guidelines for ROS-based System](https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf) ([Code](https://github.com/S2-group/icse-seip-2020-replication-package))
+- [Multiprotocol TX Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) - 2.4GHz transmitter module which enables almost any transmitter to control many different receivers and models, including many popular helicopters, planes, quadcopters, and miniquads.
+- [Robotkernel](https://github.com/robots-from-jupyter/robotkernel) - Robot Framework IPython kernel for Jupyter Notebook and JupyterLab.
+- [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. ([Web](https://simtk.org/projects/simbody))
+- [OpenSim Core](https://github.com/opensim-org/opensim-core) - Software that lets users develop models of musculoskeletal structures and create dynamic simulations of movement.
+- [PyDy](https://github.com/pydy/pydy) - Multibody dynamics tool kit.
+- [yeadon](https://github.com/chrisdembia/yeadon) - Human inertia model developed by Fred Yeadon in 1990.
+- [Resonance](https://github.com/moorepants/resonance) - Learning Mechanical Vibration Engineering Through Computation.
+- [Hindsight Experience Replay (HER) in PyTorch](https://github.com/TianhongDai/hindsight-experience-replay)
+- [How to build robots at home (2020)](https://marksaroufim.medium.com/how-to-build-robots-at-home-a9371e3b2da9)
+- [Stanford AI Lab Papers and Talks at CoRL 2020](https://ai.stanford.edu/blog/corl-2020/)
+- [droidlet](https://github.com/facebookresearch/droidlet) - High-level robotics-agent and platform.
+- [Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python)
+- [Robot Framework](https://robotframework.org/) - Generic open source automation framework. It can be used for test automation and robotic process automation (RPA). ([Code](https://github.com/robotframework/robotframework))
+- [$100 robot kit running ROS2 and Navigation2 (2020)](https://blog.hadabot.com/ros2-nav2-go-to-goal-low-cost-robot-kit.html) ([HN](https://news.ycombinator.com/item?id=25389266))
+- [Probabilistic Robotics](https://github.com/liulinbo/slam/blob/master/Probabilistic%20Robotics%20_Sebastian%20Thrun%20et%20al..pdf)
+- [Springer Handbook of Robotics](https://link.springer.com/book/10.1007/978-3-319-32552-1)
+- [Planning Algorithms / Motion Planning by Steve Lavalle](http://lavalle.pl/planning/)
+- [Robotics - Modelling, Planning and Control by Bruno Siciliano](https://www.springer.com/gp/book/9781846286414)
+- [Robotic Manipulation (2020)](http://manipulation.csail.mit.edu/)
+- [Assistive Gym](https://github.com/Healthcare-Robotics/assistive-gym) - Physics-based simulation framework for physical human-robot interaction and robotic assistance.
+- [Caesar.jl](https://github.com/JuliaRobotics/Caesar.jl) - Robot toolkit: Towards non-parametric and parametric navigation solutions.
+- [JuliaRobotics](https://juliarobotics.org/) - Robotics powered by Julia. ([GitHub](https://github.com/JuliaRobotics))
+- [Robogym](https://github.com/openai/robogym) - Robotics Gym Environments.
+- [Mathematics Behind Robotics (2020)](https://medium.com/datadriveninvestor/mathematics-behind-robotics-9d1790b33828)

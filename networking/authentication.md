@@ -62,3 +62,31 @@
 - [The Future of Online Identity is Decentralized (2020)](https://yarmo.eu/post/future-online-identity-decentralized) ([Lobsters](https://lobste.rs/s/ckalve/future_online_identity_is_decentralized)) ([HN](https://news.ycombinator.com/item?id=23811568))
 - [Everything You Need to Know About OAuth (2.0) (2020)](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/) ([HN](https://news.ycombinator.com/item?id=23851870))
 - [OAuth 2.0 and OpenID Connect (in plain English) (2018)](https://www.youtube.com/watch?v=996OiexHze0)
+- [Best practices for password hashing and storage](https://tools.ietf.org/html/draft-ietf-kitten-password-storage-00)
+- [Xkit](https://xkit.co/) - Build OAuth integrations in minutes. ([HN](https://news.ycombinator.com/item?id=24121290))
+- [Galileo's Proposed Authentication Algorithm (2020)](https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/)
+- [Let's build the GitHub authorization model (2020)](https://www.osohq.com/post/building-the-github-authorization-model-using-oso)
+- [oso](https://www.osohq.com/) - Open source policy engine for authorization that’s embedded in your application. ([Code](https://github.com/osohq/oso)) ([GitHub](https://github.com/osohq))
+- [I Actively Discourage Online Tooling Like Jwt.io and Online JSON Validators (2020)](https://www.jvt.me/posts/2020/09/01/against-online-tooling/) ([Lobsters](https://lobste.rs/s/jxlr73/why_i_actively_discourage_online_tooling)) ([HN](https://news.ycombinator.com/item?id=24352360))
+- [ORY Hydra](https://github.com/ory/hydra) - Hardened, OpenID Certified OAuth 2.0 Server and OpenID Connect Provider optimized for low-latency, high throughput, and low resource consumption.
+- [The different kinds of authentication protocols](https://www.devever.net/~hl/auth)
+- [gologin](https://github.com/dghubble/gologin) - Go login handlers for authentication providers (OAuth1, OAuth2).
+- [What's in a JWT (Json Web Token)? (2020)](https://loige.co/whats-in-a-jwt/)
+- [Gazepass](https://gazepass.com/) - Passwordless Authentication API.
+- [dex](https://github.com/dexidp/dex) - Federated OpenID Connect provider.
+- [Aperture](https://github.com/lightninglabs/aperture) - HTTP 402 Lightning Service Authentication Token Reverse Proxy.
+- [Kerbrute](https://github.com/ropnop/kerbrute) - Quickly bruteforce and enumerate valid Active Directory accounts through Kerberos Pre-Authentication.
+- [OAuth 2.0 Simplified](https://oauth2simplified.com/) - Guide to building OAuth 2.0 servers.
+- [Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Generates 2-Step Verification codes in your browser.
+- [WebAuthn.io](https://webauthn.io/) - Demo of the WebAuthn specification. ([Code](https://github.com/duo-labs/webauthn.io))
+- [Face ID and Touch ID for the Web (2020)]https://webkit.org/blog/11312/meet-face-id-and-touch-id-for-the-web/() ([HN](https://news.ycombinator.com/item?id=24829565))
+- [OAuth 3](https://oauth.net/3/) - In-progress effort to redesign OAuth from the ground up. ([HN](https://news.ycombinator.com/item?id=24855750))
+- [Portier](https://portier.github.io/) - Email-based, passwordless authentication service. ([Code](https://github.com/portier/portier.github.io))
+- [useAuth](https://github.com/Swizec/useAuth) - Simplest way to add authentication to your React app.
+- [Consent Management: What You Need to Understand (2020)](https://auth0.com/blog/what-you-need-to-understand-about-consent-management/)
+- [OAuth2: A Theatrical Introduction (2020)](https://tech.lightspeedhq.com/oauth2-a-theatrical-introduction/)
+- [JWT authorization in a microservices gateway (2020)](https://fusionauth.io/blog/2020/11/12/jwt-authorization-microservices-gateway/)
+- [ORY Kratos](https://github.com/ory/kratos) - Cloud native Identity and User Management System. No longer necessary to implement a User Login process.
+- [SSSD](https://github.com/SSSD/sssd) - Daemon to manage identity, authentication and authorization for centrally-managed systems. ([Docs](https://sssd.io/))
+- [OAuth is Not User Authorization (2020)](https://www.scottbrady91.com/OAuth/OAuth-is-Not-User-Authorization)
+- [otplib](https://github.com/yeojz/otplib) - Time-based (TOTP) and HMAC-based (HOTP) One-Time Password library. ([Web](https://otplib.yeojz.dev/))

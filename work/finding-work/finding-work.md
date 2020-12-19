@@ -28,6 +28,8 @@ Never let impostor syndrome or anything else stop you from applying to your drea
 
 My other favorite way of finding interesting work opportunities is meeting and interacting with people personally through various events and getting to know what they're building.
 
+I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f4225788b144da49a0c2ee37576507c).
+
 ## Notes
 
 - Sort by newest jobs in websites and check regularly and apply then.
@@ -48,7 +50,7 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [The Career Advice I Wish I Had](https://welearncode.com/career-advice/)
 - [Otta](https://otta.com/) - Discover the most relevant roles for you at all of London's best startups.
 - [Rocket List](https://rocketlist.co.uk/) - Curated list of the best fast-growing companies in London to work for. Built for job-seekers.
-- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - List of companies (or teams) that don't do "whiteboard" interviews.
+- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - List of companies (or teams) that don't do "whiteboard" interviews. ([HN](https://news.ycombinator.com/item?id=23981795))
 - [Placement](https://placement.com/) - Get a great job in a new city.
 - [Tell HN: I used to be homeless and want to work as a software developer (2019)](https://news.ycombinator.com/item?id=21880179)
 - [Thoughts on Recruiting (2019)](https://markmcgranaghan.com/recruiting)
@@ -70,3 +72,21 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [Advice on applying for internships](https://rosiecampbell.me/on-applying-for-internships)
 - [Advice on career decisions](https://rosiecampbell.me/on-career-decisions)
 - [Increase Your Chances Of Getting Hired As A Code Newbie (2020)](https://catalins.tech/increase-your-chances-of-getting-hired-as-a-code-newbie)
+- [How do you measure career/personal growth? (2020)](https://lobste.rs/s/bkyxww/how_do_you_measure_career_personal_growth)
+- [How popular media portrays the employability of older software developers](https://arxiv.org/abs/2004.05847) ([HN](https://news.ycombinator.com/item?id=23964539))
+- [Ask HN: Is all of FAANG like this? (2020)](https://news.ycombinator.com/item?id=23917131)
+- [A few things I wish I knew before I started working as a software engineer](https://shubheksha.com/posts/2019/06/a-few-things-i-wish-i-knew-before-i-started-working-as-a-software-engineer/)
+- [StaffEng](https://staffeng.com/) - Stories of reaching Staff-plus engineering roles.
+- [Laid Off, Now What? (2020)](https://bharathpbhat.github.io/2020/09/19/laid-off-now-what.html) ([HN](https://news.ycombinator.com/item?id=24534685))
+- [Small Tech](https://scattered-thoughts.net/writing/small-tech/) - Should you join a big company or start a startup? ([HN](https://news.ycombinator.com/item?id=24553085))
+- [Guide to the Senior Engineer Job Search (2020)](https://twitter.com/stopachka/status/1308766905642123264)
+- [Ask HN: Just lost my job, where to go from here? (2020)](https://news.ycombinator.com/item?id=24617522)
+- [What I learned from hiring hundreds of engineers can help you land your next job (2020)](https://stackoverflow.blog/2020/09/23/hiring-jobs-candidates-software-coding-programmers-teresa-dietrich/)
+- [Deciding to switch companies (2020)](https://lethain.com/deciding-to-switch/)
+- [HerJobs](https://herjobs.co/) - Hire female talent from emerging economies.
+- [Tips on getting a job with Twitter](https://twitter.com/sehurlburt/status/923830594240372736)
+- [YC Work at Startup](https://www.workatastartup.com/)
+- [LinkedIn Job Finder Bot](https://github.com/eilonmore/job-finder) - NodeJS LinkedIn bot that connects to people and send messages automatically. ([Article](https://codeburst.io/how-i-nailed-a-job-with-this-nodejs-linkedin-bot-6fcada2afbe1))
+- [Ask HN: Jack-of-all-trades of HN, how do you approach job search? (2020)](https://news.ycombinator.com/item?id=24916016)
+- [Job Search](https://jobsearchi.com/) ([API](https://api.jobsearchi.com/))
+- [Questions to ask before accepting a tech job offer (2020)](https://blog.mironov.live/questions-to-ask-before-accepting-a-tech-job-offer/)

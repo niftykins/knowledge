@@ -36,3 +36,23 @@
 - [Dense vs. Sparse Indexes (2020)](https://yetanotherdevblog.com/dense-vs-sparse-indexes/)
 - [Data Structures and Algorithms Problems](https://www.techiedelight.com/list-of-problems/)
 - [Data Structures & Algorithms I Actually Used Working at Tech Companies (2020)](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/) ([Lobsters](https://lobste.rs/s/n8tyip/data_structures_algorithms_i_actually)) ([HN](https://news.ycombinator.com/item?id=23841491))
+- [Let’s implement a Bloom Filter (2020)](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/) ([HN](https://news.ycombinator.com/item?id=24102617))
+- [Data Structures Part 1: Bulk Data (2019)](https://ourmachinery.com/post/data-structures-part-1-bulk-data/) ([Lobsters](https://lobste.rs/s/t8mrxn/data_structures_part_1_bulk_data))
+- [Data Structures Explained](https://www.freecodecamp.org/news/learn-all-about-data-structures-used-in-computer-science/)
+- [Introduction to Cache-Oblivious Data Structures (2018)](https://rcoh.me/posts/cache-oblivious-datastructures/)
+- [The Daily Coding newsletter](https://thedailycoding.com/) - Master JavaScript and Data Structures.
+- [Lectures Note for Data Structures and Algorithms (2019)](https://www.cs.bham.ac.uk/~jxb/DSA/dsa.pdf)
+- [Mechanically Deriving Binary Tree Iterators with Continuation Defunctionalization (2020)](https://abhinavsarkar.net/posts/continuation-defunctionalization/)
+- [Segment Tree data structure](https://cp-algorithms.com/data_structures/segment_tree.html)
+- [Structure of a binary state tree (2020)](https://medium.com/@gballet/structure-of-a-binary-state-tree-part-1-48c587836d2f)
+- [Introductory data structures and algorithms](https://github.com/sushinoya/fundamentals)
+- [Applying Textbook Data Structures for Real Life Wins (2020)](https://heap.io/blog/engineering/applying-textbook-data-structures-for-real-life-wins) ([HN](https://news.ycombinator.com/item?id=24761105))
+- [Michael Scott — Nonblocking data structures lectures (2020)](https://www.youtube.com/watch?v=9XAx279s7gs) - Nonblocking concurrent data structures are an increasingly valuable tool for shared-memory parallel programming.
+- [Scal](https://github.com/cksystemsgroup/scal) - High-performance multicore-scalable data structures and benchmarks. ([Web](http://scal.cs.uni-salzburg.at/))
+- [Hyperbolic embedding implementations](https://github.com/HazyResearch/hyperbolics)
+- [Morphisms of Computational Constructs](https://github.com/prathyvsh/morphisms-of-computational-structures) - Visual catalogue + story of morphisms displayed across computational structures.
+- [What is key-value store? (build-your-own-x) (2020)](http://djkooks.github.io/build-your-own-kv-store)
+- [Lesser Known but Useful Data Structures](https://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)
+- [Using Bloom filters to efficiently synchronize hash graphs (2020)](https://martin.kleppmann.com/2020/12/02/bloom-filter-hash-graph-sync.html)
+- [Binary Decision Diagrams](https://crypto.stanford.edu/pbc/notes/zdd/) ([HN](https://news.ycombinator.com/item?id=25342922))
+- [3 Steps to Designing Better Data Structures (2020)](https://mochromatic.com/3-steps-to-designing-better-data-structures-in-elixir/)

@@ -13,20 +13,24 @@
 
 ## Servers
 
+- [Hetzner](https://www.hetzner.com/) - Dedicated Root Server, VPS & Hosting. ([Moving To Hetzner Cloud from DigitalOcean](https://figbert.com/posts/moving-to-hetzner-from-digitalocean/)) ([Lobsters](https://lobste.rs/s/anzwio/moving_hetzner_cloud_from_digitalocean))
 - [Prgmr](https://prgmr.com/xen/) - Linux & BSD virtual private servers.
 - [Digital Ocean](https://www.digitalocean.com/)
-- [Scaleway](https://www.scaleway.com/en/) - Cloud instances delivered in seconds with backup, network and security options.
+- [Scaleway](https://www.scaleway.com/en/) - Cloud instances delivered in seconds with backup, network and security options. ([Scaleway cheaper than AWS for VMs](https://twitter.com/jpetazzo/status/1294561330805059585))
 - [Feral Hosting](https://www.feralhosting.com/pricing)
 
 ## Web
 
 - [Netlify](https://www.netlify.com/) - Build, test, and deploy globally with Netlify’s all-in-one platform for modern web projects. ([CLI](https://github.com/netlify/cli))
-- [Vercel](https://vercel.com) - Optimal workflow for frontend teams. All-in-one: Static and JAMstack deployment, Serverless Functions, and Global CDN.
+- [Vercel](https://vercel.com) - Optimal workflow for frontend teams. All-in-one: Static and JAMstack deployment, Serverless Functions, and Global CDN. ([HN](https://news.ycombinator.com/item?id=25442072))
 - [Render](https://render.com/) - Unified platform to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git.
+- [Mutable](https://mutable.io/) - Public Edge Cloud.
 
 ## Other
 
+- [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) ([Announcement](https://www.digitalocean.com/blog/introducing-digitalocean-app-platform-reimagining-paas-to-make-it-simpler-for-you-to-build-deploy-and-scale-apps/)) ([HN](https://news.ycombinator.com/item?id=24698334)) ([Reddit](https://www.reddit.com/r/webdev/comments/j699a0/digitalocean_launches_app_platform_a_fully/))
 - [Nanobox](https://nanobox.io/) - Run any app on any cloud.
+- [Hadean](https://hadean.com/) - Distributed Computing at Massive Scale.
 
 ## Links
 
@@ -40,3 +44,9 @@
 - [How to deploy side projects as web services for free (2020)](https://ashishb.net/tech/how-to-deploy-side-projects-as-web-services-for-free/) ([Lobsters](https://lobste.rs/s/nn0kpt/how_deploy_side_projects_as_web_services))
 - [DigitalOcean VPC](https://blog.digitalocean.com/vpc-trust-platform/) ([HN](https://news.ycombinator.com/item?id=23007860))
 - [Finala](https://github.com/similarweb/finala) - Resource cloud scanner that analyzes and reports about wasteful and unused resources to cut unwanted expenses.
+- [Dear Google Cloud: Your Deprecation Policy is Killing You (2020)](https://medium.com/@steve.yegge/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc) ([HN](https://news.ycombinator.com/item?id=24165445))
+- [env0](https://www.env0.com/) - Self-service Cloud Environments. Your team manage their own environments in AWS, Azure and Google.
+- [Cloud Native Landscape](https://landscape.cncf.io/) - Map of uncharted terrain of cloud native technologies. ([Code](https://github.com/cncf/landscape))
+- [How I Setup My Own Personal CDN (2020)](https://joel.net/how-i-setup-my-own-personal-cdn)
+- [Optimyze.cloud](https://optimyze.cloud/) - Hyperscaler software efficiency. For everybody.
+- [The Cloud Christmas](https://thecloud.christmas/)

@@ -11,6 +11,9 @@ I try to give my full attention to any ideas I am working on.
 ## Notes
 
 - [Good ideas don’t have owners. They belong to everyone.](https://galaxyproject.org/jxtx/)
+- [Find a problem. Tell a story. Sell a service. Deliver a result. Build a product.](https://twitter.com/jackbutcher/status/1316747172306616321)
+- [If your idea already exists it's validation that there's a market for it. If your execution of the same idea is 1) better, or 2) cheaper, you can reach customers in that market.](https://twitter.com/levelsio/status/1321428353811943424)
+- [Make the first draft deliberately bad. It’s hard to write something good from nothing. But it’s easy to look at something and say “I can at least do better than this idiot.” Be the idiot. Then be better. Then be better again...](https://twitter.com/cahollenbeck/status/1327296301596352512)
 
 ## Links
 
@@ -53,7 +56,7 @@ I try to give my full attention to any ideas I am working on.
 - [Ask HN: Looking for Side Project Ideas (2020)](https://news.ycombinator.com/item?id=23290536)
 - [Interesting ideas for JS related projects](https://twitter.com/Vjeux/status/1264241470598340608)
 - [Ideas for productized services](https://twitter.com/tylertringas/status/1265189085334904834)
-- [Kinopio](https://kinopio.club/) - Visual thinking tool for new ideas and hard problems.
+- [Kinopio](https://kinopio.club/) - Visual thinking tool for new ideas and hard problems. ([HN](https://news.ycombinator.com/item?id=24132631))
 - [Idea Generation (2020)](https://blog.samaltman.com/idea-generation) ([HN](https://news.ycombinator.com/item?id=23341179))
 - [Ask HN: Impossible Ideas? (2020)](https://news.ycombinator.com/item?id=23594735)
 - [What to look for when evaluating a start idea (2020)](https://twitter.com/lennysan/status/1275819005568118784)
@@ -61,3 +64,13 @@ I try to give my full attention to any ideas I am working on.
 - [How I side project (2019)](https://thesephist.com/posts/how-i-side-project/)
 - [Ask HN: What kind of ideas are not VC-backable but should exist in the future? (2020)](https://news.ycombinator.com/item?id=23697840)
 - [Ask HN: What weird or hard problems are you trying to solve? (2020)](https://news.ycombinator.com/item?id=23735676)
+- [What software do you dream about, but do not have time to do yourself? (2020)](https://lobste.rs/s/8aiw6g/what_software_do_you_dream_about_do_not)
+- [Businesses I Love](https://sweatystartup.com/businesses-i-love/)
+- [Making The Leap (2020)](https://www.coreyhaines.co/blog/leap)
+- [Are Ideas Getting Harder to Find? (2020)](https://web.stanford.edu/~chadj/IdeaPF.pdf)
+- [Early Work (2020)](http://paulgraham.com/early.html) ([HN](https://news.ycombinator.com/item?id=24836090))
+- [Ideonomy](http://ideonomy.mit.edu/) - The science of ideas.
+- [Billion dollar startup ideas (2020)](https://www.youtube.com/watch?v=3YKNr-LiblI) ([HN](https://news.ycombinator.com/item?id=25101463))
+- [How to find underrated ideas](https://twitter.com/amasad/status/1327793928746147840)
+- [Ask HN: How do you work through large ideas? (2020)](https://news.ycombinator.com/item?id=25217436)
+- [IdeasAI](https://ideasai.net/) - GPT-3-powered business idea generator.

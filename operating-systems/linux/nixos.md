@@ -28,6 +28,12 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Roman Gonzalez](https://github.com/roman/nix-dots)
 - [Kim Zick](https://github.com/rummik/nixos-config)
 - [Eric Bailey](https://github.com/yurrriq/dotfiles)
+- [Martin Baillie](https://github.com/martinbaillie/dotfiles)
+- [Alex Ermolov](https://github.com/wiedzmin/nixos-config)
+- [Bastian Kocher](https://github.com/bkchr/nixos-config)
+- [Structured flake-based NixOS configuration by Tony O](https://github.com/bqv/nixrc)
+- [chessai](https://github.com/chessai/nixos-configs)
+- [Bruno Bigras](https://github.com/bbigras/nix-config)
 
 ## Nix configs (macOS)
 
@@ -74,3 +80,23 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS: How it works and how to install it (2020)](https://www.youtube.com/watch?v=oPymb2-IXbg)
 - [Nix(OS) Thoughts (2020)](https://blog.qtp2t.club/posts/2020-06-20-nix-nixos-thoughts/) ([Lobsters](https://lobste.rs/s/iy17mo/nix_os_thoughts))
 - [Lightweight Linux VMs on NixOS (2020)](https://www.srid.ca/2012301.html)
+- [adhoc executable patching on nixos (2020)](https://notes.neeasade.net/adhoc-executable-patching-on-nix.html)
+- [Nix Flakes: Managing NixOS systems (2020)](https://www.tweag.io/blog/2020-07-31-nixos-flakes/)
+- [NixOS Channels (2020)](https://nixos.online/posts/NixOS_channels/)
+- [Building and Importing NixOS AMIs on EC2 (2020)](http://jackkelly.name/blog/archives/2020/08/30/building_and_importing_nixos_amis_on_ec2/)
+- [Tailscale is magic; even more so with NixOS (2020)](https://fzakaria.com/2020/09/17/tailscale-is-magic-even-more-so-with-nixos.html)
+- [Secure, Declarative Key Management with NixOps, Pass, and nix-plugins (2018)](https://elvishjerricco.github.io/2018/06/24/secure-declarative-key-management.html)
+- [nixos-install-scripts](https://github.com/nix-community/nixos-install-scripts) - Collection of one-shot scripts to install NixOS on various server hosters and other hardware.
+- [NixOS on prgmr and Failing to Learn Nix (2018)](https://push.cx/2018/nixos) ([Lobsters](https://lobste.rs/s/qpbohs/nixos_on_prgmr_failing_learn_nix_2018))
+- [Eight Months of NixOS (2020)](https://catgirl.ai/log/nixos-experience/) ([Lobsters](https://lobste.rs/s/7eq5qv/eight_months_nixos))
+- [One Week of NixOS (2020)](https://jae.moe/blog/2020/11/one-week-of-nixos/) ([HN](https://news.ycombinator.com/item?id=25024639)) ([Lobsters](https://lobste.rs/s/b7hjcy/one_week_nixos))
+- [Nixops Services on Your Home Network (2020)](https://christine.website/blog/nixops-services-2020-11-09) ([Lobsters](https://lobste.rs/s/kzforn/nixops_services_on_your_home_network))
+- [sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops.
+- [NixOS infrastructure configurations](https://github.com/NixOS/nixos-org-configurations)
+- [nix-ld](https://github.com/Mic92/nix-ld) - Run unpatched dynamic binaries on NixOS.
+- [Nix(OS) Thoughts (2020)](https://blog.knightsofthelambdacalcul.us/posts/2020-06-20-nix-nixos-thoughts/) ([Lobsters](https://lobste.rs/s/m3j4yn/nix_os_thoughts))
+- [NixOps AWS Plugin](https://github.com/NixOS/nixops-aws) - Tool for deploying NixOS machines in a network or cloud.
+- [nixflk](https://github.com/nrdxp/nixflk) - Highly structured NixOS configuration database.
+- [NixOS Pre Installer](https://github.com/alexandergall/nixos-pxe-installer) - Set of modules to perform a fully automated installation of a customized NixOS system.
+- [krops](https://github.com/krebs/krops) - Lightweight toolkit to deploy NixOS systems, remotely or locally.
+- [TangeriNixOS](https://github.com/Pamplemousse/tangerinixos) - NixOS tailored for pentesting.

@@ -9,7 +9,7 @@
 - [RISC-V Specification in Coq](https://github.com/mit-plv/riscv-coq)
 - [Formal Specification of RISC-V ISA in Kami](https://github.com/sifive/RiscvSpecFormal)
 - [RISC-V Software Ecosystem Overview](https://github.com/riscv/riscv-software-list)
-- ["Verified seL4 on secure RISC-V processors" - Gernot Heiser (2020)](https://www.youtube.com/watch?v=wJ96s3pNtI0)
+- [Verified seL4 on secure RISC-V processors - Gernot Heiser (2020)](https://www.youtube.com/watch?v=wJ96s3pNtI0) ([Paper](https://ts.data61.csiro.au/publications/csiroabstracts/Heiser_20.abstract.pml)) ([HN](https://news.ycombinator.com/item?id=23923090)) ([Lobsters](https://lobste.rs/s/gp9e88/verified_sel4_on_secure_risc_v_processors))
 - [SiFive](https://www.sifive.com/) - Design RISC-V CPUs in an hour. Get custom SoCs designed in weeks, not months.
 - [Rust on Risc-V (VexRiscv) on SpinalHDL with SymbiFlow on the Hackaday Supercon Badge (2020)](https://craigjb.com/2020/01/22/ecp5/)
 - [vanadinite](https://github.com/repnop/vanadinite) - RISC-V OS written in Rust.
@@ -28,3 +28,47 @@
 - [Awesome RISC-V](https://github.com/drom/awesome-riscv) - Curated list of awesome RISC-V implementations.
 - [seL4 is verified on RISC-V! (2020)](https://microkerneldude.wordpress.com/2020/06/09/sel4-is-verified-on-risc-v/) ([Lobsters](https://lobste.rs/s/2nnrmh/sel4_is_verified_on_risc_v))
 - [RISC-V CPU](https://github.com/openhwgroup/cva6) - Open source CPU capable of booting Linux. ([HN](https://news.ycombinator.com/item?id=23768080))
+- [Will RISC-V Revolutionize Computing?](https://cacm.acm.org/magazines/2020/5/244325-will-risc-v-revolutionize-computing/fulltext) ([Lobsters](https://lobste.rs/s/icegvf/will_risc_v_revolutionize_computing))
+- [Vulcan](https://github.com/vmmc2/Vulcan) - RISC-V Instruction Set Simulator Built For Education.
+- [Ripes](https://github.com/mortbopet/Ripes) - Graphical processor simulator and assembly editor for the RISC-V ISA.
+- [SiFive Core IP 20G1](https://www.sifive.com/blog/sifive-core-ip-20g1) ([HN](https://news.ycombinator.com/item?id=23983704))
+- [RISC-V from scratch](https://twilco.github.io/riscv-from-scratch/2019/03/10/riscv-from-scratch-1.html) ([Code](https://github.com/twilco/riscv-from-scratch))
+- [PicoRio Linux RISC-V SBC is an open-source alternative to Raspberry Pi board (2020)](https://www.cnx-software.com/2020/09/04/picorio-linux-risc-v-sbc-is-an-open-source-alternative-to-raspberry-pi-board/) ([HN](https://news.ycombinator.com/item?id=24378758))
+- [PicoRV32](https://github.com/cliffordwolf/picorv32) - Size-Optimized RISC-V CPU.
+- [SERV](https://github.com/olofk/serv) - Award-winning bit-serial RISC-V core.
+- [SweRVolf](https://github.com/chipsalliance/Cores-SweRVolf) - FuseSoC-based SoC for the SweRV RISC-V core.
+- [mor1kx](https://github.com/openrisc/mor1kx) - OpenRISC 1000 processor IP core.
+- [RISC-V's Expanding Footprint (2020)](https://semiengineering.com/where-risc-v-is-gaining-traction/)
+- [Riding the RISC-V wave (2020)](https://semiengineering.com/riding-the-risc-v-wave/) ([HN](https://news.ycombinator.com/item?id=24460383))
+- [RIOS Lab](https://rioslab.org/) - Developing open source IP and software that helps make the RISC-V ecosystem world-class.
+- [RISC-V: What’s Missing and Who’s Competing (2020)](https://semiengineering.com/risc-v-whats-missing-and-whos-competing/) ([HN](https://news.ycombinator.com/item?id=24602264))
+- [Bluespec](https://bluespec.com/) - Open Source RISC-V Cores and Tools.
+- [DANA](https://github.com/bu-icsg/dana) - Chisel3 implementation of a fully connected neural network accelerator, DANA, supporting inference or learning.
+- [Writing a RISC-V Emulator from Scratch in 10 Steps](https://github.com/d0iasm/book.rvemu)
+- [Modernising RISC OS in 2020: is there hope for the ancient ARM OS? (2020)](https://liam-on-linux.livejournal.com/73983.html) ([Lobsters](https://lobste.rs/s/wh5bzl/modernising_risc_os_2020_is_there_hope_for))
+- [Tockilator](https://github.com/oxidecomputer/tockilator) - Deducing Tock execution flows from Ibex Verilator traces.
+- [Lecture notes on RISC-V assembly](https://web.eecs.utk.edu/~smarz1/courses/ece356/notes/assembly/) ([HN](https://news.ycombinator.com/item?id=24810604))
+- [narvie](https://github.com/physical-computation/narvie) - Native REPL for RISC-V Instructions.
+- [OCaml RISC-V Extension](https://github.com/patricoferris/riscv-o-spec)
+- [Parsing RISC-V assembly (2020)](https://web.eecs.utk.edu/~azh/blog/parsingriscv.html)
+- [RISC-V Core](https://github.com/ultraembedded/riscv) - 32-bit RISC-V core written in Verilog and an instruction set simulator supporting RV32IM.
+- [biRISC-V](https://github.com/ultraembedded/biriscv) - 32-bit dual issue RISC-V CPU.
+- [Understanding Non-Local Jumps (setjmp/longjmp) in RISC-V Assembly (2020)](https://danielmangum.com/posts/non-local-jumps-riscv/)
+- [Tinsel](https://github.com/POETSII/tinsel) - RISC-V-based manythread message-passing architecture designed for FPGA clusters.
+- [Zip CPU](https://github.com/ZipCPU/zipcpu) - Small, light weight, RISC CPU soft core. ([Web](https://zipcpu.com/about/))
+- [ex-ARM engineer critiques RISC-V](https://gist.github.com/erincandescent/8a10eeeea1918ee4f9d9982f7618ef68) ([HN](https://news.ycombinator.com/item?id=24958423))
+- [Precursor](https://www.crowdsupply.com/sutajio-kosagi/precursor) - Mobile, Open Hardware, RISC-V System-on-Chip (SoC) Development Kit.
+- [Dynamic Binary Translation (RISC-V -> x86)](https://github.com/ria-jit/ria-jit) - Make RISC-V code executable on the x86-64 ISA by means of dynamic binary translation.
+- [Western Digital SweRV RISC-V Core](https://github.com/chipsalliance/Cores-SweRV) ([HN](https://news.ycombinator.com/item?id=25002448))
+- [RISC-V Cores and SoC Overview](https://github.com/riscv/riscv-cores-list)
+- [Getting Graphical Output from our Custom RISC-V Operating System in Rust (2020)](https://blog.stephenmarz.com/2020/11/11/risc-v-os-using-rust-graphics/)
+- [Linux on LiteX-VexRiscv](https://github.com/litex-hub/linux-on-litex-vexriscv)
+- [rvddt](https://github.com/johnwinans/rvddt) - RISC-V Dynamic Debugging Tool.
+- [Jonesforth RISC-V](https://github.com/jjyr/jonesforth_riscv) - RISC-V implementation of Jones forth.
+- [RISCV-DV](https://github.com/google/riscv-dv) - SV/UVM based open-source instruction generator for RISC-V processor verification.
+- [venus](https://www.kvakil.me/venus/) - RISC-V instruction set simulator built for education. ([Code](https://github.com/kvakil/venus))
+- [RISC-V Reference Card](https://github.com/jameslzhu/riscv-card) ([PDF](https://github.com/jameslzhu/riscv-card/blob/master/riscv-card.pdf))
+- [What do RISC and CISC mean in 2020?](https://medium.com/swlh/what-does-risc-and-cisc-mean-in-2020-7b4d42c9a9de) ([HN](https://news.ycombinator.com/item?id=25159704))
+- [SERV](https://github.com/olofk/serv) - SErial RISC-V CPU.
+- [RISC-V Educational Materials](https://github.com/riscv/educational-materials)
+- [Do Some ARM (2018)](https://medium.com/@simonhallam/do-some-arm-c7ddc2d59202)

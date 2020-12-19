@@ -21,7 +21,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/archives/)
 - [Sandy Maguire](http://sandymaguire.me/blog/archives/)
 - [Guillermo Rauch](https://rauchg.com/essays)
-- [Andrej Karpathy](http://karpathy.github.io/)
+- [Andrej Karpathy](https://karpathy.github.io/)
 - [Andre Weissflog](http://floooh.github.io/archive/)
 - [Shtetl-Optimized](https://www.scottaaronson.com/blog/)
 - [Cindy Sridharan](https://medium.com/@copyconstruct)
@@ -50,7 +50,13 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Technically](https://technically.dev/posts-archive.html)
 - [the morning paper](https://blog.acolyer.org/)
 - [Fabian Tamp](https://capnfabs.net/posts/)
+- [Vitalik Buterin](https://vitalik.ca/) ([Code](https://github.com/vbuterin/blog))
 - [NSHipster](https://nshipster.com/)
+- [Cloudflare Blog](https://blog.cloudflare.com/) ([Code samples](https://github.com/cloudflare/cloudflare-blog))
+- [Aleksey Kladov](https://matklad.github.io/) ([Code](https://github.com/matklad/matklad.github.io))
+- [Kirill's Rust Blog](https://github.com/pretzelhammer/rust-blog)
+- [Seena Burns](http://seenaburns.com/archive/)
+- [Excalidraw Blog](https://blog.excalidraw.com/) ([Code](https://github.com/excalidraw/excalidraw-blog))
 
 ## Links
 
@@ -65,7 +71,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden) ([HN](https://news.ycombinator.com/item?id=22876273))
 - [Rust blog source](https://github.com/rust-lang/blog.rust-lang.org)
 - [Ask HN: What are the niche blogs (like gwern) that worthwhile to follow? (2020)](https://news.ycombinator.com/item?id=21928170)
-- [Your own hosted blog, the easy, free, open way (even if you're not a computer expert) (2020)](https://www.fast.ai/2020/01/16/fast_template/) ([Tweet](https://twitter.com/jeremyphoward/status/1217909025259442176))
+- [Your own hosted blog, the easy, free, open way (even if you're not a computer expert) (2020)](https://www.fast.ai/2020/01/16/fast_template/) ([Tweet](https://twitter.com/jeremyphoward/status/1217909025259442176)) ([Code](https://github.com/fastai/fast_template))
 - [Awesome Personal Blogs](https://github.com/jkup/awesome-personal-blogs)
 - [Ask HN: What are good solo developer blogs that you enjoy reading? (2020)](https://news.ycombinator.com/item?id=22273224)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
@@ -102,4 +108,20 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Ask HN: Pitch your personal newsletter/blog with a one-liner (2020)](https://news.ycombinator.com/item?id=23592399)
 - [Why I'm Writing A Blog, and Why You Should Too (2019)](https://www.fourzerofour.pw/posts/inaugural-post/)
 - [Pseudo Random blog tech stack](https://www.pseudorandom.com/about)
-- [Blogging For Devs](https://bloggingfordevs.com/) - Learn to Grow Your Developer Blog. ([Tweet](https://twitter.com/dqmonn/status/1277673177980813316))
+- [Blogging For Devs](https://bloggingfordevs.com/) - Learn to Grow Your Developer Blog. ([Tweet](https://twitter.com/dqmonn/status/1277673177980813316)) ([Writing community](https://twitter.com/monicalent/status/1315678202988244993))
+- [Blogging infrastructure](https://awarm.space/fast/0004-blogging-infrastructure)
+- [Teletype](https://teletype.in/) - Publishing platform for creators.
+- [Medium is not the home for your ideas (2020)](https://hulry.com/medium-vs-own-blog/) ([HN](https://news.ycombinator.com/item?id=23914052))
+- [А как делать блог? (2020)](https://vas3k.ru/notes/how_to_blog/)
+- [Internet Homesteading](https://hyperlink.academy/courses/internet-homesteading/22) - Build yourself a home on the internet (a website) with a toolchain you understand from the ground up.
+- [Blogs I like](https://jvns.ca/blogroll/)
+- [15 rules for blogging, and my current streak](http://interconnected.org/home/2020/09/10/streak)
+- [Ask HN: Favourite blogs? (2020)](https://news.ycombinator.com/item?id=24539445)
+- [Deploying post to dev.to with markdown](https://github.com/moghwan/dev.to)
+- [OneBlog](https://github.com/OneGraph/oneblog) - Build a blog powered by GitHub issues.
+- [Blogmaker](https://github.com/vbuterin/blogmaker) - Ultra-simple self-hosted blog publishing solution. Used by Vitalik Buterin.
+- [10 years of professional blogging. What I've learned (2020)](https://andrewchen.co/professional-blogging/)
+- [Transparency (2020)](https://www.snoyman.com/blog/2020/10/transparency)
+- [Ergo](https://github.com/insipx/Ergo) - Light, simple theme for Zola made with a focus on writing. Inspired by svbtle.
+- [Engineering Blogs](https://engineeringblogs.xyz/) ([Code](https://github.com/peterc/engblogs))
+- [blogboard](https://blogboard.io/) - Engineering blogs from top tech companies. Search, discover, follow.

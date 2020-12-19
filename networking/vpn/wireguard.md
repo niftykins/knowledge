@@ -20,3 +20,7 @@
 - [wgcf](https://github.com/ViRb3/wgcf) - Generate WireGuard profile from Cloudflare Warp account.
 - [Success Wireguard stories?](https://www.reddit.com/r/WireGuard/comments/gqmnjq/success_stories/)
 - [wireguard-rs](https://github.com/WireGuard/wireguard-rs) - Rust Implementation of WireGuard.
+- [Simple WireGuard Docker network setup](https://www.eisfunke.com/article/docker-wireguard-systemd.html) ([HN](https://news.ycombinator.com/item?id=24583512))
+- [Create Wireguard configuration for hub and peers with ease](https://github.com/burghardt/easy-wg-quick) ([HN](https://news.ycombinator.com/item?id=24812199))
+- [dsnet](https://github.com/naggie/dsnet) - Simple command to manage a centralised wireguard VPN.
+- [Wireguard Bounce Server](https://gitlab.com/ncmncm/wireguard-bounce-server/) ([HN](https://news.ycombinator.com/item?id=25447805))

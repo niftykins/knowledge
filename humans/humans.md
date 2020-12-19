@@ -23,6 +23,9 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [Third Row Tesla Podcast – Elon Musk's Story (2020)](https://www.youtube.com/watch?v=J9oEc0wCQDE)
 - [A Conversation with Bertrand Russell (1952)](https://www.youtube.com/watch?v=fb3k6tB-Or8)
 - [Musical.ly's Alex Zhu on Igniting Viral Growth and Building a User Community (2016)](https://www.youtube.com/watch?v=wTyg2E44pBA) ([Notes](https://www.notion.so/Alex-Zhu-Musical-ly-TikTok-4631f80fdcc4423a845e145e807d8e2b))
+- [Creative challenges with Alyssa X](https://nesslabs.com/alyssa-x-interview)
+- [The Observer Effect – Daniel Ek (2020)](https://www.theobservereffect.org/daniel.html)
+- [The Observer Effect – Marc Andreessen](https://www.theobservereffect.org/marc.html)
 
 ## Interesting bios
 
@@ -34,11 +37,15 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [stapelberg uses this: my 2020 desk setup](https://michael.stapelberg.ch/posts/2020-05-23-desk-setup/) ([HN](https://news.ycombinator.com/item?id=23282784))
 - [Dan Munro](https://danmunro.com/recommendations/)
 
+## Notes
+
+- [Build a list of people you want to work with someday. ~100% of them will be unavailable when you write their names down. You'll probably believe you'll never actually get a chance to work with >80% of them. Keep at it long enough and you'll be stunned by how wrong you were.](https://twitter.com/julianweisser/status/1292077164645367808)
+
 ## Links
 
 - [Important women in CS who aren't Grace Hopper](https://www.hillelwayne.com/post/important-women-in-cs/)
 - [Awesome programmers](https://github.com/rekihattori/awesome-programmers)
-- [Uses This](https://usesthis.com/) - Collection of nerdy interviews asking people from all walks of life what they use to get the job done.
+- [Uses This](https://usesthis.com/) - Collection of nerdy interviews asking people from all walks of life what they use to get the job done. ([Code](https://github.com/waferbaby/usesthis/))
 - [/uses](https://uses.tech/) - List of /uses pages detailing developer setups, gear, software and configs.
 - [Ask HN: What people skills do you wish you learned earlier in your career? (2019)](https://news.ycombinator.com/item?id=20503813)
 - [The Unparalleled Genius of John von Neumann (2019)](https://medium.com/cantors-paradise/the-unparalleled-genius-of-john-von-neumann-791bb9f42a2d) ([HN](https://news.ycombinator.com/item?id=21542753))
@@ -50,3 +57,5 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [The Devastating Decline of a Brilliant Young Coder (2020)](https://www.wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/) ([HN](https://news.ycombinator.com/item?id=22878136))
 - [Everything is Fertile (2019)](http://nickcammarata.com/writing/everything-is-fertile)
 - [Everything I Know: Buckminster Fuller (1975)](https://www.bfi.org/about-fuller/resources/everything-i-know) ([HN](https://news.ycombinator.com/item?id=23745671))
+- [Humans of New York](https://www.humansofnewyork.com/)
+- [Brunello Cucinelli - billionaire founder of a \$450 million fashion brand - ways of working (2020)](https://twitter.com/david_perell/status/1315426534900092929)
